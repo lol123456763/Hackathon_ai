@@ -1,0 +1,141 @@
+// Anonymous mutual-aid request. Deliberately has NO name, phone or address field.
+{
+  "name": "HelpRequest",
+  "description": "Anonymous mutual-aid request. Deliberately has NO name, phone or address field.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "code": {
+      "type": "string",
+      "description": "e.g. LOOP-27"
+    },
+    "plan_token": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "food_tonight",
+        "groceries_week",
+        "school_supplies",
+        "baby_supplies",
+        "hygiene",
+        "clothing"
+      ]
+    },
+    "household_size": {
+      "type": "number"
+    },
+    "food_prefs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "allergy_note": {
+      "type": "string"
+    },
+    "hub_key": {
+      "type": "string"
+    },
+    "needed_by": {
+      "type": "string",
+      "description": "HH:MM"
+    },
+    "pickup_by": {
+      "type": "string",
+      "description": "HH:MM"
+    },
+    "language": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "posted",
+        "matched",
+        "on_the_way",
+        "ready",
+        "picked_up",
+        "expired",
+        "cancelled"
+      ]
+    },
+    "mission_key": {
+      "type": "string"
+    },
+    "bag_en": {
+      "type": "string"
+    },
+    "bag_es": {
+      "type": "string"
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "ready_at": {
+      "type": "number"
+    },
+    "picked_up_at": {
+      "type": "number"
+    },
+    "thank_you_original": {
+      "type": "string"
+    },
+    "thank_you_cleaned": {
+      "type": "string"
+    },
+    "thank_you_translated": {
+      "type": "string"
+    },
+    "thank_you_language": {
+      "type": "string"
+    },
+    "thank_you_target": {
+      "type": "string"
+    },
+    "thank_you_fixed": {
+      "type": "boolean"
+    },
+    "created_at": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "key",
+    "code",
+    "hub_key",
+    "status"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+// A surplus post.
+{
+  "name": "Donation",
+  "description": "A surplus post.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "giver_key": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "description": "{name_en,name_es,quantity_text,est_lbs,category,storage,tags}"
+    },
+    "total_lbs": {
+      "type": "number"
+    },
+    "confirmed_lbs": {
+      "type": "number"
+    },
+    "allergens": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "handling_en": {
+      "type": "string"
+    },
+    "handling_es": {
+      "type": "string"
+    },
+    "label_en": {
+      "type": "string"
+    },
+    "label_es": {
+      "type": "string"
+    },
+    "pickup_start": {
+      "type": "string",
+      "description": "HH:MM"
+    },
+    "pickup_end": {
+      "type": "string",
+      "description": "HH:MM"
+    },
+    "pickup_code": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "posted",
+        "matched",
+        "picked_up",
+        "delivered",
+        "expired",
+        "cancelled"
+      ]
+    },
+    "mission_key": {
+      "type": "string"
+    },
+    "photo": {
+      "type": "string"
+    },
+    "at": {
+      "type": "string"
+    },
+    "posted_demo_time": {
+      "type": "number"
+    },
+    "sample": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "key",
+    "giver_key",
+    "status"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

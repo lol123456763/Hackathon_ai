@@ -1,77 +1,185 @@
-// A community resource or government program shown to users.
-// Public read (the site lists resources); only admins can change them.
+// A real public program or community resource (spec 5). Public read.
 {
   "name": "Resource",
+  "description": "A real public program or community resource (spec 5). Public read.",
   "type": "object",
   "properties": {
-    "slug": { "type": "string", "description": "Stable unique id used in plans and share links, e.g. central-texas-food-bank" },
-    "name": { "type": "string", "description": "Official program or service name" },
-    "organization": { "type": "string", "description": "Organization that runs it" },
+    "slug": {
+      "type": "string",
+      "description": "Stable id used in plans"
+    },
+    "program_key": {
+      "type": "string",
+      "description": "De-duplication key, e.g. \"snap\""
+    },
+    "name": {
+      "type": "string"
+    },
+    "organization": {
+      "type": "string"
+    },
     "categories": {
       "type": "array",
       "items": {
         "type": "string",
-        "enum": ["food", "housing", "utilities", "healthcare", "school_childcare", "employment", "transportation", "cash_assistance", "legal", "mental_health"]
-      },
-      "description": "Need categories this resource helps with"
-    },
-    "description_en": { "type": "string", "description": "What it provides (English, plain language)" },
-    "description_es": { "type": "string", "description": "What it provides (Spanish)" },
-    "eligibility_summary_en": { "type": "string", "description": "Who it is for (English)" },
-    "eligibility_summary_es": { "type": "string", "description": "Who it is for (Spanish)" },
-    "eligibility_rules": {
-      "type": "object",
-      "description": "Machine-readable eligibility hints used for matching. All optional.",
-      "properties": {
-        "max_income_pct_fpl": { "type": "number" },
-        "requires_children": { "type": "boolean" },
-        "child_under_5": { "type": "boolean" },
-        "pregnant": { "type": "boolean" },
-        "min_age": { "type": "number" },
-        "max_age": { "type": "number" },
-        "senior": { "type": "boolean" },
-        "veteran_only": { "type": "boolean" },
-        "disability": { "type": "boolean" },
-        "student": { "type": "boolean" },
-        "unhoused": { "type": "boolean" },
-        "uninsured": { "type": "boolean" },
-        "job_loss": { "type": "boolean" },
-        "residency_required": { "type": "string" }
+        "enum": [
+          "food",
+          "housing",
+          "utilities",
+          "healthcare",
+          "school_childcare",
+          "employment",
+          "transportation",
+          "cash_assistance",
+          "legal",
+          "mental_health"
+        ]
       }
     },
-    "documents_needed": { "type": "array", "items": { "type": "string" }, "description": "Documents to bring (English)" },
-    "how_to_apply_en": { "type": "string", "description": "How to apply (English)" },
-    "how_to_apply_es": { "type": "string", "description": "How to apply (Spanish)" },
-    "apply_url": { "type": "string", "description": "Official website or application link" },
-    "phone": { "type": "string", "description": "Official phone number" },
-    "address": { "type": "string" },
-    "city": { "type": "string" },
-    "zip": { "type": "string" },
-    "lat": { "type": "number" },
-    "lng": { "type": "number" },
-    "hours": { "type": "string" },
-    "walk_in": { "type": "boolean", "default": false },
-    "apply_online": { "type": "boolean", "default": false },
-    "languages": { "type": "array", "items": { "type": "string" } },
-    "cost": { "type": "string" },
+    "what_it_gives_en": {
+      "type": "string"
+    },
+    "what_it_gives_es": {
+      "type": "string"
+    },
+    "who_its_for_en": {
+      "type": "string"
+    },
+    "who_its_for_es": {
+      "type": "string"
+    },
+    "how_to_apply_en": {
+      "type": "string"
+    },
+    "how_to_apply_es": {
+      "type": "string"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Documents to bring (English)"
+    },
+    "documents_es": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Documents to bring (Spanish)"
+    },
+    "apply_url": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "zip": {
+      "type": "string"
+    },
+    "walk_in": {
+      "type": "boolean"
+    },
+    "apply_online": {
+      "type": "boolean"
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
     "coverage_type": {
       "type": "string",
-      "enum": ["national", "state", "region", "county", "city"],
-      "description": "Geographic reach"
+      "description": "Geographic reach",
+      "enum": [
+        "national",
+        "state",
+        "region",
+        "county",
+        "city"
+      ]
     },
-    "coverage_counties": { "type": "array", "items": { "type": "string" }, "description": "Texas counties served (for region/county/city resources)" },
-    "source_url": { "type": "string", "description": "Official page that confirms this information" },
-    "confidence": { "type": "string", "enum": ["high", "medium"], "default": "medium" },
-    "notes": { "type": "string", "description": "Internal notes for admins" },
-    "is_active": { "type": "boolean", "default": true },
-    "verified_date": { "type": "string", "format": "date", "description": "Date the information was last checked against the source" },
-    "priority_weight": { "type": "number", "default": 0, "description": "Manual ranking boost (-3 to 3)" }
+    "coverage_state": {
+      "type": "string"
+    },
+    "coverage_zip_prefixes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "coverage_counties": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "signals": {
+      "type": "object",
+      "description": "Matching signals: needs_children, child_under_5, pregnant, job_loss, veteran_only, senior, disability, student, unhoused, low_income"
+    },
+    "is_crisis": {
+      "type": "boolean",
+      "default": false
+    },
+    "priority_weight": {
+      "type": "number"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "last_checked_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "is_active": {
+      "type": "boolean",
+      "default": true
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium"
+      ]
+    },
+    "origin": {
+      "type": "string",
+      "description": "curated or research"
+    }
   },
-  "required": ["slug", "name", "categories", "coverage_type"],
+  "required": [
+    "slug",
+    "name",
+    "categories",
+    "coverage_type"
+  ],
   "rls": {
-    "create": { "user_condition": { "role": "admin" } },
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
     "read": true,
-    "update": { "user_condition": { "role": "admin" } },
-    "delete": { "user_condition": { "role": "admin" } }
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
   }
 }

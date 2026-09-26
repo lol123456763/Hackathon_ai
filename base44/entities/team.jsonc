@@ -1,0 +1,56 @@
+// Volunteer team.
+{
+  "name": "Team",
+  "description": "Volunteer team.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "member_keys": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "total_hours": {
+      "type": "number"
+    },
+    "total_lbs": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "key",
+    "name"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

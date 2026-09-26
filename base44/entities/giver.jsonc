@@ -1,0 +1,67 @@
+// A verified business, school or event that donates surplus (demo data).
+{
+  "name": "Giver",
+  "description": "A verified business, school or event that donates surplus (demo data).",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "restaurant",
+        "bakery",
+        "grocery",
+        "school",
+        "event",
+        "neighbor"
+      ]
+    },
+    "area_label": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "lng": {
+      "type": "number"
+    },
+    "verified": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "key",
+    "name"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

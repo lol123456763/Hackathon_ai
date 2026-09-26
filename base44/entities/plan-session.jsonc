@@ -1,55 +1,81 @@
-// An anonymous saved plan. No names, addresses, or other personal identifiers are stored.
-// All access goes through backend functions (service role) using the unguessable share_token,
-// so no user can list or read other people's plans. Admins can read for aggregate analytics.
+// An anonymous saved plan. Never stores free text, names, addresses or document numbers.
 {
   "name": "PlanSession",
+  "description": "An anonymous saved plan. Never stores free text, names, addresses or document numbers.",
   "type": "object",
   "properties": {
-    "share_token": { "type": "string", "description": "Unguessable random token used in the /plan/:token link" },
-    "language": { "type": "string", "enum": ["en", "es"], "default": "en" },
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "share_token": {
+      "type": "string",
+      "description": "Long random token for /p/:token"
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "en",
+        "es"
+      ]
+    },
     "profile": {
       "type": "object",
-      "description": "Answers used for matching (no personal identifiers)",
-      "properties": {
-        "zip": { "type": "string" },
-        "household_size": { "type": "number" },
-        "children_count": { "type": "number" },
-        "child_under_5": { "type": "boolean" },
-        "income_range": { "type": "string" },
-        "situations": { "type": "array", "items": { "type": "string" } },
-        "needs": { "type": "array", "items": { "type": "string" } },
-        "urgency": { "type": "string" }
-      }
+      "description": "Structured answers only"
     },
-    "county": { "type": "string", "description": "County derived from ZIP, for analytics" },
+    "county": {
+      "type": "string"
+    },
     "matches": {
       "type": "array",
-      "description": "Matched resources at the time the plan was made",
       "items": {
-        "type": "object",
-        "properties": {
-          "slug": { "type": "string" },
-          "level": { "type": "string" },
-          "score": { "type": "number" },
-          "distance": { "type": "number" },
-          "matched_categories": { "type": "array", "items": { "type": "string" } },
-          "reasons": { "type": "array", "items": { "type": "object" } },
-          "fallback": { "type": "boolean" }
-        }
+        "type": "object"
+      },
+      "description": "Matched resources"
+    },
+    "plan": {
+      "type": "object",
+      "description": "tonight / today / this_week / bring / fallbacks / encouragement"
+    },
+    "plan_source": {
+      "type": "string"
+    },
+    "tonight": {
+      "type": "object"
+    },
+    "checklist_state": {
+      "type": "object"
+    },
+    "request_key": {
+      "type": "string"
+    },
+    "created_at": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "share_token"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
       }
     },
-    "action_plan": { "type": "object", "description": "today / bring / this_week / fallbacks / encouragement" },
-    "plan_source": { "type": "string", "enum": ["ai", "rules"] },
-    "estimates": { "type": "array", "items": { "type": "object" }, "description": "Rough benefit estimates" },
-    "checklist_state": { "type": "object", "description": "Which steps/documents the person checked off" },
-    "saved_resources": { "type": "array", "items": { "type": "string" }, "description": "Slugs the person added to their plan" },
-    "expires_at": { "type": "string", "format": "date", "description": "Plans are deleted after this date (90 days)" }
-  },
-  "required": ["share_token"],
-  "rls": {
-    "create": { "user_condition": { "role": "admin" } },
-    "read": { "user_condition": { "role": "admin" } },
-    "update": { "user_condition": { "role": "admin" } },
-    "delete": { "user_condition": { "role": "admin" } }
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
   }
 }

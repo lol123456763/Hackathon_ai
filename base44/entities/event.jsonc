@@ -1,0 +1,118 @@
+// Community event with RSVP and check-in code (P1).
+{
+  "name": "Event",
+  "description": "Community event with RSVP and check-in code (P1).",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "cleanup",
+        "drive",
+        "fridge_day",
+        "pop_up",
+        "civic_meeting"
+      ]
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "title_es": {
+      "type": "string"
+    },
+    "description_en": {
+      "type": "string"
+    },
+    "description_es": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "start": {
+      "type": "string"
+    },
+    "end": {
+      "type": "string"
+    },
+    "hub_key": {
+      "type": "string"
+    },
+    "area_label": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "lng": {
+      "type": "number"
+    },
+    "host": {
+      "type": "string"
+    },
+    "min_age": {
+      "type": "number"
+    },
+    "spots": {
+      "type": "number"
+    },
+    "rsvp_keys": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "checked_in_keys": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "checkin_code": {
+      "type": "string"
+    },
+    "hours_credit": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    },
+    "sample": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "key",
+    "title_en"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

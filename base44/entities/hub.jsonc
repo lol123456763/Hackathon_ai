@@ -1,0 +1,100 @@
+// A trusted pickup point (fridge, pantry, rec center). Never a home.
+{
+  "name": "Hub",
+  "description": "A trusted pickup point (fridge, pantry, rec center). Never a home.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "community_fridge",
+        "pantry",
+        "shelter",
+        "rec_center",
+        "library"
+      ]
+    },
+    "area_label": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "lng": {
+      "type": "number"
+    },
+    "hours": {
+      "type": "object",
+      "description": "{days:[0-6], open:minutes, close:minutes}"
+    },
+    "hours_text_en": {
+      "type": "string"
+    },
+    "hours_text_es": {
+      "type": "string"
+    },
+    "host_note_en": {
+      "type": "string"
+    },
+    "host_note_es": {
+      "type": "string"
+    },
+    "has_reserved_shelf": {
+      "type": "boolean"
+    },
+    "accepts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "does_not_accept": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "drop_code": {
+      "type": "string"
+    },
+    "verified": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "key",
+    "name"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

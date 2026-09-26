@@ -1,0 +1,49 @@
+// Demo clock and counters. Recreated by Reset demo.
+{
+  "name": "DemoState",
+  "description": "Demo clock and counters. Recreated by Reset demo.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "reset_at": {
+      "type": "string"
+    },
+    "next_request_seq": {
+      "type": "number"
+    },
+    "plans_since_reset": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "key"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

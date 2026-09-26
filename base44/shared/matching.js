@@ -1,52 +1,10 @@
-// Deterministic resource matching. Runs before (and independently of) any AI so the app always
-// returns sensible results, even when the AI is slow or unavailable.
-import { INCOME_RANGES, LIMITS } from './constants.js';
+// Deterministic program matching (spec 7A). Runs before and independently of any AI, so program
+// cards render immediately and the app still works when the AI is slow or down.
+import { LIMITS, LOW_INCOME_RANGES } from './constants.js';
 import { lookupZip, distanceMiles, resourceLocation } from './zip.js';
-import { fplMonthly } from './benefits.js';
 
-export const FALLBACK_211 = {
-  id: 'texas-211',
-  name: '2-1-1 Texas',
-  organization: 'Texas Health and Human Services / United Way',
-  categories: ['food', 'housing', 'utilities', 'healthcare', 'mental_health', 'cash_assistance', 'transportation', 'legal', 'employment', 'school_childcare'],
-  description_en: 'Free, confidential help line that connects you to local help for food, rent, bills, health care and more. Available 24/7.',
-  description_es: 'Línea de ayuda gratuita y confidencial que le conecta con ayuda local para comida, renta, facturas, salud y más. Disponible 24/7.',
-  eligibility_summary_en: 'Anyone in Texas can call.',
-  eligibility_summary_es: 'Cualquier persona en Texas puede llamar.',
-  eligibility_rules: {},
-  documents_needed: [],
-  how_to_apply_en: 'Dial 2-1-1 (or 1-877-541-7905) from any phone, or search online.',
-  how_to_apply_es: 'Marque 2-1-1 (o 1-877-541-7905) desde cualquier teléfono, o busque en línea.',
-  apply_url: 'https://www.211texas.org/',
-  phone: '2-1-1',
-  walk_in: false,
-  apply_online: true,
-  languages: ['English', 'Spanish'],
-  cost: 'Free',
-  coverage_type: 'national', // 2-1-1 can be dialed anywhere in the U.S.
-  coverage_counties: [],
-  source_url: 'https://www.211texas.org/',
-  confidence: 'high',
-  is_active: true,
-  priority_weight: 0,
-};
-
-const TARGET_GROUPS = [
-  // [rule key, how the user matches it]
-  ['pregnant', (p) => p.situations.includes('pregnant')],
-  ['child_under_5', (p) => p.child_under_5 === true],
-  ['requires_children', (p) => (p.children_count ?? 0) > 0 || p.child_under_5 === true],
-  ['senior', (p) => p.situations.includes('senior')],
-  ['veteran_only', (p) => p.situations.includes('veteran')],
-  ['disability', (p) => p.situations.includes('disability')],
-  ['student', (p) => p.situations.includes('student')],
-  ['unhoused', (p) => p.situations.includes('unhoused')],
-];
-
-const SOFT_BOOSTS = [
-  ['job_loss', (p) => p.situations.includes('job_loss')],
-  ['uninsured', (p) => p.situations.includes('uninsured')],
-];
+const LOCALITY = { city: 0, county: 0, region: 1, state: 2, national: 3 };
+const GENERAL_KEYS = new Set(['two_one_one', 'findhelp']);
 
 /** Normalize a user profile so matching never crashes on partial input. */
 export function normalizeProfile(input = {}) {
@@ -61,148 +19,159 @@ export function normalizeProfile(input = {}) {
     situations: arr(input.situations),
     needs: arr(input.needs),
     urgency: typeof input.urgency === 'string' ? input.urgency : null,
-    language: input.language === 'es' ? 'es' : 'en',
+    crisis_flag: input.crisis_flag === true,
   };
 }
 
 export function coversLocation(resource, place) {
   const type = resource.coverage_type;
   if (type === 'national') return true;
-  // Everything else in the database is a Texas program.
-  if (!place?.inTexas) return false;
-  if (type === 'state') return true;
+  if (!place?.valid) return false;
+  if (type === 'state') return !resource.coverage_state || resource.coverage_state === place.state;
+  // Local: ZIP prefix list (curated Austin programs) or Texas county list (researched resources).
+  const prefixes = resource.coverage_zip_prefixes || [];
+  if (prefixes.length && prefixes.includes(place.zip.slice(0, 3))) return true;
   const counties = resource.coverage_counties || [];
-  if (!place?.counties?.length) return false;
-  return counties.some((c) => place.counties.includes(c));
+  return !!(place.counties?.length && counties.some((c) => place.counties.includes(c)));
 }
 
-function incomeCheck(resource, profile) {
-  const pct = resource.eligibility_rules?.max_income_pct_fpl;
-  const range = INCOME_RANGES.find((r) => r.id === profile.income_range);
-  if (!pct || !range || range.min === null || !profile.household_size) return null;
-  const limit = (fplMonthly(profile.household_size) * pct) / 100;
-  if (range.max <= limit) return { within: true, pct };
-  if (range.min > limit) return { within: false, pct };
-  return null; // range straddles the limit: unknown
+function profileSignals(p) {
+  const kids = p.children_count;
+  return {
+    needs_children: kids > 0 || p.child_under_5 === true,
+    child_under_5: p.child_under_5 === true,
+    pregnant: p.situations.includes('pregnant'),
+    job_loss: p.situations.includes('job_loss'),
+    veteran_only: p.situations.includes('veteran'),
+    senior: p.situations.includes('senior'),
+    disability: p.situations.includes('disability'),
+    student: p.situations.includes('student'),
+    unhoused: p.situations.includes('unhoused'),
+    // Unknown or "prefer not to say" is never penalized (treated as possibly low income).
+    low_income: p.income_range === null || LOW_INCOME_RANGES.includes(p.income_range),
+  };
 }
 
-/**
- * Score one resource for a profile.
- * @returns {null | {score:number, reasons:Array<{code:string, params?:object}>, matchedCategories:string[]}}
- *   null means the resource should not be shown.
- */
-export function scoreResource(resource, profile, place) {
+/** True when a hard requirement is clearly NOT met (only when we actually know). */
+function clearlyExcluded(s, p, has) {
+  if (s.veteran_only && !has.veteran_only) return true;
+  if (s.needs_children && p.children_count === 0 && p.child_under_5 !== true) return true;
+  // Young-child / pregnancy programs (WIC, Head Start): exclude only when we know neither applies.
+  const youngTarget = s.child_under_5 || s.pregnant;
+  if (youngTarget) {
+    const knowsNoYoungChild = p.child_under_5 === false || p.children_count === 0;
+    if (knowsNoYoungChild && !has.pregnant && !(s.child_under_5 && has.child_under_5)) return true;
+  }
+  for (const k of ['senior', 'student', 'unhoused', 'disability']) {
+    if (s[k] && !has[k]) return true;
+  }
+  return false;
+}
+
+export function scoreResource(resource, profile, place, has) {
   if (resource.is_active === false) return null;
   if (!coversLocation(resource, place)) return null;
+  const cats = resource.categories || [];
+  const matchedCategories = cats.filter((c) => profile.needs.includes(c));
+  const crisisOk = resource.is_crisis && (profile.crisis_flag || profile.needs.includes('mental_health'));
+  const s = resource.signals || {};
+  // Curated programs can also match on strong family signals alone (e.g. CHIP and Head Start for a
+  // family with young kids, even if they only asked about food).
+  const strong = ['child_under_5', 'needs_children', 'pregnant', 'job_loss', 'veteran_only', 'senior'].filter((k) => s[k] === true && has[k]);
+  const signalOnly = !matchedCategories.length && strong.length > 0 && resource.origin !== 'research' && !GENERAL_KEYS.has(resource.program_key);
+  if (!matchedCategories.length && !crisisOk && !signalOnly) return null;
+  if (clearlyExcluded(s, profile, has)) return null;
 
-  const matchedCategories = (resource.categories || []).filter((c) => profile.needs.includes(c));
-  if (profile.needs.length && !matchedCategories.length) return null;
-
-  const rules = resource.eligibility_rules || {};
   const reasons = [];
-  let score = 0;
-
-  score += Math.min(matchedCategories.length, 2) * 3;
+  // General directories (2-1-1, Findhelp) and very broad resources count one category at most.
+  const general = GENERAL_KEYS.has(resource.program_key) || cats.length >= 6;
+  // Researched local listings count their first category fully and extra categories as +1, so broad
+  // community centers do not outrank the core programs for a specific need.
+  let score = general ? 3 * Math.min(matchedCategories.length, 1) : resource.origin === 'research' ? (matchedCategories.length ? 3 + Math.min(matchedCategories.length - 1, 1) : 0) : 3 * Math.min(matchedCategories.length, 2);
   if (matchedCategories.length) reasons.push({ code: 'category', params: { categories: matchedCategories } });
 
-  // Targeted programs (e.g., WIC, senior centers, veteran services) only show when the user fits.
-  const targets = TARGET_GROUPS.filter(([key]) => rules[key] === true);
-  if (targets.length) {
-    const hits = targets.filter(([, fits]) => fits(profile)).map(([key]) => key);
-    if (!hits.length) return null;
-    score += 2 * Math.min(hits.length, 2);
-    reasons.push({ code: 'group', params: { groups: hits } });
-  }
-
-  for (const [key, fits] of SOFT_BOOSTS) {
-    if (rules[key] === true && fits(profile)) {
-      score += 2;
-      reasons.push({ code: 'group', params: { groups: [key] } });
-    }
-  }
-
-  const income = incomeCheck(resource, profile);
-  if (income?.within) {
+  const hits = Object.keys(s).filter((k) => s[k] === true && has[k] && k !== 'low_income');
+  score += 2 * hits.length;
+  if (hits.length) reasons.push({ code: 'signals', params: { signals: hits } });
+  if (s.low_income && has.low_income) {
     score += 2;
-    reasons.push({ code: 'income_within', params: { pct: income.pct } });
-  } else if (income && !income.within) {
-    score -= 4;
-    reasons.push({ code: 'income_above', params: { pct: income.pct } });
+    reasons.push({ code: 'signals', params: { signals: ['low_income'] } });
   }
-
-  if (['county', 'city'].includes(resource.coverage_type)) {
-    score += 2;
-    reasons.push({ code: 'local', params: { county: place?.county } });
-  } else if (resource.coverage_type === 'region') {
-    score += 1;
-    reasons.push({ code: 'local', params: { county: place?.county } });
-  } else {
-    reasons.push({ code: 'statewide' });
-  }
-
-  if (profile.urgency === 'today' && (resource.walk_in || resource.phone)) score += 1;
-  if (resource.confidence === 'high') score += 0.5;
+  if (['city', 'county', 'region'].includes(resource.coverage_type)) reasons.push({ code: 'local', params: { county: place?.county || null } });
+  else if (resource.coverage_type === 'state') reasons.push({ code: 'statewide' });
+  if (crisisOk) score += 4;
+  if (profile.urgency === 'today' && resource.phone) score += 0.5;
   score += Number(resource.priority_weight) || 0;
-
-  return { score, reasons, matchedCategories };
+  return { score, reasons, matchedCategories, signalOnly };
 }
 
-export function matchLevel(score) {
-  if (score >= 8) return 'very_likely';
-  if (score >= 5) return 'possibly';
-  return 'worth_checking';
-}
-
-/**
- * Match resources to a profile.
- * @returns {{place, results: Array<{resource, score, level, reasons, matchedCategories, distance}>,
- *   byCategory: Record<string, string[]>, outOfTexas:boolean, invalidZip:boolean}}
- */
 export function matchResources(resources, rawProfile, { perCategory = 6, max = LIMITS.maxResourcesInPlan } = {}) {
   const profile = normalizeProfile(rawProfile);
   const place = lookupZip(profile.zip);
-  const pool = resources.some((r) => r.id === FALLBACK_211.id) ? resources : [...resources, FALLBACK_211];
+  const has = profileSignals(profile);
 
   const scored = [];
-  for (const resource of pool) {
-    const s = scoreResource(resource, profile, place);
+  for (const resource of resources) {
+    const s = scoreResource(resource, profile, place, has);
     if (!s) continue;
     const loc = resourceLocation(resource);
-    const distance = loc && place.lat != null ? distanceMiles(place, loc) : null;
-    scored.push({ resource, ...s, level: matchLevel(s.score), distance });
+    scored.push({ resource, ...s, distance: loc && place.lat != null ? distanceMiles(place, loc) : null });
   }
 
-  scored.sort((a, b) => b.score - a.score || (a.distance ?? 9999) - (b.distance ?? 9999) || a.resource.name.localeCompare(b.resource.name));
+  // De-duplicate by program_key: keep the most local version (e.g. SNAP via Your Texas Benefits over national SNAP).
+  const byKey = new Map();
+  const unique = [];
+  for (const s of scored) {
+    const key = s.resource.program_key;
+    if (!key) {
+      unique.push(s);
+      continue;
+    }
+    const prev = byKey.get(key);
+    const better = !prev || LOCALITY[s.resource.coverage_type] < LOCALITY[prev.resource.coverage_type] || (LOCALITY[s.resource.coverage_type] === LOCALITY[prev.resource.coverage_type] && s.score > prev.score);
+    if (better) byKey.set(key, s);
+  }
+  unique.push(...byKey.values());
+
+  const fallbacks = unique.filter((s) => s.resource.program_key === 'two_one_one');
+  let ranked = unique.filter((s) => s.resource.program_key !== 'two_one_one');
+  ranked.sort((a, b) => b.score - a.score || (a.distance ?? 9999) - (b.distance ?? 9999) || a.resource.name.localeCompare(b.resource.name));
 
   // Keep the best few per requested category so one category cannot crowd out the others.
-  const needs = profile.needs.length ? profile.needs : [...new Set(scored.flatMap((s) => s.resource.categories || []))];
+  const needs = profile.needs.length ? profile.needs : [...new Set(ranked.flatMap((s) => s.resource.categories || []))];
   const chosen = new Map();
-  const byCategory = {};
-  for (const cat of needs) {
-    byCategory[cat] = [];
-    for (const s of scored) {
-      if (byCategory[cat].length >= perCategory) break;
-      if (!(s.resource.categories || []).includes(cat) || s.resource.id === FALLBACK_211.id) continue;
-      byCategory[cat].push(s.resource.id);
-      chosen.set(s.resource.id, s);
+  for (const s of ranked.filter((x) => x.resource.is_crisis && profile.crisis_flag)) chosen.set(s.resource.id, s);
+  // Round-robin across categories: each round adds the next-best unchosen resource for every need.
+  const counts = Object.fromEntries(needs.map((c) => [c, 0]));
+  for (let round = 0; round < perCategory; round++) {
+    for (const cat of needs) {
+      const next = ranked.find((s) => !chosen.has(s.resource.id) && (s.resource.categories || []).includes(cat));
+      if (next) {
+        chosen.set(next.resource.id, next);
+        counts[cat]++;
+      }
     }
   }
+  for (const s of ranked.filter((x) => x.signalOnly && !chosen.has(x.resource.id)).slice(0, 6)) chosen.set(s.resource.id, s);
+  ranked = [...chosen.values()].sort((a, b) => b.score - a.score).slice(0, max);
 
-  let results = [...chosen.values()].sort((a, b) => b.score - a.score);
-  if (results.length > max) results = results.slice(0, max);
-  const kept = new Set(results.map((r) => r.resource.id));
-  for (const cat of Object.keys(byCategory)) byCategory[cat] = byCategory[cat].filter((id) => kept.has(id));
+  // Labels by thirds of the ranked list.
+  const third = Math.ceil(ranked.length / 3);
+  ranked.forEach((s, i) => {
+    s.level = i < third ? 'very_likely' : i < 2 * third ? 'possibly' : 'worth_checking';
+  });
 
-  // 2-1-1 is always the last-resort fallback.
-  const fallback = scored.find((s) => s.resource.id === FALLBACK_211.id);
-  if (fallback) results.push({ ...fallback, level: 'worth_checking', fallback: true });
+  const byCategory = {};
+  for (const cat of needs) byCategory[cat] = ranked.filter((s) => s.matchedCategories.includes(cat)).map((s) => s.resource.id);
 
-  return {
-    profile,
-    place,
-    results,
-    byCategory,
-    invalidZip: !place.valid,
-    outOfTexas: place.valid && !place.inTexas,
-  };
+  // 2-1-1 is always the last-resort fallback (the most local version).
+  const results = [...ranked];
+  let f = fallbacks.sort((a, b) => LOCALITY[a.resource.coverage_type] - LOCALITY[b.resource.coverage_type])[0];
+  if (!f) {
+    const r = resources.filter((x) => x.program_key === 'two_one_one' && x.is_active !== false && coversLocation(x, place)).sort((a, b) => LOCALITY[a.coverage_type] - LOCALITY[b.coverage_type])[0];
+    if (r) f = { resource: r, score: 0, reasons: [], matchedCategories: [], distance: null };
+  }
+  if (f) results.push({ ...f, level: 'worth_checking', fallback: true });
+
+  return { profile, place, results, byCategory, invalidZip: !place.valid, outOfTexas: place.valid && place.state !== 'TX' };
 }

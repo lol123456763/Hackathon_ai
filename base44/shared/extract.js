@@ -16,6 +16,12 @@ const CRISIS_PATTERNS = [
   /\b(he|she|they|partner|husband|wife|boyfriend|girlfriend)\s+(hits?|beats?|hurts?|abuses?|threatens?)\b/i,
   /\b(domestic\s+violence|being\s+abused|abusive)\b/i,
   /\bnot\s+safe\s+(at\s+home|here)\b/i,
+  /\b(don'?t|do\s+not)\s+feel\s+safe\b/i,
+  /\b(don'?t|do\s+not)\s+want\s+to\s+(be\s+here|live|be\s+alive|wake\s+up)\b/i,
+  /\b(want|going)\s+to\s+die\b/i,
+  /\bno\s+(me\s+siento|estoy)\s+segur[oa]\b/i,
+  /\bno\s+quiero\s+(vivir|estar\s+aqu[ií]|seguir)\b/i,
+  /\bquiero\s+morir(me)?\b/i,
   /\b(quitarme\s+la\s+vida|suicidarme|matarme|hacerme\s+daño)\b/i,
   /\b(me\s+(pega|golpea|maltrata|amenaza))\b/i,
   /\b(violencia\s+(doméstica|domestica)|no\s+estoy\s+segura?\s+en\s+casa)\b/i,
@@ -35,7 +41,7 @@ const NEED_PATTERNS = {
 };
 
 const SITUATION_PATTERNS = {
-  job_loss: /\b(lost (my|his|her|their|our) job|laid off|got fired|unemployed|lost work|out of work|perdi(ó|o)? (el|mi|su) trabajo|me despidieron|lo despidieron|la despidieron|sin trabajo|desemplead)/i,
+  job_loss: /\b(lost (my|his|her|their|our) job|laid off|got fired|unemployed|lost work|out of work|perd[ií](ó|o)? (el|mi|su) trabajo|me despidieron|lo despidieron|la despidieron|sin trabajo|desemplead)/i,
   single_parent: /\b(single (mom|mother|dad|father|parent)|madre soltera|padre soltero|mamá soltera|mama soltera)\b/i,
   pregnant: /\b(pregnant|expecting a baby|embarazada)\b/i,
   veteran: /\b(veteran|served in the (army|navy|military|marines|air force)|veterano|veterana)\b/i,
@@ -45,6 +51,8 @@ const SITUATION_PATTERNS = {
   unhoused: /\b(homeless|sleeping in (my|our|the) car|no place to (live|stay)|evicted|sin hogar|durmiendo en (el|mi) carro|nos desalojaron)\b/i,
   uninsured: /\b(no (health )?insurance|uninsured|sin seguro)\b/i,
 };
+
+const OUT_OF_FOOD = /(almost out of food|out of food|nothing to eat|no food (left|at home)|haven'?t eaten|casi no (nos )?queda comida|no (nos )?queda comida|no tenemos (nada de )?comida|sin comida|no hay comida)/i;
 
 export function detectCrisis(text) {
   return CRISIS_PATTERNS.some((re) => re.test(text || ''));
@@ -72,6 +80,8 @@ export function extractSituation(text) {
     urgency: null,
     detected_language: detectLanguage(t),
     crisis_flag: detectCrisis(t),
+    tonight_need: false,
+    food_prefs: [],
   };
 
   const zip = t.match(/\b(7[5-9]\d{3}|885\d{2}|\d{5})\b/);
@@ -95,6 +105,8 @@ export function extractSituation(text) {
   const ages = [...lower.matchAll(/\b(\d{1,2})[\s-]*(year|yr|años|anos)/g)].map((m) => Number(m[1]));
   const agesList = lower.match(/\bages?\s+((\d{1,2})(\s*(,|and|y|&)\s*\d{1,2})*)/);
   if (agesList) ages.push(...agesList[1].split(/\D+/).filter(Boolean).map(Number));
+  const agePair = lower.match(/(\d{1,2})\s*(?:,|y|and|&)\s*(\d{1,2})\s*(?:años|anos|years|yrs)/);
+  if (agePair) ages.push(Number(agePair[1]), Number(agePair[2]));
   if (/\b(baby|infant|toddler|newborn|bebé|bebe|recién nacido)\b/i.test(lower)) ages.push(0);
   if (ages.length) out.child_under_5 = ages.some((a) => a < 5);
 
@@ -117,9 +129,14 @@ export function extractSituation(text) {
   if (out.situations.includes('uninsured') && !out.needs.includes('healthcare')) out.needs.push('healthcare');
   if (out.crisis_flag && !out.needs.includes('mental_health')) out.needs.push('mental_health');
 
-  if (/\b(today|tonight|right now|immediately|urgent|emergency|hoy|ahora|urgente|esta noche)\b/i.test(lower)) out.urgency = 'today';
+  if (/\b(today|tonight|right now|immediately|urgent|emergency|hoy|ahora|urgente|esta noche)\b/i.test(lower) || OUT_OF_FOOD.test(lower)) out.urgency = 'today';
   else if (/\b(this week|few days|shut ?off notice|evict|esta semana|pocos días)\b/i.test(lower)) out.urgency = 'week';
 
+  if (OUT_OF_FOOD.test(lower) && !out.needs.includes('food')) out.needs.push('food');
+  out.tonight_need = out.urgency === 'today' && out.needs.includes('food');
+  if (/(no pork|without pork|sin cerdo|sin puerco|no como cerdo)/i.test(lower)) out.food_prefs.push('no_pork');
+  if (/(vegetarian|vegetariano|vegetariana)/i.test(lower)) out.food_prefs.push('vegetarian');
+  if (/halal/i.test(lower)) out.food_prefs.push('halal');
   return out;
 }
 
@@ -144,5 +161,15 @@ export function mergeExtraction(ai, text, { categories, situations, incomeRanges
     urgency: urgencies.includes(a.urgency) ? a.urgency : rules.urgency,
     detected_language: a.detected_language === 'es' || a.detected_language === 'en' ? a.detected_language : rules.detected_language,
     crisis_flag: a.crisis_flag === true || rules.crisis_flag,
+    food_prefs: [...new Set([...list(a.food_prefs, ['vegetarian', 'no_pork', 'halal']), ...rules.food_prefs])],
+    understood_summary_en: typeof a.understood_summary_en === 'string' ? a.understood_summary_en.slice(0, 300) : null,
+    understood_summary_es: typeof a.understood_summary_es === 'string' ? a.understood_summary_es.slice(0, 300) : null,
   };
+}
+
+/** Final touches shared by the AI and rule-based paths. */
+export function finalizeExtraction(x) {
+  const needs = x.needs || [];
+  const tonight = x.urgency === 'today' && needs.includes('food');
+  return { ...x, tonight_need: tonight || (x.tonight_need === true && needs.includes('food')) };
 }

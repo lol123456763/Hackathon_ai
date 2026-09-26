@@ -1,0 +1,92 @@
+// Student volunteer (demo identity). First name + last initial only.
+{
+  "name": "Volunteer",
+  "description": "Student volunteer (demo identity). First name + last initial only.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "number"
+    },
+    "age_band": {
+      "type": "string",
+      "enum": [
+        "13-15",
+        "16-17",
+        "18+"
+      ]
+    },
+    "school": {
+      "type": "string"
+    },
+    "team_key": {
+      "type": "string"
+    },
+    "guardian_consent": {
+      "type": "boolean"
+    },
+    "modes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "total_hours": {
+      "type": "number"
+    },
+    "total_lbs": {
+      "type": "number"
+    },
+    "missions_done": {
+      "type": "number"
+    },
+    "hours_log": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "description": "Verified hours entries"
+    }
+  },
+  "required": [
+    "key",
+    "display_name"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

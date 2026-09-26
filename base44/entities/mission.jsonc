@@ -1,0 +1,199 @@
+// A volunteer mission created by the matching engine.
+{
+  "name": "Mission",
+  "description": "A volunteer mission created by the matching engine.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "key": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "food_run",
+        "event",
+        "pop_up"
+      ]
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "title_es": {
+      "type": "string"
+    },
+    "donation_key": {
+      "type": "string"
+    },
+    "giver_key": {
+      "type": "string"
+    },
+    "hub_key": {
+      "type": "string"
+    },
+    "request_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "HelpRequest keys"
+    },
+    "distance_mi": {
+      "type": "number"
+    },
+    "mode": {
+      "type": "string",
+      "enum": [
+        "walk",
+        "bike",
+        "transit",
+        "car"
+      ]
+    },
+    "est_minutes": {
+      "type": "number"
+    },
+    "min_age": {
+      "type": "number"
+    },
+    "window_start": {
+      "type": "string"
+    },
+    "window_end": {
+      "type": "string"
+    },
+    "lbs_planned": {
+      "type": "number"
+    },
+    "brief_en": {
+      "type": "string"
+    },
+    "brief_es": {
+      "type": "string"
+    },
+    "brief_source": {
+      "type": "string"
+    },
+    "steps_en": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "steps_es": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "safety_checklist_en": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "safety_checklist_es": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "bag_instructions_en": {
+      "type": "string"
+    },
+    "bag_instructions_es": {
+      "type": "string"
+    },
+    "handling_en": {
+      "type": "string"
+    },
+    "handling_es": {
+      "type": "string"
+    },
+    "impact_en": {
+      "type": "string"
+    },
+    "impact_es": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "open",
+        "claimed",
+        "picked_up",
+        "delivered",
+        "verified",
+        "cancelled"
+      ]
+    },
+    "volunteer_keys": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "claimed_at": {
+      "type": "number"
+    },
+    "claimed_real": {
+      "type": "number"
+    },
+    "picked_up_at": {
+      "type": "number"
+    },
+    "delivered_at": {
+      "type": "number"
+    },
+    "credited_hours": {
+      "type": "number"
+    },
+    "lbs_delivered": {
+      "type": "number"
+    },
+    "meals": {
+      "type": "number"
+    },
+    "cancelled_reason": {
+      "type": "string"
+    },
+    "cancelled_at": {
+      "type": "number"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "sample": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "key",
+    "status"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

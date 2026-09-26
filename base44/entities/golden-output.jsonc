@@ -1,0 +1,49 @@
+// Reviewed AI outputs used only as demo fallbacks when the live AI fails or is slow.
+{
+  "name": "GoldenOutput",
+  "description": "Reviewed AI outputs used only as demo fallbacks when the live AI fails or is slow.",
+  "type": "object",
+  "properties": {
+    "key": {
+      "type": "string",
+      "enum": [
+        "intake_es",
+        "intake_en",
+        "plan_es",
+        "plan_en",
+        "photo_post",
+        "mission_brief",
+        "note_translation",
+        "pulse_brief"
+      ]
+    },
+    "json": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "key"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

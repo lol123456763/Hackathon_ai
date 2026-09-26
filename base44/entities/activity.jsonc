@@ -1,0 +1,68 @@
+// Live Loop feed item. Never includes neighbor locations.
+{
+  "name": "Activity",
+  "description": "Live Loop feed item. Never includes neighbor locations.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data (\"loop\"); used by Reset demo"
+    },
+    "type": {
+      "type": "string"
+    },
+    "message_en": {
+      "type": "string"
+    },
+    "message_es": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "lng": {
+      "type": "number"
+    },
+    "at": {
+      "type": "string"
+    },
+    "sample": {
+      "type": "boolean"
+    },
+    "line": {
+      "type": "object",
+      "description": "Map line between giver and hub"
+    },
+    "hub_key": {
+      "type": "string"
+    },
+    "alert": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "type"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}
