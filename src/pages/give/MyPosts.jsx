@@ -19,9 +19,9 @@ export default function MyPosts() {
       <ul className="space-y-3">
         {posts.map((d, i) => (
           <li key={d.key}>
-            <Card kind="tag" tilt={[1, 2, 3][i % 3]} className="overflow-hidden p-4">
+            <Card shape={[2, 3, 5][i % 3]} className="overflow-hidden p-4">
               {d.status !== 'posted' && (
-                <span className="stamp slap pointer-events-none absolute bottom-3 right-4 text-lg text-primary" style={{ '--r': `${[-8, 5, -3, 7][i % 4]}deg` }} aria-hidden="true">
+                <span className="cut-chip pointer-events-none absolute bottom-3 right-4 -rotate-6 border-2 border-primary px-2 py-0.5 text-sm font-extrabold uppercase tracking-wider text-primary" aria-hidden="true">
                   {d.status === 'delivered' ? t('give.stamp.delivered') : t('give.stamp.claimed')}
                 </span>
               )}

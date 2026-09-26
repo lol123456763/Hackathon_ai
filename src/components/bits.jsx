@@ -75,7 +75,7 @@ export function CodeInput({ label, value, onChange, demoCode, error, onEnter }) 
           {label}
         </label>
         {demoCode && !hideHelpers && (
-          <button type="button" onClick={() => onChange(demoCode)} className="rounded-full border-2 border-dashed border-accent px-2.5 py-1 text-xs font-bold text-accent-deep hover:bg-accent-soft">
+          <button type="button" onClick={() => onChange(demoCode)} className="rounded-full border-2 border-dashed border-accent px-2.5 py-1 text-xs font-bold text-accent hover:bg-accent-soft">
             {t('demo.chip', { code: demoCode })}
           </button>
         )}

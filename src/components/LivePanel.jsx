@@ -28,7 +28,7 @@ export function Counters({ impact, compact }) {
   );
 }
 
-const TILE = ['bg-primary text-primary-foreground', 'bg-accent-soft text-ink dark:text-foreground', 'bg-[#FFE7A8] text-ink dark:bg-sun/20 dark:text-foreground', 'bg-paper-2 text-foreground'];
+const TILE = ['cut-1 bg-primary text-primary-foreground shadow-amber', 'cut-3 bg-tile-2 shadow-offset', 'cut-2 bg-tile-4 shadow-offset', 'cut-4 bg-tile-3 shadow-offset'];
 
 /** A counter tile that does a happy jump (and shows +N) whenever its value goes up. */
 function Counter({ label, value, decimals, i }) {
@@ -45,14 +45,14 @@ function Counter({ label, value, decimals, i }) {
   return (
     <motion.div
       animate={controls}
-      className={cn('relative overflow-hidden rounded-[18px] p-3 pt-4', TILE[i % 4])}
+      className={cn('relative overflow-hidden p-3 pt-4', TILE[i % 4])}
     >
       {bump && (
-        <motion.span key={bump.id} initial={{ opacity: 1, y: 0 }} animate={{ opacity: 0, y: -26 }} transition={{ duration: 1.6 }} className="hand absolute right-3 top-1 text-xl font-bold" aria-hidden="true">
+        <motion.span key={bump.id} initial={{ opacity: 1, y: 0 }} animate={{ opacity: 0, y: -26 }} transition={{ duration: 1.6 }} className="absolute right-3 top-1 font-display text-xl font-bold italic" aria-hidden="true">
           +{bump.delta}
         </motion.span>
       )}
-      <dd className="font-display text-[26px] font-extrabold leading-none">{value == null ? '—' : <RollingNumber value={value} decimals={decimals} />}</dd>
+      <dd className="font-display text-[28px] font-semibold leading-none tracking-tight">{value == null ? '—' : <RollingNumber value={value} decimals={decimals} />}</dd>
       <dt className="mt-1 text-xs font-bold opacity-75">{label}</dt>
     </motion.div>
   );
@@ -64,9 +64,9 @@ export function Ticker({ items }) {
   const a = items?.[0];
   if (!a) return null;
   return (
-    <p className="flex items-center gap-2 overflow-hidden rounded-full bg-ink px-3 py-1.5 text-sm font-semibold text-background dark:bg-card dark:text-foreground">
-      <span className="shrink-0 rounded-full bg-sun px-2 text-[11px] font-extrabold uppercase text-ink">{t('map.latest')}</span>
-      <span key={a.id} className="drop-in min-w-0 truncate">{lang === 'es' ? a.message_es : a.message_en}</span>
+    <p className="cut-chip flex items-center gap-2 overflow-hidden bg-primary px-3 py-1.5 text-sm font-semibold text-primary-foreground">
+      <span className="cut-chip shrink-0 bg-amber px-2 text-[11px] font-extrabold uppercase text-[#292b20]">{t('map.latest')}</span>
+      <span key={a.id} className="min-w-0 animate-fade-up truncate">{lang === 'es' ? a.message_es : a.message_en}</span>
     </p>
   );
 }

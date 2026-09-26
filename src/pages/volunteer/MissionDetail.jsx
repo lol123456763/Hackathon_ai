@@ -14,7 +14,7 @@ import RouteString from '@/components/RouteString';
 
 const LiveMap = lazy(() => import('@/components/LiveMap'));
 
-/** The handoff receipt: prints down like a thermal slip once both codes check out. */
+/** The handoff summary shown once both codes check out. */
 function HandoffReceipt({ m }) {
   const { t, lang } = useI18n();
   const { live } = useApp();
@@ -29,9 +29,8 @@ function HandoffReceipt({ m }) {
   ];
   return (
     <div className="relative mx-auto mt-4 max-w-[300px] overflow-hidden pt-1" aria-hidden="true">
-      <div className="mx-auto h-2 w-[92%] rounded-full bg-ink/80" />
-      <div className="receipt print-down -mt-1 px-5 pt-4 text-left font-mono text-[12.5px] leading-relaxed shadow-soft">
-        <p className="text-center font-bold tracking-[0.2em]">LOOP · {t('vol.receipt.title')}</p>
+            <div className="cut-2 -mt-1 animate-fade-up border-2 border-dashed border-[#a5bdaa] bg-card px-5 py-4 text-left text-sm leading-relaxed">
+        <p className="text-center text-xs font-extrabold uppercase tracking-[0.16em] text-teal">Loop · {t('vol.receipt.title')}</p>
         <p className="text-center text-[11px] opacity-70">{live ? formatTime(live.clock.now, lang) : ''} · #{m.key.slice(-4).toUpperCase()}</p>
         <p className="my-2 border-t-2 border-dashed border-ink/40" />
         {rows.map(([k, v]) => (
@@ -52,7 +51,7 @@ export function Celebration({ m }) {
   const { t, lang } = useI18n();
   const families = (m.requests || []).length;
   return (
-    <Card kind="ink" className="relative overflow-hidden p-5 text-center">
+    <Card shape={1} className="overflow-hidden p-5 text-center shadow-offset-lg">
       <Confetti />
       <div className="flex items-end justify-center gap-2">
         <LoopRing size={80} closed animate />
@@ -69,12 +68,12 @@ export function Celebration({ m }) {
             <Heart className="h-4 w-4 text-accent" aria-hidden="true" /> {t('vol.thanksTitle')}
           </p>
           {m.thanks.map((n, i) => (
-            <blockquote key={i} className={cn('note p-3 pt-4', i % 2 ? 'tilt-2 bg-accent-soft' : 'tilt-1 bg-[#FFE7A8] dark:bg-sun/20')}>
+            <blockquote key={i} className={cn('border-2 border-border p-3', i % 2 ? 'cut-3 rotate-1 bg-tile-2' : 'cut-2 -rotate-1 bg-tile-4')}>
               {n.fixed ? (
                 <p className="font-semibold">{t('vol.fixedThanks')}</p>
               ) : (
                 <>
-                  <p className="hand text-[22px] leading-tight">“{n.text}”</p>
+                  <p className="font-display text-lg italic leading-snug">“{n.text}”</p>
                   {n.from_language && n.from_language !== lang && <p className="mt-1 text-xs text-muted-foreground">{n.from_language === 'es' ? t('vol.translated') : t('vol.translatedEn')}</p>}
                 </>
               )}

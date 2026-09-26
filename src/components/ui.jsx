@@ -1,27 +1,27 @@
-// Loop's UI primitives (see docs/DESIGN.md). Warm paper, soft mobile cards, and buttons that press down
-// like physical keys. Different kinds of content get different paper objects (note, tag, ticket, receipt)
-// so screens never repeat one shape.
+// Loop's UI primitives, in BenefitBridge's visual language (see docs/DESIGN.md): hand-cut corners,
+// pastel offset shadows, amber main actions, a serif for headlines.
 import { forwardRef, useId } from 'react';
-import { Icon } from './icons';
+import { Check, AlertTriangle, Info, CheckCircle2 } from 'lucide-react';
 
 export function cn(...classes) {
   return classes.flat().filter(Boolean).join(' ');
 }
 
 const BUTTON_VARIANTS = {
-  primary: 'press edge-primary bg-primary text-primary-foreground',
-  accent: 'press edge-accent bg-accent text-accent-foreground',
-  outline: 'press border-2 border-border bg-card text-foreground',
-  soft: 'press bg-primary-soft text-primary-deep dark:text-foreground',
-  danger: 'press edge-accent bg-danger text-danger-foreground',
-  sun: 'press edge-sun bg-sun text-ink',
-  ghost: 'text-foreground underline-offset-4 hover:underline decoration-2',
-  link: 'text-primary underline underline-offset-4 decoration-2 px-0 min-h-0 h-auto',
+  // amber = the one main action on a screen
+  accent: 'wiggle-btn cut-btn bg-amber text-[#292b20] shadow-amber hover:brightness-105',
+  primary: 'wiggle-btn cut-btn bg-primary text-primary-foreground shadow-mint hover:brightness-110',
+  outline: 'wiggle-btn cut-btn border-2 border-border bg-card text-primary hover:bg-primary-soft',
+  soft: 'wiggle-btn cut-btn bg-primary-soft text-primary hover:brightness-95',
+  danger: 'wiggle-btn cut-btn bg-danger text-danger-foreground',
+  sun: 'wiggle-btn cut-btn bg-amber text-[#292b20] shadow-amber',
+  ghost: 'rounded-full text-primary hover:bg-primary-soft',
+  link: 'text-primary underline decoration-amber-edge decoration-[3px] underline-offset-[5px] hover:decoration-primary px-0 min-h-0 h-auto',
 };
 const BUTTON_SIZES = {
   sm: 'min-h-[40px] px-4 text-sm gap-1.5',
   md: 'min-h-[48px] px-5 text-[15px] gap-2',
-  lg: 'min-h-[56px] px-6 text-[17px] gap-2',
+  lg: 'min-h-[54px] px-6 text-base gap-2',
   icon: 'h-11 w-11',
 };
 
@@ -34,7 +34,7 @@ export const Button = forwardRef(function Button(
     <Comp
       ref={ref}
       className={cn(
-        'inline-flex select-none items-center justify-center rounded-full font-bold',
+        'inline-flex select-none items-center justify-center font-extrabold',
         'disabled:cursor-not-allowed disabled:opacity-50 aria-disabled:opacity-50',
         BUTTON_VARIANTS[variant],
         BUTTON_SIZES[size],
@@ -50,66 +50,40 @@ export const Button = forwardRef(function Button(
   );
 });
 
-const TILTS = { 1: 'tilt-1', 2: 'tilt-2', 3: 'tilt-3' };
-const FILLS = { teal: 'bg-primary-soft', tomato: 'bg-accent-soft', sun: 'bg-[#FFE7A8] dark:bg-sun/20', paper: 'bg-paper-2' };
-const KINDS = {
-  soft: 'rounded-[22px] border border-border shadow-soft',
-  note: 'note',
-  tag: 'tag-hole rounded-[6px_22px_22px_6px] border border-border shadow-soft pl-9',
-  ticket: 'ticket rounded-[18px] shadow-soft',
-  ink: 'rounded-[20px] border-2 border-ink shadow-ink',
-  flat: 'rounded-[18px]',
-};
+const TONES = { 1: 'bg-tile-1', 2: 'bg-tile-2', 3: 'bg-tile-3', 4: 'bg-tile-4', 5: 'bg-tile-5', soft: 'bg-primary-soft', peach: 'bg-accent-soft' };
 /**
- * A piece of paper. `kind`: soft (default) | note (sticky note, for tips) | tag (surplus) | ticket (missions)
- * | ink (one hero card per screen) | flat. `tilt` 1|2|3 rotates it a touch; `lift` for tappable cards.
+ * A hand-cut card. `shape` 1–5 picks the corner cut (vary it between neighbours), `tone` a pastel fill,
+ * `offset` adds BenefitBridge's flat pastel shadow, `lift` a hover lift for tappable cards.
  */
-export function Card({ className, as: Comp = 'div', kind = 'soft', tilt, lift = false, tone, ...props }) {
-  const fill = FILLS[tone] || (kind === 'note' ? FILLS.sun : 'bg-card');
-  return <Comp className={cn('relative text-card-foreground', KINDS[kind], fill, TILTS[tilt], lift && 'lift', className)} {...props} />;
+export function Card({ className, as: Comp = 'div', shape = 5, tone, offset = true, lift = false, ...props }) {
+  return (
+    <Comp
+      className={cn('relative border-2 border-border text-card-foreground', `cut-${shape}`, TONES[tone] || 'bg-card', offset && 'shadow-offset', lift && 'tile-hover', className)}
+      {...props}
+    />
+  );
 }
 
 const BADGE = {
-  default: 'bg-paper-2 text-foreground',
-  primary: 'bg-primary-soft text-primary-deep dark:text-foreground',
-  accent: 'bg-accent-soft text-accent-deep',
+  default: 'bg-muted text-foreground',
+  primary: 'bg-primary-soft text-primary',
+  accent: 'bg-accent-soft text-accent',
   success: 'bg-success-soft text-success',
-  danger: 'bg-danger-soft text-accent-deep',
-  sun: 'bg-sun text-ink',
+  danger: 'bg-danger-soft text-danger',
+  sun: 'bg-amber text-[#292b20]',
 };
-/** Small label. */
 export function Badge({ variant = 'default', className, ...props }) {
-  return <span className={cn('inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-bold', BADGE[variant], className)} {...props} />;
+  return <span className={cn('cut-chip inline-flex items-center gap-1 px-2.5 py-0.5 text-xs font-bold', BADGE[variant], className)} {...props} />;
 }
 
+const FIELD = 'cut-input w-full border-2 border-input bg-card text-base text-foreground placeholder:text-muted-foreground transition-[border-color,box-shadow] focus:border-teal focus:outline-none focus:ring-4 focus:ring-[#9fd2ae]/30';
+
 export const Input = forwardRef(function Input({ className, invalid, ...props }, ref) {
-  return (
-    <input
-      ref={ref}
-      aria-invalid={invalid || undefined}
-      className={cn(
-        'min-h-[48px] w-full rounded-[14px] border-2 border-input bg-card px-4 text-base text-foreground placeholder:text-muted-foreground',
-        'focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/15',
-        invalid && 'border-danger ring-2 ring-danger/40',
-        className,
-      )}
-      {...props}
-    />
-  );
+  return <input ref={ref} aria-invalid={invalid || undefined} className={cn(FIELD, 'min-h-[48px] px-4', invalid && 'border-danger', className)} {...props} />;
 });
 
 export const Textarea = forwardRef(function Textarea({ className, ...props }, ref) {
-  return (
-    <textarea
-      ref={ref}
-      className={cn(
-        'w-full resize-y rounded-[14px] border-2 border-input bg-card px-4 py-3 text-base leading-relaxed text-foreground placeholder:text-muted-foreground',
-        'focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/15',
-        className,
-      )}
-      {...props}
-    />
-  );
+  return <textarea ref={ref} className={cn(FIELD, 'resize-y bg-[#fffaf0] px-4 py-3 leading-relaxed dark:bg-card', className)} {...props} />;
 });
 
 /** Large, tappable checkbox with a label. */
@@ -120,8 +94,8 @@ export function CheckItem({ checked, onChange, children, className, description,
     <label
       htmlFor={id}
       className={cn(
-        'flex min-h-[48px] cursor-pointer items-start gap-3 rounded-[16px] border border-border bg-card px-3 py-3 transition-colors hover:bg-paper-2/60',
-        checked && 'bg-primary-soft',
+        'cut-input flex min-h-[52px] cursor-pointer items-start gap-3 border-2 border-border bg-card px-3 py-3 transition-[transform,background-color] duration-200 hover:-translate-y-0.5',
+        checked && 'bg-primary-soft shadow-amber',
         className,
       )}
     >
@@ -129,15 +103,15 @@ export function CheckItem({ checked, onChange, children, className, description,
       <span
         aria-hidden="true"
         className={cn(
-          'mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-[7px] border-2 border-input bg-card transition-transform',
-          'peer-focus-visible:ring-4 peer-focus-visible:ring-sun',
-          checked && 'scale-110 border-primary bg-primary text-primary-foreground',
+          'cut-blob mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center border-2 border-input bg-card',
+          'peer-focus-visible:ring-4 peer-focus-visible:ring-ring',
+          checked && 'border-primary bg-primary text-primary-foreground',
         )}
       >
-        {checked && <Icon name="check" tone="none" className="h-5 w-5" strokeWidth={4} />}
+        {checked && <Check className="h-4 w-4" strokeWidth={3} />}
       </span>
       <span className="min-w-0 flex-1">
-        <span className={cn('block font-medium', checked && 'line-through decoration-2 opacity-70')}>{children}</span>
+        <span className={cn('block font-medium', checked && 'text-muted-foreground line-through')}>{children}</span>
         {description && <span className="mt-0.5 block text-sm text-muted-foreground">{description}</span>}
       </span>
     </label>
@@ -145,20 +119,20 @@ export function CheckItem({ checked, onChange, children, className, description,
 }
 
 export function Skeleton({ className }) {
-  return <div className={cn('animate-pulse rounded-[16px] bg-paper-2', className)} aria-hidden="true" />;
+  return <div className={cn('skeleton cut-5', className)} aria-hidden="true" />;
 }
 
 const ALERT = {
-  info: ['bg-primary-soft', 'info'],
-  warning: ['bg-[#FFE7A8] dark:bg-sun/20', 'alert'],
-  danger: ['bg-danger-soft', 'alert'],
-  success: ['bg-success-soft', 'check'],
+  info: ['bg-primary-soft', Info],
+  warning: ['bg-tile-4', AlertTriangle],
+  danger: ['bg-danger-soft', AlertTriangle],
+  success: ['bg-success-soft', CheckCircle2],
 };
 export function Alert({ variant = 'info', title, children, className, action, role }) {
-  const [cls, icon] = ALERT[variant];
+  const [cls, Icon] = ALERT[variant];
   return (
-    <div role={role || (variant === 'danger' ? 'alert' : 'status')} className={cn('flex gap-3 rounded-[18px] p-4 text-[15px] text-ink dark:text-foreground', cls, className)}>
-      <Icon name={icon} tone="none" className="mt-0.5 h-5 w-5 shrink-0" />
+    <div role={role || (variant === 'danger' ? 'alert' : 'status')} className={cn('cut-2 flex gap-3 border-2 border-border p-4 text-[15px]', cls, className)}>
+      <Icon className={cn('mt-0.5 h-5 w-5 shrink-0', variant === 'danger' ? 'text-danger' : 'text-primary')} aria-hidden="true" />
       <div className="min-w-0 flex-1">
         {title && <p className="font-bold">{title}</p>}
         {children && <div className={cn(title && 'mt-1')}>{children}</div>}
@@ -177,15 +151,34 @@ export function Spinner({ className, label }) {
   );
 }
 
-export function SectionTitle({ icon, title, hint, className, id }) {
+/** Section heading: optional "02 /" tag, serif italic title. */
+export function SectionTitle({ index, icon: Icon, title, hint, className, id }) {
   return (
-    <div className={cn('mb-3', className)}>
-      <h2 id={id} className="flex items-center gap-2 text-xl font-extrabold">
-        {icon && <Icon name={icon} className="h-6 w-6" />}
-        {title}
-      </h2>
-      {hint && <p className="text-sm text-muted-foreground">{hint}</p>}
+    <div className={cn('mb-4', className)}>
+      <div className="flex items-baseline gap-3">
+        {index && <span className="section-index" aria-hidden="true">{index} /</span>}
+        <h2 id={id} className="flex items-center gap-2 font-display text-2xl font-semibold italic tracking-tight">
+          {Icon && <Icon className="h-5 w-5 not-italic text-teal" aria-hidden="true" />}
+          {title}
+        </h2>
+      </div>
+      {hint && <p className="mt-1 text-sm text-muted-foreground">{hint}</p>}
     </div>
+  );
+}
+
+/** Serif page heading with an optional terracotta italic tail. */
+export function PageTitle({ eyebrow, title, accent, sub, className, children }) {
+  return (
+    <header className={cn('mb-6', className)}>
+      {eyebrow && <p className="eyebrow mb-4">{eyebrow}</p>}
+      <h1 className="font-display text-[2.1rem] font-semibold leading-[1.02] tracking-[-0.05em] sm:text-5xl">
+        {title} {accent && <span className="italic-accent">{accent}</span>}
+      </h1>
+      {sub && <p className="mt-3 max-w-xl text-muted-foreground">{sub}</p>}
+      {children}
+      <div className="wavy-rule mt-5" aria-hidden="true" />
+    </header>
   );
 }
 
@@ -197,8 +190,8 @@ export function Chip({ selected, onClick, children, className, ...props }) {
       aria-pressed={!!selected}
       onClick={onClick}
       className={cn(
-        'press inline-flex min-h-[42px] items-center gap-1.5 rounded-full border-2 px-3.5 text-sm font-bold',
-        selected ? 'edge-primary border-primary bg-primary text-primary-foreground' : 'border-border bg-card',
+        'cut-chip inline-flex min-h-[42px] items-center gap-1.5 border-2 px-3.5 text-sm font-bold transition-[transform,background-color] duration-200 hover:-translate-y-0.5 hover:-rotate-1',
+        selected ? 'border-primary bg-primary text-primary-foreground shadow-amber' : 'border-border bg-card',
         className,
       )}
       {...props}

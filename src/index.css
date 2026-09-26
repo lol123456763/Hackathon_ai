@@ -2,65 +2,79 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Loop uses BenefitBridge's visual language (legacy/benefitbridge-server/public/personality.css):
+   warm wash, deep green ink, serif display with a terracotta italic, amber actions with a peach offset,
+   pastel hand-cut tiles. See docs/DESIGN.md. */
 @layer base {
-  /* Loop palette: warm paper, ink, teal (help), tomato (food/urgent), sun (highlights). Flat color, no gradients. */
   :root {
-    --background: 38 100% 97%;      /* paper #FFF8EE */
-    --paper-2: 36 67% 89%;          /* #F5E6CF recessed surfaces */
-    --foreground: 45 8% 10%;        /* ink #1B1A17 */
-    --ink: 45 8% 10%;
-    --card: 38 100% 98.5%;
-    --card-foreground: 45 8% 10%;
-    --primary: 175 80% 27%;         /* teal #0E7C74 */
+    --background: 45 64% 96%;       /* wash #FBF8EF */
+    --foreground: 169 42% 17%;      /* ink #193E37 */
+    --ink: 169 42% 17%;
+    --card: 50 100% 98%;            /* paper #FFFDF6 */
+    --card-foreground: 169 42% 17%;
+    --primary: 169 60% 20%;         /* teal-dark #155348 */
     --primary-foreground: 0 0% 100%;
-    --primary-soft: 167 49% 87%;    /* teal tint #CDEDE6 */
-    --primary-deep: 176 84% 18%;
-    --accent: 7 79% 57%;            /* tomato #E8503A — always ink text on it */
-    --accent-foreground: 45 8% 10%;
-    --accent-soft: 14 100% 91%;
-    --accent-deep: 7 71% 42%;       /* tomato text on paper #B8321F */
-    --sun: 42 100% 62%;             /* #FFC53D */
-    --sun-deep: 36 90% 42%;
-    --muted: 36 60% 91%;
-    --muted-foreground: 40 7% 30%;
-    --danger: 7 71% 42%;
+    --primary-soft: 105 42% 93%;    /* soft #E8F4E4 */
+    --teal: 167 65% 25%;            /* #176B59 */
+    --accent: 13 50% 44%;           /* terracotta #A9533B (text on wash) */
+    --accent-foreground: 0 0% 100%;
+    --accent-soft: 27 79% 88%;      /* peach tile #F8DFCA */
+    --amber: 40 91% 70%;            /* #F8C96E main action */
+    --amber-edge: 23 70% 71%;       /* #E9A981 */
+    --mint-edge: 110 30% 73%;       /* #ABCDA5 */
+    --butter-edge: 40 72% 79%;      /* #F2D8A3 */
+    --offset: 96 30% 88%;           /* #E0EBD7 card offset shadow */
+    --tile-1: 96 32% 90%;           /* #E5EFDE */
+    --tile-2: 27 79% 88%;           /* #F8DFCA */
+    --tile-3: 248 57% 93%;          /* #E6E3F6 */
+    --tile-4: 45 85% 86%;           /* #F9EBBF */
+    --tile-5: 153 30% 89%;          /* #DCECE5 */
+    --muted: 96 25% 91%;
+    --muted-foreground: 158 15% 35%;
+    --danger: 3 71% 41%;
     --danger-foreground: 0 0% 100%;
-    --danger-soft: 12 100% 93%;
-    --success: 150 62% 26%;
-    --success-soft: 150 45% 88%;
-    --border: 36 30% 84%;
-    --input: 36 22% 72%;
-    --ring: 42 100% 50%;
+    --danger-soft: 8 80% 94%;
+    --success: 152 55% 28%;
+    --success-soft: 105 42% 90%;
+    --border: 126 16% 78%;          /* line #BBD0BD */
+    --input: 115 17% 76%;
+    --ring: 43 100% 45%;
     --radius: 1rem;
   }
 
   .dark {
-    --background: 40 8% 10%;
-    --paper-2: 40 7% 15%;
-    --foreground: 36 100% 94%;
-    --ink: 36 100% 90%;
-    --card: 40 7% 13%;
-    --card-foreground: 36 100% 94%;
-    --primary: 172 55% 48%;
-    --primary-foreground: 45 8% 10%;
-    --primary-soft: 175 35% 20%;
-    --primary-deep: 174 60% 28%;
-    --accent: 8 85% 64%;
-    --accent-foreground: 45 8% 10%;
-    --accent-soft: 8 40% 20%;
-    --accent-deep: 8 90% 72%;
-    --sun: 42 100% 62%;
-    --sun-deep: 36 80% 35%;
-    --muted: 40 7% 18%;
-    --muted-foreground: 36 30% 75%;
-    --danger: 8 90% 68%;
-    --danger-foreground: 45 8% 10%;
-    --danger-soft: 8 40% 20%;
-    --success: 150 50% 60%;
-    --success-soft: 150 30% 18%;
-    --border: 40 7% 24%;
-    --input: 40 7% 34%;
-    --ring: 42 100% 62%;
+    --background: 154 38% 11%;
+    --foreground: 60 45% 91%;
+    --ink: 60 45% 91%;
+    --card: 157 29% 16%;
+    --card-foreground: 60 45% 91%;
+    --primary: 149 50% 74%;
+    --primary-foreground: 150 45% 16%;
+    --primary-soft: 152 29% 23%;
+    --teal: 146 45% 69%;
+    --accent: 19 100% 81%;
+    --accent-foreground: 150 45% 12%;
+    --accent-soft: 21 30% 32%;
+    --amber: 40 85% 70%;
+    --amber-edge: 23 36% 38%;
+    --mint-edge: 146 20% 42%;
+    --butter-edge: 21 25% 40%;
+    --offset: 150 28% 22%;
+    --tile-1: 138 28% 24%;
+    --tile-2: 21 30% 31%;
+    --tile-3: 250 19% 33%;
+    --tile-4: 47 34% 30%;
+    --tile-5: 168 31% 25%;
+    --muted: 152 25% 21%;
+    --muted-foreground: 110 18% 78%;
+    --danger: 6 90% 70%;
+    --danger-foreground: 150 45% 12%;
+    --danger-soft: 6 30% 22%;
+    --success: 140 45% 65%;
+    --success-soft: 140 25% 20%;
+    --border: 142 18% 38%;
+    --input: 142 18% 38%;
+    --ring: 43 100% 60%;
   }
 
   * {
@@ -73,10 +87,26 @@
     @apply bg-background text-foreground antialiased;
     font-size: 16px;
     line-height: 1.55;
+    overflow-x: clip;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  /* BenefitBridge headings: a classic serif, tight. */
+  h1,
+  h2 {
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    letter-spacing: -0.03em;
+  }
+  ::selection {
+    background: #fad690;
+    color: #173d34;
   }
   :focus-visible {
     outline: 3px solid hsl(var(--ring));
-    outline-offset: 2px;
+    outline-offset: 3px;
     border-radius: 8px;
   }
   @media (prefers-reduced-motion: reduce) {
@@ -168,155 +198,152 @@
 }
 
 
-/* ------------------------------------------------------------------ Hand-made details (docs/DESIGN.md) */
-@layer base {
-  h1,
-  h2,
-  h3 {
-    font-family: 'Bricolage Grotesque', 'Rethink Sans', system-ui, sans-serif;
-    font-variation-settings: 'opsz' 96;
-    letter-spacing: -0.03em;
-  }
-  ::selection {
-    background: hsl(var(--sun));
-    color: hsl(var(--ink));
-  }
-}
 
+/* ------------------------------------------------------------ BenefitBridge shape language */
 @layer components {
-  /* Highlighter swipe behind a word */
-  .swipe {
-    background: linear-gradient(transparent 55%, hsl(var(--sun)) 55%, hsl(var(--sun)) 92%, transparent 92%);
-    padding: 0 0.12em;
-    margin: 0 -0.06em;
-    -webkit-box-decoration-break: clone;
-    box-decoration-break: clone;
+  /* Hand-cut corners. Neighbours use different ones. */
+  .cut-1 { border-radius: 34px 50px 38px 28px / 39px 31px 47px 26px; }
+  .cut-2 { border-radius: 22px 39px 20px 37px / 36px 22px 36px 19px; }
+  .cut-3 { border-radius: 42px 18px 37px 20px / 19px 37px 20px 41px; }
+  .cut-4 { border-radius: 38px 24px 42px 20px / 24px 39px 21px 40px; }
+  .cut-5 { border-radius: 19px 34px 18px 29px / 28px 18px 31px 19px; }
+  .cut-btn { border-radius: 23px 19px 26px 17px / 18px 26px 18px 25px; }
+  .cut-chip { border-radius: 21px 14px 25px 17px / 15px 23px 13px 22px; }
+  .cut-blob { border-radius: 48% 52% 62% 38% / 37% 62% 38% 63%; }
+  .cut-input { border-radius: 19px 28px 17px 24px / 24px 17px 26px 18px; }
+
+  /* Buttons lift and tilt a little, then settle when pressed. */
+  .wiggle-btn {
+    transition: transform 0.28s cubic-bezier(0.2, 1.4, 0.5, 1), background-color 0.2s ease, box-shadow 0.2s ease;
   }
-  /* Card tilts: neighbours never share one */
-  .tilt-1 { rotate: -1.2deg; }
-  .tilt-2 { rotate: 0.9deg; }
-  .tilt-3 { rotate: -0.5deg; }
-  /* Pressable button (like a physical key): a darker edge of its own color collapses when pressed.
-     Set --edge per variant. */
-  .press {
-    --edge: hsl(var(--ink) / 0.18);
-    box-shadow: 0 4px 0 var(--edge);
-    transition: transform 70ms linear, box-shadow 70ms linear, filter 120ms;
+  .wiggle-btn:hover:not(:disabled) { transform: translateY(-3px) rotate(-1.5deg); }
+  .wiggle-btn:active:not(:disabled) { transform: translateY(1px) scale(0.98); }
+
+  .tile-hover {
+    transition: transform 0.32s cubic-bezier(0.18, 1.4, 0.4, 1), box-shadow 0.3s ease;
   }
-  .press:hover:not(:disabled) {
-    filter: brightness(1.05);
-  }
-  .press:active:not(:disabled) {
-    transform: translateY(4px);
-    box-shadow: 0 0 0 var(--edge);
-  }
-  .edge-primary { --edge: hsl(var(--primary-deep)); }
-  .edge-accent { --edge: hsl(var(--accent-deep)); }
-  .edge-sun { --edge: hsl(var(--sun-deep)); }
-  .edge-ink { --edge: hsl(var(--ink)); }
-  /* Tappable card: nudges up, its soft edge grows */
-  .lift {
-    transition: transform 140ms cubic-bezier(0.3, 0.7, 0.4, 1), box-shadow 140ms cubic-bezier(0.3, 0.7, 0.4, 1);
-  }
-  .lift:hover {
-    transform: translateY(-2px);
-  }
-  .lift:active {
-    transform: translateY(1px);
-  }
-  /* Sticky note with a strip of tape */
-  .note {
-    position: relative;
-    border-radius: 4px 4px 18px 4px;
-    box-shadow: 0 1px 0 hsl(var(--ink) / 0.06), 0 10px 18px -14px hsl(var(--ink) / 0.5);
-  }
-  .note::before {
-    content: '';
-    position: absolute;
-    top: -10px;
-    left: 50%;
-    width: 74px;
-    height: 20px;
-    translate: -50% 0;
-    rotate: -3deg;
-    background: hsl(var(--paper-2) / 0.85);
-    border-left: 2px dotted hsl(var(--ink) / 0.12);
-    border-right: 2px dotted hsl(var(--ink) / 0.12);
-  }
-  /* Ticket: punched half-circles on both sides */
-  .ticket {
-    --n: 11px;
-    -webkit-mask: radial-gradient(circle var(--n) at 0 62%, #0000 98%, #000) left / 51% 100% no-repeat,
-      radial-gradient(circle var(--n) at 100% 62%, #0000 98%, #000) right / 51% 100% no-repeat;
-    mask: radial-gradient(circle var(--n) at 0 62%, #0000 98%, #000) left / 51% 100% no-repeat,
-      radial-gradient(circle var(--n) at 100% 62%, #0000 98%, #000) right / 51% 100% no-repeat;
-  }
-  /* Thermal receipt: torn zig-zag bottom edge */
-  .receipt {
-    --z: 10px;
-    background: #fffdf8;
-    color: #1b1a17;
-    -webkit-mask: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / var(--z) 100%;
-    mask: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / var(--z) 100%;
-    padding-bottom: calc(var(--z) + 8px);
-  }
-  /* Paper tag with a punched hole */
-  .tag-hole {
-    position: relative;
-  }
-  .tag-hole::before {
-    content: '';
-    position: absolute;
-    top: 14px;
-    left: 14px;
-    width: 12px;
-    height: 12px;
-    border-radius: 999px;
-    border: 2px solid hsl(var(--ink));
-    background: hsl(var(--background));
-  }
-  .stamp {
-    font-family: 'Space Mono', monospace;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    border: 3px solid currentColor;
-    border-radius: 6px;
-    padding: 2px 8px;
+  .tile-hover:hover { transform: translateY(-5px) rotate(-0.5deg); }
+
+  /* Uppercase pill label above big headlines */
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    width: fit-content;
+    padding: 8px 14px 7px;
+    color: #155348;
+    background: #f9dfa0;
+    border-radius: 35% 21% 29% 20% / 37% 35% 34% 27%;
+    font-size: 0.7rem;
+    font-weight: 850;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    mix-blend-mode: multiply;
+    rotate: -3deg;
+    box-shadow: 3px 4px 0 rgba(25, 62, 55, 0.14);
   }
-  .dark .stamp {
-    mix-blend-mode: normal;
+  .eyebrow::before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 38% 62% 45% 55%;
+    background: #f4ad8d;
   }
-  .hand {
-    font-family: 'Gochi Hand', cursive;
+
+  /* The terracotta italic phrase */
+  .italic-accent {
+    font-style: italic;
+    font-weight: 500;
+    color: hsl(var(--accent));
+  }
+  /* Drawn amber underline */
+  .underline-draw {
+    position: relative;
+    display: inline-block;
+  }
+  .underline-draw::after {
+    content: '';
+    position: absolute;
+    left: 4%;
+    right: 3%;
+    bottom: -6px;
+    height: 11px;
+    border-bottom: 5px solid hsl(var(--amber));
+    border-radius: 50%;
+    transform: rotate(-2deg) scaleX(0);
+    transform-origin: left;
+    animation: underline-draw 0.8s ease-out 0.5s forwards;
+  }
+
+  /* Wavy rule between sections */
+  .wavy-rule {
+    height: 18px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='18' viewBox='0 0 150 18'%3E%3Cpath d='M0 11 Q18 0 37 9 T75 9 T112 10 T150 8' fill='none' stroke='%23afc9aa' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E") repeat-x left center;
+    opacity: 0.85;
+  }
+
+  /* Numbered section tag, e.g. "02 /" */
+  .section-index {
+    padding: 6px 10px;
+    background: #e1ddf4;
+    border-radius: 50% 45% 43% 54%;
+    color: #514b78;
+    font-size: 0.75rem;
+    font-weight: 850;
+    letter-spacing: 0.07em;
+    rotate: -8deg;
+  }
+  .dark .section-index {
+    background: #494463;
+    color: #efebff;
+  }
+
+  /* Plan timeline: dashed line with blob dots */
+  .timeline { border-left: 3px dashed #a5c49d; }
+  .dark .timeline { border-left-color: #688b64; }
+  .timeline-dot {
+    border-radius: 42% 58% 34% 66%;
+    background: #e9aa84;
+    border: 3px solid hsl(var(--background));
+  }
+
+  /* Soft color washes behind the home hero */
+  .hero-wash {
+    background:
+      radial-gradient(ellipse 460px 350px at 97% 6%, rgba(247, 194, 151, 0.3), transparent 78%),
+      radial-gradient(ellipse 700px 470px at -12% 43%, rgba(210, 225, 193, 0.3), transparent 78%);
+  }
+  .dark .hero-wash {
+    background:
+      radial-gradient(ellipse 530px 450px at 100% 3%, rgba(135, 86, 77, 0.18), transparent 80%),
+      radial-gradient(ellipse 700px 480px at -10% 43%, rgba(80, 124, 86, 0.15), transparent 80%);
   }
 }
 
-@keyframes slap {
-  0% { transform: scale(1.35) rotate(var(--r, -6deg)); opacity: 0; }
-  60% { transform: scale(0.94) rotate(var(--r, -6deg)); opacity: 1; }
-  100% { transform: scale(1) rotate(var(--r, -6deg)); opacity: 1; }
+@keyframes underline-draw {
+  to { transform: rotate(-2deg) scaleX(1); }
 }
-.slap {
-  animation: slap 220ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+
+/* Journey art (from BenefitBridge's hero) */
+.art-ribbon { stroke-dasharray: 900; stroke-dashoffset: 900; animation: ribbon-draw 2.4s cubic-bezier(0.2, 0.7, 0.2, 1) 0.2s forwards; }
+.art-blob { transform-box: fill-box; transform-origin: center; animation: art-bob 4.8s ease-in-out infinite; }
+.art-blob-two { animation-delay: -2.2s; animation-duration: 6s; }
+.art-spark { transform-box: fill-box; transform-origin: center; animation: spark-turn 12s linear infinite; }
+.art-spark-two { animation-duration: 16s; animation-direction: reverse; }
+.art-loop { stroke-dasharray: 120; stroke-dashoffset: 120; animation: ribbon-draw 1.2s ease 1.5s forwards; }
+.art-loop-two { animation-delay: 1.9s; }
+.art-dot { animation: dot-pulse 3.3s ease-in-out infinite; }
+.art-dot-two { animation-delay: -1.5s; }
+@keyframes ribbon-draw { to { stroke-dashoffset: 0; } }
+@keyframes art-bob { 0%, 100% { transform: translateY(0) rotate(-3deg); } 50% { transform: translateY(-13px) rotate(5deg); } }
+@keyframes spark-turn { to { transform: rotate(360deg); } }
+@keyframes dot-pulse { 0%, 100% { opacity: 0.5; transform: scale(0.75); } 50% { opacity: 1; transform: scale(1.25); } }
+.dotted-field {
+  background-image: radial-gradient(rgba(245, 236, 201, 0.25) 1.5px, transparent 1.5px);
+  background-size: 31px 31px;
+  -webkit-mask-image: radial-gradient(ellipse, #000, transparent 73%);
+  mask-image: radial-gradient(ellipse, #000, transparent 73%);
 }
-@keyframes print-down {
-  from { transform: translateY(-40px); clip-path: inset(0 0 100% 0); }
-  to { transform: translateY(0); clip-path: inset(0 0 0 0); }
-}
-.print-down {
-  animation: print-down 900ms steps(12, end) both;
-}
-@keyframes drop-in {
-  0% { transform: translateY(-120px); }
-  70% { transform: translateY(4px); }
-  85% { transform: translateY(-3px); }
-  100% { transform: translateY(0); }
-}
-.drop-in {
-  animation: drop-in 520ms cubic-bezier(0.3, 0.7, 0.4, 1) both;
-}
+
 /* Pen strokes that draw themselves once */
 .draw-in {
   stroke-dasharray: 400;
@@ -324,7 +351,5 @@
   animation: draw-in 700ms cubic-bezier(0.65, 0, 0.35, 1) 150ms forwards;
 }
 @keyframes draw-in {
-  to {
-    stroke-dashoffset: 0;
-  }
+  to { stroke-dashoffset: 0; }
 }

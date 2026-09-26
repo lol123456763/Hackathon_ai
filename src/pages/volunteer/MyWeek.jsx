@@ -17,11 +17,11 @@ const toMin = (hhmm) => {
 };
 // Planner blocks: a colored edge like a highlighter tab, tinted by kind.
 const KIND_STYLE = {
-  school: 'bg-paper-2 text-foreground border-l-muted-foreground',
-  homework: 'bg-[#FFE7A8] text-ink border-l-sun-deep dark:bg-sun/20 dark:text-foreground',
-  activity: 'bg-accent-soft text-ink border-l-accent dark:text-foreground',
+  school: 'bg-muted text-foreground border-l-muted-foreground',
+  homework: 'bg-tile-4 text-foreground border-l-[#d9a441]',
+  activity: 'bg-tile-2 text-foreground border-l-accent',
   personal: 'bg-card text-foreground border-l-border',
-  loop: 'bg-primary text-primary-foreground border-l-primary-deep',
+  loop: 'bg-primary text-primary-foreground border-l-amber',
 };
 
 function dayLabel(date, lang, style = 'short') {
@@ -195,7 +195,7 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
             key={s.opp_key}
             type="button"
             onClick={() => onSuggestion(s)}
-            className="absolute inset-x-1 z-10 overflow-hidden rounded-[8px] border-2 border-dashed border-accent bg-card/90 px-2 py-0.5 text-left text-xs font-bold text-accent-deep"
+            className="absolute inset-x-1 z-10 overflow-hidden rounded-[8px] border-2 border-dashed border-accent bg-card/90 px-2 py-0.5 text-left text-xs font-bold text-accent"
             style={{ top: top(s.start), height: Math.max(24, (toMin(s.end) - toMin(s.start)) * PX - 2) }}
           >
             + {lang === 'es' ? s.title_es : s.title_en}
@@ -598,7 +598,7 @@ export default function MyWeek() {
         </Button>
       </div>
 
-      <Card kind="ink" className="p-4">
+      <Card shape={1} className="p-4 shadow-offset-lg">
         <div className="flex items-start gap-2">
           <Loopy mood="think" size={40} className="-mt-1" />
           <p className="text-[15px] font-medium" aria-live="polite">
@@ -608,15 +608,15 @@ export default function MyWeek() {
           </p>
         </div>
         <dl className="mt-3 grid grid-cols-3 gap-2 text-center">
-          <div className="rounded-[14px] bg-paper-2 p-2">
+          <div className="cut-5 bg-tile-1 p-2">
             <dd className="text-lg font-extrabold text-primary">{freeH} h</dd>
             <dt className="text-[11px] text-muted-foreground">{t('week.free')}</dt>
           </div>
-          <div className="rounded-[14px] bg-paper-2 p-2">
+          <div className="cut-5 bg-tile-1 p-2">
             <dd className="text-lg font-extrabold text-primary">{plannedH} h</dd>
             <dt className="text-[11px] text-muted-foreground">{t('week.planned')}</dt>
           </div>
-          <div className="rounded-[14px] bg-paper-2 p-2">
+          <div className="cut-5 bg-tile-1 p-2">
             <dd className="text-lg font-extrabold text-primary">{pct}%</dd>
             <dt className="text-[11px] text-muted-foreground">{t('week.goalOf', { done: plannedH, goal: goalH })}</dt>
           </div>
@@ -643,7 +643,7 @@ export default function MyWeek() {
               role="tab"
               aria-selected={d.date === day.date}
               onClick={() => setSelected(d.date)}
-              className={cn('press flex min-w-[52px] flex-col items-center rounded-[16px] px-2 py-1.5 text-xs font-semibold', d.date === day.date ? 'edge-primary bg-primary text-primary-foreground' : 'bg-card')}
+              className={cn('cut-chip flex min-w-[52px] flex-col items-center border-2 px-2 py-1.5 text-xs font-semibold transition-transform hover:-translate-y-0.5', d.date === day.date ? 'border-primary bg-primary text-primary-foreground shadow-amber' : 'border-border bg-card')}
             >
               <span>{d.date === data.today ? t('week.today') : dayLabel(d.date, lang)}</span>
               <span className="text-lg font-extrabold leading-tight">{Number(d.date.slice(8))}</span>

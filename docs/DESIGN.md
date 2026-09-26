@@ -1,71 +1,50 @@
 # Loop design notes
 
-Loop is a phone app first. It should feel like a friendly paper notebook that a neighbor made. It should not look like a template.
+Loop uses **BenefitBridge's visual language**, the design Deepam built from a review of 50 professionally made sites (`legacy/benefitbridge-server/DESIGN_RESEARCH.md`, `legacy/benefitbridge-server/public/personality.css`). The goal is a friendly, hand-cut look that still reads cleanly.
 
-## What we changed and why
+## Layout
 
-Our first "personality pass" gave every card the same wobbly blob outline, put drifting gradient blobs behind the app, and faded in every list. Once every surface wobbled, the wobble stopped meaning anything and the app looked machine-made again. We also looked at how professional product teams make apps feel handmade:
-
-- **Duolingo** uses chunky buttons that press down onto a darker edge of their own color.
-- **Gumroad** and **Figma's FigJam** use flat color, hard edges and a few loud moments.
-- **Mailchimp's** old voice guide says to be helpful first, and to be funny only when it fits.
-- **Headspace** and **Monzo** give their mascot and illustrations one job each. They are not wallpaper.
-- Deepam's BenefitBridge review of 50 Siteinspire sites (`legacy/benefitbridge-server/DESIGN_RESEARCH.md`) found the same thing: a few strong type and shape choices, then restraint.
-
-The rule we use now: **different kinds of content are different paper objects**. Screens should never repeat one shape.
-
-| Content | Object | Class / prop |
-| --- | --- | --- |
-| Regular content | Soft card, 22px corners, soft shadow | `<Card>` |
-| The one thing that matters on a screen | Ink outline with a hard offset shadow | `<Card kind="ink">` (max one per screen) |
-| Tips and "what to bring" | Yellow sticky note with tape | `<Card kind="note">` |
-| Surplus food | Paper tag with a punched hole, plus a slapped rubber stamp | `<Card kind="tag">`, `.stamp.slap` |
-| Missions | Ticket with side notches | `.ticket` |
-| A finished handoff | Thermal receipt that prints down | `HandoffReceipt` in `MissionDetail.jsx` |
-| Lists (plan steps, hours log, live feed) | One sheet with dotted dividers, not a stack of cards | `divide-y-2 divide-dotted` |
+- **Computer:** a normal website. The header shows the brand, the current role's pages as links, the role switcher and the language button. Pages sit in a readable column, and the Live Loop panel (counters, map, feed) stays in a sticky column on the right. Get Help and Map use the full width.
+- **Phone:** the same pages in one column, with a tab bar at the bottom for the role's pages.
+- A rounded footer carries the 911 / 988 / 2-1-1 lines on every page.
 
 ## Color
 
-Warm paper `#FFF8EE`, ink `#1B1A17`, teal `#0E7C74` (white text), tomato `#E8503A` (ink text only), and sun `#FFC53D` for highlights and marbles. There are no gradients, purple, or rainbow category colors. Categories use three tints: teal, tomato and sun.
+| Token | Value | Use |
+| --- | --- | --- |
+| wash | `#FBF8EF` | page background, with soft peach and sage washes behind the home hero |
+| ink | `#193E37` | text |
+| primary (teal-dark) | `#155348` | secondary buttons, active tab, links |
+| accent (terracotta) | `#A9533B` | the italic tail of big headlines |
+| amber | `#F8C96E` | the one main action on a screen, with a peach `#E9A981` offset shadow |
+| tiles | `#E5EFDE` `#F8DFCA` `#E6E3F6` `#F9EBBF` `#DCECE5` | pastel fills, rotated between neighbours |
 
 ## Type
 
-- Bricolage Grotesque 800 for headings.
-- Rethink Sans for body text.
-- Gochi Hand for one handwritten note per screen, used for encouragement and never for instructions.
-- Space Mono for codes and receipts.
+- Headings: Georgia, tight tracking. Big headlines end with a terracotta italic phrase and a drawn amber underline.
+- Body: Inter.
+- Small uppercase pill labels ("eyebrows") sit above big headlines, tilted a few degrees.
 
-## Icons
+## Shapes
 
-Use `src/components/icons.jsx`: a hand-drawn ink line over a flat color fill printed 2px out of register, like a risograph. Use them for categories, tabs, section headings and travel modes. Small utility glyphs (chevrons, close, phone) can stay `lucide-react`.
+- Cards, tiles and buttons use hand-cut corners (`.cut-1` … `.cut-5`, `.cut-btn`, `.cut-chip`, `.cut-input`). Neighbours use different cuts.
+- Cards have a 2px soft border and a flat pastel offset shadow (`shadow-offset`). Amber buttons get `shadow-amber`, green buttons `shadow-mint`.
+- Need tiles are numbered (01–10), tilted, and sit at slightly different heights.
+- Sections are separated by a wavy rule, with a lavender "02 /" tag.
 
-## Loopy
+## Illustration
 
-Loopy is a teal bean with a coral scarf, drawn with an ink line over an offset fill. Moods are `wave`, `happy`, `think`, `cheer`, `sleep` and `carry`. Loopy blinks, squashes when tapped, and waves once. Loopy never appears on crisis, error or "I feel unsafe" screens.
+The green note on Get Help uses BenefitBridge's journey art: a drawn ribbon with two blob friends. It follows the pointer a little on desktop. **Loopy** is the peach blob from that art, used for loading, celebrations and "you're covered".
 
 ## Motion
 
-Motion is allowed for:
+- Headline phrases rise in.
+- The underline and the journey ribbon draw themselves.
+- Buttons lift and tilt on hover.
+- Tiles hop.
+- The tab pill slides.
+- Counters bump when they grow.
+- Hours-jar marbles drop in.
+- The mission route inks in.
 
-- button press (70ms)
-- the tab pill sliding
-- the bottom sheet springing up
-- counters hopping when they grow
-- stamps slapping
-- the receipt printing
-- marbles dropping into the hours jar
-- the route line inking in
-- the EN/ES card flipping
-
-Motion is not allowed for:
-
-- body text
-- drifting backgrounds
-- loops longer than 2s (Loopy's blink is the one exception)
-- anything on a screen where someone is asking for help
-
-Everything respects `prefers-reduced-motion`.
-
-## Voice
-
-Write like a helpful older sibling. Keep sentences short and use specific nouns ("40 lbs of bolillos", not "items"). Use at most one joke per screen, and never on need, crisis or error screens.
+Everything respects `prefers-reduced-motion`. Nothing moves on crisis or safety screens.

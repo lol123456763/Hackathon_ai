@@ -28,7 +28,7 @@ function GiveTracker({ status }) {
 
 export function LabelPreview({ en, es }) {
   return (
-    <div className="tag-hole grid gap-2 rounded-[6px_18px_18px_6px] border-2 border-dashed border-ink/40 bg-white p-3 pl-10 font-mono text-[13px] text-black">
+    <div className="cut-2 grid gap-2 border-2 border-dashed border-[#a5bdaa] bg-white p-3 font-mono text-[13px] text-black">
       <p>
         <strong>EN</strong> · {en}
       </p>
@@ -130,7 +130,7 @@ export default function PostSurplus() {
 
       {stage === 'draft' && draft && (
         <Card className="space-y-4 p-4">
-          {photo && <img src={photo} alt="" className="tilt-1 h-40 w-full rounded-[6px] border-[6px] border-card object-cover shadow-soft" />}
+          {photo && <img src={photo} alt="" className="cut-5 h-40 w-full object-cover" />}
           <div className="flex items-center gap-2">
             <h2 className="text-lg font-extrabold">{t('give.draftTitle')}</h2>
             {aiSource === 'ai' && <AiTag />}
@@ -146,7 +146,7 @@ export default function PostSurplus() {
           <fieldset className="space-y-3">
             <legend className="text-sm font-bold">{t('give.items')}</legend>
             {draft.items.map((it, i) => (
-              <div key={i} className={cn('tag-hole rounded-[6px_20px_20px_6px] border border-border bg-paper-2/60 p-3 pl-10', ['tilt-3', '', 'tilt-2'][i % 3])}>
+              <div key={i} className={cn('border-2 border-border p-3', ['cut-2 bg-tile-1', 'cut-3 bg-tile-4', 'cut-5 bg-tile-3'][i % 3])}>
                 <div className="flex gap-2">
                   <Input aria-label={t('give.itemName')} value={lang === 'es' ? it.name_es : it.name_en} onChange={(e) => setItem(i, lang === 'es' ? { name_es: e.target.value } : { name_en: e.target.value, ...(it.name_es ? {} : { name_es: e.target.value }) })} className="min-h-[44px]" />
                   <Button variant="ghost" size="icon" aria-label={t('give.remove')} onClick={() => setDraft((d) => ({ ...d, items: d.items.filter((_, j) => j !== i) }))} disabled={draft.items.length === 1}>
@@ -243,7 +243,7 @@ export default function PostSurplus() {
           <Loopy mood="carry" size={80} className="mx-auto" />
           <h2 className="text-lg font-extrabold">{t('give.postedTitle')}</h2>
           <p className="text-sm font-semibold text-muted-foreground">{t('give.code')}</p>
-          <p className="mx-auto w-fit -rotate-2 rounded-[14px] bg-[#FFE7A8] px-4 py-1 font-mono text-6xl font-extrabold tracking-[0.2em] text-ink" aria-live="polite">
+          <p className="cut-btn mx-auto w-fit -rotate-2 bg-amber px-5 py-1 font-mono text-6xl font-extrabold tracking-[0.2em] text-[#292b20] shadow-amber" aria-live="polite">
             {posted.pickup_code}
           </p>
           {liveDonation && (

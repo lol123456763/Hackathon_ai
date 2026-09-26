@@ -2,7 +2,7 @@
 // and a little bag rides the line to where the food is now.
 import { useLayoutEffect, useRef, useState } from 'react';
 import { motion, useReducedMotion } from 'framer-motion';
-import { Icon } from './icons';
+import { Store, Home } from 'lucide-react';
 
 const PROGRESS = { open: 0, claimed: 0.12, picked_up: 0.62, delivered: 1 };
 const D = 'M28 44 C 70 8, 108 70, 150 38 S 230 10, 262 40 S 300 60, 312 36';
@@ -25,7 +25,7 @@ export default function RouteString({ status, from, to }) {
         <motion.path
           d={D}
           fill="none"
-          stroke="hsl(var(--accent))"
+          stroke="#e9aa84"
           strokeWidth="4"
           strokeLinecap="round"
           initial={false}
@@ -37,10 +37,10 @@ export default function RouteString({ status, from, to }) {
           <path d="M8 10 c 0 -6 10 -6 10 0" fill="none" stroke="hsl(var(--ink))" strokeWidth="2.2" />
         </motion.g>
         <foreignObject x="4" y="46" width="48" height="34">
-          <Icon name="post" tone="tomato" className="h-7 w-7" />
+          <Store className="h-7 w-7 text-accent" />
         </foreignObject>
         <foreignObject x="296" y="40" width="44" height="40">
-          <Icon name="home" tone="teal" className="h-8 w-8" />
+          <Home className="h-8 w-8 text-teal" />
         </foreignObject>
       </svg>
       <figcaption className="-mt-1 flex justify-between text-[11px] font-bold text-muted-foreground">

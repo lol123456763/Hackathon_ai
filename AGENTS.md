@@ -13,7 +13,7 @@ This repo is **Loop**, a Base44 app coded in the repo and deployed with the Base
 7. **AI calls** go through `callAI()` in `service.js`: strict JSON schema, 12-second budget, retry once, then a rule-based or golden fallback. Prompts live in `base44/shared/prompts.js` and must forbid inventing programs, phone numbers, URLs, amounts or eligibility rules.
 8. **Never invent program data.** Resource records need an official `source_url`. Phone numbers only if confirmed on an official page. Curated programs in `base44/shared/data/programs.js` use the exact official URLs.
 9. **No secrets in the repo** (it is public). No API keys, tokens, or `.env` files. `base44/.app.jsonc` is git-ignored.
-10. **Match the surrounding code**: React function components, Tailwind classes with the design tokens in `src/index.css`, Loop's hand-drawn `Icon` set (`src/components/icons.jsx`; `lucide-react` only for small utility glyphs), 44 px minimum touch targets, visible focus states, `aria-*` labels. Read `docs/DESIGN.md` before changing how anything looks.
+10. **Match the surrounding code**: React function components, Tailwind classes with the design tokens in `src/index.css`, `lucide-react` icons, 44 px minimum touch targets, visible focus states, `aria-*` labels. Read `docs/DESIGN.md` before changing how anything looks.
 
 ## Base44 platform reference
 

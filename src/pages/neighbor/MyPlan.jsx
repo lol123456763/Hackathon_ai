@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
-import { Copy, RotateCcw, Volume2, VolumeX, Printer, Pencil, Languages, Check } from 'lucide-react';
+import { Sun, CalendarDays, FileCheck2, LifeBuoy, Copy, RotateCcw, Volume2, VolumeX, Printer, Pencil, Languages, Check } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
 import { useFlow } from '@/state/flow';
@@ -11,7 +11,6 @@ import { Alert, Button, Card, CheckItem, cn } from '@/components/ui';
 import { AiTag } from '@/components/bits';
 import ResourceCard from '@/components/ResourceCard';
 import TonightCard from '@/components/TonightCard';
-import { Icon } from '@/components/icons';
 import { Loopy } from '@/components/decor';
 import PlanLoading from '@/components/PlanLoading';
 
@@ -253,7 +252,7 @@ export default function MyPlan() {
 
       <section aria-labelledby="today-title" aria-busy={personalizing || undefined} className={cn('transition', personalizing && 'opacity-60')}>
         <div className="mb-2 flex items-center gap-2">
-          <Icon name="today" tone="sun" className="h-6 w-6" />
+          <Sun className="h-5 w-5 text-accent" aria-hidden="true" />
           <h2 id="today-title" className="text-lg font-extrabold">
             {t('plan.today')}
           </h2>
@@ -266,7 +265,7 @@ export default function MyPlan() {
       {plan.this_week.length > 0 && (
         <section aria-labelledby="week-title" className={cn('transition', personalizing && 'opacity-60')}>
           <h2 id="week-title" className="mb-2 flex items-center gap-2 text-lg font-extrabold">
-            <Icon name="week" className="h-6 w-6" /> {t('plan.thisWeek')}
+            <CalendarDays className="h-5 w-5 text-teal" aria-hidden="true" /> {t('plan.thisWeek')}
           </h2>
           <StepList t={t} steps={plan.this_week} resources={view.resources} checklist={checklist} onCheck={onCheck} prefix="week" startIndex={plan.today.length} />
         </section>
@@ -274,12 +273,12 @@ export default function MyPlan() {
 
       <section aria-labelledby="bring-title">
         <h2 id="bring-title" className="flex items-center gap-2 text-lg font-extrabold">
-          <Icon name="plan" tone="sun" className="h-6 w-6" /> {t('plan.bring')}
+          <FileCheck2 className="h-5 w-5 text-teal" aria-hidden="true" /> {t('plan.bring')}
         </h2>
         <p className="mb-2 text-sm text-muted-foreground">{t('plan.bringHint')}</p>
-        <Card kind="note" tilt={3} className="mt-4 grid gap-0.5 p-2 pt-4">
+        <Card shape={3} tone={4} className="mt-3 grid gap-1.5 p-3">
           {plan.bring.map((d, i) => (
-            <CheckItem key={i} className="border-0 bg-transparent hover:bg-ink/5" checked={!!checklist[`bring.${i}`]} onChange={(c) => onCheck(`bring.${i}`, c)}>
+            <CheckItem key={i} className="bg-card/70" checked={!!checklist[`bring.${i}`]} onChange={(c) => onCheck(`bring.${i}`, c)}>
               {d}
             </CheckItem>
           ))}
@@ -289,7 +288,7 @@ export default function MyPlan() {
       {plan.fallbacks.length > 0 && (
         <section aria-labelledby="fb-title">
           <h2 id="fb-title" className="mb-2 flex items-center gap-2 text-lg font-extrabold">
-            <Icon name="help" tone="tomato" className="h-6 w-6" /> {t('plan.fallbacks')}
+            <LifeBuoy className="h-5 w-5 text-teal" aria-hidden="true" /> {t('plan.fallbacks')}
           </h2>
           <ul className="space-y-1.5">
             {plan.fallbacks.map((f, i) => (
@@ -304,7 +303,7 @@ export default function MyPlan() {
       {plan.encouragement && (
         <div className="flex items-center gap-3 px-1">
           <Loopy mood="happy" size={56} />
-          <p className="hand -rotate-1 text-[21px] leading-tight text-primary">{plan.encouragement}</p>
+          <p className="font-display text-xl italic leading-snug text-primary">{plan.encouragement}</p>
         </div>
       )}
 

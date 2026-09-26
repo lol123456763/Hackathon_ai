@@ -20,7 +20,7 @@ export default function MyHours() {
     <div className="space-y-4 pt-2">
       <VolunteerHeader />
       {me && (
-        <Card kind="ink" className="p-4">
+        <Card shape={1} tone={1} className="p-5">
           <HoursJar hours={me.total_hours || 0} />
         </Card>
       )}
