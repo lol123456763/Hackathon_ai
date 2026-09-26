@@ -1,5 +1,11 @@
 export const categories = ['food','housing','utilities','healthcare','school_childcare','employment','transportation','cash_assistance','legal','mental_health'];
 export const situations = ['lost_job','single_parent','pregnant','veteran','senior','disability','student','unhoused','uninsured'];
+const categoryNames = {
+  food:['food','alimentos'],housing:['housing','vivienda'],utilities:['utility bills','facturas de servicios'],
+  healthcare:['healthcare','atención médica'],school_childcare:['school or child care','escuela o cuidado infantil'],
+  employment:['work','empleo'],transportation:['transportation','transporte'],cash_assistance:['cash help','ayuda en efectivo'],
+  legal:['legal help','ayuda legal'],mental_health:['mental health','salud mental']
+};
 const ranges = [
   ['NY',5,5],['PR',6,9],['VI',8,8],['MA',10,27],['RI',28,29],['NH',30,38],['ME',39,49],
   ['VT',50,59],['CT',60,69],['NJ',70,89],['NY',100,149],['PA',150,196],['DE',197,199],
@@ -110,8 +116,8 @@ export function matchResources(resources, rawProfile) {
       if (rule.requires_children && profile.children_count > 0) score += 2;
       const strength = score >= 8 ? 'very_likely' : score >= 5 ? 'possible' : 'worth_checking';
       return {...r, score, strength, matched_categories:overlap,
-        why_en:`Matches your need for ${overlap.join(', ').replaceAll('_',' ')}. Check current program rules before applying.`,
-        why_es:`Coincide con su necesidad de ${overlap.join(', ').replaceAll('_',' ')}. Confirme las reglas actuales antes de solicitar.`};
+        why_en:`Matches your need for ${overlap.map(c=>categoryNames[c][0]).join(', ')}. Check current program rules before applying.`,
+        why_es:`Coincide con su necesidad de ${overlap.map(c=>categoryNames[c][1]).join(', ')}. Confirme las reglas actuales antes de solicitar.`};
     }).sort((a,b) => b.score - a.score || a.name.localeCompare(b.name));
   const fallback = resources.find(r => r.id === '211' && r.is_active);
   return {matches:scored, fallback, state:stateFromZip(profile.zip), out_of_coverage:!stateFromZip(profile.zip)};
@@ -123,8 +129,7 @@ export function ruleBasedPlan(profile, matches, fallback) {
   const covered = new Set(first.flatMap(r => r.matched_categories));
   const next = useful.slice(3).sort((a,b) => b.matched_categories.filter(c=>!covered.has(c)).length - a.matched_categories.filter(c=>!covered.has(c)).length || b.score-a.score).slice(0,3);
   const chosen = first.concat(next);
-  const labels = {food:['food','alimentos'],housing:['housing','vivienda'],utilities:['utility bills','facturas de servicios'],healthcare:['healthcare','atención médica'],school_childcare:['school or child care','escuela o cuidado infantil'],employment:['work','empleo'],transportation:['transportation','transporte'],cash_assistance:['cash help','ayuda en efectivo'],legal:['legal help','ayuda legal'],mental_health:['mental health','salud mental']};
-  const why = r => (es?'Puede ayudar con ':'It may help with ')+r.matched_categories.map(c=>labels[c]?.[es?1:0]||c).join(', ')+'.';
+  const why = r => (es?'Puede ayudar con ':'It may help with ')+r.matched_categories.map(c=>categoryNames[c]?.[es?1:0]||c).join(', ')+'.';
   const today = first.map(r => ({resource_id:r.id,
     action:es?`Visite la página oficial de ${r.name} para ver cómo empezar hoy.`:`Visit the official ${r.name} page to see how to start today.`,
     why:why(r)}));

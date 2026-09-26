@@ -13,7 +13,7 @@ cp .env.example .env
 npm start
 ```
 
-On Windows PowerShell, set environment variables directly (`$env:ADMIN_TOKEN = '...'`) or load your `.env` with your preferred local tooling. The app does not parse `.env` itself. Open <http://localhost:3000>.
+On Windows PowerShell, copy the file with `Copy-Item .env.example .env`, edit it, and run `npm start`. Node loads `.env` automatically. Open <http://localhost:3000>.
 
 The SQLite database is created in `data/` by default. Set `DATA_DIR` to a persistent writable directory in production. Put the app behind HTTPS and a reverse proxy. Configure `ADMIN_TOKEN` in the host's secret manager; do not commit it. Without it, `/admin` stays locked. The site works without an OpenAI key using local text extraction and a rule-based action plan. If a key is set, the server calls the OpenAI Responses API with `store: false`; extraction and plan generation fall back to local rules on failure.
 
