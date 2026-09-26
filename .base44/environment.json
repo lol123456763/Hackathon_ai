@@ -1,0 +1,22 @@
+{
+  "previewPort": 3000,
+  "healthPath": "/api/health",
+  "startCommand": "docker compose -f docker-compose.base44.yml up -d",
+  "secrets": [
+    {
+      "name": "GEMINI_API_KEY",
+      "description": "Enables AI extraction, action-plan writing, and plain-language explanations (Google AI Studio API key). Optional: without it the app uses local rule-based extraction and plans.",
+      "requiredAtBoot": false
+    },
+    {
+      "name": "OPENAI_API_KEY",
+      "description": "Optional alternative AI provider used only when GEMINI_API_KEY is not set (OpenAI Platform API key).",
+      "requiredAtBoot": false
+    },
+    {
+      "name": "ADMIN_TOKEN",
+      "description": "Optional: enables /admin with a token of at least 24 characters. Leave unset to keep the admin dashboard disabled.",
+      "requiredAtBoot": false
+    }
+  ]
+}
