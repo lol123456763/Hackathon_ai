@@ -12,7 +12,7 @@ import { EXAMPLE_TEXT } from '@shared/golden.js';
 import { Alert, Button, Card, Textarea, cn } from '@/components/ui';
 import CrisisPanel from '@/components/CrisisPanel';
 import { motion } from 'framer-motion';
-import { Loopy, Squiggle, DoodleArrow, Stagger, staggerItem } from '@/components/decor';
+import { Loopy, Squiggle, DoodleArrow } from '@/components/decor';
 
 /** Wrap the highlighted phrase of a sentence in a hand-drawn squiggle. */
 function Highlight({ text, hl }) {
@@ -143,10 +143,10 @@ export default function GetHelp() {
           </h1>
           <Loopy mood="wave" size={74} className="-mr-1 -mt-1 shrink-0" />
         </div>
-        <p className="hand mt-3 -rotate-2 text-[1.6rem] leading-none text-accent">{t('help.subtitle')}</p>
+        <p className="hand mt-3 -rotate-2 text-[1.6rem] leading-none text-accent-deep">{t('help.subtitle')}</p>
       </div>
 
-      <Card className="relative p-4" shape={1}>
+      <Card kind="ink" className="p-4">
         <DoodleArrow className="absolute -top-9 right-4 rotate-[100deg]" />
         <form
           onSubmit={(e) => {
@@ -208,38 +208,36 @@ export default function GetHelp() {
         <h2 id="pick-title" className="text-center text-sm font-bold uppercase tracking-wide text-muted-foreground">
           {t('help.or')}
         </h2>
-        <Stagger className="mt-3 grid grid-cols-2 gap-2.5">
+        <div className="mt-3 grid grid-cols-2 gap-2.5">
           {CATEGORIES.map((cat, i) => {
             const { icon: Icon, tint } = CATEGORY_META[cat];
             const on = picked.includes(cat);
             return (
               <motion.button
                 key={cat}
-                variants={staggerItem}
-                whileHover={{ y: -3, rotate: i % 2 ? 1.5 : -1.5, scale: 1.03 }}
-                whileTap={{ scale: 0.93 }}
-                style={{ rotate: i % 3 === 0 ? -0.8 : i % 3 === 1 ? 0.7 : 0 }}
+                whileTap={{ scale: 0.95 }}
+                style={{ rotate: [-0.8, 0.6, 0, 0.9, -0.4][i % 5] }}
                 type="button"
                 aria-pressed={on}
                 onClick={() => {
                   setError(null);
                   setPicked((p) => (p.includes(cat) ? p.filter((c) => c !== cat) : [...p, cat]));
                 }}
-                className={cn(['organic', 'organic-2', 'organic-3', 'organic-4'][i % 4], 'ink relative flex min-h-[64px] items-center gap-2 border border-foreground/10 bg-card p-3 text-left text-sm font-bold transition-colors', on && 'border-primary bg-primary-soft ring-2 ring-primary')}
+                className={cn('relative flex min-h-[64px] items-center gap-2.5 rounded-[18px] border-2 bg-card p-2.5 text-left text-sm font-bold shadow-soft transition-colors', on ? 'border-primary bg-primary-soft' : 'border-transparent')}
               >
-                <span className={cn('flex h-10 w-10 shrink-0 items-center justify-center', on ? 'animate-morph' : 'rounded-[40%_60%_55%_45%/45%_40%_60%_55%]', tint)}>
-                  <Icon className="h-5 w-5" aria-hidden="true" />
+                <span className={cn('flex h-11 w-11 shrink-0 items-center justify-center rounded-[14px]', tint)}>
+                  <Icon className="h-7 w-7" />
                 </span>
                 <span className="leading-tight">{t(`categories.${cat}`)}</span>
                 {on && (
-                  <motion.span initial={{ scale: 0, rotate: -90 }} animate={{ scale: 1, rotate: 0 }} className="absolute -right-1.5 -top-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-accent text-white shadow">
+                  <motion.span initial={{ scale: 0, rotate: -90 }} animate={{ scale: 1, rotate: 0 }} className="absolute -right-1.5 -top-1.5 flex h-6 w-6 items-center justify-center rounded-full border-2 border-card bg-primary text-primary-foreground">
                     <Check className="h-3.5 w-3.5" strokeWidth={3.5} aria-hidden="true" />
                   </motion.span>
                 )}
               </motion.button>
             );
           })}
-        </Stagger>
+        </div>
         <Button className="mt-3 w-full" onClick={continueWithCategories} disabled={!picked.length}>
           {picked.length ? t('help.continueCount', { count: picked.length }) : t('help.continue')} <ArrowRight className="h-5 w-5" aria-hidden="true" />
         </Button>

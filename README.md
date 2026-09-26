@@ -74,7 +74,7 @@ npx base44 login                 # sign in to the Base44 account that will own t
 npx base44 link --create -n Loop # creates the app and links this folder (writes base44/.app.jsonc, not committed)
 npm run build
 npx base44 deploy -y             # pushes entities, the app function, and the site
-npm run seed                     # loads data/resources.json into the Resource table
+                                 # the app loads data/resources.json into the Resource table on first use
 ```
 
 Open the app URL that `deploy` prints. The demo neighborhood seeds itself on first load. After that, every merge to `main` is deployed with `npm run build && npx base44 deploy -y`.

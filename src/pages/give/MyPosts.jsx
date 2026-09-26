@@ -17,9 +17,14 @@ export default function MyPosts() {
         </Card>
       )}
       <ul className="space-y-3">
-        {posts.map((d) => (
+        {posts.map((d, i) => (
           <li key={d.key}>
-            <Card className="p-4">
+            <Card kind="tag" tilt={[1, 2, 3][i % 3]} className="overflow-hidden p-4">
+              {d.status !== 'posted' && (
+                <span className="stamp slap pointer-events-none absolute bottom-3 right-4 text-lg text-primary" style={{ '--r': `${[-8, 5, -3, 7][i % 4]}deg` }} aria-hidden="true">
+                  {d.status === 'delivered' ? t('give.stamp.delivered') : t('give.stamp.claimed')}
+                </span>
+              )}
               <div className="flex items-start justify-between gap-2">
                 <div>
                   <p className="font-bold">{d.items.map((i) => (lang === 'es' ? i.name_es : i.name_en)).join(', ')}</p>
@@ -28,7 +33,7 @@ export default function MyPosts() {
                     {d.sample && ` · ${t('demo.sample')}`}
                   </p>
                 </div>
-                <Badge variant={d.status === 'delivered' ? 'success' : d.status === 'posted' ? 'accent' : 'primary'}>{t(`give.status.${d.status}`)}</Badge>
+                <Badge variant={d.status === 'delivered' ? 'success' : d.status === 'posted' ? 'accent' : 'primary'} className={d.status !== 'posted' ? 'sr-only' : undefined}>{t(`give.status.${d.status}`)}</Badge>
               </div>
               {['posted', 'matched'].includes(d.status) && d.pickup_code && (
                 <p className="mt-2 text-sm">

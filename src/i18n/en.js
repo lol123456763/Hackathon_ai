@@ -317,6 +317,7 @@ export default {
     },
   },
   give: {
+    stamp: { claimed: 'Claimed', delivered: 'Delivered' },
     title: 'Share surplus food',
     subtitle: 'Snap a photo. AI drafts the post. You confirm. Takes about 10 seconds.',
     takePhoto: 'Take photo',
@@ -411,6 +412,8 @@ export default {
     wrongCode: "That code doesn't match. Check with the business or the Loop sign and try again.",
     outsideWindow: 'This mission’s time window has passed.',
     done: 'Done',
+    receipt: { title: 'HANDOFF', from: 'From', to: 'To', food: 'Food', meals: 'Meals', families: 'Families', hours: 'Hours', each: 'each', verified: 'Both codes checked' },
+    jar: { label: 'Hours jar: {hours} verified hours', verified: 'verified hours', next: '{left} h to {goal}!', full: 'Jar full. Legend.' },
     celebrate: 'Mission complete!',
     celebrateLine: '{lbs} lbs recovered · about {meals} meals · {families} family covered tonight · +{hours} verified hours each for {names}',
     thanksTitle: 'Thank-you notes',
@@ -580,6 +583,7 @@ export default {
   },
   map: {
     title: 'Live Loop',
+    latest: 'Just now',
     layers: { hubs: 'Hubs', givers: 'Surplus', missions: 'Missions', events: 'Events' },
     lbsOpen: '{lbs} lbs open',
     privacy: 'Neighbors are never shown on the map — only counts at hubs.',

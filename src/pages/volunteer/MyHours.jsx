@@ -7,6 +7,7 @@ import { fmtHours } from '@/lib/format';
 import { Button, Card } from '@/components/ui';
 import VolunteerHeader from '@/components/VolunteerHeader';
 import ImpactCard from '@/components/ImpactCard';
+import HoursJar from '@/components/HoursJar';
 
 export default function MyHours() {
   const { t, lang } = useI18n();
@@ -18,6 +19,11 @@ export default function MyHours() {
   return (
     <div className="space-y-4 pt-2">
       <VolunteerHeader />
+      {me && (
+        <Card kind="ink" className="p-4">
+          <HoursJar hours={me.total_hours || 0} />
+        </Card>
+      )}
       <div className="no-print flex flex-wrap gap-2">
         <Button variant="outline" size="sm" onClick={() => window.print()}>
           <Printer className="h-4 w-4" aria-hidden="true" /> {t('vol.printLog')}
@@ -37,10 +43,10 @@ export default function MyHours() {
         {!log.length ? (
           <Card className="mt-2 p-4 text-muted-foreground">{t('vol.logEmpty')}</Card>
         ) : (
-          <ul className="mt-2 space-y-2">
+          <ul className="mt-2 divide-y-2 divide-dotted divide-border rounded-[20px] bg-card px-3 shadow-soft">
             {log.map((e, i) => (
               <li key={`${e.key}-${i}`}>
-                <Card className="p-3">
+                <div className="py-3">
                   <div className="flex items-start justify-between gap-2">
                     <div>
                       <p className="font-semibold">{lang === 'es' ? e.title_es : e.title_en}</p>
@@ -53,7 +59,7 @@ export default function MyHours() {
                     </div>
                     <p className="shrink-0 text-lg font-extrabold text-primary">+{fmtHours(e.hours)} h</p>
                   </div>
-                </Card>
+                </div>
               </li>
             ))}
           </ul>

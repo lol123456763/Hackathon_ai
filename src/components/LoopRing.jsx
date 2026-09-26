@@ -27,9 +27,9 @@ export default function LoopRing({ closed = false, animate = false, size = 36, c
   const dash = isClosed ? `${full} ${C}` : `${open} ${C}`;
   return (
     <svg viewBox="0 0 64 64" width={size} height={size} className={cn(isClosed && 'loop-closed', className)} role={title ? 'img' : undefined} aria-hidden={title ? undefined : true} aria-label={title}>
-      <circle className="loop-arc" cx="32" cy="32" r={R} fill="none" stroke="#0F766E" strokeWidth="8" strokeLinecap={isClosed ? 'butt' : 'round'} strokeDasharray={dash} style={{ transform: `rotate(${isClosed ? -90 : -100}deg)` }} />
-      <circle className="loop-arc" cx="32" cy="32" r={R} fill="none" stroke="#C2410C" strokeWidth="8" strokeLinecap={isClosed ? 'butt' : 'round'} strokeDasharray={dash} style={{ transform: `rotate(${isClosed ? 90 : 80}deg)` }} />
-      <path className="loop-check" d="M23 33 l6 6 l12 -13" fill="none" stroke="#15803D" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round" />
+      <circle className="loop-arc" cx="32" cy="32" r={R} fill="none" stroke="#0E7C74" strokeWidth="8" strokeLinecap={isClosed ? 'butt' : 'round'} strokeDasharray={dash} style={{ transform: `rotate(${isClosed ? -90 : -100}deg)` }} />
+      <circle className="loop-arc" cx="32" cy="32" r={R} fill="none" stroke="#E8503A" strokeWidth="8" strokeLinecap={isClosed ? 'butt' : 'round'} strokeDasharray={dash} style={{ transform: `rotate(${isClosed ? 90 : 80}deg)` }} />
+      <path className="loop-check" d="M23 33 l6 6 l12 -13" fill="none" stroke="#1F7A4D" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
 }

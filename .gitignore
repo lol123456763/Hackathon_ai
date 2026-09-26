@@ -26,3 +26,6 @@ base44/.app.jsonc
 # Logs
 *.log
 npm-debug.log*
+
+# Generated at build time (copy of data/resources.json)
+public/data/

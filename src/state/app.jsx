@@ -6,7 +6,7 @@ import { storage } from '@/lib/storage';
 import { useI18n } from '@/i18n';
 
 const AppContext = createContext(null);
-const POLL_MS = 2500;
+const POLL_MS = 3000;
 
 const DEFAULT_IDENTITIES = { neighbor: 'me', give: 'maple-masa', volunteer: 'jordan', hub: 'riverside-fridge' };
 

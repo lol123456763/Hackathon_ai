@@ -317,6 +317,7 @@ export default {
     },
   },
   give: {
+    stamp: { claimed: 'Apartado', delivered: 'Entregado' },
     title: 'Comparte comida que te sobra',
     subtitle: 'Toma una foto. La IA prepara la publicación. Tú confirmas. Unos 10 segundos.',
     takePhoto: 'Tomar foto',
@@ -411,6 +412,8 @@ export default {
     wrongCode: 'Ese código no coincide. Revisa con el negocio o en el letrero de Loop e intenta otra vez.',
     outsideWindow: 'Ya pasó el horario de esta misión.',
     done: 'Listo',
+    receipt: { title: 'ENTREGA', from: 'De', to: 'Para', food: 'Comida', meals: 'Comidas', families: 'Familias', hours: 'Horas', each: 'c/u', verified: 'Dos códigos revisados' },
+    jar: { label: 'Frasco de horas: {hours} horas verificadas', verified: 'horas verificadas', next: '¡{left} h para {goal}!', full: 'Frasco lleno. Leyenda.' },
     celebrate: '¡Misión cumplida!',
     celebrateLine: '{lbs} lbs rescatadas · unas {meals} comidas · {families} familia con cena esta noche · +{hours} horas verificadas para {names}',
     thanksTitle: 'Notas de agradecimiento',
@@ -580,6 +583,7 @@ export default {
   },
   map: {
     title: 'Loop en vivo',
+    latest: 'Ahorita',
     layers: { hubs: 'Centros', givers: 'Comida', missions: 'Misiones', events: 'Eventos' },
     lbsOpen: '{lbs} lbs disponibles',
     privacy: 'Los vecinos nunca aparecen en el mapa — solo conteos en los centros.',

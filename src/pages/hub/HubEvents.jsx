@@ -17,7 +17,7 @@ export default function HubEvents() {
           <li key={e.key}>
             <Card className="p-4">
               <p className="flex items-center gap-2 font-bold">
-                <CalendarDays className="h-4 w-4 text-violet-600" aria-hidden="true" /> {lang === 'es' ? e.title_es : e.title_en}
+                <CalendarDays className="h-4 w-4 text-accent-deep" aria-hidden="true" /> {lang === 'es' ? e.title_es : e.title_en}
               </p>
               <p className="text-sm text-muted-foreground">
                 {new Date(`${e.date}T12:00:00`).toLocaleDateString(lang === 'es' ? 'es-US' : 'en-US', { weekday: 'short', month: 'short', day: 'numeric' })} · {hhmmLabel(e.start, lang)}–{hhmmLabel(e.end, lang)}

@@ -1,7 +1,8 @@
 // Loop-specific building blocks: AI tag, status tracker, code input with demo chip, rolling counters,
 // sparkline, bottom sheet and toasts.
 import { useEffect, useId, useRef, useState } from 'react';
-import { Sparkles, Check, X } from 'lucide-react';
+import { motion } from 'framer-motion';
+import { Check, X } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
 import { TRACKER_STEPS } from '@shared/constants.js';
@@ -14,16 +15,16 @@ export function AiTag({ className }) {
     <span className={cn('relative inline-flex', className)}>
       <button
         type="button"
-        className="inline-flex items-center gap-1 rounded-full bg-accent-soft px-2 py-0.5 text-xs font-bold text-accent"
+        className="inline-flex items-center gap-1 rounded-[6px] border border-dashed border-muted-foreground/60 px-1.5 py-0.5 text-[11px] font-bold text-muted-foreground"
         onClick={() => setOpen((o) => !o)}
         onBlur={() => setOpen(false)}
         aria-label={`${t('ai.tag')}: ${t('ai.tooltip')}`}
         title={t('ai.tooltip')}
       >
-        <Sparkles className="h-3 w-3" aria-hidden="true" /> {t('ai.tag')}
+        {t('ai.tag')}
       </button>
       {open && (
-        <span role="tooltip" className="absolute left-0 top-7 z-30 w-56 rounded-lg bg-foreground p-2 text-xs font-medium text-background shadow-lift">
+        <span role="tooltip" className="absolute left-0 top-7 z-30 w-56 rounded-[12px] bg-foreground p-2 text-xs font-medium text-background shadow-lift">
           {t('ai.tooltip')}
         </span>
       )}
@@ -74,7 +75,7 @@ export function CodeInput({ label, value, onChange, demoCode, error, onEnter }) 
           {label}
         </label>
         {demoCode && !hideHelpers && (
-          <button type="button" onClick={() => onChange(demoCode)} className="rounded-full border border-dashed border-accent px-2.5 py-1 text-xs font-bold text-accent hover:bg-accent-soft">
+          <button type="button" onClick={() => onChange(demoCode)} className="rounded-full border-2 border-dashed border-accent px-2.5 py-1 text-xs font-bold text-accent-deep hover:bg-accent-soft">
             {t('demo.chip', { code: demoCode })}
           </button>
         )}
@@ -90,7 +91,7 @@ export function CodeInput({ label, value, onChange, demoCode, error, onEnter }) 
         aria-invalid={!!error || undefined}
         aria-describedby={error ? `${id}-err` : undefined}
         className={cn(
-          'mt-1 h-14 w-full rounded-xl border border-input bg-card text-center font-mono text-3xl font-bold tracking-[0.5em] focus:border-primary focus:outline-none focus:ring-2 focus:ring-ring/30',
+          'mt-1 h-14 w-full rounded-[14px] border-2 border-input bg-card text-center font-mono text-3xl font-bold tracking-[0.5em] focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/15',
           error && 'border-danger',
         )}
       />
@@ -163,16 +164,20 @@ export function Sheet({ open, onClose, title, children }) {
   }, [open, onClose]);
   if (!open) return null;
   return (
-    <div className="fixed inset-0 z-40 flex items-end lg:absolute justify-center bg-black/40 sm:items-center" onClick={onClose}>
-      <div
+    <div className="fixed inset-0 z-40 flex items-end lg:absolute justify-center bg-ink/40 sm:items-center" onClick={onClose}>
+      <motion.div
         ref={ref}
         tabIndex={-1}
         role="dialog"
         aria-modal="true"
         aria-label={title}
         onClick={(e) => e.stopPropagation()}
-        className="max-h-[92%] w-full max-w-md animate-fade-up overflow-y-auto rounded-t-2xl bg-card p-5 shadow-lift focus:outline-none sm:rounded-2xl"
+        initial={{ y: 60, opacity: 0.6 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ type: 'spring', stiffness: 420, damping: 32 }}
+        className="max-h-[92%] w-full max-w-md overflow-y-auto rounded-t-[28px] bg-card p-5 pt-3 shadow-lift focus:outline-none sm:rounded-[28px]"
       >
+        <span className="mx-auto mb-2 block h-1.5 w-10 rounded-full bg-border sm:hidden" aria-hidden="true" />
         <div className="mb-3 flex items-start justify-between gap-3">
           <h2 className="text-lg font-bold">{title}</h2>
           <button type="button" onClick={onClose} className="-mr-2 -mt-1 flex h-10 w-10 items-center justify-center rounded-full hover:bg-muted" aria-label="Close">
@@ -180,7 +185,7 @@ export function Sheet({ open, onClose, title, children }) {
           </button>
         </div>
         {children}
-      </div>
+      </motion.div>
     </div>
   );
 }
@@ -207,7 +212,7 @@ export function Toasts() {
 /** Gentle teal + coral confetti (skipped under reduced motion). */
 export function Confetti() {
   const [pieces] = useState(() =>
-    Array.from({ length: 36 }, (_, i) => ({ left: (i * 37) % 100, delay: (i % 9) * 0.08, color: i % 2 ? '#0F766E' : '#C2410C', rot: (i * 47) % 360, size: 6 + (i % 4) * 2 })),
+    Array.from({ length: 36 }, (_, i) => ({ left: (i * 37) % 100, delay: (i % 9) * 0.08, color: ['#0E7C74', '#E8503A', '#FFC53D'][i % 3], rot: (i * 47) % 360, size: 6 + (i % 4) * 2 })),
   );
   if (typeof window !== 'undefined' && window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) return null;
   return (

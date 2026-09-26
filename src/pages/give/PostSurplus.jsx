@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
-import { Camera, Upload, Image as ImageIcon, Plus, Trash2, AlertTriangle, Tag, CheckCircle2, Info, ExternalLink } from 'lucide-react';
+import { Camera, Upload, Image as ImageIcon, Plus, Trash2, AlertTriangle, Tag, Info, ExternalLink } from 'lucide-react';
 import { useI18n } from '@/i18n';
+import { Loopy } from '@/components/decor';
 import { useApp } from '@/state/app';
 import { fileToJpegDataUrl, urlToPngDataUrl } from '@/lib/image';
 import { hhmmLabel } from '@/lib/format';
@@ -17,7 +18,7 @@ function GiveTracker({ status }) {
   return (
     <ol className="grid grid-cols-4 gap-1 text-center text-[11px] font-semibold">
       {GIVE_STEPS.map((s, i) => (
-        <li key={s} className={cn('rounded-lg px-1 py-1.5', i <= idx ? 'bg-primary text-primary-foreground' : 'bg-muted text-muted-foreground')} aria-current={i === idx ? 'step' : undefined}>
+        <li key={s} className={cn('rounded-full px-1 py-1.5', i <= idx ? 'bg-primary text-primary-foreground' : 'bg-muted text-muted-foreground')} aria-current={i === idx ? 'step' : undefined}>
           {t(`give.status.${s}`)}
         </li>
       ))}
@@ -27,7 +28,7 @@ function GiveTracker({ status }) {
 
 export function LabelPreview({ en, es }) {
   return (
-    <div className="grid gap-2 rounded-xl border-2 border-dashed border-foreground/40 bg-white p-3 font-mono text-[13px] text-black">
+    <div className="tag-hole grid gap-2 rounded-[6px_18px_18px_6px] border-2 border-dashed border-ink/40 bg-white p-3 pl-10 font-mono text-[13px] text-black">
       <p>
         <strong>EN</strong> · {en}
       </p>
@@ -129,7 +130,7 @@ export default function PostSurplus() {
 
       {stage === 'draft' && draft && (
         <Card className="space-y-4 p-4">
-          {photo && <img src={photo} alt="" className="h-40 w-full rounded-xl object-cover" />}
+          {photo && <img src={photo} alt="" className="tilt-1 h-40 w-full rounded-[6px] border-[6px] border-card object-cover shadow-soft" />}
           <div className="flex items-center gap-2">
             <h2 className="text-lg font-extrabold">{t('give.draftTitle')}</h2>
             {aiSource === 'ai' && <AiTag />}
@@ -142,37 +143,39 @@ export default function PostSurplus() {
             </Alert>
           )}
 
-          <fieldset className="space-y-2">
+          <fieldset className="space-y-3">
             <legend className="text-sm font-bold">{t('give.items')}</legend>
             {draft.items.map((it, i) => (
-              <div key={i} className="rounded-xl border p-3">
+              <div key={i} className={cn('tag-hole rounded-[6px_20px_20px_6px] border border-border bg-paper-2/60 p-3 pl-10', ['tilt-3', '', 'tilt-2'][i % 3])}>
                 <div className="flex gap-2">
                   <Input aria-label={t('give.itemName')} value={lang === 'es' ? it.name_es : it.name_en} onChange={(e) => setItem(i, lang === 'es' ? { name_es: e.target.value } : { name_en: e.target.value, ...(it.name_es ? {} : { name_es: e.target.value }) })} className="min-h-[44px]" />
                   <Button variant="ghost" size="icon" aria-label={t('give.remove')} onClick={() => setDraft((d) => ({ ...d, items: d.items.filter((_, j) => j !== i) }))} disabled={draft.items.length === 1}>
                     <Trash2 className="h-4 w-4" aria-hidden="true" />
                   </Button>
                 </div>
-                <div className="mt-2 grid grid-cols-3 gap-2">
-                  <Input aria-label={t('give.qty')} value={it.quantity_text} onChange={(e) => setItem(i, { quantity_text: e.target.value })} className="min-h-[40px] text-sm" />
-                  <label className="flex items-center gap-1 text-xs">
-                    <Input type="number" min={0} step={0.5} aria-label={t('give.lbs')} value={it.est_lbs} onChange={(e) => setItem(i, { est_lbs: Number(e.target.value) })} className="min-h-[40px] px-2 text-sm" />
-                    lbs
+                <div className="mt-2 grid grid-cols-[1fr_88px] gap-2">
+                  <Input aria-label={t('give.qty')} value={it.quantity_text} onChange={(e) => setItem(i, { quantity_text: e.target.value })} className="min-h-[40px] px-3 text-sm" />
+                  <label className="relative">
+                    <Input type="number" min={0} step={0.5} aria-label={t('give.lbs')} value={it.est_lbs} onChange={(e) => setItem(i, { est_lbs: Number(e.target.value) })} className="min-h-[40px] px-3 pr-9 text-sm" />
+                    <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-xs font-bold text-muted-foreground">lbs</span>
                   </label>
-                  <select aria-label="storage" value={it.storage} onChange={(e) => setItem(i, { storage: e.target.value })} className="min-h-[40px] rounded-xl border border-input bg-card px-1 text-xs">
+                </div>
+                <div className="mt-2 grid grid-cols-2 gap-2">
+                  <select aria-label="storage" value={it.storage} onChange={(e) => setItem(i, { storage: e.target.value })} className="min-h-[40px] w-full rounded-[12px] border-2 border-input bg-card px-2 text-xs font-semibold">
                     {STORAGE_TYPES.map((s) => (
                       <option key={s} value={s}>
                         {t(`give.storage.${s}`)}
                       </option>
                     ))}
                   </select>
-                </div>
-                <select aria-label="category" value={it.category} onChange={(e) => setItem(i, { category: e.target.value })} className="mt-2 min-h-[36px] rounded-lg border border-input bg-card px-2 text-xs">
+                <select aria-label="category" value={it.category} onChange={(e) => setItem(i, { category: e.target.value })} className="min-h-[40px] w-full rounded-[12px] border-2 border-input bg-card px-2 text-xs font-semibold">
                   {ITEM_CATEGORIES.map((c) => (
                     <option key={c} value={c}>
                       {t(`give.category.${c}`)}
                     </option>
                   ))}
                 </select>
+                </div>
               </div>
             ))}
             <Button variant="ghost" size="sm" onClick={() => setDraft((d) => ({ ...d, items: [...d.items, { name_en: '', name_es: '', quantity_text: '', est_lbs: 0, category: 'other', storage: 'shelf_stable' }] }))}>
@@ -237,10 +240,10 @@ export default function PostSurplus() {
 
       {stage === 'posted' && posted && (
         <Card className="space-y-4 p-4 text-center">
-          <CheckCircle2 className="mx-auto h-10 w-10 text-success" aria-hidden="true" />
+          <Loopy mood="carry" size={80} className="mx-auto" />
           <h2 className="text-lg font-extrabold">{t('give.postedTitle')}</h2>
           <p className="text-sm font-semibold text-muted-foreground">{t('give.code')}</p>
-          <p className="font-mono text-6xl font-extrabold tracking-[0.2em] text-primary" aria-live="polite">
+          <p className="mx-auto w-fit -rotate-2 rounded-[14px] bg-[#FFE7A8] px-4 py-1 font-mono text-6xl font-extrabold tracking-[0.2em] text-ink" aria-live="polite">
             {posted.pickup_code}
           </p>
           {liveDonation && (

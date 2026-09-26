@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Sparkles, Plus, Upload, SlidersHorizontal, Check, ArrowRightLeft, X, Users, MapPin, Home, Flame, Clock, CalendarPlus, FileUp } from 'lucide-react';
+import { Plus, Upload, SlidersHorizontal, Check, ArrowRightLeft, X, Users, MapPin, Home, Flame, Clock, CalendarPlus, FileUp } from 'lucide-react';
 import { useI18n, joinList } from '@/i18n';
 import { useApp } from '@/state/app';
+import { Loopy } from '@/components/decor';
 import { hhmmLabel, fmtHours } from '@/lib/format';
 import { AiTag, CodeInput, Sheet } from '@/components/bits';
 import { Alert, Button, Card, CheckItem, Chip, Input, Skeleton, Textarea, cn } from '@/components/ui';
@@ -14,12 +15,13 @@ const toMin = (hhmm) => {
   const [h, m] = String(hhmm).split(':').map(Number);
   return h * 60 + m;
 };
+// Planner blocks: a colored edge like a highlighter tab, tinted by kind.
 const KIND_STYLE = {
-  school: 'bg-slate-200 text-slate-800 border-slate-300 dark:bg-slate-700 dark:text-slate-100',
-  homework: 'bg-violet-100 text-violet-900 border-violet-200 dark:bg-violet-900/50 dark:text-violet-100',
-  activity: 'bg-sky-100 text-sky-900 border-sky-200 dark:bg-sky-900/50 dark:text-sky-100',
-  personal: 'bg-stone-100 text-stone-800 border-stone-200 dark:bg-stone-800 dark:text-stone-100',
-  loop: 'bg-primary text-primary-foreground border-primary',
+  school: 'bg-paper-2 text-foreground border-l-muted-foreground',
+  homework: 'bg-[#FFE7A8] text-ink border-l-sun-deep dark:bg-sun/20 dark:text-foreground',
+  activity: 'bg-accent-soft text-ink border-l-accent dark:text-foreground',
+  personal: 'bg-card text-foreground border-l-border',
+  loop: 'bg-primary text-primary-foreground border-l-primary-deep',
 };
 
 function dayLabel(date, lang, style = 'short') {
@@ -167,7 +169,7 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
           <div key={h} className="absolute inset-x-0 border-t border-dashed border-border/70" style={{ top: (h * 60 - DAY_START) * PX }} />
         ))}
         {day.free.map((w) => (
-          <div key={w.start} className="organic-3 absolute inset-x-1 bg-success-soft/70" style={{ top: top(w.start), height: Math.max(12, (toMin(w.end) - toMin(w.start)) * PX) }}>
+          <div key={w.start} className="absolute inset-x-1 rounded-[10px] bg-[repeating-linear-gradient(-45deg,hsl(var(--success-soft))_0_6px,transparent_6px_12px)]" style={{ top: top(w.start), height: Math.max(12, (toMin(w.end) - toMin(w.start)) * PX) }}>
             {w.minutes >= 45 && <span className="absolute right-2 top-1 text-[10px] font-semibold text-success">{t('week.freeWindow', { start: hhmmLabel(w.start, lang), end: hhmmLabel(w.end, lang) })}</span>}
           </div>
         ))}
@@ -181,10 +183,9 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
             key={b.key}
             type="button"
             onClick={() => onBlock(b)}
-            className={cn('organic-btn absolute inset-x-1 z-10 overflow-hidden border px-2 py-0.5 text-left text-xs font-semibold shadow-sm transition hover:brightness-95', KIND_STYLE[b.kind] || KIND_STYLE.personal, b.status === 'done' && 'opacity-70')}
+            className={cn('absolute inset-x-1 z-10 overflow-hidden rounded-[8px] border-l-4 px-2 py-0.5 text-left text-xs font-semibold transition hover:brightness-95', KIND_STYLE[b.kind] || KIND_STYLE.personal, b.status === 'done' && 'opacity-70')}
             style={{ top: top(b.start), height: Math.max(22, (toMin(b.end) - toMin(b.start)) * PX - 2) }}
           >
-            {b.kind === 'loop' && <Sparkles className="mr-1 inline h-3 w-3" aria-hidden="true" />}
             {b.kind === 'loop' && lang === 'es' && b.title_es ? b.title_es : b.title} <span className="font-normal opacity-80">{hhmmLabel(b.start, lang)}–{hhmmLabel(b.end, lang)}</span>
             {b.status === 'done' && ' ✓'}
           </button>
@@ -194,10 +195,10 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
             key={s.opp_key}
             type="button"
             onClick={() => onSuggestion(s)}
-            className="organic-2 absolute inset-x-1 z-10 overflow-hidden border-2 border-dashed border-accent motion-safe:animate-pulse bg-accent-soft/90 px-2 py-0.5 text-left text-xs font-bold text-accent"
+            className="absolute inset-x-1 z-10 overflow-hidden rounded-[8px] border-2 border-dashed border-accent bg-card/90 px-2 py-0.5 text-left text-xs font-bold text-accent-deep"
             style={{ top: top(s.start), height: Math.max(24, (toMin(s.end) - toMin(s.start)) * PX - 2) }}
           >
-            ✦ {lang === 'es' ? s.title_es : s.title_en}
+            + {lang === 'es' ? s.title_es : s.title_en}
           </button>
         ))}
       </div>
@@ -337,7 +338,7 @@ function ImportSheet({ open, onClose, onSaved }) {
               }
             }}
           >
-            <Sparkles className="h-4 w-4" aria-hidden="true" /> {busy ? t('week.parsing') : t('week.parse')}
+            {busy ? t('week.parsing') : t('week.parse')}
           </Button>
           <div className="border-t pt-3">
             <input
@@ -597,9 +598,9 @@ export default function MyWeek() {
         </Button>
       </div>
 
-      <Card className="p-4">
+      <Card kind="ink" className="p-4">
         <div className="flex items-start gap-2">
-          <Sparkles className="mt-0.5 h-5 w-5 shrink-0 text-accent" aria-hidden="true" />
+          <Loopy mood="think" size={40} className="-mt-1" />
           <p className="text-[15px] font-medium" aria-live="polite">
             {data.summary ? (lang === 'es' ? data.summary.es : data.summary.en) : t('week.summaryFallback', { free: `${freeH} h`, count: data.suggestions.length })}{' '}
             {data.summary?.ai && <AiTag className="ml-1 align-middle" />}
@@ -607,15 +608,15 @@ export default function MyWeek() {
           </p>
         </div>
         <dl className="mt-3 grid grid-cols-3 gap-2 text-center">
-          <div className="rounded-xl bg-muted p-2">
+          <div className="rounded-[14px] bg-paper-2 p-2">
             <dd className="text-lg font-extrabold text-primary">{freeH} h</dd>
             <dt className="text-[11px] text-muted-foreground">{t('week.free')}</dt>
           </div>
-          <div className="rounded-xl bg-muted p-2">
+          <div className="rounded-[14px] bg-paper-2 p-2">
             <dd className="text-lg font-extrabold text-primary">{plannedH} h</dd>
             <dt className="text-[11px] text-muted-foreground">{t('week.planned')}</dt>
           </div>
-          <div className="rounded-xl bg-muted p-2">
+          <div className="rounded-[14px] bg-paper-2 p-2">
             <dd className="text-lg font-extrabold text-primary">{pct}%</dd>
             <dt className="text-[11px] text-muted-foreground">{t('week.goalOf', { done: plannedH, goal: goalH })}</dt>
           </div>
@@ -642,7 +643,7 @@ export default function MyWeek() {
               role="tab"
               aria-selected={d.date === day.date}
               onClick={() => setSelected(d.date)}
-              className={cn('organic lift flex min-w-[52px] flex-col items-center border px-2 py-1.5 text-xs font-semibold transition', d.date === day.date ? 'border-primary bg-primary text-primary-foreground' : 'bg-card hover:bg-muted')}
+              className={cn('press flex min-w-[52px] flex-col items-center rounded-[16px] px-2 py-1.5 text-xs font-semibold', d.date === day.date ? 'edge-primary bg-primary text-primary-foreground' : 'bg-card')}
             >
               <span>{d.date === data.today ? t('week.today') : dayLabel(d.date, lang)}</span>
               <span className="text-lg font-extrabold leading-tight">{Number(d.date.slice(8))}</span>
@@ -657,7 +658,7 @@ export default function MyWeek() {
 
       <section aria-labelledby="sugg-title">
         <h2 id="sugg-title" className="mb-2 flex items-center gap-2 font-extrabold">
-          <Sparkles className="h-4 w-4 text-accent" aria-hidden="true" /> {t('week.suggestions')}
+          {t('week.suggestions')}
         </h2>
         {daySuggestions.length ? (
           <div className="space-y-3">

@@ -106,7 +106,7 @@ STRICT RULES:
 - Use ONLY the programs above. Every resource_id MUST be one of their resource_id values.
 - NEVER invent programs, phone numbers, websites, addresses, dollar amounts or eligibility numbers. Copy phone numbers exactly.
 - Never say "you qualify" or "you are eligible". Say "you may qualify".
-- tonight: show=true only if they need food or essentials today AND the neighborhood network is active. message = one short line inviting them to ask neighbors for dinner tonight (e.g., "Ask your neighbors for dinner tonight").
+- tonight: show=true only if they need food or essentials today AND the neighborhood network is active. message = one short imperative line, max 7 words, exactly like "Ask your neighbors for dinner tonight." Do not start with "Since", do not mention a "network", do not say "please".
 - today: the highest-impact urgent actions (max 3). If they lost a job, include filing for unemployment. If food is urgent, include applying for SNAP and asking about expedited SNAP. If behind on a bill, include calling the utility before the due date.
 - this_week: 3-5 next steps (for example WIC for a child under 5, children's health coverage, Head Start, school meals, job help).
 - bring: one combined, de-duplicated document checklist (max 8).

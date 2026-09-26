@@ -14,7 +14,8 @@ function sortRows(rows, sort) {
 
 export function createMemoryDb(initial = {}, { onChange } = {}) {
   const tables = structuredClone(initial);
-  let seq = Object.values(tables).reduce((n, rows) => n + rows.length, 0);
+  // Continue after the highest existing id, so deleting rows can never cause an id collision.
+  let seq = Object.values(tables).flat().reduce((n, r) => Math.max(n, Number(String(r.id || '').replace(/^m/, '')) || 0), 0);
   const table = (e) => (tables[e] ??= []);
   const changed = () => onChange?.(tables);
   const clone = (x) => structuredClone(x);

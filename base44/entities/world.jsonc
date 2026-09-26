@@ -1,0 +1,19 @@
+// The whole shared demo neighborhood in one record (see base44/shared/world-db.js). One read per poll keeps
+// the app inside Base44's rate limits. Only the backend function (service role) can read or write it.
+{
+  "name": "World",
+  "description": "Shared demo neighborhood state (hubs, posts, missions, requests, calendars, feed) as one versioned document.",
+  "type": "object",
+  "properties": {
+    "key": { "type": "string", "description": "Always 'world'" },
+    "version": { "type": "number", "description": "Incremented on every save; used to detect concurrent writes" },
+    "data": { "type": "object", "description": "Tables: { Hub: [...], Mission: [...], ... }" }
+  },
+  "required": ["key"],
+  "rls": {
+    "create": { "user_condition": { "role": "admin" } },
+    "read": { "user_condition": { "role": "admin" } },
+    "update": { "user_condition": { "role": "admin" } },
+    "delete": { "user_condition": { "role": "admin" } }
+  }
+}

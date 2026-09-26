@@ -7,7 +7,7 @@ import { useI18n } from '@/i18n';
 import { DEMO } from '@shared/constants.js';
 import { cn } from './ui';
 
-const COLORS = { hub: '#0F766E', giver: '#C2410C', event: '#7C3AED', mission: '#C2410C', done: '#15803D' };
+const COLORS = { hub: '#0E7C74', giver: '#E8503A', event: '#E0A21B', mission: '#E8503A', done: '#1F7A4D' };
 
 export default function LiveMap({ live, height = 320, className, focus }) {
   const { t, lang } = useI18n();

@@ -4,40 +4,77 @@ import { ArrowLeft, ShieldAlert, Lock, Package, ShoppingBag, MapPin, Heart, Phon
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
 import { hhmmLabel, fmtHours } from '@/lib/format';
+import { formatTime } from '@shared/time.js';
 import { AiTag, CodeInput, Confetti, Sheet } from '@/components/bits';
 import LoopRing from '@/components/LoopRing';
 import { Loopy } from '@/components/decor';
 import { Alert, Button, Card, cn } from '@/components/ui';
 import { MODE_ICON } from './Missions';
+import RouteString from '@/components/RouteString';
 
 const LiveMap = lazy(() => import('@/components/LiveMap'));
+
+/** The handoff receipt: prints down like a thermal slip once both codes check out. */
+function HandoffReceipt({ m }) {
+  const { t, lang } = useI18n();
+  const { live } = useApp();
+  const families = (m.requests || []).length;
+  const rows = [
+    [t('vol.receipt.from'), m.giver?.name],
+    [t('vol.receipt.to'), m.hub?.name],
+    [t('vol.receipt.food'), `${m.lbs_delivered} lbs`],
+    [t('vol.receipt.meals'), `~${m.meals}`],
+    [t('vol.receipt.families'), families],
+    [t('vol.receipt.hours'), `+${fmtHours(m.credited_hours)} ${t('vol.receipt.each')}`],
+  ];
+  return (
+    <div className="relative mx-auto mt-4 max-w-[300px] overflow-hidden pt-1" aria-hidden="true">
+      <div className="mx-auto h-2 w-[92%] rounded-full bg-ink/80" />
+      <div className="receipt print-down -mt-1 px-5 pt-4 text-left font-mono text-[12.5px] leading-relaxed shadow-soft">
+        <p className="text-center font-bold tracking-[0.2em]">LOOP · {t('vol.receipt.title')}</p>
+        <p className="text-center text-[11px] opacity-70">{live ? formatTime(live.clock.now, lang) : ''} · #{m.key.slice(-4).toUpperCase()}</p>
+        <p className="my-2 border-t-2 border-dashed border-ink/40" />
+        {rows.map(([k, v]) => (
+          <p key={k} className="flex justify-between gap-3">
+            <span className="shrink-0 opacity-70">{k}</span>
+            <span className="truncate text-right font-bold">{v}</span>
+          </p>
+        ))}
+        <p className="my-2 border-t-2 border-dashed border-ink/40" />
+        <p className="text-center">{(m.volunteer_names || []).join(' + ')}</p>
+        <p className="text-center font-bold">{t('vol.receipt.verified')} ✓✓</p>
+      </div>
+    </div>
+  );
+}
 
 export function Celebration({ m }) {
   const { t, lang } = useI18n();
   const families = (m.requests || []).length;
   return (
-    <Card className="relative overflow-hidden p-5 text-center">
+    <Card kind="ink" className="relative overflow-hidden p-5 text-center">
       <Confetti />
       <div className="flex items-end justify-center gap-2">
-        <LoopRing size={96} closed animate />
+        <LoopRing size={80} closed animate />
         <Loopy mood="cheer" size={84} />
       </div>
       <h2 className="mt-3 text-2xl font-extrabold">{t('vol.celebrate')}</h2>
-      <p className="mt-2 font-semibold" aria-live="polite">
+      <p className="sr-only" aria-live="polite">
         {t('vol.celebrateLine', { lbs: m.lbs_delivered, meals: m.meals, families, hours: fmtHours(m.credited_hours), names: (m.volunteer_names || []).join(lang === 'es' ? ' y ' : ' & ') })}
       </p>
+      <HandoffReceipt m={m} />
       {m.thanks?.length > 0 && (
         <div className="mt-4 space-y-2 text-left">
           <p className="flex items-center gap-1 text-sm font-bold">
             <Heart className="h-4 w-4 text-accent" aria-hidden="true" /> {t('vol.thanksTitle')}
           </p>
           {m.thanks.map((n, i) => (
-            <blockquote key={i} className="rounded-xl bg-accent-soft p-3">
+            <blockquote key={i} className={cn('note p-3 pt-4', i % 2 ? 'tilt-2 bg-accent-soft' : 'tilt-1 bg-[#FFE7A8] dark:bg-sun/20')}>
               {n.fixed ? (
                 <p className="font-semibold">{t('vol.fixedThanks')}</p>
               ) : (
                 <>
-                  <p className="text-lg font-semibold">“{n.text}”</p>
+                  <p className="hand text-[22px] leading-tight">“{n.text}”</p>
                   {n.from_language && n.from_language !== lang && <p className="mt-1 text-xs text-muted-foreground">{n.from_language === 'es' ? t('vol.translated') : t('vol.translatedEn')}</p>}
                 </>
               )}
@@ -154,6 +191,7 @@ export default function MissionDetail() {
         </p>
         {(lang === 'es' ? m.impact_es : m.impact_en) && <p className="mt-1 font-semibold text-primary">{lang === 'es' ? m.impact_es : m.impact_en}</p>}
       </div>
+      {m.giver && m.hub && <RouteString status={m.status} from={m.giver.name} to={m.hub.name} />}
 
       {active && (
         <Button variant="danger" className="w-full" onClick={() => setUnsafeOpen(true)}>

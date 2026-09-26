@@ -1,30 +1,36 @@
 import { lazy, Suspense, useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Lock, Footprints, Bike, Car, Bus, ChevronRight, CalendarDays, Users, CheckCircle2, CalendarCheck, CalendarX } from 'lucide-react';
+import { Lock, Bus, ChevronRight, CalendarDays, Users, CheckCircle2, CalendarCheck, CalendarX } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
 import { hhmmLabel } from '@/lib/format';
 import { CodeInput } from '@/components/bits';
 import { Badge, Button, Card, Chip, cn } from '@/components/ui';
 import VolunteerHeader from '@/components/VolunteerHeader';
+import { Icon as LoopIcon } from '@/components/icons';
 
 const LiveMap = lazy(() => import('@/components/LiveMap'));
-export const MODE_ICON = { walk: Footprints, bike: Bike, car: Car, transit: Bus };
+const modeIcon = (name) => {
+  const C = (props) => <LoopIcon name={name} {...props} />;
+  C.displayName = `Mode(${name})`;
+  return C;
+};
+export const MODE_ICON = { walk: modeIcon('walk'), bike: modeIcon('bike'), car: modeIcon('car'), transit: Bus };
 
 export function MissionCard({ m, fit }) {
   const { t, lang } = useI18n();
-  const Icon = MODE_ICON[m.mode] || Footprints;
+  const Icon = MODE_ICON[m.mode] || MODE_ICON.walk;
   const locked = !m.eligibility?.ok;
   const active = m.mine && ['claimed', 'picked_up'].includes(m.status);
   return (
     <Link
       to={`/missions/${m.key}`}
-      className={cn('organic-2 lift ink block border border-foreground/10 bg-card p-4', active && 'border-2 border-accent', locked && 'opacity-70')}
+      className={cn('ticket lift relative block rounded-[18px] bg-card p-4 shadow-soft', active && 'bg-accent-soft', locked && 'opacity-70')}
       aria-label={`${lang === 'es' ? m.title_es : m.title_en}${locked ? ` — ${t('vol.locked')}` : ''}`}
     >
       <div className="flex items-start gap-3">
-        <span className={cn('flex h-10 w-10 shrink-0 items-center justify-center rounded-xl', locked ? 'bg-muted text-muted-foreground' : 'bg-accent-soft text-accent')}>
-          {locked ? <Lock className="h-5 w-5" aria-hidden="true" /> : <Icon className="h-5 w-5" aria-hidden="true" />}
+        <span className={cn('flex h-11 w-11 shrink-0 items-center justify-center rounded-[14px]', locked ? 'bg-muted text-muted-foreground' : 'bg-[#FFE7A8] text-ink dark:bg-sun/20 dark:text-foreground')}>
+          {locked ? <Lock className="h-5 w-5" aria-hidden="true" /> : <Icon tone="hsl(var(--card))" className="h-7 w-7" />}
         </span>
         <div className="min-w-0 flex-1">
           <p className="font-bold leading-snug">{lang === 'es' ? m.title_es : m.title_en}</p>
@@ -67,7 +73,7 @@ export function EventsList() {
           <li key={e.key}>
             <Card className="p-4">
               <div className="flex items-start gap-3">
-                <CalendarDays className="mt-0.5 h-5 w-5 shrink-0 text-violet-600" aria-hidden="true" />
+                <CalendarDays className="mt-0.5 h-5 w-5 shrink-0 text-accent-deep" aria-hidden="true" />
                 <div className="min-w-0 flex-1">
                   <p className="font-bold">{lang === 'es' ? e.title_es : e.title_en}</p>
                   <p className="text-sm text-muted-foreground">

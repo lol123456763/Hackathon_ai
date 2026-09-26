@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Phone, Globe, Clock, Sparkles, Check, FileText, ExternalLink, ChevronDown } from 'lucide-react';
+import { Phone, Globe, Clock, Check, FileText, ExternalLink, ChevronDown } from 'lucide-react';
 import { useI18n, formatDate, joinList } from '@/i18n';
 import { api } from '@/api/backend';
 import { AiTag } from './bits';
@@ -159,7 +159,7 @@ export default function ResourceCard({ resource: r, match, done, onToggleDone, i
 
       <div className="mt-3 flex flex-wrap gap-2 border-t pt-3">
         <Button variant="soft" size="sm" onClick={doExplain} loading={explaining} aria-expanded={!!explain}>
-          <Sparkles className="h-4 w-4" aria-hidden="true" /> {explaining ? t('resource.explaining') : explain?.lang === lang ? t('resource.hide') : t('resource.explain')}
+          {explaining ? t('resource.explaining') : explain?.lang === lang ? t('resource.hide') : t('resource.explain')}
         </Button>
         {onToggleDone && (
           <Button variant={done ? 'primary' : 'ghost'} size="sm" onClick={onToggleDone} aria-pressed={!!done}>
