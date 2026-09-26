@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+coverage
+
+# Environment (never commit secrets — this repo is public)
+.env
+.env.*
+!.env.example
+*.local
+
+# Editor / OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+*.swp
+
+# Base44 (app link is per-machine; generated types)
+.app.json*
+base44/.app.jsonc
+.types/
+
+# Logs
+*.log
+npm-debug.log*
