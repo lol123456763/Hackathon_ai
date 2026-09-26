@@ -51,9 +51,34 @@ document.querySelector('#language').addEventListener('click',()=>setLanguage(lan
 document.addEventListener('click',e=>{const a=e.target.closest('a[data-link]');if(a){e.preventDefault();go(a.getAttribute('href'))}});
 window.addEventListener('popstate',renderRoute);
 function crisisPanel(){return `<section class="crisis" role="alert"><h2>${t('crisisTitle')}</h2><p>${t('crisisBody')}</p><p><a href="tel:911">911</a> · <a href="tel:988">988</a> · <a href="tel:18007997233">800-799-7233</a> · <a href="tel:211">211</a></p></section>`}
-function categoryButtons(selected,attribute='data-category'){return categoryKeys.map((k,i)=>`<button class="category" type="button" ${attribute}="${k}" aria-pressed="${selected.includes(k)}"><span class="category-num" aria-hidden="true">${String(i+1).padStart(2,'0')}</span><span class="category-icon" aria-hidden="true">${categoryIcons[k]}</span><span class="category-label">${t(k)}</span>${selected.includes(k)?'<span class="category-check" aria-hidden="true">✓</span>':''}</button>`).join('')}
+function categoryButtons(selected,attribute='data-category'){return categoryKeys.map((k,i)=>`<button class="category category-shape-${i%5}" style="--tile-index:${i}" type="button" ${attribute}="${k}" aria-pressed="${selected.includes(k)}"><span class="category-num" aria-hidden="true">${String(i+1).padStart(2,'0')}</span><span class="category-icon" aria-hidden="true">${categoryIcons[k]}</span><span class="category-label">${t(k)}</span>${selected.includes(k)?'<span class="category-check" aria-hidden="true">✓</span>':''}</button>`).join('')}
+function decorateHome(){
+  const heading=main.querySelector('.hero h1');
+  heading.innerHTML=heading.textContent.split(/(?<=\.)\s+/).map((phrase,i)=>`<span class="hero-phrase" style="--phrase-index:${i}">${esc(phrase)}</span>`).join(' ');
+  main.querySelector('.bridge-art').innerHTML=`<svg class="journey-art" viewBox="0 0 520 340" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+    <path class="art-ribbon-back" d="M-25 259C45 257 51 141 125 162C183 179 159 277 244 243C317 214 256 79 352 97C407 107 407 226 544 142"/>
+    <path class="art-ribbon" d="M-25 259C45 257 51 141 125 162C183 179 159 277 244 243C317 214 256 79 352 97C407 107 407 226 544 142"/>
+    <g class="art-blob art-blob-one"><path d="M89 99C111 81 147 88 155 116C166 146 145 181 116 178C87 176 69 149 75 125C78 114 82 104 89 99Z" fill="#F8B984"/><path d="M95 133C106 138 125 138 136 127" stroke="#215047" stroke-width="4" stroke-linecap="round"/><circle cx="101" cy="118" r="3" fill="#215047"/><circle cx="132" cy="115" r="3" fill="#215047"/></g>
+    <g class="art-blob art-blob-two"><path d="M318 58C347 35 388 45 401 75C417 111 387 139 349 135C320 132 302 111 307 88C310 74 310 65 318 58Z" fill="#C8D6FC"/><path d="M335 94C343 104 365 105 375 91" stroke="#215047" stroke-width="4" stroke-linecap="round"/><circle cx="336" cy="78" r="3" fill="#215047"/><circle cx="372" cy="77" r="3" fill="#215047"/></g>
+    <g class="art-spark art-spark-one" stroke="#F5D984" stroke-width="5" stroke-linecap="round"><path d="M223 102V126M211 114H235M215 106L231 122M231 106L215 122"/></g>
+    <g class="art-spark art-spark-two" stroke="#F5D984" stroke-width="4" stroke-linecap="round"><path d="M432 63V85M421 74H443M424 66L440 82M440 66L424 82"/></g>
+    <path class="art-loop" d="M190 275C163 309 229 320 232 287C234 267 203 262 199 285" stroke="#F8B984" stroke-width="3" stroke-linecap="round"/>
+    <path class="art-loop art-loop-two" d="M438 241C462 217 493 231 485 254C480 272 456 267 463 250" stroke="#C8D6FC" stroke-width="3" stroke-linecap="round"/>
+    <circle class="art-dot art-dot-one" cx="265" cy="58" r="5" fill="#F8B984"/><circle class="art-dot art-dot-two" cx="52" cy="75" r="4" fill="#C8D6FC"/>
+  </svg>`;
+  if(matchMedia('(prefers-reduced-motion: reduce)').matches||!matchMedia('(pointer: fine)').matches)return;
+  const art=main.querySelector('.journey-art');
+  const stage=main.querySelector('.bridge-art');
+  stage.addEventListener('pointermove',e=>{
+    const box=stage.getBoundingClientRect();
+    art.style.setProperty('--pointer-x',`${((e.clientX-box.left)/box.width-.5)*18}px`);
+    art.style.setProperty('--pointer-y',`${((e.clientY-box.top)/box.height-.5)*18}px`);
+  });
+  stage.addEventListener('pointerleave',()=>{art.style.setProperty('--pointer-x','0px');art.style.setProperty('--pointer-y','0px')});
+}
 function renderHome(){
-  main.innerHTML=`<div class="shell home-shell"><div class="hero"><div class="hero-main"><p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>${t('eyebrow')}</p><h1>${t('hero')}</h1><p class="intro">${t('intro')}</p><div class="entry-card"><label class="field-label" for="situation">${t('describe')}</label><textarea id="situation" maxlength="3000" placeholder="${esc(t('placeholder'))}">${esc(state.text)}</textarea><div class="form-actions"><button class="btn btn-amber" id="build" type="button">${t('build')} <span aria-hidden="true">↗</span></button><button class="text-link" id="demo" type="button">${t('example')}</button></div><p class="form-error" id="home-error" hidden></p></div><div class="trust-row"><div><strong>✓</strong>${t('trust1')}</div><div><strong>◇</strong>${t('trust2')}</div><div><strong>▣</strong>${t('trust3')}</div></div></div><aside class="hero-side"><div class="note"><div class="bridge-art" aria-hidden="true"><svg viewBox="0 0 500 340" fill="none" preserveAspectRatio="xMidYMid meet"><path d="M0 288H500" stroke="currentColor" stroke-opacity=".25"/><path d="M18 222C104 222 126 97 204 97S302 242 370 242 445 184 500 184" stroke="currentColor" stroke-width="3"/><path d="M18 222C104 222 126 97 204 97S302 242 370 242 445 184 500 184" stroke="currentColor" stroke-opacity=".28" stroke-width="18"/><circle cx="18" cy="222" r="10" fill="currentColor"/><circle cx="204" cy="97" r="17" fill="currentColor"/><circle cx="370" cy="242" r="10" fill="currentColor"/><circle cx="488" cy="184" r="13" fill="currentColor"/><path d="M204 114V288M370 252V288" stroke="currentColor" stroke-opacity=".45" stroke-dasharray="5 8"/></svg></div><div class="note-copy"><div class="note-icon" aria-hidden="true">01 — 02 — 03</div><h2>${t('noteTitle')}</h2><p>${t('noteBody')}</p></div></div></aside></div><section class="needs-section" aria-labelledby="needs-title"><div class="section-head"><span class="section-index" aria-hidden="true">02 /</span><h2 id="needs-title">${t('orChoose')}</h2></div><div class="category-grid">${categoryButtons([...state.selectedNeeds])}</div><div class="category-action"><button class="btn btn-primary" id="category-continue" ${state.selectedNeeds.size?'':'disabled'}>${t('continue')} <span aria-hidden="true">↗</span></button></div></section></div>`;
+  main.innerHTML=`<div class="shell home-shell"><div class="hero"><div class="hero-main"><p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>${t('eyebrow')}</p><h1>${t('hero')}</h1><p class="intro">${t('intro')}</p><div class="entry-card"><label class="field-label" for="situation">${t('describe')}</label><textarea id="situation" maxlength="3000" placeholder="${esc(t('placeholder'))}">${esc(state.text)}</textarea><div class="form-actions"><button class="btn btn-amber" id="build" type="button">${t('build')} <span aria-hidden="true">↗</span></button><button class="text-link" id="demo" type="button">${t('example')}</button></div><p class="form-error" id="home-error" hidden></p></div><div class="trust-row"><div><strong>✓</strong>${t('trust1')}</div><div><strong>◇</strong>${t('trust2')}</div><div><strong>▣</strong>${t('trust3')}</div></div></div><aside class="hero-side"><div class="note"><div class="bridge-art" aria-hidden="true"></div><div class="note-copy"><div class="note-icon" aria-hidden="true">01 — 02 — 03</div><h2>${t('noteTitle')}</h2><p>${t('noteBody')}</p></div></div></aside></div><section class="needs-section" aria-labelledby="needs-title"><div class="section-head"><span class="section-index" aria-hidden="true">02 /</span><h2 id="needs-title">${t('orChoose')}</h2></div><div class="category-grid">${categoryButtons([...state.selectedNeeds])}</div><div class="category-action"><button class="btn btn-primary" id="category-continue" ${state.selectedNeeds.size?'':'disabled'}>${t('continue')} <span aria-hidden="true">↗</span></button></div></section></div>`;
+  decorateHome();
   main.querySelector('#situation').addEventListener('input',e=>state.text=e.target.value);
   main.querySelector('#build').addEventListener('click',startFromText);
   main.querySelector('#demo').addEventListener('click',demo);
@@ -165,4 +190,23 @@ function renderAdmin(){if(!state.adminToken){main.innerHTML=`<div class="shell p
 }
 function openAdminEditor(r){const host=main.querySelector('#admin-editor');host.innerHTML=adminForm({...r,categories:r.categories?.join(', '),documents_needed:r.documents_needed?.join(', '),coverage_zip_codes:r.coverage_zip_codes?.join(', ')});host.scrollIntoView({behavior:'smooth',block:'start'});host.querySelector('form').addEventListener('submit',async e=>{e.preventDefault();const f=new FormData(e.currentTarget);const editing=f.get('editing');const record={...r};for(const [k,v] of f.entries())if(k!=='editing')record[k]=v;for(const k of ['categories','documents_needed','coverage_zip_codes'])record[k]=String(record[k]||'').split(',').map(x=>x.trim()).filter(Boolean);record.is_active=f.has('is_active');record.priority_weight=Number(record.priority_weight)||0;try{await adminFetch(editing?`/api/admin/resources/${editing}`:'/api/admin/resources',{method:editing?'PUT':'POST',body:JSON.stringify(record)});toast(t('updated'));await loadAdmin()}catch(err){toast(err.message)}})}
 async function renderRoute(){document.title=`BenefitBridge — ${location.pathname==='/about'?t('about'):location.pathname==='/privacy'?t('privacy'):location.pathname==='/admin'?t('dashboard'):t('hero')}`;const path=location.pathname;if(path==='/'){renderHome();return}if(path==='/questions'){renderWizard();return}if(path==='/about'||path==='/privacy'){renderPlain(path.slice(1));return}if(path==='/admin'){if(state.adminToken&&!state.analytics)await loadAdmin();else renderAdmin();return}const m=path.match(/^\/plan\/([A-Za-z0-9_-]{32,})(\/resources)?$/);if(m){if(state.plan?.id!==m[1]){main.innerHTML=`<div class="shell loading" role="status">${t('loading')}</div>`;try{state.plan=await api(`/api/plans/${m[1]}?lang=${lang}`);state.crisis=!!state.plan.profile.crisis_flag}catch(e){main.innerHTML=`<div class="shell empty"><h1>${esc(e.message)}</h1><a href="/" data-link>${t('startOver')}</a></div>`;return}}if(m[2])renderResults();else renderActionPlan();return}renderHome()}
+if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&'IntersectionObserver' in window){
+  document.documentElement.classList.add('motion-ready');
+  const revealObserver=new IntersectionObserver(entries=>{
+    entries.forEach(entry=>{
+      if(!entry.isIntersecting)return;
+      entry.target.classList.add('is-visible');
+      revealObserver.unobserve(entry.target);
+    });
+  },{threshold:.08,rootMargin:'0px 0px -20px 0px'});
+  const revealSelector='.hero-main .eyebrow,.hero h1,.hero .intro,.entry-card,.trust-row,.hero-side,.section-head,.category,.category-action,.page-head,.step-card,.side-panel,.program,.timeline-card,.plain-page,.results-group h2,.closing';
+  const observeReveals=()=>main.querySelectorAll(revealSelector).forEach(el=>{
+    if(el.classList.contains('reveal-on-scroll'))return;
+    el.classList.add('reveal-on-scroll');
+    if(el.matches('.category'))el.style.setProperty('--reveal-delay',`${(Number(el.style.getPropertyValue('--tile-index'))%5)*65}ms`);
+    revealObserver.observe(el);
+  });
+  new MutationObserver(observeReveals).observe(main,{childList:true,subtree:true});
+  observeReveals();
+}
 setLanguage(lang);

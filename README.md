@@ -29,7 +29,7 @@ The **Try an example** link uses a household in Austin ZIP 78741. Change the lan
 
 ## Design
 
-The interface uses a calm editorial layout, clear type hierarchy, large touch targets, and a restrained bridge motif. The research sample and design choices are documented in [DESIGN_RESEARCH.md](DESIGN_RESEARCH.md).
+The interface uses an expressive, hand-cut visual language: uneven shapes, a drawn journey, playful color, responsive motion, and large touch targets. Cards and tiles reveal as they enter view; the illustration moves gently and responds to the pointer. A reduced-motion preference turns these effects off. The research sample and design decisions are documented in [DESIGN_RESEARCH.md](DESIGN_RESEARCH.md).
 
 ## Privacy and data
 
