@@ -3,25 +3,26 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#0f766e">
+  <meta name="theme-color" content="#f6f5ef">
   <meta name="description" content="A simple, private plan for finding community help and public benefits.">
   <title>BenefitBridge — Find a clear next step</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/styles.css">
-  <script src="/app.js" type="module"></script>
+  <link rel="stylesheet" href="/styles.css?v=2">
+  <link rel="stylesheet" href="/design.css?v=4">
+  <script src="/app.js?v=3" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="header-inner">
-      <a class="brand" href="/" data-link aria-label="BenefitBridge home"><span class="brand-mark" aria-hidden="true">✳</span><span>Benefit<span class="brand-light">Bridge</span></span></a>
+      <a class="brand" href="/" data-link aria-label="BenefitBridge home"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40" fill="none"><path d="M5 29h30M9 29V15m22 14V15M9 16c7 0 7 10 11 10s4-10 11-10" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Benefit<span class="brand-light">Bridge</span></span></a>
       <nav aria-label="Main navigation"><a href="/about" data-link data-i18n="about">How it works</a><a href="/privacy" data-link data-i18n="privacy">Privacy</a></nav>
       <button id="language" class="language" type="button" aria-label="Switch language">Español</button>
     </div>
   </header>
   <main id="main" tabindex="-1"></main>
   <footer class="site-footer">
-    <div class="footer-inner"><p id="crisis-footer">In immediate danger? <a href="tel:911">Call 911</a>. Need crisis support? <a href="tel:988">Call or text 988</a>. For local help, <a href="tel:211">dial 211</a>.</p><small>© BenefitBridge</small></div>
+    <div class="footer-inner"><p id="crisis-footer">In immediate danger? <a href="tel:911">Call 911</a>. Need crisis support? <a href="tel:988">Call or text 988</a>. For local help, <a href="tel:211">dial 211</a>.</p><div class="footer-meta"><nav aria-label="Footer navigation"><a href="/about" data-link data-i18n="about">How it works</a><a href="/privacy" data-link data-i18n="privacy">Privacy</a></nav><small>© BenefitBridge</small></div></div>
   </footer>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 </body>
