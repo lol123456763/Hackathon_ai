@@ -6,6 +6,7 @@ import {fileURLToPath} from 'node:url';
 import {DatabaseSync} from 'node:sqlite';
 import {seedResources} from './data.js';
 import {categories, cleanProfile, localExtract, matchResources, ruleBasedPlan, validatePlan} from './lib.js';
+import {askGemini} from './gemini.js';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = process.env.DATA_DIR || path.join(root, 'data');
@@ -29,8 +30,11 @@ expirationTimer.unref();
 const resources = () => db.prepare('SELECT data FROM resources').all().map(x => JSON.parse(x.data));
 const getPlan = token => db.prepare("SELECT * FROM plans WHERE token=? AND julianday(created_at) >= julianday('now','-90 days')").get(token);
 const ADMIN_TOKEN = process.env.ADMIN_TOKEN || '';
-const aiKey = process.env.OPENAI_API_KEY || '';
-const model = process.env.OPENAI_MODEL || 'gpt-4.1-mini';
+const geminiKey = process.env.GEMINI_API_KEY || '';
+const geminiModel = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
+const openaiKey = process.env.OPENAI_API_KEY || '';
+const openaiModel = process.env.OPENAI_MODEL || 'gpt-4.1-mini';
+const aiEnabled = !!(geminiKey || openaiKey);
 
 function json(res, status, body) {
   const content = JSON.stringify(body);
@@ -71,10 +75,11 @@ function safeResource(value) {
   return r;
 }
 async function askAI(system, payload) {
-  if (!aiKey) throw new Error('AI unavailable');
+  if (geminiKey) return askGemini(system,payload,{key:geminiKey,model:geminiModel});
+  if (!openaiKey) throw new Error('AI unavailable');
   const response = await fetch('https://api.openai.com/v1/responses', {
-    method:'POST', headers:{authorization:`Bearer ${aiKey}`,'content-type':'application/json'},
-    body:JSON.stringify({model, input:[{role:'system',content:system},{role:'user',content:JSON.stringify(payload)}], text:{format:{type:'json_object'}}, store:false, max_output_tokens:1800}),
+    method:'POST', headers:{authorization:`Bearer ${openaiKey}`,'content-type':'application/json'},
+    body:JSON.stringify({model:openaiModel, input:[{role:'system',content:system},{role:'user',content:JSON.stringify(payload)}], text:{format:{type:'json_object'}}, store:false, max_output_tokens:1800}),
     signal:AbortSignal.timeout(9000)
   });
   if (!response.ok) throw new Error(`AI request failed (${response.status})`);
@@ -94,7 +99,7 @@ function presentation(row, language) {
     fallback:all.find(r=>r.id==='211'), out_of_coverage:!scored.state};
 }
 async function enrichPlan(token, profile, matched, fallback) {
-  if (!aiKey) return;
+  if (!aiEnabled) return;
   const supplied = matched.slice(0,12).concat(fallback ? [fallback] : []);
   const allowed = new Set(supplied.map(r=>r.id));
   const system = `Write a short, kind action plan in ${profile.language==='es'?'Spanish':'English'} at a sixth-grade reading level. Return ONLY JSON with today [{action,resource_id,why}], bring [string], this_week [{action,resource_id,why}], fallbacks [{if,then,resource_id}], encouragement. Use ONLY the supplied resources. Never invent programs, phone numbers, URLs, addresses, eligibility limits, or promises of qualification. Use null for a fallback resource only when needed. Do not add personal information.`;
@@ -112,11 +117,11 @@ async function enrichPlan(token, profile, matched, fallback) {
   }
 }
 async function handleAPI(req,res,pathname) {
-  if (pathname==='/api/health' && req.method==='GET') return json(res,200,{ok:true,ai_enabled:!!aiKey});
+  if (pathname==='/api/health' && req.method==='GET') return json(res,200,{ok:true,ai_enabled:aiEnabled});
   if (pathname==='/api/extract' && req.method==='POST') {
     const body=await readBody(req), raw=String(body.text||'').slice(0,3000), fallback=localExtract(raw);
     if (!raw.trim()) return error(res,400,'Please describe your situation.');
-    if (!aiKey) return json(res,200,{...fallback,mode:'local'});
+    if (!aiEnabled) return json(res,200,{...fallback,mode:'local'});
     try {
       const prompt='Extract only stated or clearly implied facts. Return ONLY a JSON object with zip, household_size, children_count, child_under_5, income_range, situations, needs, urgency, detected_language, crisis_flag. Use null when unsure. Category keys: '+categories.join(', ')+'. Situation keys: lost_job, single_parent, pregnant, veteran, senior, disability, student, unhoused, uninsured. Income keys: $0, under_1000, 1000_2000, 2000_3000, 3000_4500, 4500_plus, prefer_not. Urgency: today, week, month. Language: en or es. Flag self-harm, abuse, violence, or immediate danger. Never invent ZIP or income.';
       const out=await askAI(prompt,{text:raw});
@@ -134,7 +139,7 @@ async function handleAPI(req,res,pathname) {
     const defaultSelected=[...new Set([...action.today,...action.this_week].map(x=>x.resource_id).filter(id=>ids.includes(id)))];
     db.prepare('INSERT INTO plans VALUES (?,?,?,?,?,?,?,?,?,?)').run(token,new Date().toISOString(),profile.zip,JSON.stringify(profile.needs),JSON.stringify(profile),JSON.stringify(ids),JSON.stringify(action),'{}',JSON.stringify(defaultSelected),'[]');
     enrichPlan(token,profile,matched.matches,matched.fallback).catch(e=>console.warn(e.message));
-    return json(res,201,{...presentation(getPlan(token)),fallback:matched.fallback,out_of_coverage:matched.out_of_coverage,ai_pending:!!aiKey});
+    return json(res,201,{...presentation(getPlan(token)),fallback:matched.fallback,out_of_coverage:matched.out_of_coverage,ai_pending:aiEnabled});
   }
   const planMatch=pathname.match(/^\/api\/plans\/([A-Za-z0-9_-]{32,})$/);
   if (planMatch) {
@@ -155,7 +160,7 @@ async function handleAPI(req,res,pathname) {
     if (!r) return error(res,404,'Resource not found.');
     const es=body.language==='es';
     const simple=es?[r.description_es,r.eligibility_summary_es,'Confirme los detalles directamente con el programa.']:[r.description_en,r.eligibility_summary_en,'Check details with the program before applying.'];
-    if (!aiKey) return json(res,200,{bullets:simple});
+    if (!aiEnabled) return json(res,200,{bullets:simple});
     try {
       const output=await askAI(`Rewrite this program description and eligibility as exactly three short plain-language bullets in ${es?'Spanish':'English'}. Return ONLY JSON {"bullets":["...","...","..."]}. Do not add facts that are not in the provided text.`,{description:es?r.description_es:r.description_en,eligibility:es?r.eligibility_summary_es:r.eligibility_summary_en});
       return json(res,200,{bullets:Array.isArray(output.bullets)&&output.bullets.length===3?output.bullets:simple});
