@@ -6,10 +6,12 @@ Selection: 50 current Siteinspire showcase entries reviewed on 2026-09-26. This 
 
 - **Restraint:** 36 of 50 are tagged Minimal. Use fewer surfaces, clear spacing, and short copy.
 - **Type as identity:** 15 use Big Type and 10 are tagged Typographic. Give the opening promise a distinctive display face while keeping forms in a familiar sans serif.
-- **Controlled layout:** 10 are tagged Grid Layout and 11 Unusual Layout. Use a strong grid for scanability, with one asymmetric visual moment in the hero.
-- **Direct interaction:** Keep buttons and choices obvious. For a public-service app, do not import scroll tricks or decorative transitions that slow a stressed user.
+- **Controlled layout:** 10 are tagged Grid Layout and 11 Unusual Layout. Keep the reading order clear while varying shape, rotation, spacing, and overlap.
+- **Direct interaction:** Keep buttons and choices obvious, even when their surfaces have more movement and character.
 
-BenefitBridge implementation: editorial serif headlines; a deep teal bridge illustration; one prominent first action; numbered needs tiles; quieter, flatter resource cards; a clearer step progress rail; and a more legible action timeline. All interface controls remain keyboard accessible and honor reduced-motion preferences. Form layout and touch targets follow [USWDS form guidance](https://designsystem.digital.gov/components/form/) and [WCAG 2.2 target-size guidance](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum).
+## User-directed second pass
+
+The first implementation was too geometric and restrained. The revised interface uses a loose two-part hero, expressive italic headline, hand-cut card silhouettes, uneven category placement, and warmer color. An illustrated path draws itself in, friendly shapes float, the artwork responds to the pointer, and content appears as it enters view. The questions, resource cards, and action plan use the same irregular shape language. Text and primary controls stay still enough to read and use; reduced-motion preferences remove the effects. Form layout and touch targets follow [USWDS form guidance](https://designsystem.digital.gov/components/form/) and [WCAG 2.2 target-size guidance](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum).
 
 ## Sites reviewed
 
