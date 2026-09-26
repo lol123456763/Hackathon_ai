@@ -27,7 +27,8 @@ Loop uses **BenefitBridge's visual language**, the design Deepam built from a re
 
 ## Shapes
 
-- Cards, tiles and buttons use hand-cut corners (`.cut-1` … `.cut-5`, `.cut-btn`, `.cut-chip`, `.cut-input`). Neighbours use different cuts.
+- Need tiles use five different hand-cut silhouettes (soft pebble, notched ticket, scalloped cutout, torn scrap, and rounded stone). Their full rectangular hit targets and focus rings remain intact. The help form is a torn paper sheet, live counters are little cutouts, and resource matches read as paper slips with an ink margin.
+- Smaller cards, chips and buttons use hand-cut corners (`.cut-1` … `.cut-5`, `.cut-btn`, `.cut-chip`, `.cut-input`). Neighbours use different cuts.
 - Cards have a 2px soft border and a flat pastel offset shadow (`shadow-offset`). Amber buttons get `shadow-amber`, green buttons `shadow-mint`.
 - Need tiles are numbered (01–10), tilted, and sit at slightly different heights.
 - Sections are separated by a wavy rule, with a lavender "02 /" tag.
