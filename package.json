@@ -1,8 +1,8 @@
 {
-  "name": "benefitbridge",
+  "name": "loop",
   "private": true,
   "version": "1.0.0",
-  "description": "BenefitBridge: tell us your situation, get an exact plan for the help you may qualify for in Texas.",
+  "description": "Loop: AI coordinator for youth volunteering, food recovery and mutual aid (Base44 app).",
   "type": "module",
   "scripts": {
     "dev": "vite",
