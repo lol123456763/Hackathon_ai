@@ -72,16 +72,23 @@ The repo **is** the Base44 app. When you're ready (one person does this, once):
 ```bash
 npx base44 login                 # sign in to the Base44 account that will own the app
 npx base44 link --create -n Loop # creates the app and links this folder (writes base44/.app.jsonc, not committed)
-npm run build
-npx base44 deploy -y             # pushes entities, the app function, and the site
-                                 # the app loads data/resources.json into the Resource table on first use
+npx base44 deploy -y --build     # builds the site with the Base44 app id baked in, then pushes
+                                 # entities, the app function, and the site (with data/resources.json)
 ```
 
-Open the app URL that `deploy` prints. The demo neighborhood seeds itself on first load. After that, every merge to `main` is deployed with `npm run build && npx base44 deploy -y`.
+Open the app URL that `deploy` prints. The demo neighborhood seeds itself on first load. After that, every merge to `main` is deployed with `npx base44 deploy -y --build`. (A plain `npm run build` has no Base44 app id, so it builds the offline local-mode demo.)
 
 Optional: to use Gemini instead of Base44's built-in AI for text, set the `GEMINI_API_KEY` (and optionally `GEMINI_MODEL`) secret in the Base44 dashboard. Images always use Base44 AI.
 
 To make yourself an admin (for the entities dashboard), use the Base44 dashboard → Users.
+
+## Demo only: what must change before real use
+
+Loop is a hackathon demo. It has one shared, public, pretend neighborhood and no accounts, so anyone can switch roles. That is on purpose for judges, but it is not safe for real families. Before real use:
+
+- **Sign-in and roles.** The `app` function runs every action with the service role and does not check who is calling. Real use needs Base44 auth, with each action checked against the caller's role (giver, volunteer, hub staff, neighbor).
+- **Verification codes.** The state snapshot includes `demo_codes`, `demo_checkin` and coordinator `demo_codes` so the demo can show tappable code chips. Real use must remove these. A pickup code should go only to that business, a drop code only to that hub, and an event check-in code only to the host.
+- **Concurrent matching** is already safe. The whole neighborhood is saved as one versioned `World` record, so if two actions overlap, the second one's save is rejected and that action re-runs on fresh data (`base44/shared/world-db.js`, `entry.ts`). Two posts can't both claim the same request.
 
 ## Team workflow
 

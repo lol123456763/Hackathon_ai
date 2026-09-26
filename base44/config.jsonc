@@ -1,10 +1,10 @@
 // Base44 Project Configuration
 // Docs: https://docs.base44.com/developers/backend/overview/project-structure
 {
-  "name": "BenefitBridge",
-  "description": "Tell us your situation. Get an exact plan for the help you may qualify for in Texas.",
+  "name": "Loop",
+  "description": "Find the help that exists, activate the help that doesn't. A bilingual neighborhood app for Texas families, food donors, student volunteers and hubs.",
 
-  // Anyone can use the app without an account. Admin pages check the admin role.
+  // Anyone can use the app without an account (it is a public demo neighborhood; see README "Demo only").
   "visibility": "public",
 
   // Site/hosting configuration for the React client (built with Vite into ./dist)
