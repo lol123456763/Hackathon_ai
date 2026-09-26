@@ -27,6 +27,10 @@ The SQLite database is created in `data/` by default. Set `DATA_DIR` to a persis
 
 The **Try an example** link uses a household in Austin ZIP 78741. Change the language in the header to run it in Spanish.
 
+## Design
+
+The interface uses a calm editorial layout, clear type hierarchy, large touch targets, and a restrained bridge motif. The research sample and design choices are documented in [DESIGN_RESEARCH.md](DESIGN_RESEARCH.md).
+
 ## Privacy and data
 
 The server stores ZIP, broad household answers, selected needs, matched resource IDs, checklist progress, and anonymous feedback. It does not store the free-text description, names, Social Security numbers, exact addresses, or document numbers. Plans and feedback older than 90 days are deleted on startup and daily. The database is excluded from Git.
