@@ -11,6 +11,21 @@ import { lookupZip } from '@shared/zip.js';
 import { EXAMPLE_TEXT } from '@shared/golden.js';
 import { Alert, Button, Card, Textarea, cn } from '@/components/ui';
 import CrisisPanel from '@/components/CrisisPanel';
+import { motion } from 'framer-motion';
+import { Loopy, Squiggle, DoodleArrow, Stagger, staggerItem } from '@/components/decor';
+
+/** Wrap the highlighted phrase of a sentence in a hand-drawn squiggle. */
+function Highlight({ text, hl }) {
+  const i = hl ? text.toLowerCase().lastIndexOf(hl.toLowerCase()) : -1;
+  if (i < 0) return text;
+  return (
+    <>
+      {text.slice(0, i)}
+      <Squiggle>{text.slice(i, i + hl.length)}</Squiggle>
+      {text.slice(i + hl.length)}
+    </>
+  );
+}
 import PlanLoading from '@/components/PlanLoading';
 
 const PROFILE_KEYS = ['zip', 'household_size', 'children_count', 'child_under_5', 'income_range', 'urgency'];
@@ -121,12 +136,18 @@ export default function GetHelp() {
       {token && (
         <Alert title={t('help.resume')} action={<Button as={Link} to={`/p/${token}`} size="sm">{t('help.resumeCta')}</Button>} />
       )}
-      <div>
-        <h1 className="font-display text-[1.6rem] font-extrabold leading-tight tracking-tight">{t('help.title')}</h1>
-        <p className="mt-2 text-muted-foreground">{t('help.subtitle')}</p>
+      <div className="relative">
+        <div className="flex items-start gap-2">
+          <h1 className="font-display text-[1.75rem] font-extrabold leading-[1.12] tracking-tight">
+            <Highlight text={t('help.title')} hl={t('help.hl')} />
+          </h1>
+          <Loopy mood="wave" size={74} className="-mr-1 -mt-1 shrink-0" />
+        </div>
+        <p className="hand mt-3 -rotate-2 text-[1.6rem] leading-none text-accent">{t('help.subtitle')}</p>
       </div>
 
-      <Card className="p-4">
+      <Card className="relative p-4" shape={1}>
+        <DoodleArrow className="absolute -top-9 right-4 rotate-[100deg]" />
         <form
           onSubmit={(e) => {
             e.preventDefault();
@@ -187,30 +208,38 @@ export default function GetHelp() {
         <h2 id="pick-title" className="text-center text-sm font-bold uppercase tracking-wide text-muted-foreground">
           {t('help.or')}
         </h2>
-        <div className="mt-3 grid grid-cols-2 gap-2">
-          {CATEGORIES.map((cat) => {
+        <Stagger className="mt-3 grid grid-cols-2 gap-2.5">
+          {CATEGORIES.map((cat, i) => {
             const { icon: Icon, tint } = CATEGORY_META[cat];
             const on = picked.includes(cat);
             return (
-              <button
+              <motion.button
                 key={cat}
+                variants={staggerItem}
+                whileHover={{ y: -3, rotate: i % 2 ? 1.5 : -1.5, scale: 1.03 }}
+                whileTap={{ scale: 0.93 }}
+                style={{ rotate: i % 3 === 0 ? -0.8 : i % 3 === 1 ? 0.7 : 0 }}
                 type="button"
                 aria-pressed={on}
                 onClick={() => {
                   setError(null);
                   setPicked((p) => (p.includes(cat) ? p.filter((c) => c !== cat) : [...p, cat]));
                 }}
-                className={cn('relative flex min-h-[64px] items-center gap-2 rounded-2xl border bg-card p-3 text-left text-sm font-semibold shadow-soft transition hover:shadow-lift', on && 'border-primary ring-2 ring-primary')}
+                className={cn(['organic', 'organic-2', 'organic-3', 'organic-4'][i % 4], 'ink relative flex min-h-[64px] items-center gap-2 border border-foreground/10 bg-card p-3 text-left text-sm font-bold transition-colors', on && 'border-primary bg-primary-soft ring-2 ring-primary')}
               >
-                <span className={cn('flex h-9 w-9 shrink-0 items-center justify-center rounded-xl', tint)}>
+                <span className={cn('flex h-10 w-10 shrink-0 items-center justify-center', on ? 'animate-morph' : 'rounded-[40%_60%_55%_45%/45%_40%_60%_55%]', tint)}>
                   <Icon className="h-5 w-5" aria-hidden="true" />
                 </span>
                 <span className="leading-tight">{t(`categories.${cat}`)}</span>
-                {on && <Check className="absolute right-2 top-2 h-4 w-4 text-primary" strokeWidth={3} aria-hidden="true" />}
-              </button>
+                {on && (
+                  <motion.span initial={{ scale: 0, rotate: -90 }} animate={{ scale: 1, rotate: 0 }} className="absolute -right-1.5 -top-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-accent text-white shadow">
+                    <Check className="h-3.5 w-3.5" strokeWidth={3.5} aria-hidden="true" />
+                  </motion.span>
+                )}
+              </motion.button>
             );
           })}
-        </div>
+        </Stagger>
         <Button className="mt-3 w-full" onClick={continueWithCategories} disabled={!picked.length}>
           {picked.length ? t('help.continueCount', { count: picked.length }) : t('help.continue')} <ArrowRight className="h-5 w-5" aria-hidden="true" />
         </Button>

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Loader2 } from 'lucide-react';
+import { Loopy } from './decor';
 import { useI18n } from '@/i18n';
 import { Card, Skeleton } from './ui';
 
@@ -14,7 +14,7 @@ export default function PlanLoading() {
   return (
     <div className="container-page max-w-3xl py-10" aria-busy="true">
       <div className="flex items-center gap-3" role="status" aria-live="polite">
-        <Loader2 className="h-6 w-6 animate-spin text-primary" aria-hidden="true" />
+        <Loopy mood="think" size={64} />
         <p className="text-lg font-semibold">{Array.isArray(steps) ? steps[i] : t('plan.loading')}</p>
       </div>
       <div className="mt-6 grid gap-4">

@@ -1,4 +1,5 @@
 import { lazy, Suspense } from 'react';
+import { MotionConfig } from 'framer-motion';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { LanguageProvider } from '@/i18n';
 import { AppProvider, useApp } from '@/state/app';
@@ -38,6 +39,7 @@ function MyPlanRedirect() {
 
 export default function App() {
   return (
+    <MotionConfig reducedMotion="user">
     <LanguageProvider>
       <AppProvider>
         <FlowProvider>
@@ -79,5 +81,6 @@ export default function App() {
         </FlowProvider>
       </AppProvider>
     </LanguageProvider>
+    </MotionConfig>
   );
 }

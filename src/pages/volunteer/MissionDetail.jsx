@@ -6,6 +6,7 @@ import { useApp } from '@/state/app';
 import { hhmmLabel, fmtHours } from '@/lib/format';
 import { AiTag, CodeInput, Confetti, Sheet } from '@/components/bits';
 import LoopRing from '@/components/LoopRing';
+import { Loopy } from '@/components/decor';
 import { Alert, Button, Card, cn } from '@/components/ui';
 import { MODE_ICON } from './Missions';
 
@@ -17,8 +18,9 @@ export function Celebration({ m }) {
   return (
     <Card className="relative overflow-hidden p-5 text-center">
       <Confetti />
-      <div className="flex justify-center">
+      <div className="flex items-end justify-center gap-2">
         <LoopRing size={96} closed animate />
+        <Loopy mood="cheer" size={84} />
       </div>
       <h2 className="mt-3 text-2xl font-extrabold">{t('vol.celebrate')}</h2>
       <p className="mt-2 font-semibold" aria-live="polite">

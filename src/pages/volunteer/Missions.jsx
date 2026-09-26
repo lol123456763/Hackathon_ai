@@ -19,7 +19,7 @@ export function MissionCard({ m, fit }) {
   return (
     <Link
       to={`/missions/${m.key}`}
-      className={cn('block rounded-2xl border bg-card p-4 shadow-soft transition hover:shadow-lift', active && 'border-2 border-accent', locked && 'opacity-70')}
+      className={cn('organic-2 lift ink block border border-foreground/10 bg-card p-4', active && 'border-2 border-accent', locked && 'opacity-70')}
       aria-label={`${lang === 'es' ? m.title_es : m.title_en}${locked ? ` — ${t('vol.locked')}` : ''}`}
     >
       <div className="flex items-start gap-3">

@@ -1,6 +1,7 @@
 // "Live Loop" panel: 4 live counters, the neighborhood map, and the activity feed.
 // Desktop: always visible to the right of the phone frame. Mobile: the Map tab.
-import { lazy, Suspense } from 'react';
+import { lazy, Suspense, useEffect, useRef, useState } from 'react';
+import { motion, useAnimationControls } from 'framer-motion';
 import { Radio } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
@@ -21,13 +22,56 @@ export function Counters({ impact, compact }) {
   ];
   return (
     <dl className={cn('grid grid-cols-2 gap-2', !compact && 'xl:grid-cols-4')}>
-      {items.map(([k, v, dec]) => (
-        <div key={k} className="rounded-2xl border bg-card p-3 shadow-soft">
-          <dd className="font-display text-2xl font-extrabold text-primary">{v == null ? '—' : <RollingNumber value={v} decimals={dec} />}</dd>
-          <dt className="text-xs font-medium text-muted-foreground">{t(`impact.${k}`)}</dt>
-        </div>
+      {items.map(([k, v, dec], i) => (
+        <Counter key={k} label={t(`impact.${k}`)} value={v} decimals={dec} i={i} />
       ))}
     </dl>
+  );
+}
+
+/** A counter tile that does a happy jump (and shows +N) whenever its value goes up. */
+function Counter({ label, value, decimals, i }) {
+  const prev = useRef(value);
+  const [bump, setBump] = useState(null);
+  const controls = useAnimationControls();
+  useEffect(() => {
+    if (prev.current != null && value != null && value > prev.current) {
+      setBump({ id: Date.now(), delta: Math.round((value - prev.current) * 100) / 100 });
+      controls.start({ scale: [1, 1.12, 0.96, 1], rotate: [0, -3, 2, 0], transition: { duration: 0.7 } });
+    }
+    prev.current = value;
+  }, [value, controls]);
+  return (
+    <motion.div
+      animate={controls}
+      className={cn(['organic', 'organic-2', 'organic-3', 'organic-4'][i % 4], 'ink relative border border-foreground/10 bg-card p-3')}
+    >
+      {bump && (
+        <motion.span key={bump.id} initial={{ opacity: 1, y: 0 }} animate={{ opacity: 0, y: -26 }} transition={{ duration: 1.6 }} className="hand absolute right-3 top-1 text-xl font-bold text-accent" aria-hidden="true">
+          +{bump.delta}
+        </motion.span>
+      )}
+      <dd className="font-display text-2xl font-extrabold text-primary">{value == null ? '—' : <RollingNumber value={value} decimals={decimals} />}</dd>
+      <dt className="text-xs font-semibold text-muted-foreground">{label}</dt>
+    </motion.div>
+  );
+}
+
+/** Scrolling news-ticker of the latest activity. */
+export function Ticker({ items }) {
+  const { lang } = useI18n();
+  if (!items?.length) return null;
+  const row = items.slice(0, 8).map((a) => (lang === 'es' ? a.message_es : a.message_en));
+  return (
+    <div className="organic-2 relative overflow-hidden border-2 border-dashed border-accent/40 bg-accent-soft/60 py-1.5" aria-hidden="true">
+      <div className="flex w-max animate-marquee gap-8 whitespace-nowrap text-sm font-semibold text-foreground/80 motion-reduce:animate-none">
+        {[...row, ...row].map((m, i) => (
+          <span key={i} className="flex items-center gap-2">
+            <span className="text-accent">✦</span> {m}
+          </span>
+        ))}
+      </div>
+    </div>
   );
 }
 
@@ -37,7 +81,7 @@ export function Feed({ items, max = 12, className }) {
   return (
     <ol className={cn('space-y-1.5', className)} aria-live="polite" aria-label={t('map.feed')}>
       {items.slice(0, max).map((a) => (
-        <li key={a.id} className="flex animate-fade-up gap-2 rounded-xl bg-card px-3 py-2 text-sm shadow-soft">
+        <motion.li layout initial={{ opacity: 0, x: 40, rotate: 2 }} animate={{ opacity: 1, x: 0, rotate: 0 }} transition={{ type: 'spring', stiffness: 300, damping: 24 }} key={a.id} className="organic-btn flex gap-2 border border-foreground/5 bg-card px-3 py-2 text-sm ink">
           <span className={cn('mt-1.5 h-2 w-2 shrink-0 rounded-full', a.type === 'match' ? 'bg-accent' : a.type === 'covered' || a.type === 'delivered' ? 'bg-success' : a.type === 'unsafe' ? 'bg-danger' : 'bg-primary')} aria-hidden="true" />
           <span className="min-w-0 flex-1">
             {lang === 'es' ? a.message_es : a.message_en}
@@ -46,7 +90,7 @@ export function Feed({ items, max = 12, className }) {
           <time className="shrink-0 text-xs text-muted-foreground" dateTime={a.at}>
             {relTime(a.at, lang)}
           </time>
-        </li>
+        </motion.li>
       ))}
     </ol>
   );
@@ -76,6 +120,7 @@ export default function LivePanel({ mobile = false }) {
         {live && <span className="text-sm font-medium text-muted-foreground">{t('demo.clock', { time: formatTime(live.clock.now, lang) })}</span>}
       </div>
       <Counters impact={live?.impact} compact={mobile} />
+      <Ticker items={live?.activity} />
       <div className={cn(mobile ? 'h-[340px]' : 'min-h-[220px] flex-1')}>
         <Suspense fallback={<div className="skeleton h-full w-full" />}>
           <LiveMap live={live} height="100%" className="h-full" />

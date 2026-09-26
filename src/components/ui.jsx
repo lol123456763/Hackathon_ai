@@ -1,5 +1,6 @@
 // Small, accessible UI primitives styled with the BenefitBridge design tokens.
 import { forwardRef, useId } from 'react';
+import { motion } from 'framer-motion';
 import { Check, Loader2, AlertTriangle, Info, CheckCircle2 } from 'lucide-react';
 
 export function cn(...classes) {
@@ -7,8 +8,8 @@ export function cn(...classes) {
 }
 
 const BUTTON_VARIANTS = {
-  primary: 'bg-primary text-primary-foreground hover:bg-primary/90 shadow-soft',
-  accent: 'bg-accent text-accent-foreground hover:brightness-95 shadow-soft font-semibold',
+  primary: 'bg-primary text-primary-foreground hover:bg-primary/90 shadow-[3px_4px_0_-1px_hsl(var(--primary)/0.35)]',
+  accent: 'bg-accent text-accent-foreground hover:brightness-105 shadow-[3px_4px_0_-1px_hsl(var(--accent)/0.4)] font-bold',
   outline: 'border border-input bg-card text-foreground hover:bg-muted',
   ghost: 'text-foreground hover:bg-muted',
   soft: 'bg-primary-soft text-primary hover:bg-primary-soft/70',
@@ -22,16 +23,28 @@ const BUTTON_SIZES = {
   icon: 'h-11 w-11',
 };
 
+// Spring-y press and hover for every button (framer-motion honors prefers-reduced-motion via MotionConfig).
+const motionCache = new Map();
+function motionOf(Comp) {
+  if (typeof Comp === 'string') return motion[Comp] || motion.button;
+  if (!motionCache.has(Comp)) motionCache.set(Comp, motion.create(Comp));
+  return motionCache.get(Comp);
+}
+
 export const Button = forwardRef(function Button(
   { as: Comp = 'button', variant = 'primary', size = 'md', loading = false, className, children, disabled, ...props },
   ref,
 ) {
   const isButton = Comp === 'button';
+  const M = motionOf(Comp);
   return (
-    <Comp
+    <M
       ref={ref}
+      whileHover={disabled || loading ? undefined : { y: -2, rotate: -0.6 }}
+      whileTap={disabled || loading ? undefined : { scale: 0.93, rotate: 0.8 }}
+      transition={{ type: 'spring', stiffness: 500, damping: 18 }}
       className={cn(
-        'inline-flex select-none items-center justify-center rounded-xl font-medium transition',
+        'organic-btn inline-flex select-none items-center justify-center font-semibold transition-colors',
         'disabled:pointer-events-none disabled:opacity-50 active:scale-[0.99]',
         BUTTON_VARIANTS[variant],
         BUTTON_SIZES[size],
@@ -43,12 +56,17 @@ export const Button = forwardRef(function Button(
     >
       {loading && <Loader2 className="h-4 w-4 animate-spin" aria-hidden="true" />}
       {children}
-    </Comp>
+    </M>
   );
 });
 
-export function Card({ className, as: Comp = 'div', ...props }) {
-  return <Comp className={cn('rounded-2xl border bg-card text-card-foreground shadow-soft', className)} {...props} />;
+const ORGANIC = ['organic', 'organic-2', 'organic-3', 'organic-4'];
+export function Card({ className, as: Comp = 'div', shape, lift = false, ...props }) {
+  // Stable per-card shape (from React's id), so polling re-renders never make corners flicker.
+  const id = useId();
+  if (shape === undefined) shape = [...id].reduce((n, c) => n + c.charCodeAt(0), 0);
+  // Organic corners cycle between four hand-made shapes so no two neighbouring cards look identical.
+  return <Comp className={cn(ORGANIC[shape % 4], 'relative border border-foreground/10 bg-card text-card-foreground ink', lift && 'lift', className)} {...props} />;
 }
 
 const BADGE = {
@@ -59,7 +77,7 @@ const BADGE = {
   danger: 'bg-danger-soft text-danger',
 };
 export function Badge({ variant = 'default', className, ...props }) {
-  return <span className={cn('inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-semibold', BADGE[variant], className)} {...props} />;
+  return <span className={cn('sticker inline-flex -rotate-2 items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-bold', BADGE[variant], className)} {...props} />;
 }
 
 export const Input = forwardRef(function Input({ className, invalid, ...props }, ref) {
@@ -68,7 +86,7 @@ export const Input = forwardRef(function Input({ className, invalid, ...props },
       ref={ref}
       aria-invalid={invalid || undefined}
       className={cn(
-        'min-h-[48px] w-full rounded-xl border border-input bg-card px-4 text-base text-foreground placeholder:text-muted-foreground',
+        'organic-btn min-h-[48px] w-full border-2 border-input bg-card px-4 text-base text-foreground placeholder:text-muted-foreground',
         'focus:border-primary focus:outline-none focus:ring-2 focus:ring-ring/30',
         invalid && 'border-danger focus:border-danger focus:ring-danger/30',
         className,
@@ -83,7 +101,7 @@ export const Textarea = forwardRef(function Textarea({ className, ...props }, re
     <textarea
       ref={ref}
       className={cn(
-        'w-full resize-y rounded-2xl border border-input bg-card px-4 py-3 text-base leading-relaxed text-foreground placeholder:text-muted-foreground',
+        'organic-3 w-full resize-y border-2 border-input bg-card px-4 py-3 text-base leading-relaxed text-foreground placeholder:text-muted-foreground',
         'focus:border-primary focus:outline-none focus:ring-2 focus:ring-ring/30',
         className,
       )}
@@ -100,7 +118,7 @@ export function CheckItem({ checked, onChange, children, className, description,
     <label
       htmlFor={id}
       className={cn(
-        'flex min-h-[48px] cursor-pointer items-start gap-3 rounded-xl border bg-card px-3 py-3 transition hover:bg-muted/60',
+        'organic lift flex min-h-[48px] cursor-pointer items-start gap-3 border bg-card px-3 py-3 transition-colors hover:bg-muted/60',
         checked && 'border-primary/40 bg-primary-soft/60',
         className,
       )}
@@ -172,18 +190,21 @@ export function SectionTitle({ icon: Icon, title, hint, className, id }) {
 /** Toggle chip (multi-select). */
 export function Chip({ selected, onClick, children, className, ...props }) {
   return (
-    <button
+    <motion.button
+      whileTap={{ scale: 0.9, rotate: -3 }}
+      animate={selected ? { scale: [1, 1.08, 1], rotate: [0, -2, 0] } : { scale: 1, rotate: 0 }}
+      transition={{ type: 'spring', stiffness: 500, damping: 15 }}
       type="button"
       aria-pressed={!!selected}
       onClick={onClick}
       className={cn(
-        'inline-flex min-h-[40px] items-center gap-1.5 rounded-full border px-3.5 text-sm font-medium transition',
+        'organic-btn inline-flex min-h-[40px] items-center gap-1.5 border-2 px-3.5 text-sm font-semibold transition-colors',
         selected ? 'border-primary bg-primary text-primary-foreground' : 'border-input bg-card hover:bg-muted',
         className,
       )}
       {...props}
     >
       {children}
-    </button>
+    </motion.button>
   );
 }

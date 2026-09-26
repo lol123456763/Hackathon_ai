@@ -72,6 +72,7 @@ export default {
     tooltip: 'Escrito por IA con la información de arriba. Revisa los detalles importantes.',
   },
   help: {
+    hl: 'esta noche',
     title: 'Cuéntanos qué está pasando. Armamos tu plan — y tus vecinos pueden ayudarte esta noche.',
     subtitle: 'Gratis. Privado. Sin cuenta. Unos 60 segundos.',
     label: 'Describe tu situación',

@@ -72,6 +72,7 @@ export default {
     tooltip: 'Written by AI from the information above. Check important details.',
   },
   help: {
+    hl: 'tonight',
     title: "Tell us what's going on. We'll build your plan — and your neighbors can help tonight.",
     subtitle: 'Free. Private. No account. About 60 seconds.',
     label: 'Describe your situation',

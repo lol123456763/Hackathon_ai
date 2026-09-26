@@ -167,7 +167,7 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
           <div key={h} className="absolute inset-x-0 border-t border-dashed border-border/70" style={{ top: (h * 60 - DAY_START) * PX }} />
         ))}
         {day.free.map((w) => (
-          <div key={w.start} className="absolute inset-x-1 rounded-lg bg-success-soft/70" style={{ top: top(w.start), height: Math.max(12, (toMin(w.end) - toMin(w.start)) * PX) }}>
+          <div key={w.start} className="organic-3 absolute inset-x-1 bg-success-soft/70" style={{ top: top(w.start), height: Math.max(12, (toMin(w.end) - toMin(w.start)) * PX) }}>
             {w.minutes >= 45 && <span className="absolute right-2 top-1 text-[10px] font-semibold text-success">{t('week.freeWindow', { start: hhmmLabel(w.start, lang), end: hhmmLabel(w.end, lang) })}</span>}
           </div>
         ))}
@@ -181,7 +181,7 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
             key={b.key}
             type="button"
             onClick={() => onBlock(b)}
-            className={cn('absolute inset-x-1 z-10 overflow-hidden rounded-lg border px-2 py-0.5 text-left text-xs font-semibold shadow-sm transition hover:brightness-95', KIND_STYLE[b.kind] || KIND_STYLE.personal, b.status === 'done' && 'opacity-70')}
+            className={cn('organic-btn absolute inset-x-1 z-10 overflow-hidden border px-2 py-0.5 text-left text-xs font-semibold shadow-sm transition hover:brightness-95', KIND_STYLE[b.kind] || KIND_STYLE.personal, b.status === 'done' && 'opacity-70')}
             style={{ top: top(b.start), height: Math.max(22, (toMin(b.end) - toMin(b.start)) * PX - 2) }}
           >
             {b.kind === 'loop' && <Sparkles className="mr-1 inline h-3 w-3" aria-hidden="true" />}
@@ -194,7 +194,7 @@ function Timeline({ day, suggestions, onBlock, onSuggestion, isToday, nowMin }) 
             key={s.opp_key}
             type="button"
             onClick={() => onSuggestion(s)}
-            className="absolute inset-x-1 z-10 overflow-hidden rounded-lg border-2 border-dashed border-accent bg-accent-soft/90 px-2 py-0.5 text-left text-xs font-bold text-accent"
+            className="organic-2 absolute inset-x-1 z-10 overflow-hidden border-2 border-dashed border-accent motion-safe:animate-pulse bg-accent-soft/90 px-2 py-0.5 text-left text-xs font-bold text-accent"
             style={{ top: top(s.start), height: Math.max(24, (toMin(s.end) - toMin(s.start)) * PX - 2) }}
           >
             ✦ {lang === 'es' ? s.title_es : s.title_en}
@@ -642,7 +642,7 @@ export default function MyWeek() {
               role="tab"
               aria-selected={d.date === day.date}
               onClick={() => setSelected(d.date)}
-              className={cn('flex min-w-[52px] flex-col items-center rounded-2xl border px-2 py-1.5 text-xs font-semibold transition', d.date === day.date ? 'border-primary bg-primary text-primary-foreground' : 'bg-card hover:bg-muted')}
+              className={cn('organic lift flex min-w-[52px] flex-col items-center border px-2 py-1.5 text-xs font-semibold transition', d.date === day.date ? 'border-primary bg-primary text-primary-foreground' : 'bg-card hover:bg-muted')}
             >
               <span>{d.date === data.today ? t('week.today') : dayLabel(d.date, lang)}</span>
               <span className="text-lg font-extrabold leading-tight">{Number(d.date.slice(8))}</span>

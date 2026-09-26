@@ -7,6 +7,7 @@ import { EXAMPLE_NOTE } from '@shared/golden.js';
 import { REQUEST_TYPES } from '@shared/constants.js';
 import { AiTag, Sheet, StatusTracker } from './bits';
 import LoopRing from './LoopRing';
+import { Loopy } from './decor';
 import { Alert, Button, Card, Chip, Textarea, cn } from './ui';
 
 function RequestSheet({ open, onClose, token, defaultSize, defaultPrefs, onPosted }) {
@@ -224,6 +225,7 @@ export default function TonightCard({ view, request, onPlanChange }) {
             </h2>
           </div>
           {!request && view.plan_source === 'ai' && <AiTag className="ml-auto" />}
+          {covered && <Loopy mood="happy" size={52} className="ml-auto" />}
         </div>
 
         <div className="p-4">
