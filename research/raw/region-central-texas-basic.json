@@ -1,0 +1,1022 @@
+{
+  "scope": "Central Texas corridor (McLennan, Bell, Coryell, Brazos counties) - basic needs",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "central-texas-food-bank-waco-killeen",
+      "name": "Find Food Now (Central Texas Food Bank, incl. former Shepherd's Heart Waco)",
+      "organization": "Central Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free groceries through local pantries, mobile food pantries, and programs for kids and seniors. Enter your ZIP code on the Find Food Now tool to see nearby places, days, and times.",
+      "eligibility_summary_en": "Open to people who need food in the food bank's service area, including Waco and Killeen.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food Now tool on the website and enter your ZIP code, or call the food bank. You can also dial 2-1-1.",
+      "apply_url": "https://www.centraltexasfoodbank.org/get-help",
+      "phone": "(512) 282-2111",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan",
+        "Bell"
+      ],
+      "source_url": "https://www.centraltexasfoodbank.org/get-help",
+      "confidence": "high",
+      "notes": "Shepherd's Heart Food Pantry (Waco) officially merged with Central Texas Food Bank; old Shepherd's Heart site redirects to https://www.centraltexasfoodbank.org/shepherds-heart. Food bank also offers SNAP application help at (855) 366-3401. Coryell County coverage not confirmed this session - check Find Food Now by ZIP."
+    },
+    {
+      "id": "brazos-valley-food-bank",
+      "name": "Brazos Valley Food Bank - Find Food",
+      "organization": "Brazos Valley Food Bank, Inc.",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank that supplies local food pantries and runs a mobile food pantry, senior outreach, school pantries, a children's BackPack program, and home delivery (Project GotEM).",
+      "eligibility_summary_en": "People who need food in the Brazos Valley. Each partner pantry may have its own rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the pantry list (English and Spanish) or interactive pantry map on the Find Food page, or call the food bank. Dial 2-1-1 for more help.",
+      "apply_url": "https://www.bvfb.org/find-food",
+      "phone": "(979) 779-3663",
+      "address": "1501 Independence Ave",
+      "city": "Bryan",
+      "zip": "77803",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvfb.org/find-food",
+      "confidence": "high",
+      "notes": "Pantry list is available in English and Spanish. Food bank also offers community resources and benefits assistance."
+    },
+    {
+      "id": "helping-hands-ministry-belton",
+      "name": "Neighborhood Food Pantry and Financial Assistance",
+      "organization": "Helping Hands Ministry of Belton",
+      "categories": [
+        "food",
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Free food pantry plus crisis help with rent and utility bills.",
+      "eligibility_summary_en": "Neighbors in need in the Belton area. Eligibility details are not posted; call to ask.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit during open hours or call to ask about the food pantry and financial help.",
+      "apply_url": null,
+      "phone": "(254) 939-7355",
+      "address": "2210 Holland Road",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": "Mon 12 pm-6 pm; Wed 10 am-4 pm; Thu 10 am-4 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.helpinghandsbelton.org/",
+      "confidence": "high",
+      "notes": "Email info@helpinghandsbelton.org. Also runs Project Apple Tree (holiday help)."
+    },
+    {
+      "id": "salvation-army-waco",
+      "name": "Salvation Army Waco - Shelter, Meals, Pantry and Emergency Assistance",
+      "organization": "The Salvation Army Waco Corps",
+      "categories": [
+        "food",
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Free daily meals at the Community Kitchen, shelters for men and for women and families, a food pantry with groceries and baby items, and help with rent and utility bills.",
+      "eligibility_summary_en": "People in need in Waco, including people who are homeless.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number or visit Social Services at 4721 W Waco Dr. Food pantry is open Monday-Thursday.",
+      "apply_url": null,
+      "phone": "(254) 756-7271",
+      "address": "4721 W Waco Dr",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": "Food pantry: Mon-Thu 8:30 am-4:30 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://southernusa.salvationarmy.org/waco/",
+      "confidence": "high",
+      "notes": "Other sites: Community Kitchen & Men's Shelter, 300 Webster Ave, Waco 76706; Sally's House (women & families with children), 524 S 4th St, Waco 76706; Corps center, 1225 South I-35 Frontage Rd, Waco 76706. Also offers veteran services and addiction support."
+    },
+    {
+      "id": "mission-waco",
+      "name": "Mission Waco Services (Meyer Center, Creekside Community Village, Clothesline)",
+      "organization": "Mission Waco / Mission World",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Faith-based nonprofit with social services at the Meyer Center, permanent supportive housing at Creekside Community Village, a recovery program, and a clothing voucher center.",
+      "eligibility_summary_en": "Low-income and homeless people in Waco. Call for program-specific rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number to ask which program fits your need.",
+      "apply_url": null,
+      "phone": "(254) 753-4900",
+      "address": "1315 N 15th St",
+      "city": "Waco",
+      "zip": "76707",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "http://missionwaco.org/",
+      "confidence": "high",
+      "notes": "Program addresses and hours were not listed on the homepage; call the main number."
+    },
+    {
+      "id": "twin-city-mission-shelter-for-hope",
+      "name": "Doug Weedon Shelter for Hope",
+      "organization": "Twin City Mission",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Emergency shelter for men, women, and families who are homeless. Twin City Mission also offers housing, domestic violence, and family support services.",
+      "eligibility_summary_en": "Any man, woman, or family who is homeless.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the shelter or go to the shelter address.",
+      "apply_url": null,
+      "phone": "(979) 822-1492",
+      "address": "410 S Randolph Ave",
+      "city": "Bryan",
+      "zip": "77803",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.twincitymission.org/homeless-services",
+      "confidence": "high",
+      "notes": "Email homelessservices@twincitymission.org. Main Twin City Mission office: 2505 South College Avenue, Bryan 77801, (979) 822-7511."
+    },
+    {
+      "id": "families-in-crisis-bell-coryell",
+      "name": "Families In Crisis - Shelter, Hotline and Housing Help",
+      "organization": "Families In Crisis, Inc.",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Emergency shelter, crisis counseling, and housing help for survivors of family violence and sexual assault and for people without housing. Runs the Friends In Crisis homeless shelter and rental assistance in Killeen and Temple.",
+      "eligibility_summary_en": "Survivors of family violence or sexual assault and people who are homeless in Bell, Coryell, and Hamilton counties. You do not need money, papers, or a police report.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline, text (254) 634-1184, or walk in to the Killeen office Monday-Friday 8 am-5 pm. No appointment needed.",
+      "apply_url": null,
+      "phone": "1-888-799-SAFE (7233)",
+      "address": "1305 East Rancier Avenue",
+      "city": "Killeen",
+      "zip": null,
+      "hours": "Hotline 24/7; office Mon-Fri 8 am-5 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://www.familiesincrisis.net/",
+      "confidence": "high",
+      "notes": "Outreach offices in Temple, Gatesville, and Hamilton. Other listed phone: (254) 773-7765. Site certificate was expired when checked; content was current."
+    },
+    {
+      "id": "family-abuse-center-waco",
+      "name": "Family Abuse Center",
+      "organization": "Family Abuse Center",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Emergency shelter for domestic violence survivors and their children, plus counseling, case management, legal help, housing help, and transportation help.",
+      "eligibility_summary_en": "Victims of domestic violence in Waco and nearby rural counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline. For emergencies, call 911.",
+      "apply_url": null,
+      "phone": "(800) 283-8401",
+      "address": null,
+      "city": "Waco",
+      "zip": null,
+      "hours": "Hotline 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.familyabusecenter.org/",
+      "confidence": "high",
+      "notes": "Shelter address is confidential. Email info@familyabusecenter.org."
+    },
+    {
+      "id": "waco-housing-authority",
+      "name": "Public Housing and Housing Choice Vouchers (Section 8)",
+      "organization": "Waco Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Low-cost public housing in Waco and Mart and Housing Choice Vouchers (Section 8) that help pay rent. Also offers family self-sufficiency, homeownership, and housing stabilization programs.",
+      "eligibility_summary_en": "Low-income residents of Waco and McLennan County. Waiting lists open at certain times.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the housing authority's applicant portal, or call the office.",
+      "apply_url": "https://portal-wacopha.securecafe.com",
+      "phone": "(254) 752-0324",
+      "address": "4400 Cobbs Drive",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.wacopha.org/",
+      "confidence": "high",
+      "notes": "TTY: (800) 545-1833. Site announced the Melody Grove Apartments waiting list opening May 11, 2026 for 1- and 2-bedroom units; check the site for current waitlist status."
+    },
+    {
+      "id": "bvcog-housing-choice-voucher",
+      "name": "Housing Choice Voucher Program",
+      "organization": "Brazos Valley Council of Governments",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Section 8 vouchers that pay part of your rent directly to the landlord so you can choose your own home.",
+      "eligibility_summary_en": "Very low-income families, older adults, and people with disabilities. Income generally may not be over 50% of the area median income. Must be a U.S. citizen or eligible non-citizen.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "The waiting list is closed. Check the BVCOG page or call to find out when it reopens; existing applicants can update information in the applicant portal.",
+      "apply_url": null,
+      "phone": "(979) 595-2801",
+      "address": "3991 East 29th St",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvcog.org/programs/housing-choice-voucher-program/",
+      "confidence": "high",
+      "notes": "Waiting list closed as of May 31, 2024 per the page. Ask for ext. 2313. Also serves Burleson, Grimes (not Navasota), Leon, Madison, Robertson, Washington (not Brenham)."
+    },
+    {
+      "id": "ctcog-section-8-housing",
+      "name": "Section 8 Housing Assistance Program",
+      "organization": "Central Texas Council of Governments",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Housing vouchers that help low-income families, older adults, and people with disabilities pay rent.",
+      "eligibility_summary_en": "Low-income families, the elderly, and people with disabilities in the CTCOG region. Income limits are in the program's posted income limit document.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Fill out a pre-application to join the waiting list when it is open. You will get an appointment letter by mail.",
+      "apply_url": null,
+      "phone": "(254) 770-2200",
+      "address": "2180 North Main Street",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": "Mon-Fri 8 am-5 pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://ctcog.org/housing/",
+      "confidence": "high",
+      "notes": "Waiting list was CLOSED when checked ('check back after the first of the year'). Port-in intake not accepting new clients. Full list of counties served was not stated on the page; confirm coverage for Coryell."
+    },
+    {
+      "id": "hccaa-ceap-bell-coryell",
+      "name": "Comprehensive Energy Assistance Program (CEAP)",
+      "organization": "Hill Country Community Action Association, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills. HCCAA also offers weatherization to make homes more energy efficient.",
+      "eligibility_summary_en": "Low-income households in HCCAA's service area, which includes Bell and Coryell counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call HCCAA's toll-free number to ask about applying, or visit the Killeen or Temple Help Center.",
+      "apply_url": null,
+      "phone": "(866) 372-5167",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://www.hccaa.com/what-we-do",
+      "confidence": "high",
+      "notes": "Main office is in San Saba (2905 West Wallace St., 76877). Help centers are in Killeen and Temple; their street addresses were not listed on the pages read. Email hccaainc@hccaa.com. Counties confirmed on https://www.hccaa.com/about."
+    },
+    {
+      "id": "hccaa-case-management",
+      "name": "Case Management (CSBG) Self-Sufficiency Program",
+      "organization": "Hill Country Community Action Association, Inc.",
+      "categories": [
+        "cash_assistance",
+        "employment",
+        "utilities",
+        "transportation"
+      ],
+      "description_en": "A case manager helps you set goals toward self-sufficiency and may help pay for utility bills, transportation, education, job search costs, and food.",
+      "eligibility_summary_en": "Households that meet income limits and pass a pre-screening showing they are ready to commit to the program.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call HCCAA or email to ask for a pre-screening.",
+      "apply_url": null,
+      "phone": "(866) 372-5167",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://www.hccaa.com/case-management",
+      "confidence": "high",
+      "notes": "Help centers in Killeen and Temple. Exact income limit not posted."
+    },
+    {
+      "id": "bvcap-utility-assistance",
+      "name": "Utility Assistance (CEAP) and Weatherization",
+      "organization": "Brazos Valley Community Action Programs (BVCAP), a program of Brazos Valley Council of Governments",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Helps low-income households pay utility bills and offers weatherization. BVCAP also offers case management, affordable rental housing, Head Start, and Meals on Wheels.",
+      "eligibility_summary_en": "Low-income households in the Brazos Valley. Eligibility is based on income guidelines.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or email BVCAP, or visit the main office.",
+      "apply_url": "https://capbv.org/",
+      "phone": "(979) 595-2800",
+      "address": "4001 E. 29th St, Suite 175",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://capbv.org/contact-us/",
+      "confidence": "high",
+      "notes": "Email bvcapcontact@bvcog.org. The former Brazos Valley Community Action Agency (BVCAA) site says its services moved to HealthPoint (clinics) and Community Action (Head Start, Meals on Wheels, WIC)."
+    },
+    {
+      "id": "waco-transit-reduced-fare",
+      "name": "Waco Transit Reduced Fares",
+      "organization": "Waco Transit System (City of Waco)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus rides for $0.50 for seniors, people with disabilities, and Medicare card holders (regular fare $1.50). Children 5 and under ride free, and Waco ISD, MCC, TSTC, and Baylor students ride free with student ID.",
+      "eligibility_summary_en": "Seniors and Medicare holders need a Waco Transit ID; riders with disabilities must apply and be approved.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Waco Transit ID (seniors, Medicare)",
+        "Student ID (free student rides)"
+      ],
+      "how_to_apply": "Call or visit Waco Transit to get a reduced-fare ID or apply for the disability fare.",
+      "apply_url": null,
+      "phone": "(254) 750-1900",
+      "address": "301 S. 8th Street, Suite 100",
+      "city": "Waco",
+      "zip": "76701",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$0.50 reduced fare; Reduced Fare Day Pass $1.25",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.waco-texas.com/Departments/Waco-Transit-System",
+      "confidence": "high",
+      "notes": "Fixed route info: (254) 750-1613. Travel training: (254) 750-1900."
+    },
+    {
+      "id": "waco-transit-demand-response",
+      "name": "Waco Transit Demand Response (ADA Paratransit)",
+      "organization": "Waco Transit System (City of Waco)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door rides for people who cannot use the regular bus, including rides to medical appointments.",
+      "eligibility_summary_en": "Riders who qualify for ADA paratransit service. Personal care attendants ride free.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Demand Response to apply and schedule trips.",
+      "apply_url": null,
+      "phone": "(254) 750-1620",
+      "address": "301 S. 8th Street, Suite 100",
+      "city": "Waco",
+      "zip": "76701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$3 one-way; $4 same-day; $5 same-day rural; 10-ticket booklet $30",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.waco-texas.com/Departments/Waco-Transit-System",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "hill-country-transit-the-hop",
+      "name": "The HOP (Hill Country Transit District)",
+      "organization": "Hill Country Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public transit in Bell, Coryell, and Milam counties, including microtransit, commuter service, the Cavazos Connector, and rural demand-response rides.",
+      "eligibility_summary_en": "Open to the public. Accessible service for people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book a ride with the mobile app, online, or by calling an agent.",
+      "apply_url": "https://www.takethehop.com/",
+      "phone": "(254) 933-3700",
+      "address": "4515 W US 190",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Fare varies; see Fare Media Pricing on the website",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://www.takethehop.com/",
+      "confidence": "high",
+      "notes": "Language assistance available for people with limited English. Reduced fare and ADA details are on separate pages not confirmed this session."
+    },
+    {
+      "id": "brazos-transit-district",
+      "name": "Brazos Transit District (fixed routes, ADA paratransit, demand response)",
+      "organization": "Brazos Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Bus routes, ADA paratransit, and demand-response rides across 20 counties including the Bryan-College Station area. Senior and disabled passes are available.",
+      "eligibility_summary_en": "Open to the public. Seniors and people with disabilities can apply for reduced-fare passes.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the dispatch center to book demand-response or paratransit rides; apply for a senior or disabled pass.",
+      "apply_url": null,
+      "phone": "(979) 778-4480",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fare varies; senior and disabled passes available",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.btd.org/",
+      "confidence": "high",
+      "notes": "Toll-free dispatch: (800) 272-0039 (also for info in another language, large print, or braille). Customer service: (979) 778-0607 ext 7008."
+    },
+    {
+      "id": "workforce-solutions-heart-of-texas-waco",
+      "name": "Workforce Solutions for the Heart of Texas - Waco Center",
+      "organization": "Workforce Solutions for the Heart of Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, training, GED and ESL classes, apprenticeships, veteran services, and child care assistance.",
+      "eligibility_summary_en": "Job seekers and employers in Bosque, Falls, Freestone, Hill, Limestone, and McLennan counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Waco workforce center or call.",
+      "apply_url": "https://www.hotworkforce.com/",
+      "phone": "(866) 982-9226",
+      "address": "1416 S. New Road",
+      "city": "Waco",
+      "zip": "76711",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotworkforce.com/about/center-locations/",
+      "confidence": "high",
+      "notes": "Email questions@hotworkforce.com."
+    },
+    {
+      "id": "hot-child-care-services",
+      "name": "Child Care Services (subsidized child care)",
+      "organization": "Workforce Solutions for the Heart of Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps eligible parents pay for child care while they work or go to school.",
+      "eligibility_summary_en": "Parents in the Heart of Texas workforce area who meet TWC child care rules. Income limits were not listed on the page.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the TWC Texas Child Care Connection (TX3C) portal, or call Child Care Services.",
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(254) 296-5361",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost may apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotworkforce.com/program-services/child-care-services/parent-information/",
+      "confidence": "high",
+      "notes": "Toll-free (800) 772-2269; TX3C support 1-888-265-6461."
+    },
+    {
+      "id": "workforce-solutions-central-texas",
+      "name": "Workforce Solutions of Central Texas - Killeen and Temple Centers",
+      "organization": "Workforce Solutions of Central Texas (Central Texas Council of Governments)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, training, and workforce services at local centers.",
+      "eligibility_summary_en": "Job seekers and employers in Central Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the Killeen or Temple workforce center.",
+      "apply_url": "https://workforcesolutionsctx.com/",
+      "phone": "(254) 200-2000",
+      "address": "300 Cheyenne Drive",
+      "city": "Killeen",
+      "zip": "76542",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://workforcesolutionsctx.com/",
+      "confidence": "high",
+      "notes": "Temple center: 201 Santa Fe Way, Temple 76502, (254) 742-4400. CTCOG page lists Killeen phone as (254) 200-2234. Site says a new website is in progress. Coryell (Gatesville/Copperas Cove) office not listed; child care services details not on page."
+    },
+    {
+      "id": "workforce-solutions-brazos-valley",
+      "name": "Workforce Solutions Brazos Valley",
+      "organization": "Brazos Valley Council of Governments",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Job seeker help, adult education and literacy, apprenticeships, veteran services, SNAP Employment & Training, and a Child Care & Early Learning division.",
+      "eligibility_summary_en": "Job seekers and employers in the Brazos Valley.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Bryan office.",
+      "apply_url": "https://www.bvjobs.org/",
+      "phone": "(979) 595-2800",
+      "address": "3991 East 29th St",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvjobs.org/",
+      "confidence": "high",
+      "notes": "Operator toll-free (800) 386-7200. Part of the American Job Center network."
+    },
+    {
+      "id": "bvcog-wic-brazos",
+      "name": "WIC Nutrition Program - Brazos County Clinics",
+      "organization": "Brazos Valley Council of Governments",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy foods, nutrition education, and breastfeeding support for pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "Pregnant or postpartum women, infants, and children with household income at or below 185% of the federal poverty level, who have a nutritional need and live in Texas.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Proof of income (pay stub showing gross income, or tax records) for each earner",
+        "Proof of address (rent receipt or utility bill; no PO boxes)",
+        "ID for each applicant (driver's license, Social Security card, or birth certificate)"
+      ],
+      "how_to_apply": "Call a clinic to make an appointment. Each woman, infant, and child applying must come in person.",
+      "apply_url": null,
+      "phone": "(979) 260-2942",
+      "address": "3400 S. Texas Ave., Suite 1",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvcog.org/programs/women-infants-and-children-wic",
+      "confidence": "high",
+      "notes": "Other clinics: 29th Street WIC, 4001 E. 29th St, Unit #112, Bryan 77801, (979) 255-9872; College Station, 1103 Anderson St, Ste #102, College Station 77840, (979) 255-3804."
+    },
+    {
+      "id": "bell-county-public-health-wic",
+      "name": "WIC - Bell County Public Health District",
+      "organization": "Bell County Public Health District",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC nutrition services and other public health clinic services.",
+      "eligibility_summary_en": "Pregnant women, new mothers, infants, and young children who meet WIC rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health district to confirm current WIC clinic locations and hours.",
+      "apply_url": null,
+      "phone": "(254) 532-9800",
+      "address": "4236 Lowes Dr.",
+      "city": "Temple",
+      "zip": "76502",
+      "hours": "Mon-Fri 7:00 am-5:30 pm (varies by program)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.bellcountyhealth.org/",
+      "confidence": "high",
+      "notes": "Copperas Cove WIC clinic permanently closed (notice 08/22/2025). A temporary closure of the Temple clinic was posted 06/10/2025 - call before visiting."
+    },
+    {
+      "id": "heart-of-texas-behavioral-health",
+      "name": "Heart of Texas Behavioral Health Network (Local Mental Health Authority)",
+      "organization": "Heart of Texas Behavioral Health Network",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health, substance use, intellectual and developmental disability, and early childhood intervention services, with crisis help 24 hours a day.",
+      "eligibility_summary_en": "Residents of Bosque, Falls, Freestone, Hill, Limestone, and McLennan counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number for services. In a crisis call the 24-hour crisis line or 988.",
+      "apply_url": null,
+      "phone": "(254) 752-3451",
+      "address": "6400 Imperial Drive",
+      "city": "Waco",
+      "zip": "76712",
+      "hours": "Crisis services 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale / varies",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotbhn.org/",
+      "confidence": "high",
+      "notes": "24-hour crisis line: (866) 752-3451. Also offers veterans services."
+    },
+    {
+      "id": "central-counties-services",
+      "name": "Central Counties Services (Local Mental Health Authority)",
+      "organization": "Central Counties Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health screening and treatment, youth programs, early childhood intervention, and services for intellectual and developmental disabilities, with a 24/7 crisis line.",
+      "eligibility_summary_en": "Residents of the Central Counties Services area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the non-crisis line for intake, or the crisis hotline any time.",
+      "apply_url": null,
+      "phone": "(254) 298-7000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.centralcountiesservices.org/",
+      "confidence": "medium",
+      "notes": "Crisis hotline: (800) 888-4036; non-crisis toll-free: (844) 815-6221. Counties served were not listed on the homepage; Coryell coverage not confirmed this session."
+    },
+    {
+      "id": "mhmr-authority-brazos-valley",
+      "name": "MHMR Authority of Brazos Valley (Local Mental Health Authority)",
+      "organization": "MHMR Authority of Brazos Valley",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Services for mental illness, substance use, and intellectual and developmental disabilities, with a 24/7 crisis hotline.",
+      "eligibility_summary_en": "Children and adults in the seven-county Brazos Valley area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number. For a mental health or substance use crisis call the 24/7 hotline.",
+      "apply_url": null,
+      "phone": "(979) 822-6467",
+      "address": null,
+      "city": "Bryan",
+      "zip": null,
+      "hours": "Crisis hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.mhmrabv.org/",
+      "confidence": "high",
+      "notes": "24/7 crisis hotline: (888) 522-8262. Toll-free: (800) 282-6467. Mailing: P.O. Box 4588, Bryan, TX 77805."
+    },
+    {
+      "id": "healthpoint-bryan",
+      "name": "HealthPoint Community Health Centers (FQHC)",
+      "organization": "HealthPoint",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Federally qualified health center with medical, dental, behavioral health, and pharmacy services.",
+      "eligibility_summary_en": "Open to all. Accepts most insurance including Medicare, Medicaid, and CHIP.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call a clinic to make an appointment. The Bryan-College Station clinic offers same-day care.",
+      "apply_url": null,
+      "phone": "(979) 595-1700",
+      "address": "3370 S. Texas Avenue, Suite B",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts insurance; ask about fees for uninsured patients",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://healthpoint-tx.com/locations/",
+      "confidence": "high",
+      "notes": "Bryan - Memorial Clinic: 1301 Memorial Drive, Bryan 77802, (979) 731-4520 (pediatrics, maternal care, women's health, behavioral health, dental). Sliding fee not confirmed on page."
+    },
+    {
+      "id": "lone-star-legal-aid-central-texas",
+      "name": "Free Civil Legal Aid (Waco, Belton, Bryan offices)",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help, such as housing and eviction problems, for people with low income.",
+      "eligibility_summary_en": "Clients must meet financial and legal status eligibility rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply using the online intake form or call the toll-free number.",
+      "apply_url": "https://www.lonestarlegal.org/",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan",
+        "Bell",
+        "Coryell",
+        "Brazos"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "confidence": "high",
+      "notes": "Waco office serves McLennan (and Bosque, Falls, Freestone, Hill, Limestone, Navarro); Belton office serves Bell and Coryell (and Hamilton, Lampasas, Milam); Bryan office serves Brazos (and Burleson, Grimes, Lee, Leon, Madison, Robertson). Local office addresses were not listed on the page read."
+    },
+    {
+      "id": "aaa-heart-of-texas",
+      "name": "Area Agency on Aging of the Heart of Texas",
+      "organization": "Heart of Texas Council of Governments",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Benefits counseling, caregiver support, care coordination, and access to senior meals and home repairs through partner senior centers.",
+      "eligibility_summary_en": "Adults age 60 and older (some exceptions). Medicare recipients of any age can get benefits counseling.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Area Agency on Aging.",
+      "apply_url": null,
+      "phone": "(254) 292-1800",
+      "address": "1514 South New Road",
+      "city": "Waco",
+      "zip": "76711",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotcogtx.gov/health-and-human-services/area-agency-on-aging",
+      "confidence": "high",
+      "notes": "Serves Bosque, Falls, Freestone, Hill, Limestone and McLennan counties."
+    },
+    {
+      "id": "aaa-central-texas",
+      "name": "Area Agency on Aging of Central Texas",
+      "organization": "Central Texas Council of Governments",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Nutrition and home and community-based services to help older adults stay in their homes.",
+      "eligibility_summary_en": "Persons 60 years of age or older.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the agency.",
+      "apply_url": null,
+      "phone": "(254) 770-2200",
+      "address": "2180 North Main Street",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": "Mon-Fri 8 am-5 pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://ctcog.org/aging/",
+      "confidence": "high",
+      "notes": "Toll-free: (855) 937-2372. Counties served not listed on the page read; Coryell coverage not confirmed."
+    },
+    {
+      "id": "city-of-bryan-community-development",
+      "name": "Homebuyer and Home Repair Assistance",
+      "organization": "City of Bryan Community Development Department",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Programs for homebuyer help, major home rehabilitation, minor repairs, and foundation repair, plus referrals to community assistance.",
+      "eligibility_summary_en": "Bryan residents who meet each program's rules.",
+      "eligibility_rules": {
+        "residency_required": "City of Bryan resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Development Center to get application forms.",
+      "apply_url": null,
+      "phone": "(979) 209-5175",
+      "address": "200 E. 29th St.",
+      "city": "Bryan",
+      "zip": "77803",
+      "hours": "Mon-Fri 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bryantx.gov/community-development/",
+      "confidence": "high",
+      "notes": null
+    }
+  ]
+}

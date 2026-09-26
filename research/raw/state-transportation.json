@@ -1,0 +1,2070 @@
+{
+  "scope": "transportation",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "texas-medicaid-nemt",
+      "name": "Medicaid Nonemergency Medical Transportation (NEMT) / Medical Transportation Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "transportation",
+        "healthcare"
+      ],
+      "description_en": "Free rides to Medicaid doctor visits, pharmacies, and other covered health care. Rides can be by city bus, taxi or van, and sometimes gas money is paid back if you or a friend drive.",
+      "eligibility_summary_en": "For people enrolled in Medicaid, the Children with Special Health Care Needs program, or the Transportation for Indigent Cancer Patients program who have no other way to get to their appointment.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident enrolled in Medicaid, CSHCN, or Transportation for Indigent Cancer Patients"
+      },
+      "documents_needed": [
+        "Medicaid ID number or Social Security number",
+        "Doctor or clinic name, address and phone",
+        "Pickup address",
+        "Appointment date, time and reason"
+      ],
+      "how_to_apply": "If you have a Medicaid health plan, call your plan's medical transportation number. If you do not have a health plan, call 877-MED-TRIP. Call at least 2 workdays before your visit (5 workdays for visits outside your county).",
+      "apply_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/programs/medical-transportation-program",
+      "phone": "(877) 633-8747",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8 a.m.-5 p.m. local time (for scheduling)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/programs/medical-transportation-program",
+      "confidence": "high",
+      "notes": "877-MED-TRIP is for people WITHOUT a Medicaid health plan. Health plan ride lines (from HHS contact page): Aetna 1-866-411-8920; Blue Cross Blue Shield of Texas 1-866-824-1565; Community First 1-855-932-2335; Community Health Choice 1-844-572-8194; Cook Children's 1-844-572-8195; Dell Children's 1-844-867-2742; Driscoll 1-833-694-5881; El Paso Health 1-833-931-3844; Molina 1-866-462-4857; Parkland Community Health Plan 1-833-931-3844; Superior 1-855-932-2318; Texas Children's 1-888-583-0110; UnitedHealthcare 1-888-462-6050; Wellpoint STAR 1-833-721-8184, STAR+PLUS 1-844-867-2837, STAR Kids 1-844-864-2443, MMP 1-844-869-2767. Same-day rides may be approved for urgent care, hospital discharge, or pharmacy trips. People who own a car can ask for an Individual Transportation Participant (ITP) application for gas reimbursement. Meals/lodging may be covered for members under 21. Full plan list: https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-members/nonemergency-medical-transportation-program/health-plan-transportation-contact-information"
+    },
+    {
+      "id": "va-beneficiary-travel-pay",
+      "name": "VA Beneficiary Travel Pay Reimbursement",
+      "organization": "U.S. Department of Veterans Affairs",
+      "categories": [
+        "transportation",
+        "healthcare"
+      ],
+      "description_en": "Pays veterans back for mileage, parking and tolls when they travel to VA or approved community care. Some bus, taxi, meals and lodging can be covered with approval first.",
+      "eligibility_summary_en": "Veterans going to VA or approved community care who also meet a rule such as a 30% or higher disability rating, care for a service-connected condition, getting a VA pension, low income, or financial hardship.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "Receipts for parking, tolls or other costs",
+        "Mileage information",
+        "Direct deposit information"
+      ],
+      "how_to_apply": "File online through the Beneficiary Travel Self-Service System (BTSSS) or mail VA Form 10-3542 to your VA facility. File within 30 days of your appointment.",
+      "apply_url": "https://dvagov-btsss.dynamics365portals.us/",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/health-care/get-reimbursed-for-travel-pay/",
+      "confidence": "high",
+      "notes": "Claims filed after 30 days are usually denied. Bus, taxi, rideshare, meals and lodging need preapproval; mileage, parking and tolls do not. Contact your VA facility's Beneficiary Travel Office for help."
+    },
+    {
+      "id": "texas-dps-disabled-veteran-license-fee-exemption",
+      "name": "Free Driver License or ID Card for Disabled Veterans",
+      "organization": "Texas Department of Public Safety",
+      "categories": [
+        "transportation",
+        "legal"
+      ],
+      "description_en": "Disabled veterans who qualify can get a Texas driver license or ID card for free. The veteran designation can also be added at no charge.",
+      "eligibility_summary_en": "Veterans with a service-related disability rating of at least 60%, an honorable discharge, and VA disability pay who are not required to register as a sex offender. Does not apply to commercial driver licenses (CDL).",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "disability": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Signed VA disability letter, OR official documents showing honorable discharge, disability rating and disability compensation",
+        "Documents proving citizenship/lawful presence, Texas residency and identity"
+      ],
+      "how_to_apply": "Make an appointment at a Texas driver license office and bring your VA disability documents. After your status is verified, you can use DPS online services for fee-exempt renewals.",
+      "apply_url": "https://www.dps.texas.gov/section/driver-license/veteran-services",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.dps.texas.gov/section/driver-license/veteran-services",
+      "confidence": "high",
+      "notes": "DPS fee page also shows a reduced ID card fee for people age 60 and older (reduced, not free). DPS pages checked did not list a homeless or foster-youth fee waiver."
+    },
+    {
+      "id": "texas-election-identification-certificate",
+      "name": "Election Identification Certificate (EIC)",
+      "organization": "Texas Department of Public Safety",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "A free photo ID card that can be used for voting in Texas. It is good for six years (no expiration for people 70 and older).",
+      "eligibility_summary_en": "Registered Texas voters (or people applying to register) at least 17 years and 10 months old who do not already have a valid Texas driver license, ID, passport, military ID or handgun license.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident, registered voter"
+      },
+      "documents_needed": [
+        "Proof of U.S. citizenship",
+        "Proof of identity",
+        "Voter registration card (or register at the office)",
+        "Name change documents if needed"
+      ],
+      "how_to_apply": "Schedule an appointment at any Texas driver license office and fill out form DL-14C. Bring your documents to the appointment.",
+      "apply_url": "https://www.dps.texas.gov/section/service/election-identification-certificate-eic",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.dps.texas.gov/section/service/election-identification-certificate-eic",
+      "confidence": "high",
+      "notes": "The EIC is only for voting; it cannot be used as a driver license or general ID card."
+    },
+    {
+      "id": "capmetro-equifare",
+      "name": "CapMetro Equifare (Low-Income Fare)",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Cheaper bus rides for low-income riders in the Austin area. Local bus rides are $1.00, and rides are free after you spend $2 in a day or $33 in a month.",
+      "eligibility_summary_en": "Households with income below 200% of the Federal Poverty Level, or people enrolled in one or more social services programs.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Proof of eligibility such as SNAP/EBT card, Social Security award letter, pay stub or tax return (self-verification allowed; may be audited)"
+      ],
+      "how_to_apply": "Apply online, or get a paper form at the CapMetro Transit Store at 1705 Guadalupe St. Approval usually takes 4-6 business days and you get an email.",
+      "apply_url": "https://app.capmetro.org/Equifare",
+      "phone": "(512) 474-1200",
+      "address": "1705 Guadalupe St.",
+      "city": "Austin",
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Reduced fare: $1.00 local ride, $2 daily cap, $33 monthly cap",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capmetro.org/fare/general-fares-overview/equifare",
+      "confidence": "high",
+      "notes": "Must use the CapMetro Reloadable Fare Card or Umo app. Email Equifare@capmetro.org. Riders under 18 ride free on CapMetro. CapMetro also lists fare increases proposed for 2027 and 2029."
+    },
+    {
+      "id": "capmetro-reduced-fare",
+      "name": "CapMetro Reduced Fare (Seniors, Medicare, Disability, Military)",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Half-price bus and rail fares in the Austin area. Local rides are $0.60 and a monthly local pass is $20.60.",
+      "eligibility_summary_en": "Adults 65 and older, anyone with a Medicare card, riders with disabilities, and active or reserve military ID holders not in uniform.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proof of eligibility (age, Medicare card, disability, or military ID)"
+      ],
+      "how_to_apply": "Check eligibility and request a Reduced Fare ID through CapMetro, or call the GO Line for help.",
+      "apply_url": "https://www.capmetro.org/rfid",
+      "phone": "(512) 474-1200",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Reduced fare: $0.60 local single ride; $1.25 day pass; $20.60 monthly",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capmetro.org/fare/general-fares-overview/fares",
+      "confidence": "high",
+      "notes": "Eligibility rules: senior OR Medicare OR disability OR military (any one). Children under 18 and uniformed military/emergency personnel ride free."
+    },
+    {
+      "id": "capmetro-access-paratransit",
+      "name": "CapMetro Access (ADA Paratransit)",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared-ride van service for people whose disability keeps them from using regular buses and trains in the Austin area. Free travel training is also offered.",
+      "eligibility_summary_en": "People whose disability prevents them from using CapMetro fixed-route bus and rail, for trips within 3/4 mile of fixed routes.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Completed two-part application (Part A and Part B)"
+      ],
+      "how_to_apply": "Complete the Part A and Part B application online or on paper and email it to eligibility@capmetro.org. Once approved, book rides by phone or the Access app.",
+      "apply_url": "https://www.capmetro.org/access",
+      "phone": "(512) 852-7272",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Phone: weekdays 7 a.m.-6 p.m., weekends 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$1.75 per ride; $17.50 10-ride booklet; $46.50 monthly pass",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capmetro.org/access",
+      "confidence": "high",
+      "notes": "Eligibility questions: (512) 389-7501. Travel training: (512) 369-6083."
+    },
+    {
+      "id": "metro-houston-discount-fare-card",
+      "name": "METRO Discounted Fares / RideMETRO Discount Fare Card",
+      "organization": "Metropolitan Transit Authority of Harris County (METRO)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Half-price ($0.60) rides for students, seniors 65-69 and people with disabilities in Houston, and free rides for seniors 70+ and qualified veterans with a Discount Fare Card.",
+      "eligibility_summary_en": "K-12 and college students, seniors 65 and older, people with disabilities, and qualified veterans. Children 5 and under ride free with an adult.",
+      "eligibility_rules": {
+        "residency_required": "Riders of METRO service area (Harris County)"
+      },
+      "documents_needed": [
+        "Government-issued photo ID with date of birth (seniors)",
+        "Doctor's statement on letterhead or VA 'Service Connected' ID (disability)",
+        "Class schedule/report card (K-12) or class schedule with tuition receipt (college)",
+        "Application signed and stamped by the VA office (veterans)"
+      ],
+      "how_to_apply": "Apply online at the METRO Online RideStore and upload documents (card is mailed), or visit a METRO RideStore in person.",
+      "apply_url": "https://fares.ridemetro.org/",
+      "phone": "(713) 739-6968",
+      "address": "1900 Main St.",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": "Downtown Transit Center RideStore: Mon-Fri, 7 a.m.-6 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$0.60 half fare; free for seniors 70+ and qualified veterans",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.ridemetro.org/fares/all-about-fares",
+      "confidence": "high",
+      "notes": "Other RideStores at Eastwood, Fannin South, Fifth Ward/Denver Harbor, Kashmere, Magnolia Park, Main Street Square, Mission Bend, Northline, Northwest, Southeast, TMC and Wheeler Station transit centers (most Mon-Fri 8-5). METRO customer service: 713-635-4000. Card can be converted to a virtual card in the RideMETRO app."
+    },
+    {
+      "id": "metro-houston-metrolift",
+      "name": "METROLift (ADA Paratransit)",
+      "organization": "Metropolitan Transit Authority of Harris County (METRO)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared-ride paratransit service for people with disabilities across most of Harris County. One attendant rides free.",
+      "eligibility_summary_en": "People whose disability keeps them from getting to a bus stop, boarding, or using other METRO service without help.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Completed application",
+        "Physician certification form"
+      ],
+      "how_to_apply": "Apply online with the signed physician certification form, or call to get a paper application and mail it to METROLift Eligibility, P.O. Box 61429, Houston, TX 77208-1429. All applicants have an in-person interview; decision within 21 days.",
+      "apply_url": "https://www.ridemetro.org/riding-metro/transit-services/metrolift-paratransit",
+      "phone": "(713) 225-0119",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Customer service Mon-Fri, 10 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "$1.25 one-way (base area); $2.50 one-way (extended area)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.ridemetro.org/riding-metro/transit-services/metrolift-paratransit",
+      "confidence": "high",
+      "notes": "Scheduling: automated 713-739-4690; live agent 713-225-6716 (Mon-Fri 8-5); AI assistant 346-245-5189 (English), 346-477-9540 (Spanish). Book one day before travel."
+    },
+    {
+      "id": "dart-discount-gopass-tap-card",
+      "name": "DART Discount GoPass Tap Card (Low-Income)",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "A reloadable card that gives half-price local bus and train fares to people in assistance programs. Daily and monthly fare caps apply.",
+      "eligibility_summary_en": "People enrolled in SNAP, Medicaid, CHIP, TANF, WIC, Medicare, CEAP, Housing Choice Voucher, Dallas Housing Authority, or Parkland Financial Assistance.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current program card with expiration date or agency letter with your name",
+        "Headshot photo"
+      ],
+      "how_to_apply": "Register online or call DART. The card is mailed within 15 business days.",
+      "apply_url": "https://www.dart.org/fare/general-fares-and-overview/discount-gopass-tap-card",
+      "phone": "(972) 482-4052",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "50% off local fares; $6 minimum first load",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas",
+        "Collin",
+        "Denton",
+        "Ellis",
+        "Tarrant"
+      ],
+      "source_url": "https://www.dart.org/fare/general-fares-and-overview/discount-gopass-tap-card",
+      "confidence": "high",
+      "notes": "Counties from TxDOT transit directory for DART's service area; DART serves specific member cities only."
+    },
+    {
+      "id": "dart-reduced-fare",
+      "name": "DART Reduced Fare GoPass Tap Card (Seniors, Disability, Veterans, Students)",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "50% off DART fares for seniors, veterans, people with disabilities, children and students.",
+      "eligibility_summary_en": "Seniors 65+, veterans, people with disabilities, children 5-14, high school students, and full-time college or trade school students.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "DART-issued photo ID",
+        "Medical certificate or state/federal disability ID (for disability)"
+      ],
+      "how_to_apply": "Apply online through the DART Access portal using the link for your category.",
+      "apply_url": "https://dartaccess.dart.org/reducedfareid/",
+      "phone": "(214) 979-1111",
+      "address": "1401 Pacific Avenue",
+      "city": "Dallas",
+      "zip": "75202",
+      "hours": "Phone: 5 a.m.-12 a.m. daily; holidays 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "50% off regular fare",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas",
+        "Collin",
+        "Denton",
+        "Ellis",
+        "Tarrant"
+      ],
+      "source_url": "https://www.dart.org/fare/general-fares-and-overview/reduced-fares",
+      "confidence": "high",
+      "notes": "Eligibility is any one of the listed groups (senior OR disability OR veteran OR student). Children under 5 ride free with a paying adult."
+    },
+    {
+      "id": "dart-paratransit",
+      "name": "DART Paratransit Services (ADA)",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door rides for people with disabilities who cannot use DART buses or trains.",
+      "eligibility_summary_en": "People with disabilities who meet ADA paratransit rules; some riders get conditional eligibility for certain trips only.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact DART Paratransit to apply. Book rides online 24/7 or by phone.",
+      "apply_url": "https://www.dart.org/guide/transit-and-use/paratransit-services",
+      "phone": "(214) 515-7272",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Live scheduling Mon-Fri, 8 a.m.-5 p.m.; web booking 24/7",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$3.50 per ride; $35 10-trip booklet; personal care attendants free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas",
+        "Collin",
+        "Denton"
+      ],
+      "source_url": "https://www.dart.org/guide/transit-and-use/paratransit-services",
+      "confidence": "high",
+      "notes": "Service area: Addison, Carrollton, Cockrell Hill, Dallas, Farmers Branch, Garland, Glenn Heights, Irving, Plano, Richardson, Rowlett, University Park, and DFW Airport. Customer Relations 214-828-6736. DART Rider Assistance Programs (DART Rides, Joppa Rides, Collin County Transit for 65+, disabled, or low-income residents of certain McKinney-area cities) also book at 214-515-7272."
+    },
+    {
+      "id": "via-reduced-fare",
+      "name": "VIA Reduced Fares",
+      "organization": "VIA Metropolitan Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower bus fares in San Antonio for seniors, students, children, people with disabilities, Medicare/SSDI recipients and military. Seniors pay 25 cents midday on weekdays and ride free on weekends.",
+      "eligibility_summary_en": "Seniors 62+, students, children 5-13, people with certain disabilities (including veterans rated 80%+), Medicare and SSDI recipients, and active-duty military.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Government-issued ID with date of birth",
+        "Proof of school enrollment and paid tuition (students)",
+        "Medicare card or SSDI award letter",
+        "VA disability documentation (veterans)"
+      ],
+      "how_to_apply": "Get a VIA Reduced Fare ID at a VIA Information Center (any except Randolph Transit Center).",
+      "apply_url": "https://www.viainfo.net/reduced-fares/",
+      "phone": "(210) 362-2020",
+      "address": "123 N. Medina St.",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Reduced fares; seniors $0.25 weekdays 9 a.m.-3 p.m., free Sat/Sun",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.viainfo.net/reduced-fares/",
+      "confidence": "high",
+      "notes": "Students 12-18 can get free Semester Passes. Children 4 and under ride free. Eligibility is any one of the listed groups."
+    },
+    {
+      "id": "via-viatrans-paratransit",
+      "name": "VIAtrans Paratransit",
+      "organization": "VIA Metropolitan Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Curb-to-curb shared rides for people whose disability keeps them from using regular VIA buses, during the same hours and areas as VIA bus service.",
+      "eligibility_summary_en": "People age 6 and older whose disability substantially limits their ability to use public transit. Age, income and driving ability do not matter.",
+      "eligibility_rules": {
+        "disability": true,
+        "min_age": 6
+      },
+      "documents_needed": [
+        "Completed application",
+        "Medical professional verification"
+      ],
+      "how_to_apply": "Send VIA a completed application with medical professional verification. You may need a functional assessment. You will be told within 21 days.",
+      "apply_url": "https://www.viainfo.net/viatrans-paratransit/",
+      "phone": "(210) 362-2140",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Accessible Services: weekdays 8 a.m.-4 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$2.00 one-way adult; $0.90 children 5-12",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.viainfo.net/viatrans-paratransit/",
+      "confidence": "high",
+      "notes": "Reservations: 210-362-5050 (1-4 days ahead). Customer service: 210-362-2020."
+    },
+    {
+      "id": "trinity-metro-reduced-fare",
+      "name": "Trinity Metro Reduced Fare ID",
+      "organization": "Trinity Metro",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower fares in Fort Worth for seniors, people with disabilities, youth, Medicare card holders and veterans. A local ride is $1 and a day pass is $2.",
+      "eligibility_summary_en": "People 65 and older, people with disabilities, youth ages 5-19, Medicare card holders, and veterans (veterans on Local tickets only).",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proof of age (Texas ID, driver license, Medicare card or birth certificate) for seniors",
+        "Medicare card, Social Security award letter, or VA benefits letter plus state ID for disability",
+        "Proof of veteran status"
+      ],
+      "how_to_apply": "Bring your documents to Fort Worth Central Station to get a photo Reduced Fare ID.",
+      "apply_url": null,
+      "phone": "(817) 215-8600",
+      "address": "1001 Jones Street",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$2 for photo ID card ($10 replacement). Reduced fares: $1 local ride; $2 day pass; $9 7-day pass",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://ridetrinitymetro.org/tickets/",
+      "confidence": "high",
+      "notes": "ID cards expire after 6 months to 2 years and must be renewed."
+    },
+    {
+      "id": "trinity-metro-access-paratransit",
+      "name": "Trinity Metro ACCESS Paratransit",
+      "organization": "Trinity Metro",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door rides for people with a verified disability that keeps them from riding regular buses in Fort Worth and River Oaks.",
+      "eligibility_summary_en": "People with a verified disability that prevents them from riding regular city bus service.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Completed application"
+      ],
+      "how_to_apply": "Call Trinity Metro to get an application. Processing can take up to 21 days. Book trips up to 7 days ahead by phone.",
+      "apply_url": "https://ridetrinitymetro.org/rider-services/access/",
+      "phone": "(817) 215-8600",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Reservations 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "$4 one-way; $40 ten-ride book; personal care attendants free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://ridetrinitymetro.org/rider-services/access/",
+      "confidence": "high",
+      "notes": "Serves Fort Worth and River Oaks only."
+    },
+    {
+      "id": "sun-metro-reduced-fare",
+      "name": "Sun Metro Reduced Fare ID",
+      "organization": "Sun Metro (City of El Paso)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower bus fares in El Paso for seniors, people with disabilities, Medicare card holders, military and students. The ID is free once approved.",
+      "eligibility_summary_en": "People 65 and older, certified persons with disabilities, Medicare card holders, military (active duty, retirees, dependents) and students.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Government-issued photo ID with date of birth (seniors)",
+        "Disability certification (Social Security disability letters are not accepted)",
+        "Valid military ID (military)"
+      ],
+      "how_to_apply": "Apply at any Sun Metro ticket office.",
+      "apply_url": "https://sunmetro.net/fares/reduced-fare",
+      "phone": "(915) 212-3333",
+      "address": "10151 Montana Ave.",
+      "city": "El Paso",
+      "zip": "79925",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "ID free once approved ($5 replacement); reduced fares",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://sunmetro.net/fares/reduced-fare",
+      "confidence": "high",
+      "notes": "Permanent disability IDs last 5 years; temporary ones 12 months or less."
+    },
+    {
+      "id": "sun-metro-lift-paratransit",
+      "name": "Sun Metro LIFT Paratransit",
+      "organization": "Sun Metro (City of El Paso)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Paratransit rides in El Paso for people whose disability keeps them from using regular buses.",
+      "eligibility_summary_en": "People with a disability that keeps them from getting to bus stops, or boarding and riding buses on their own.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "LIFT Application",
+        "Paratransit Verification Form completed by a doctor or LIFT representative"
+      ],
+      "how_to_apply": "Fill out the LIFT application and Paratransit Verification Form and send by email, mail or in person.",
+      "apply_url": "https://sunmetro.net/lift/lift-eligibility",
+      "phone": "(915) 212-5438",
+      "address": "5081 Fred Wilson Ave.",
+      "city": "El Paso",
+      "zip": "79906",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://sunmetro.net/lift/lift-eligibility",
+      "confidence": "high",
+      "notes": "Visitors can use LIFT up to 21 days a year. Denials can be appealed within 65 days."
+    },
+    {
+      "id": "dcta-reduced-fare",
+      "name": "DCTA Reduced Fare Eligible Badge",
+      "organization": "Denton County Transportation Authority (DCTA)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower fares on DCTA buses and trains for seniors, people with disabilities, Medicare card holders and students.",
+      "eligibility_summary_en": "Seniors 65+, people with disabilities, Medicare card holders, and students ages 6-18 with valid ID. Children 5 and under ride free.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "DCTA reduced fare application",
+        "Proof of eligibility"
+      ],
+      "how_to_apply": "Download the reduced fare application (English, Spanish or Hakha Chin) from DCTA's website and get a Reduced Fare Eligible badge. The badge must be shown with a reduced fare pass.",
+      "apply_url": "https://www.dcta.net/Reduced-Fare",
+      "phone": "(940) 243-0077",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish",
+        "Hakha Chin"
+      ],
+      "cost": "Reduced fares",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dcta.net/Reduced-Fare",
+      "confidence": "high",
+      "notes": "DCTA also has a Non-Profit Discount Program for agencies."
+    },
+    {
+      "id": "trinity-metro-on-demand",
+      "name": "Trinity Metro On-Demand",
+      "organization": "Trinity Metro",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "App or phone-booked shared rides in seven Tarrant County zones for a flat $2, or free with any multi-ride Trinity Metro ticket.",
+      "eligibility_summary_en": "Open to the public in the Alliance, Mercantile, North Side, Southeast, Southside, South Tarrant and TCC Northeast zones.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book in the GoPass app, the Trinity Metro On-Demand app, or by phone.",
+      "apply_url": "https://ridetrinitymetro.org/rider-services/ondemand/",
+      "phone": "(817) 215-8600",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$2 per ride or free with multi-ride ticket",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://ridetrinitymetro.org/rider-services/ondemand/",
+      "confidence": "high",
+      "notes": "Hours vary by zone (generally weekdays early morning to evening; Southside also weekends). TCC students can get free rides with a promo code."
+    },
+    {
+      "id": "alamo-regional-transit",
+      "name": "Alamo Regional Transit (ART)",
+      "organization": "Alamo Area Council of Governments",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Atascosa, Bandera, Comal, Frio, Gillespie, Guadalupe, Karnes, Kendall, Kerr, McMullen, Medina, Wilson counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.aacog.com/alamo-regional-transit",
+      "phone": "(210) 362-5303",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bandera",
+        "Comal",
+        "Frio",
+        "Gillespie",
+        "Guadalupe",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "McMullen",
+        "Medina",
+        "Wilson"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "ark-tex-trax",
+      "name": "TRAX Rural Transit",
+      "organization": "Ark-Tex Council of Governments",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Bowie, Cass, Delta, Franklin, Hopkins, Lamar, Morris, Red River, Titus counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://atcog.org/transportation-programs/",
+      "phone": "(903) 255-3549",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bowie",
+        "Cass",
+        "Delta",
+        "Franklin",
+        "Hopkins",
+        "Lamar",
+        "Morris",
+        "Red River",
+        "Titus"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "double-mountain-coach",
+      "name": "Double Mountain Coach",
+      "organization": "Aspermont Small Business Development Center",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Fisher, Haskell, Jones, Kent, Knox, Stonewall, Throckmorton counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride.",
+      "apply_url": null,
+      "phone": "(940) 989-3538",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fisher",
+        "Haskell",
+        "Jones",
+        "Kent",
+        "Knox",
+        "Stonewall",
+        "Throckmorton"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "brazos-transit-district",
+      "name": "Brazos Transit District",
+      "organization": "Brazos Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Angelina, Brazos, Burleson, Grimes, Houston, Leon, Liberty, Madison, Montgomery, Nacogdoches, Polk, Robertson, San Jacinto, Shelby, Trinity, Walker, Washington counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.btd.org/",
+      "phone": "(979) 778-0607",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Brazos",
+        "Burleson",
+        "Grimes",
+        "Houston",
+        "Leon",
+        "Liberty",
+        "Madison",
+        "Montgomery",
+        "Nacogdoches",
+        "Polk",
+        "Robertson",
+        "San Jacinto",
+        "Shelby",
+        "Trinity",
+        "Walker",
+        "Washington"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "carts-capital-area-rural-transportation",
+      "name": "Capital Area Rural Transportation System (CARTS)",
+      "organization": "Capital Area Rural Transportation System",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Travis, Williamson counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://ridecarts.com/",
+      "phone": "(512) 481-1011",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bastrop",
+        "Blanco",
+        "Burnet",
+        "Caldwell",
+        "Fayette",
+        "Hays",
+        "Lee",
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "central-texas-rural-transit",
+      "name": "Central Texas Rural Transit (City and Rural Rides)",
+      "organization": "Central Texas Rural Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Brown, Callahan, Coleman, Comanche, Eastland, Erath, Nolan, Runnels, Shackelford, Stephens, Taylor counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.cityandruralrides.com/",
+      "phone": "(325) 625-4491",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "Erath",
+        "Nolan",
+        "Runnels",
+        "Shackelford",
+        "Stephens",
+        "Taylor"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "cleburne-city-county-transit",
+      "name": "City/County Transit",
+      "organization": "City of Cleburne",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Johnson County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.cleburne.net/index.aspx?nid=148",
+      "phone": "(817) 641-1800",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Johnson"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "del-rio-transit",
+      "name": "City of Del Rio Transportation",
+      "organization": "City of Del Rio",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Val Verde County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.cityofdelrio.com/government/departments/transportation",
+      "phone": "(830) 703-5324",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Val Verde"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "colorado-valley-transit",
+      "name": "Colorado Valley Transit",
+      "organization": "Colorado Valley Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Austin, Colorado, Waller, Wharton counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.gotransit.org/",
+      "phone": "(979) 732-5439",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Austin",
+        "Colorado",
+        "Waller",
+        "Wharton"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "community-services-inc-transit",
+      "name": "Community Services Inc. Transit",
+      "organization": "Community Services Inc.",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Ellis, Navarro counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.csicorsicana.org/transit",
+      "phone": "(903) 872-2401",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Ellis",
+        "Navarro"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "concho-valley-thunderbird-transit",
+      "name": "Thunderbird Transit",
+      "organization": "Concho Valley Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Coke, Concho, Crockett, Irion, Kimble, McCulloch, Menard, Reagan, Schleicher, Sterling, Sutton, Tom Green counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.cvtd.org",
+      "phone": "(325) 947-8729",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Coke",
+        "Concho",
+        "Crockett",
+        "Irion",
+        "Kimble",
+        "McCulloch",
+        "Menard",
+        "Reagan",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "el-paso-county-rural-transit",
+      "name": "El Paso County Rural Transit",
+      "organization": "County of El Paso",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: El Paso County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.epcounty.com/transit.htm",
+      "phone": "(915) 273-3838",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "etcog-gobus",
+      "name": "GoBus Rural Transit",
+      "organization": "East Texas Council of Governments",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Anderson, Camp, Cherokee, Gregg, Harrison, Henderson, Marion, Panola, Rains, Rusk, Smith, Upshur, Van Zandt, Wood counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.gobustransit.com/",
+      "phone": "(800) 590-3371",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Anderson",
+        "Camp",
+        "Cherokee",
+        "Gregg",
+        "Harrison",
+        "Henderson",
+        "Marion",
+        "Panola",
+        "Rains",
+        "Rusk",
+        "Smith",
+        "Upshur",
+        "Van Zandt",
+        "Wood"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "fort-bend-county-public-transportation",
+      "name": "Fort Bend County Rural Transit District",
+      "organization": "Fort Bend County Public Transportation",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Fort Bend County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.fortbendcountytx.gov/government/departments/public-transportation",
+      "phone": "(281) 243-6701",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "victoria-transit-gcrpc",
+      "name": "Victoria Transit (Rural)",
+      "organization": "Golden Crescent Regional Planning Commission",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Calhoun, DeWitt, Goliad, Gonzales, Jackson, Lavaca, Matagorda, Victoria counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.gcrpc.org/",
+      "phone": "(361) 578-1587",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Calhoun",
+        "DeWitt",
+        "Goliad",
+        "Gonzales",
+        "Jackson",
+        "Lavaca",
+        "Matagorda",
+        "Victoria"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "gulf-coast-transit-district",
+      "name": "Gulf Coast Transit District",
+      "organization": "Gulf Coast Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Brazoria, Galveston counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.gulfcoasttransitdistrict.com/",
+      "phone": "(800) 266-2320",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "heart-of-texas-rural-transit",
+      "name": "Heart of Texas Rural Transportation District",
+      "organization": "Heart of Texas Council of Governments",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Bosque, Falls, Freestone, Hill, Limestone counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.hotcog.org/health-and-human-services/rural-transportation/",
+      "phone": "(254) 292-1800",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bosque",
+        "Falls",
+        "Freestone",
+        "Hill",
+        "Limestone"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "hill-country-transit-the-hop",
+      "name": "The HOP (Hill Country Transit District)",
+      "organization": "Hill Country Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Bell, Coryell, Hamilton, Lampasas, Llano, Mason, Milam, Mills, San Saba counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.takethehop.com/",
+      "phone": "(254) 933-3700",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell",
+        "Hamilton",
+        "Lampasas",
+        "Llano",
+        "Mason",
+        "Milam",
+        "Mills",
+        "San Saba"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "kleberg-paisano-express",
+      "name": "Paisano Express",
+      "organization": "Kleberg County Human Services",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Kenedy, Kleberg counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride.",
+      "apply_url": null,
+      "phone": "(361) 228-1892",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Kenedy",
+        "Kleberg"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "mclennan-county-rural-transit",
+      "name": "McLennan County Rural Transit District",
+      "organization": "McLennan County",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: McLennan County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.co.mclennan.tx.us/595/McLennan-County-Rural-Transit-District",
+      "phone": "(254) 750-1900",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "panhandle-transit",
+      "name": "Panhandle Transit District",
+      "organization": "Panhandle Community Services, Inc.",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Armstrong, Briscoe, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, Wheeler counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.pcsvcs.org/services/transit",
+      "phone": "(806) 342-6105",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Armstrong",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "public-transit-services-palo-pinto-parker",
+      "name": "Public Transit Services",
+      "organization": "Public Transit Services",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Palo Pinto, Parker counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://publictransitservices.org/",
+      "phone": "(940) 328-1391",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Palo Pinto",
+        "Parker"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "rolling-plains-sharp-lines",
+      "name": "SHARP Lines Rural Public Transportation",
+      "organization": "Rolling Plains Management Corporation",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Archer, Baylor, Cottle, Foard, Hardeman, Jack, Wichita, Wilbarger, Young counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://rollingplains.org/transportation",
+      "phone": "(940) 684-1571",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Archer",
+        "Baylor",
+        "Cottle",
+        "Foard",
+        "Hardeman",
+        "Jack",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "real-transit",
+      "name": "REAL Transit",
+      "organization": "Rural Economic Assistance League, Inc. (REAL)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Aransas, Bee, Brooks, Duval, Jim Hogg, Jim Wells, Live Oak, Refugio, San Patricio counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://realinc.org/",
+      "phone": "(361) 668-3158",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Aransas",
+        "Bee",
+        "Brooks",
+        "Duval",
+        "Jim Hogg",
+        "Jim Wells",
+        "Live Oak",
+        "Refugio",
+        "San Patricio"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "the-connection-hunt-county",
+      "name": "The Connection Public Transit System",
+      "organization": "Senior Center Resources and Public Transit, Inc.",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Hunt County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.scrpt.org/index.html",
+      "phone": "(903) 454-1444",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hunt"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "span-transit-denton-county",
+      "name": "SPAN Transit",
+      "organization": "SPAN, Inc.",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Denton County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.span-transit.org/",
+      "phone": "(940) 382-1900",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "south-east-texas-transit",
+      "name": "South East Texas Transit",
+      "organization": "South East Texas Regional Planning Commission",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Hardin, Jefferson, Orange counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.setrpc.org/south-east-texas-transit/",
+      "phone": "(409) 899-8444",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hardin",
+        "Jefferson",
+        "Orange"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "south-padre-island-the-wave",
+      "name": "The Wave",
+      "organization": "South Padre Island",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Cameron County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride.",
+      "apply_url": null,
+      "phone": "(956) 761-8176",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "spartan-public-transit",
+      "name": "SPARTAN Public Transit",
+      "organization": "South Plains Community Action Association",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Bailey, Cochran, Crosby, Dickens, Floyd, Garza, Hale, Hockley, King, Lamb, Lubbock, Lynn, Mitchell, Motley, Scurry, Yoakum counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://spartanpublictransit.com/",
+      "phone": "(806) 894-3800",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bailey",
+        "Cochran",
+        "Crosby",
+        "Dickens",
+        "Floyd",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "King",
+        "Lamb",
+        "Lubbock",
+        "Lynn",
+        "Mitchell",
+        "Motley",
+        "Scurry",
+        "Yoakum"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides. The TxDOT directory also lists 'Terrell' County for SPARTAN (Terrell is also listed for WTO TRAX); confirm with SPARTAN whether this means Terry County."
+    },
+    {
+      "id": "swart-southwest-area-regional-transit",
+      "name": "Southwest Area Regional Transit District (SWART)",
+      "organization": "Southwest Area Regional Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Dimmit, Edwards, Kinney, La Salle, Real, Uvalde, Zavala counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.paseoswart.org/",
+      "phone": "(830) 278-4155",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dimmit",
+        "Edwards",
+        "Kinney",
+        "La Salle",
+        "Real",
+        "Uvalde",
+        "Zavala"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "star-transit-kaufman-rockwall",
+      "name": "STAR Transit",
+      "organization": "STAR Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Kaufman, Rockwall counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.startransit.org/",
+      "phone": "(877) 631-5278",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Kaufman",
+        "Rockwall"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides. STAR Transit also operates urban service in Mesquite (Dallas County) per TxDOT."
+    },
+    {
+      "id": "taps-texoma-area-paratransit",
+      "name": "Texoma Area Paratransit System (TAPS)",
+      "organization": "Texoma Area Paratransit System",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Clay, Collin, Cooke, Fannin, Grayson, Montague, Wise counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.tapsbus.com/",
+      "phone": "(903) 868-9182",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Clay",
+        "Collin",
+        "Cooke",
+        "Fannin",
+        "Grayson",
+        "Montague",
+        "Wise"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "the-transit-system-hood-somervell",
+      "name": "The Transit System",
+      "organization": "The Transit System, Inc.",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Hood, Somervell counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride.",
+      "apply_url": null,
+      "phone": "(254) 897-2964",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hood",
+        "Somervell"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "valley-metro-lrgvdc",
+      "name": "Valley Metro",
+      "organization": "Lower Rio Grande Valley Development Council",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Cameron, Hidalgo, Starr, Willacy, Zapata counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.lrgvdc.org/valleymetro.html",
+      "phone": "(956) 969-5761",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Starr",
+        "Willacy",
+        "Zapata"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "el-aguila-rural-transportation",
+      "name": "El Aguila Rural Transportation",
+      "organization": "Webb County Community Action Agency",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Webb County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://www.webbcountytx.gov/CommunityActionAgency/ElAguila/default.aspx",
+      "phone": "(956) 722-6100",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    },
+    {
+      "id": "wto-trax",
+      "name": "WTO TRAX",
+      "organization": "West Texas Opportunities, Inc.",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and van rides for people in rural areas, often by calling ahead to schedule. Rides can go to work, doctor visits, shopping and other errands.",
+      "eligibility_summary_en": "Open to the general public in the counties served. Some trips or discounts may be for seniors or people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Rural areas of: Andrews, Borden, Brewster, Crane, Culberson, Dawson, Ector, Gaines, Glasscock, Howard, Hudspeth, Jeff Davis, Loving, Martin, Midland, Pecos, Presidio, Reeves, Terrell, Upton, Ward, Winkler counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the transit provider to learn about routes or to schedule a ride. More information is on its website.",
+      "apply_url": "https://gowto.org/index.cfm",
+      "phone": "(806) 872-8354",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low-cost fares (vary by provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Andrews",
+        "Borden",
+        "Brewster",
+        "Crane",
+        "Culberson",
+        "Dawson",
+        "Ector",
+        "Gaines",
+        "Glasscock",
+        "Howard",
+        "Hudspeth",
+        "Jeff Davis",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Pecos",
+        "Presidio",
+        "Reeves",
+        "Terrell",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ],
+      "source_url": "https://www.txdot.gov/discover/texas-transit-agencies.html",
+      "confidence": "high",
+      "notes": "Listed as a rural transit district in TxDOT's Texas Transit Agencies directory. Fares, hours, and booking rules vary; call ahead to schedule rides."
+    }
+  ]
+}

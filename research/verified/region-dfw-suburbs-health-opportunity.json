@@ -1,0 +1,1246 @@
+{
+  "scope": "DFW suburbs (Collin, Denton, Rockwall, Kaufman, Ellis, Johnson) - health & opportunity",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "workforce-solutions-nct-mckinney",
+      "name": "McKinney Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also help working parents get help paying for child care.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación para el empleo. El personal también puede ayudar a los padres que trabajan a recibir ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_en": "Open to job seekers. Some training programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo. Algunos programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during open hours or call. You can also start online at dfwjobs.com.",
+      "how_to_apply_es": "Visite el centro en su horario o llame por teléfono. También puede empezar en línea en dfwjobs.com.",
+      "apply_url": "https://www.dfwjobs.com/",
+      "phone": "(972) 542-3381",
+      "address": "291 Eldorado Parkway",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.dfwjobs.com/find-a-workforce-center/mckinney-workforce-center",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-nct-plano",
+      "name": "Plano Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also help working parents get help paying for child care.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación para el empleo. El personal también puede ayudar a los padres que trabajan a recibir ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_en": "Open to job seekers. Some training programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo. Algunos programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during open hours or call. You can also start online at dfwjobs.com.",
+      "how_to_apply_es": "Visite el centro en su horario o llame por teléfono. También puede empezar en línea en dfwjobs.com.",
+      "apply_url": "https://www.dfwjobs.com/",
+      "phone": "(469) 229-0099",
+      "address": "1101 Resource Dr, Suite #100",
+      "city": "Plano",
+      "zip": "75074",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.dfwjobs.com/find-a-workforce-center/plano-workforce-center",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-nct-denton",
+      "name": "Denton Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also help working parents get help paying for child care.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación para el empleo. El personal también puede ayudar a los padres que trabajan a recibir ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_en": "Open to job seekers. Some training programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo. Algunos programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during open hours or call. You can also start online at dfwjobs.com.",
+      "how_to_apply_es": "Visite el centro en su horario o llame por teléfono. También puede empezar en línea en dfwjobs.com.",
+      "apply_url": "https://www.dfwjobs.com/",
+      "phone": "(940) 382-6712",
+      "address": "5800 I-35 N, Suite #100",
+      "city": "Denton",
+      "zip": "76207",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dfwjobs.com/find-a-workforce-center/denton-workforce-center",
+      "confidence": "high",
+      "notes": "Also serves Wise County.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-nct-waxahachie",
+      "name": "Waxahachie Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also help working parents get help paying for child care.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación para el empleo. El personal también puede ayudar a los padres que trabajan a recibir ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_en": "Open to job seekers. Some training programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo. Algunos programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during open hours or call. You can also start online at dfwjobs.com.",
+      "how_to_apply_es": "Visite el centro en su horario o llame por teléfono. También puede empezar en línea en dfwjobs.com.",
+      "apply_url": "https://www.dfwjobs.com/",
+      "phone": "(972) 937-8114",
+      "address": "1712 US-287 BUS",
+      "city": "Waxahachie",
+      "zip": "75165",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Ellis"
+      ],
+      "source_url": "https://www.dfwjobs.com/find-a-workforce-center/waxahachie-workforce-center",
+      "confidence": "high",
+      "notes": "Also serves Navarro County.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-nct-cleburne",
+      "name": "Cleburne Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also help working parents get help paying for child care.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación para el empleo. El personal también puede ayudar a los padres que trabajan a recibir ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_en": "Open to job seekers. Some training programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo. Algunos programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during open hours or call. You can also start online at dfwjobs.com.",
+      "how_to_apply_es": "Visite el centro en su horario o llame por teléfono. También puede empezar en línea en dfwjobs.com.",
+      "apply_url": "https://www.dfwjobs.com/",
+      "phone": "(817) 641-6201",
+      "address": "202 Hyde Park, Suite #200",
+      "city": "Cleburne",
+      "zip": "76033",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Johnson"
+      ],
+      "source_url": "https://www.dfwjobs.com/find-a-workforce-center/cleburne-workforce-center",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-nct-terrell",
+      "name": "Terrell Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also help working parents get help paying for child care.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación para el empleo. El personal también puede ayudar a los padres que trabajan a recibir ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_en": "Open to job seekers. Some training programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo. Algunos programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during open hours or call. You can also start online at dfwjobs.com.",
+      "how_to_apply_es": "Visite el centro en su horario o llame por teléfono. También puede empezar en línea en dfwjobs.com.",
+      "apply_url": "https://www.dfwjobs.com/",
+      "phone": "(972) 563-7271",
+      "address": "109 Tejas Drive, Suite #300",
+      "city": "Terrell",
+      "zip": "75160",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kaufman",
+        "Rockwall"
+      ],
+      "source_url": "https://www.dfwjobs.com/find-a-workforce-center/terrell-workforce-center",
+      "confidence": "high",
+      "notes": "The board's workforce center list shows the Terrell center serves both Kaufman and Rockwall counties (there is no Rockwall center).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-nct-child-care-scholarships",
+      "name": "Child Care Scholarships (Child Care Services)",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low-income families pay for child care so parents can work or go to school.",
+      "description_es": "Ayuda a familias de bajos ingresos a pagar el cuidado de sus niños para que los padres puedan trabajar o estudiar.",
+      "eligibility_summary_en": "For low-income families. Parents must work, go to school, or be in training at least 25 hours a week on average (50 hours for two-parent families), or be looking for work. Income limits start at $5,216 a month (before taxes) for a family of 2.",
+      "eligibility_summary_es": "Para familias de bajos ingresos. Los padres deben trabajar, estudiar o estar en capacitación al menos 25 horas por semana en promedio (50 horas si son dos padres), o estar buscando trabajo. El límite de ingresos empieza en $5,216 al mes (antes de impuestos) para una familia de 2 personas.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Proof you live in the service area",
+        "Proof of U.S. citizenship or legal immigration status for each child",
+        "Pay stubs for the last 13 weeks for all working household members",
+        "Training or school information for household members who are enrolled",
+        "Proof of homelessness, if it applies to you"
+      ],
+      "how_to_apply": "Apply online through the Texas child care scholarship application. Call Child Care Services with questions.",
+      "how_to_apply_es": "Presente su solicitud en línea en la página de becas de cuidado infantil de Texas. Si tiene preguntas, llame a Servicios de Cuidado Infantil.",
+      "apply_url": "https://www.childcare.texas.gov/for-families/child-care-scholarships/ccs-application-steps-for-families",
+      "phone": "(940) 382-6712",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free to apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Collin",
+        "Denton",
+        "Rockwall",
+        "Kaufman",
+        "Ellis",
+        "Johnson"
+      ],
+      "source_url": "https://www.dfwjobs.com/Child-Care/Parents/Guidelines-Apply-Child-Care-Services",
+      "confidence": "high",
+      "notes": "Gross monthly income limits on source range from $5,216 (family of 2) to $11,045 (family of 10). Child Care Services phone and hours from dfwjobs.com/contactus (fax 940-387-0154). Board serves 14 counties: Collin, Denton, Ellis, Erath, Hood, Hunt, Johnson, Kaufman, Navarro, Palo Pinto, Parker, Rockwall, Somervell, Wise. A parent share of cost may apply under Texas rules but was not confirmed on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lifepath-systems-collin",
+      "name": "LifePath Systems Behavioral Health and Crisis Services",
+      "organization": "LifePath Systems",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care, a 24/7 crisis line, early childhood intervention for babies and toddlers, and services for people with intellectual or developmental disabilities.",
+      "description_es": "Atención de salud mental, una línea de crisis abierta las 24 horas, los 7 días, intervención temprana para bebés y niños pequeños, y servicios para personas con discapacidades intelectuales o del desarrollo.",
+      "eligibility_summary_en": "For people in Collin County with mental health, intellectual, or developmental challenges. Anyone in crisis can call the crisis line.",
+      "eligibility_summary_es": "Para personas del condado de Collin con necesidades de salud mental, o con discapacidades intelectuales o del desarrollo. Cualquier persona en crisis puede llamar a la línea de crisis.",
+      "eligibility_rules": {
+        "residency_required": "Collin County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call 1-877-422-5939 any time. For regular care, call Behavioral Health at (972) 422-5939.",
+      "how_to_apply_es": "Si está en crisis, llame al 1-877-422-5939 a cualquier hora. Para atención regular, llame a Salud Conductual al (972) 422-5939.",
+      "apply_url": null,
+      "phone": "(972) 422-5939",
+      "address": "2295 Bloomdale Road",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Varies; call for details",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.lifepathsystems.org/contact-us/",
+      "confidence": "high",
+      "notes": "24/7 Crisis Line: 1-877-422-5939. Behavioral health toll free: 1-844-544-5939. Early Childhood Intervention: (972) 562-0331. IDD: (972) 727-9133. Administration main line: (972) 562-0190. Address is the administration office; behavioral health listed for McKinney and Plano. Hours not listed on source. Collin County Local Mental Health Authority.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "denton-county-mhmr",
+      "name": "Denton County MHMR Center (My Health My Resources)",
+      "organization": "Denton County MHMR Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care, crisis help, and a psychiatric triage center for walk-in assessments. The crisis line is open 24/7.",
+      "description_es": "Atención de salud mental, ayuda en crisis y un centro de evaluación psiquiátrica donde puede llegar sin cita. La línea de crisis está abierta las 24 horas, los 7 días.",
+      "eligibility_summary_en": "For people in Denton County. Anyone in a mental health crisis can call the crisis line.",
+      "eligibility_summary_es": "Para personas del condado de Denton. Cualquier persona en una crisis de salud mental puede llamar a la línea de crisis.",
+      "eligibility_rules": {
+        "residency_required": "Denton County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call 1-800-762-0157 or 988. For services, call (940) 381-5000 for intake.",
+      "how_to_apply_es": "Si está en crisis, llame al 1-800-762-0157 o al 988. Para recibir servicios, llame al (940) 381-5000.",
+      "apply_url": null,
+      "phone": "(940) 381-5000",
+      "address": null,
+      "city": "Denton",
+      "zip": null,
+      "hours": "Monday-Friday 8a-5p, Flexible Hours Available; crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Varies; charity care program available",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dentonmhmr.org/crisis-services/",
+      "confidence": "high",
+      "notes": "Crisis hotline 1-800-762-0157 or 988 (24/7). Psychiatric Triage walk-in assessments: (940) 381-9965. Mailing: PO Box 2346, Denton, TX 76202. Substance use and disability services from the original record were not re-confirmed on the crisis services page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lakes-regional-community-center-rockwall-kaufman",
+      "name": "Lakes Regional Community Center Crisis and Mental Health Services",
+      "organization": "Lakes Regional Community Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health and intellectual and developmental disability (IDD) services. People in Hunt, Kaufman, and Rockwall counties can call a 24/7 crisis line.",
+      "description_es": "Servicios de salud mental y para personas con discapacidades intelectuales o del desarrollo. Las personas de los condados de Hunt, Kaufman y Rockwall pueden llamar a una línea de crisis abierta las 24 horas, los 7 días.",
+      "eligibility_summary_en": "For people who live in the counties Lakes Regional serves, including Kaufman and Rockwall. Anyone in crisis can call.",
+      "eligibility_summary_es": "Para personas que viven en los condados que atiende Lakes Regional, incluyendo Kaufman y Rockwall. Cualquier persona en crisis puede llamar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call 866-260-8000 any time. For non-emergency help, call 877-505-2537. To start IDD services, call 903-243-9088.",
+      "how_to_apply_es": "Si está en crisis, llame al 866-260-8000 a cualquier hora. Para ayuda que no es de emergencia, llame al 877-505-2537. Para empezar servicios de discapacidad intelectual o del desarrollo, llame al 903-243-9088.",
+      "apply_url": null,
+      "phone": "(877) 505-2537",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Varies; call for details",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Kaufman",
+        "Rockwall"
+      ],
+      "source_url": "https://www.lakesregional.org/",
+      "confidence": "medium",
+      "notes": "Lakes Regional lists crisis line 866-260-8000 for Hunt, Kaufman and Rockwall counties, marked as the NTBHA line (NTBHA is the local mental health authority for those counties). IDD intake: 903-243-9088. Local office addresses not listed on homepage.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "pecan-valley-centers-cleburne",
+      "name": "Pecan Valley Centers - Cleburne Clinic",
+      "organization": "Pecan Valley Centers for Behavioral & Developmental HealthCare",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care at the Cleburne clinic. A 24/7 crisis hotline also does intake screening.",
+      "description_es": "Atención de salud mental en la clínica de Cleburne. Una línea de crisis abierta las 24 horas, los 7 días, también hace la evaluación inicial para empezar servicios.",
+      "eligibility_summary_en": "For people who live in Johnson County and nearby counties Pecan Valley serves.",
+      "eligibility_summary_es": "Para personas que viven en el condado de Johnson y otros condados cercanos que atiende Pecan Valley.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis and intake line at 1-800-772-5987, or call the Cleburne clinic.",
+      "how_to_apply_es": "Llame a la línea de crisis y evaluación inicial al 1-800-772-5987, o llame a la clínica de Cleburne.",
+      "apply_url": null,
+      "phone": "(817) 558-1121",
+      "address": "1601 North Anglin",
+      "city": "Cleburne",
+      "zip": "76031",
+      "hours": "8-5 PM; late hours 8-7 PM every Tuesday",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Varies; call for details",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Johnson"
+      ],
+      "source_url": "https://www.pecanvalley.org/locations",
+      "confidence": "high",
+      "notes": "24/7 Mental Health Crisis Hotline & Intake Screening: 1-800-772-5987. Pecan Valley serves Johnson, Somervell, Hood, Erath, Parker, and Palo Pinto counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ntbha-ellis-kaufman-rockwall",
+      "name": "North Texas Behavioral Health Authority (NTBHA)",
+      "organization": "North Texas Behavioral Health Authority",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Connects people to public mental health and substance use care, even if they cannot pay. Has care coordinators for Ellis County.",
+      "description_es": "Le conecta con atención pública de salud mental y de uso de sustancias, aunque no pueda pagar. Tiene coordinadores de atención para el condado de Ellis.",
+      "eligibility_summary_en": "For residents of Dallas, Ellis, Hunt, Kaufman, Navarro, and Rockwall counties who need behavioral health care.",
+      "eligibility_summary_es": "Para residentes de los condados de Dallas, Ellis, Hunt, Kaufman, Navarro y Rockwall que necesitan atención de salud mental o de uso de sustancias.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or text 214-366-9407, or call toll free 877-653-6363. Ellis County residents can call the South and East care coordinators at (469) 780-9159.",
+      "how_to_apply_es": "Llame o mande un mensaje de texto al 214-366-9407, o llame gratis al 877-653-6363. Los residentes del condado de Ellis pueden llamar a los coordinadores de atención al (469) 780-9159.",
+      "apply_url": null,
+      "phone": "(214) 366-9407",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Varies",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Ellis",
+        "Kaufman",
+        "Rockwall"
+      ],
+      "source_url": "https://www.ntbha.org/",
+      "confidence": "high",
+      "notes": "Crisis lines (24/7): (866) 260-8000 or (844) 672-5700. Toll free: 877-653-6363. Ellis County care coordinators email: SouthandEastCareCoordinators@ntbha.org. General email info@ntbha.org. Physical address not listed on source. Serves care regardless of ability to pay per source.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "collin-county-indigent-health-program",
+      "name": "Collin County Indigent Health Program",
+      "organization": "Collin County Health Care Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for health care for low-income adults in Collin County who qualify.",
+      "description_es": "Ayuda a pagar la atención médica de adultos de bajos ingresos en el condado de Collin que califican.",
+      "eligibility_summary_en": "For adult Collin County residents with low income and few resources, based on federal poverty guidelines. You must show proof of income and resources.",
+      "eligibility_summary_es": "Para adultos que viven en el condado de Collin con ingresos bajos y pocos recursos, según las guías federales de pobreza. Debe mostrar prueba de sus ingresos y recursos.",
+      "eligibility_rules": {
+        "residency_required": "Collin County resident",
+        "min_age": 18
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of resources",
+        "Other supporting documents listed on the application"
+      ],
+      "how_to_apply": "Apply online, by mail, or drop off the form in person. A decision is made within 14 business days after a complete application.",
+      "how_to_apply_es": "Presente su solicitud en línea, por correo o en persona. Le darán una respuesta en un plazo de 14 días hábiles después de entregar la solicitud completa.",
+      "apply_url": "https://apps.collincountytx.gov/Forms/IDHCProgApp-Prod",
+      "phone": "(972) 548-4702",
+      "address": "825 N. McDonald St., STE 110",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": "Monday - Thursday 8:00 AM - 4:00 PM (Closed Friday - Sunday)",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.collincountytx.gov/services/public-health/indigent-health",
+      "confidence": "high",
+      "notes": "Source says program is for 'qualified, adult indigent residents'; min_age 18 inferred from 'adult'. Exact income limit not stated on page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "collin-county-wic",
+      "name": "Collin County WIC Program",
+      "organization": "Collin County Health Care Services",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy food benefits, nutrition classes, and breastfeeding help for pregnant women, new moms, and kids under 5.",
+      "description_es": "Beneficios para comprar comida saludable, clases de nutrición y ayuda con la lactancia para mujeres embarazadas, mamás nuevas y niños menores de 5 años.",
+      "eligibility_summary_en": "For pregnant women, women breastfeeding a baby under 1, women who had a baby in the last 6 months, and children under 5. Income must be at or below 185% of the poverty level, or you get Medicaid, SNAP, or TANF.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses y niños menores de 5 años. Sus ingresos deben estar al 185% del nivel de pobreza o menos, o debe recibir Medicaid, SNAP o TANF.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Identification",
+        "Proof of income for all household members",
+        "Proof of residency"
+      ],
+      "how_to_apply": "Request a first appointment at texaswic.org, call your nearest office, or text 85511.",
+      "how_to_apply_es": "Pida su primera cita en texaswic.org, llame a la oficina más cercana o mande un mensaje de texto al 85511.",
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(972) 548-5500",
+      "address": "825 N. McDonald St.",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": "Mon & Wed 8 a.m.-5 p.m.; Tue & Thu 8 a.m.-5:30 p.m.; Fri 8 a.m.-1 p.m. (appointments required)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.collincountytx.gov/services/public-health/wic-program",
+      "confidence": "high",
+      "notes": "Second clinic: 900 E. Park Blvd., Plano, TX 75074, (972) 633-3350, same hours. Emails: mckinneywic@co.collin.tx.us, planowic@co.collin.tx.us.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "collin-county-immunizations-clinic",
+      "name": "Collin County Immunizations Clinic",
+      "organization": "Collin County Health Care Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Vaccines for eligible children and adults.",
+      "description_es": "Vacunas para niños y adultos que califican.",
+      "eligibility_summary_en": "For eligible children and adults. Call to check if you qualify.",
+      "eligibility_summary_es": "Para niños y adultos que califican. Llame para saber si usted califica.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment. The clinic is by appointment only.",
+      "how_to_apply_es": "Llame para hacer una cita. La clínica atiende solo con cita.",
+      "apply_url": null,
+      "phone": "(972) 548-4744",
+      "address": "825 N. McDonald St.",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": "Mon-Fri, 7:30-11 a.m. and 1-4 p.m. (appointment only)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Fees follow the county clinic fee schedule; call for cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.collincountytx.gov/services/public-health",
+      "confidence": "high",
+      "notes": "Uninsured people can call to schedule MMR shots. Same building also has TB clinic (Mon-Fri 8:30 a.m.-5 p.m., 972-548-5500) and STD/HIV clinic (972-548-5500).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "denton-county-public-health-clinical-services",
+      "name": "Denton County Public Health Clinical Services",
+      "organization": "Denton County Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Primary care, dental care, shots, women's health, STI testing, and TB services at two county clinics.",
+      "description_es": "Atención médica primaria, atención dental, vacunas, salud de la mujer, pruebas de infecciones de transmisión sexual y servicios de tuberculosis en dos clínicas del condado.",
+      "eligibility_summary_en": "For most services, eligibility is based on income, resources, where you live, and who is in your household.",
+      "eligibility_summary_es": "Para la mayoría de los servicios, se decide si califica según sus ingresos, sus recursos, dónde vive y quién vive en su hogar.",
+      "eligibility_rules": {
+        "residency_required": "Denton County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call to schedule an eligibility screening appointment.",
+      "how_to_apply_es": "Llame para hacer una cita de evaluación para ver si califica.",
+      "apply_url": null,
+      "phone": "(940) 349-2900",
+      "address": "535 S Loop 288",
+      "city": "Denton",
+      "zip": "76205",
+      "hours": "Monday through Friday 7:30 a.m. to 5 p.m. (appointments required)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Based on eligibility; call for details",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dentoncounty.gov/648/Clinical-Services",
+      "confidence": "high",
+      "notes": "Lewisville clinic: 190 N Valley Parkway, Lewisville, TX 75067, (972) 434-4700, same hours. Source says appointments are required.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "denton-county-wic",
+      "name": "Denton County WIC",
+      "organization": "Denton County Public Health",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy food benefits and nutrition help for pregnant women, new moms, and young children.",
+      "description_es": "Beneficios para comprar comida saludable y ayuda con la nutrición para mujeres embarazadas, mamás nuevas y niños pequeños.",
+      "eligibility_summary_en": "For pregnant women, new mothers, and young children who meet Texas WIC income rules.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mamás nuevas y niños pequeños que cumplen con las reglas de ingresos de WIC de Texas.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply at texaswic.org or call any Denton County WIC clinic.",
+      "how_to_apply_es": "Presente su solicitud en texaswic.org o llame a cualquier clínica de WIC del condado de Denton.",
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(940) 349-2930",
+      "address": "535 S Loop 288",
+      "city": "Denton",
+      "zip": "76205",
+      "hours": "Monday - Friday, 7:30 a.m. to 5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dentoncounty.gov/873/Women-Infants-Children-WIC",
+      "confidence": "high",
+      "notes": "Other clinics (same phone and hours): 190 N Valley Parkway, Lewisville 75067; 3024 E Hebron Pkwy, Carrollton 75010.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "kaufman-county-indigent-health-care",
+      "name": "Kaufman County Indigent Health Care Program",
+      "organization": "Kaufman County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for needed medical care for very low-income Kaufman County residents.",
+      "description_es": "Ayuda a pagar atención médica necesaria para residentes del condado de Kaufman con ingresos muy bajos.",
+      "eligibility_summary_en": "For Kaufman County residents with monthly net income at or below 21% of the Federal Poverty Guidelines and resources under $2,000 ($3,000 if an aged or disabled relative lives in the household). You must have a medical need.",
+      "eligibility_summary_es": "Para residentes del condado de Kaufman con ingresos netos mensuales al 21% de las guías federales de pobreza o menos, y recursos de menos de $2,000 ($3,000 si en el hogar vive un familiar mayor o con discapacidad). Debe tener una necesidad médica.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Kaufman County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Download the English or Spanish application from the county website, or call or visit the office.",
+      "how_to_apply_es": "Descargue la solicitud en inglés o en español del sitio web del condado, o llame o visite la oficina. Hay personal que habla español.",
+      "apply_url": "https://www.kaufmancounty.net/276/Indigent-Health-Care-Program",
+      "phone": "(469) 376-4544",
+      "address": "100 N Washington, Courthouse Annex",
+      "city": "Kaufman",
+      "zip": "75142",
+      "hours": "Monday - Friday, 8 a.m. to 5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kaufman"
+      ],
+      "source_url": "https://www.kaufmancounty.net/276/Indigent-Health-Care-Program",
+      "confidence": "high",
+      "notes": "Email: indigenthealth@kaufmancounty.net. Fax 469-595-0496. Program coordinator speaks Spanish.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "commongood-medical-mckinney",
+      "name": "CommonGood Medical (formerly Hope Clinic of McKinney)",
+      "organization": "CommonGood Medical",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A faith-based clinic that gives medical care and support to uninsured adults in Collin County.",
+      "description_es": "Una clínica basada en la fe que da atención médica y apoyo a adultos sin seguro médico en el condado de Collin.",
+      "eligibility_summary_en": "For Collin County residents with no insurance (no Medicaid, Medicare, or other coverage) who meet household income rules.",
+      "eligibility_summary_es": "Para residentes del condado de Collin sin seguro médico (sin Medicaid, Medicare u otra cobertura) que cumplen con las reglas de ingresos del hogar.",
+      "eligibility_rules": {
+        "uninsured": true,
+        "residency_required": "Collin County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the McKinney clinic to ask about becoming a patient.",
+      "how_to_apply_es": "Llame a la clínica de McKinney para preguntar cómo hacerse paciente.",
+      "apply_url": null,
+      "phone": "(469) 712-4246",
+      "address": "2750 Virginia Pkwy",
+      "city": "McKinney",
+      "zip": "75071",
+      "hours": "Weekdays 8:30 AM - 5 PM (closed noon-1 PM); 10 AM - 3 PM third Saturday",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Call for cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://commongoodmedical.org/",
+      "confidence": "high",
+      "notes": "hopeclinicmckinney.org redirects to commongoodmedical.org. Farmersville clinic Fridays 8:30 AM-4 PM (closed noon-1 PM) at 206 N. Main St. (First United Methodist Church), Farmersville 75442. Email Info@CommonGoodMedical.org. Exact income limit not confirmed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legal-aid-northwest-texas-mckinney",
+      "name": "Legal Aid of NorthWest Texas - McKinney Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, such as family law, housing, and benefits problems.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de familia, vivienda y beneficios.",
+      "eligibility_summary_en": "For low-income U.S. citizens and lawful permanent residents with a civil (not criminal) case. You likely qualify if you get SNAP, Medicaid, SSI, WIC, or live in public housing. Some immigrant survivors of crime or abuse may also qualify.",
+      "eligibility_summary_es": "Para ciudadanos de EE. UU. y residentes permanentes legales de bajos ingresos con un caso civil (no criminal). Es probable que califique si recibe SNAP, Medicaid, SSI o WIC, o si vive en vivienda pública. Algunas personas inmigrantes que sobrevivieron un crimen o abuso también pueden calificar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Legal Aid Line at 1-888-529-5277, apply online, or visit the office. Call the local office if you have a court deadline or were served with a lawsuit.",
+      "how_to_apply_es": "Llame a la Línea de Ayuda Legal al 1-888-529-5277, presente su solicitud en línea o visite la oficina. Si tiene una fecha límite en la corte o le entregaron una demanda, llame a la oficina local.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(972) 542-9405",
+      "address": "901 North McDonald St., Ste. 702",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll-free: 866-511-8018. Legal Aid Line 888-529-5277 (8 a.m.-5 p.m. Mon-Fri). Exceptions for immigrant survivors (U/T visa, VAWA). Office hours not listed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legal-aid-northwest-texas-denton",
+      "name": "Legal Aid of NorthWest Texas - Denton Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, such as family law, housing, and benefits problems.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de familia, vivienda y beneficios.",
+      "eligibility_summary_en": "For low-income U.S. citizens and lawful permanent residents with a civil (not criminal) case. You likely qualify if you get SNAP, Medicaid, SSI, WIC, or live in public housing. Some immigrant survivors of crime or abuse may also qualify.",
+      "eligibility_summary_es": "Para ciudadanos de EE. UU. y residentes permanentes legales de bajos ingresos con un caso civil (no criminal). Es probable que califique si recibe SNAP, Medicaid, SSI o WIC, o si vive en vivienda pública. Algunas personas inmigrantes que sobrevivieron un crimen o abuso también pueden calificar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Legal Aid Line at 1-888-529-5277, apply online, or visit the office.",
+      "how_to_apply_es": "Llame a la Línea de Ayuda Legal al 1-888-529-5277, presente su solicitud en línea o visite la oficina.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(940) 383-1406",
+      "address": "2220 San Jacinto Blvd., Ste. 205",
+      "city": "Denton",
+      "zip": "76205",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll-free: 800-955-1407. Office hours not listed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legal-aid-northwest-texas-waxahachie",
+      "name": "Legal Aid of NorthWest Texas - Waxahachie Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, such as family law, housing, and benefits problems.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de familia, vivienda y beneficios.",
+      "eligibility_summary_en": "For low-income U.S. citizens and lawful permanent residents with a civil (not criminal) case. You likely qualify if you get SNAP, Medicaid, SSI, WIC, or live in public housing. Some immigrant survivors of crime or abuse may also qualify.",
+      "eligibility_summary_es": "Para ciudadanos de EE. UU. y residentes permanentes legales de bajos ingresos con un caso civil (no criminal). Es probable que califique si recibe SNAP, Medicaid, SSI o WIC, o si vive en vivienda pública. Algunas personas inmigrantes que sobrevivieron un crimen o abuso también pueden calificar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Legal Aid Line at 1-888-529-5277, apply online, or visit the office.",
+      "how_to_apply_es": "Llame a la Línea de Ayuda Legal al 1-888-529-5277, presente su solicitud en línea o visite la oficina.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(972) 923-3344",
+      "address": "110 East Main St., Ste. 200",
+      "city": "Waxahachie",
+      "zip": "75165",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Ellis"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll-free: 866-614-3344. Office hours not listed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legal-aid-northwest-texas-tenant-line",
+      "name": "Legal Aid of NorthWest Texas Landlord-Tenant Line",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free legal help line for renters with landlord problems, like eviction or repairs.",
+      "description_es": "Línea de ayuda legal gratis para inquilinos con problemas con el dueño, como desalojos o reparaciones.",
+      "eligibility_summary_en": "For low-income renters in counties served by Legal Aid of NorthWest Texas.",
+      "eligibility_summary_es": "Para inquilinos de bajos ingresos en los condados que atiende Legal Aid of NorthWest Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the landlord-tenant line at 855-548-8457.",
+      "how_to_apply_es": "Llame a la línea para inquilinos al 855-548-8457.",
+      "apply_url": "https://legalaidtx.org/get-help/how-to-apply/",
+      "phone": "(855) 548-8457",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Collin",
+        "Denton",
+        "Ellis"
+      ],
+      "source_url": "https://legalaidtx.org/get-help/how-to-apply/",
+      "confidence": "high",
+      "notes": "LANWT serves counties in North and West Texas; only Collin, Denton and Ellis are confirmed here via local offices. Johnson, Kaufman and Rockwall residents should call 1-888-529-5277 (8 a.m.-5 p.m. Mon-Fri) to confirm. Hours not listed for the landlord-tenant line.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "samaritan-inn-mckinney",
+      "name": "The Samaritan Inn Housing Program",
+      "organization": "The Samaritan Inn",
+      "categories": [
+        "housing",
+        "employment"
+      ],
+      "description_en": "Shelter and a housing program for people who are homeless, with case management, free counseling, job help, and money classes.",
+      "description_es": "Albergue y programa de vivienda para personas sin hogar, con manejo de casos, consejería gratis, ayuda para encontrar trabajo y clases sobre el manejo del dinero.",
+      "eligibility_summary_en": "For homeless men, women, and families with children. You must be drug and alcohol free for 30 days (there is a drug test), usually have no violent offenses, and be willing to work full-time (part-time if disabled).",
+      "eligibility_summary_es": "Para hombres, mujeres y familias con niños que no tienen hogar. Debe estar libre de drogas y alcohol por 30 días (hay una prueba de drogas), normalmente no tener delitos violentos y estar dispuesto a trabajar tiempo completo (medio tiempo si tiene una discapacidad).",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "Current government-issued ID",
+        "Social Security card (or number if you do not have the card)",
+        "Birth certificates for children (strongly encouraged)"
+      ],
+      "how_to_apply": "Come to an intake interview on Tuesdays, Thursdays, or Sundays from 8:00 AM to 1:00 PM. First come, first served.",
+      "how_to_apply_es": "Venga a una entrevista de admisión los martes, jueves o domingos de 8:00 AM a 1:00 PM. Se atiende por orden de llegada.",
+      "apply_url": null,
+      "phone": "(972) 542-5302",
+      "address": "1514 N. McDonald St.",
+      "city": "McKinney",
+      "zip": "75071",
+      "hours": "Intake: Tuesdays, Thursdays & Sundays 8:00 AM - 1:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://saminn.org/become-a-resident/",
+      "confidence": "high",
+      "notes": "Violent offenses over 10 years old may be considered. Life skills classes (money and job readiness) are required. Email info@saminn.org. Collin County service area inferred from McKinney location.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "minnies-food-pantry-plano",
+      "name": "Minnie's Food Pantry",
+      "organization": "Minnie's Food Pantry",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free groceries by drive-thru, plus walk-up help for people who are homeless and a free clothing boutique.",
+      "description_es": "Comida gratis por servicio desde el carro, ayuda para personas sin hogar que llegan a pie y una tienda gratis de ropa.",
+      "eligibility_summary_en": "No one is turned away at the drive-thru. Bring a photo ID and a utility bill. The boutique needs an intake appointment and proof of low income.",
+      "eligibility_summary_es": "No se rechaza a nadie en el servicio desde el carro. Traiga una identificación con foto y un recibo de servicios (luz, agua o gas). Para la tienda de ropa necesita una cita de admisión y prueba de bajos ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Utility bill"
+      ],
+      "how_to_apply": "Drive through during open hours and stay in your car; households may come once a month. Walk-up guests experiencing homelessness may come weekly.",
+      "how_to_apply_es": "Pase en su carro en el horario de servicio y quédese dentro del carro; cada hogar puede venir una vez al mes. Las personas sin hogar que llegan a pie pueden venir cada semana.",
+      "apply_url": null,
+      "phone": "(972) 596-0253",
+      "address": "661 18th Street",
+      "city": "Plano",
+      "zip": "75074",
+      "hours": "Wednesday-Saturday, 8:30-11:30am; closed every 5th Saturday",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.minniesfoodpantry.org/",
+      "confidence": "high",
+      "notes": "Boutique (free clothing and household items) at 651 18th Street, same hours.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "frisco-family-services",
+      "name": "Frisco Family Services",
+      "organization": "Frisco Family Services",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "housing"
+      ],
+      "description_en": "Emergency money help, a food market, seasonal help like back-to-school and holiday programs, and life skills classes.",
+      "description_es": "Ayuda de emergencia con dinero, un mercado de comida, ayuda de temporada como útiles escolares y programas de días festivos, y clases de habilidades para la vida.",
+      "eligibility_summary_en": "For people in the Frisco and Frisco ISD community. Call to check if you qualify.",
+      "eligibility_summary_es": "Para personas de la comunidad de Frisco y del distrito escolar de Frisco (Frisco ISD). Llame para saber si califica.",
+      "eligibility_rules": {
+        "residency_required": "Frisco / Frisco ISD area"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the main office during business hours.",
+      "how_to_apply_es": "Llame o visite la oficina principal en horario de oficina.",
+      "apply_url": null,
+      "phone": "(972) 335-9495",
+      "address": "9111 Dogwood St.",
+      "city": "Frisco",
+      "zip": "75033",
+      "hours": "Office & Food Market: M-F, 9 AM-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Collin",
+        "Denton"
+      ],
+      "source_url": "https://www.friscofamilyservices.org/",
+      "confidence": "high",
+      "notes": "Food Market at 9085 Dogwood St. Frisco spans Collin and Denton counties. Formal residency rules not stated on homepage.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "all-community-outreach-allen",
+      "name": "All Community Outreach (ACO)",
+      "organization": "All Community Outreach",
+      "categories": [
+        "food",
+        "housing",
+        "utilities",
+        "employment"
+      ],
+      "description_en": "Food and essentials, help with rent and utility bills, and career and education programs.",
+      "description_es": "Comida y artículos básicos, ayuda para pagar la renta y los servicios (luz, agua, gas), y programas de carrera y educación.",
+      "eligibility_summary_en": "Serves Collin County neighbors in need. Call to check eligibility.",
+      "eligibility_summary_es": "Atiende a vecinos del condado de Collin que necesitan ayuda. Llame para saber si califica.",
+      "eligibility_rules": {
+        "residency_required": "Collin County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit during open hours.",
+      "how_to_apply_es": "Llame o visite en el horario de atención.",
+      "apply_url": null,
+      "phone": "(972) 727-9131",
+      "address": "801 East Main Street",
+      "city": "Allen",
+      "zip": "75002",
+      "hours": "Mon, Wed-Fri 9:00 AM-4:00 PM; Tue 9:00 AM-6:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.acocares.org/",
+      "confidence": "high",
+      "notes": "Specific eligibility rules not listed on homepage.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "christian-community-action-lewisville",
+      "name": "Christian Community Action (CCA)",
+      "organization": "Christian Community Action",
+      "categories": [
+        "food",
+        "employment"
+      ],
+      "description_en": "A food market, job and education programs, kids' programs like Kids Eat Free, senior services, and counseling.",
+      "description_es": "Un mercado de comida, programas de trabajo y educación, programas para niños como Kids Eat Free, servicios para personas mayores y consejería.",
+      "eligibility_summary_en": "Serves low-income residents of Denton County. Call to check eligibility.",
+      "eligibility_summary_es": "Atiende a residentes de bajos ingresos del condado de Denton. Llame para saber si califica.",
+      "eligibility_rules": {
+        "residency_required": "Denton County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Lewisville office.",
+      "how_to_apply_es": "Llame o visite la oficina de Lewisville.",
+      "apply_url": null,
+      "phone": "(972) 221-1224",
+      "address": "200 S. Mill Street",
+      "city": "Lewisville",
+      "zip": "75057",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.ccahelps.org/",
+      "confidence": "high",
+      "notes": "Hours not listed on homepage. Faith-based organization. Seeds for Success program accepts applications based on capacity.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "interfaith-ministries-denton",
+      "name": "Interfaith Ministries of Denton Emergency Assistance",
+      "organization": "Interfaith Ministries of Denton, Inc.",
+      "categories": [
+        "utilities",
+        "transportation"
+      ],
+      "description_en": "Short-term emergency help with utility bills, diapers (for babies and adults), hygiene items, and DCTA bus passes.",
+      "description_es": "Ayuda de emergencia a corto plazo con recibos de servicios (luz, agua, gas), pañales (para bebés y adultos), artículos de higiene y pases de autobús de DCTA.",
+      "eligibility_summary_en": "For people who live in the service area with income at or below 80% of the DFW area median income who have a sudden, documented crisis they did not cause.",
+      "eligibility_summary_es": "Para personas que viven en el área de servicio, con ingresos al 80% del ingreso medio del área de DFW o menos, y que tienen una crisis repentina y comprobada que no causaron.",
+      "eligibility_rules": {
+        "residency_required": "Denton area"
+      },
+      "documents_needed": [
+        "Proof of the crisis",
+        "Other documents requested by staff"
+      ],
+      "how_to_apply": "Send an information request through their website contact form, or call. This first step is not the application.",
+      "how_to_apply_es": "Mande una solicitud de información por el formulario de contacto de su sitio web, o llame. Este primer paso no es la solicitud.",
+      "apply_url": null,
+      "phone": "(940) 565-5479",
+      "address": "1109 N. Elm St.",
+      "city": "Denton",
+      "zip": "76201",
+      "hours": "Mon-Thu 9:00 AM-4:00 PM (closed 1-2 PM); Fri 9:00 AM-1:00 PM (appointments 2-4 PM)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.interfaithdenton.org/i-need-help",
+      "confidence": "high",
+      "notes": "No rental assistance program. Email info@ifmdenton.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "denton-county-friends-of-the-family",
+      "name": "Denton County Friends of the Family",
+      "organization": "Denton County Friends of the Family",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Emergency shelter, transitional housing, counseling, legal advocacy, and crisis help for people hurt by domestic violence, rape, or sexual abuse.",
+      "description_es": "Albergue de emergencia, vivienda de transición, consejería, apoyo legal y ayuda en crisis para personas afectadas por violencia doméstica, violación o abuso sexual.",
+      "eligibility_summary_en": "For survivors of domestic violence, rape, and sexual abuse and their children in Denton County.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica, violación y abuso sexual, y sus hijos, en el condado de Denton.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour crisis hotline at 940-382-7273.",
+      "how_to_apply_es": "Llame a la línea de crisis de 24 horas al 940-382-7273.",
+      "apply_url": null,
+      "phone": "(940) 382-7273",
+      "address": "4845 S I-35 E, Suite 200",
+      "city": "Corinth",
+      "zip": "76210",
+      "hours": "Hotline 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dcfof.org/",
+      "confidence": "high",
+      "notes": "Phone listed is the 24-hour crisis hotline.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "dcta-reduced-fare-program",
+      "name": "DCTA Reduced Fare Program",
+      "organization": "Denton County Transportation Authority (DCTA)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower bus and train fares for seniors, people with disabilities, Medicare cardholders, and students.",
+      "description_es": "Tarifas más bajas de autobús y tren para personas mayores, personas con discapacidades, personas con tarjeta de Medicare y estudiantes.",
+      "eligibility_summary_en": "For people 65 or older, people with disabilities, Medicare cardholders, and students 6-18 with a student ID. Children under 5 ride free.",
+      "eligibility_summary_es": "Para personas de 65 años o más, personas con discapacidades, personas con tarjeta de Medicare y estudiantes de 6 a 18 años con identificación escolar. Los niños menores de 5 años viajan gratis.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "DCTA Reduced Fare application",
+        "Proof of eligibility (age, disability, Medicare card, or student ID)"
+      ],
+      "how_to_apply": "Fill out the DCTA Reduced Fare application (English, Spanish, or Hakha Chin) to get a Reduced Fare Eligible badge. Call with questions.",
+      "how_to_apply_es": "Llene la solicitud de tarifa reducida de DCTA (en inglés, español o hakha chin) para recibir una credencial de tarifa reducida. Llame si tiene preguntas.",
+      "apply_url": "https://www.dcta.net/fares-passes/reduced-fares-discount-programs/Reduced-Fares",
+      "phone": "(940) 243-0077",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish",
+        "Hakha Chin"
+      ],
+      "cost": "Reduced fare",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://www.dcta.net/fares-passes/reduced-fares-discount-programs/Reduced-Fares",
+      "confidence": "high",
+      "notes": "The badge is not a pass; riders still pay the reduced fare. DCTA also has a Non-Profit Pass Program. No general low-income fare confirmed on the reduced fare page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

@@ -264,8 +264,10 @@ export async function createPlan({ profile: raw, language }, deps) {
     created_at: new Date(nowMs(deps)).toISOString(),
   });
   await deps.db.update('DemoState', demo.id, { plans_since_reset: (demo.plans_since_reset || 0) + 1 });
-  const needs = profile.needs.map((n) => n.replace('_', ' ')).join(', ');
-  await activity(deps, 'plan', `A family of ${profile.household_size || '?'} built a plan${needs ? `: ${needs}` : ''}`, `Una familia de ${profile.household_size || '?'} creó un plan`, null);
+  const W = { food: ['food', 'comida'], housing: ['rent', 'renta'], utilities: ['electric bill', 'factura de luz'], healthcare: ['health care', 'salud'], school_childcare: ['school & child care', 'escuela y cuidado de niños'], employment: ['jobs', 'empleo'], transportation: ['transportation', 'transporte'], cash_assistance: ['cash help', 'ayuda en efectivo'], legal: ['legal help', 'ayuda legal'], mental_health: ['mental health', 'salud mental'] };
+  const words = (i) => profile.needs.map((n) => W[n]?.[i]).filter(Boolean).join(', ');
+  const who = profile.household_size ? [`A family of ${profile.household_size}`, `Una familia de ${profile.household_size}`] : ['A neighbor', 'Un vecino'];
+  await activity(deps, 'plan', `${who[0]} built a plan${words(0) ? `: ${words(0)}` : ''}`, `${who[1]} creó un plan${words(1) ? `: ${words(1)}` : ''}`, null);
   return planView(session, deps);
 }
 
@@ -513,7 +515,7 @@ async function writeBrief(missionId, facts, fallbackKey, deps) {
   });
 }
 
-async function createMission(deps, w, donation, hub, requests, clock) {
+async function createMission(deps, w, donation, hub, requests) {
   const giver = w.giverBy.get(donation.giver_key);
   const distance = Math.round(distanceMiles(giver, hub) * 10) / 10;
   const mode = chooseMode(distance);
@@ -662,7 +664,7 @@ export async function analyzePhoto({ giver_key, image, sample, sample_url, note 
   if (!giver) throw new ServiceError(404, 'giver_not_found');
   const nowMin = clock.minutesOf(clock.now);
   let url = sample ? sample_url || null : null;
-  if (!sample && image) {
+  if (image) {
     if (typeof image !== 'string' || !/^data:image\/(jpeg|png|webp);base64,/.test(image) || image.length > LIMITS.photoMaxBytes * 1.4) throw new ServiceError(400, 'invalid_image');
     url = deps.uploadImage ? await deps.uploadImage(image).catch(() => null) : null;
   }
@@ -890,7 +892,9 @@ export async function getState({ role, identity, token }, deps) {
         brief_en: m.brief_en, brief_es: m.brief_es, brief_source: m.brief_source, steps_en: m.steps_en, steps_es: m.steps_es, safety_checklist_en: m.safety_checklist_en, safety_checklist_es: m.safety_checklist_es,
         bag_instructions_en: m.bag_instructions_en, bag_instructions_es: m.bag_instructions_es, handling_en: m.handling_en, handling_es: m.handling_es,
         requests: reqs.map((r) => ({ code: r.code, household_size: r.household_size })), volunteer_names: (m.volunteer_keys || []).map((k) => w.volunteerBy.get(k)?.display_name).filter(Boolean),
-        volunteer_keys: m.volunteer_keys || [], credited_hours: m.credited_hours || null, lbs_delivered: m.lbs_delivered || null, meals: m.meals || null, created_at: m.created_at || null, sample: !!m.sample,
+        volunteer_keys: m.volunteer_keys || [], credited_hours: m.credited_hours || null,
+        // Demo helper chips only (the demo is public and the Hub role shows its code anyway).
+        demo_codes: { pickup: w.donationBy.get(m.donation_key)?.pickup_code || null, drop: hub?.drop_code || null }, lbs_delivered: m.lbs_delivered || null, meals: m.meals || null, created_at: m.created_at || null, sample: !!m.sample,
       };
       if (me) {
         const e = missionEligibility(me, m);
@@ -961,6 +965,7 @@ export async function getState({ role, identity, token }, deps) {
       hub_key: e.hub_key, area_label: e.area_label, lat: e.lat, lng: e.lng, host: e.host, min_age: e.min_age, spots: e.spots, rsvp_count: (e.rsvp_keys || []).length,
       rsvped: me ? (e.rsvp_keys || []).includes(me.key) : false, checked_in: me ? (e.checked_in_keys || []).includes(me.key) : false, hours_credit: e.hours_credit, sample: !!e.sample,
       ...(role === 'hub' && identity && e.hub_key === identity ? { checkin_code: e.checkin_code } : {}),
+      demo_checkin: e.checkin_code, // demo helper chip only
     })),
     activity: activityRows.slice(0, 30).map((a) => ({ id: a.id || a.at, type: a.type, message_en: a.message_en, message_es: a.message_es, lat: a.lat, lng: a.lng, at: a.at, sample: !!a.sample, line: a.line || null })),
     impact,

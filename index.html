@@ -3,28 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <title>BenefitBridge: find help in Texas in 60 seconds</title>
-    <meta name="description" content="Tell us your situation. BenefitBridge finds food, rent, bill, health care and other help you may qualify for in Texas, and gives you an exact step-by-step plan. Free, private, English and Spanish." />
+    <title>Loop — find the help that exists, activate the help that doesn't</title>
+    <meta name="description" content="Loop connects real programs with neighborhood help: AI plans for families, surplus food from local businesses, and safe missions for student volunteers. English and Spanish." />
     <meta name="theme-color" content="#0F766E" />
-    <meta property="og:title" content="BenefitBridge: from confusion to an exact plan in 60 seconds" />
-    <meta property="og:description" content="Free, private help finder for Texas families. English and Spanish." />
+    <meta property="og:title" content="Loop: find the help that exists. Activate the help that doesn't." />
+    <meta property="og:description" content="Neighborhood mutual aid, made safe and simple." />
     <meta property="og:type" content="website" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <script>
       // Apply the saved or system color theme before first paint (avoids a flash).
       try {
-        var t = localStorage.getItem('bb.theme');
+        var t = localStorage.getItem('loop.theme');
         if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark');
-        var l = localStorage.getItem('bb.lang');
+        var l = localStorage.getItem('loop.lang');
         if (l === 'es' || l === 'en') document.documentElement.lang = l;
       } catch (e) {}
     </script>
   </head>
   <body>
-    <noscript>BenefitBridge needs JavaScript. For help now, dial 2-1-1 from any phone.</noscript>
+    <noscript>Loop needs JavaScript. For help now, dial 2-1-1 from any phone.</noscript>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

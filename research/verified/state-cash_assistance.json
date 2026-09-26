@@ -1,0 +1,3067 @@
+{
+  "scope": "cash_assistance",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "texas-tanf-cash-help",
+      "name": "Temporary Assistance for Needy Families (TANF)",
+      "organization": "Texas Health and Human Services Commission (HHSC)",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "TANF gives monthly cash payments to families with children. The money can help pay for food, clothing, housing, utilities, transportation, and other basic needs.",
+      "description_es": "TANF da pagos mensuales en efectivo a familias con hijos. El dinero puede ayudar a pagar comida, ropa, vivienda, servicios como luz y agua, transporte y otras necesidades básicas.",
+      "eligibility_summary_en": "For Texas families with children 18 or younger who have little or no income. Income limits are very low (for example, $188 a month for a 1-parent household of 3). The most a family of 1 parent and 2 children can get is $331 a month.",
+      "eligibility_summary_es": "Para familias de Texas con hijos de 18 años o menos que tienen pocos o ningún ingreso. Los límites de ingresos son muy bajos (por ejemplo, $188 al mes para un hogar de 1 padre o madre con 3 hijos). Lo más que puede recibir una familia de 1 padre o madre y 2 hijos es $331 al mes.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1 for help. Adults must follow work, child support, school attendance, and vaccine rules to keep getting benefits.",
+      "how_to_apply_es": "Solicite en línea en YourTexasBenefits.com o llame al 2-1-1 para recibir ayuda. Los adultos deben cumplir reglas de trabajo, manutención de hijos, asistencia escolar y vacunas para seguir recibiendo el beneficio.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/financial/cash/tanf-cash-help",
+      "confidence": "high",
+      "notes": "Monthly income limits on source: child-only 1 person $64, 2 people $92; 1-parent household of 3 $188; 2-parent household of 3 $206. Max monthly payments: child-only 1 child $130; 1 parent 2 children $331; 2 parents 3 children $418. Recipients must look for work or train (Choices program), follow child support rules, not quit a job, not abuse drugs/alcohol, take parenting classes, keep kids in school and vaccinated.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-one-time-tanf",
+      "name": "One-Time TANF",
+      "organization": "Texas Health and Human Services Commission (HHSC)",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "A one-time cash payment for families in a crisis, such as losing a job, losing a home, or a medical emergency. It can be received once a year instead of monthly TANF.",
+      "description_es": "Un pago único en efectivo para familias en crisis, por ejemplo si perdieron el trabajo, la casa o tienen una emergencia médica. Se puede recibir una vez al año en lugar del TANF mensual.",
+      "eligibility_summary_en": "For Texas families in crisis who have children 18 or younger and do not have much money or a way to get more money.",
+      "eligibility_summary_es": "Para familias de Texas en crisis que tienen hijos de 18 años o menos y que no tienen mucho dinero ni forma de conseguir más.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1 and ask about One-Time TANF.",
+      "how_to_apply_es": "Solicite en línea en YourTexasBenefits.com o llame al 2-1-1 y pregunte por el TANF de Una Sola Vez (One-Time TANF).",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/financial/cash/tanf-cash-help",
+      "confidence": "high",
+      "notes": "Source says available once per year to families in crisis (job loss, home loss, medical emergency). Payment amount is not stated on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-one-time-tanf-relatives",
+      "name": "One-Time TANF for Relatives (Grandparent/Relative Caregiver Payment)",
+      "organization": "Texas Health and Human Services Commission (HHSC)",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "A once-in-a-lifetime $1,000 payment for relatives, like grandparents, aunts, uncles, or older siblings, who are raising a related child who gets TANF.",
+      "description_es": "Un pago único de $1,000 (solo una vez en la vida) para familiares, como abuelos, tíos o hermanos mayores, que están criando a un niño de la familia que recibe TANF.",
+      "eligibility_summary_en": "For relatives age 25 or older caring for a child who gets TANF, with limited income. Monthly income limits: 1 person $2,660; 2 people $3,607; 3 people $4,554; 4 people $5,500; 5 people $6,447.",
+      "eligibility_summary_es": "Para familiares de 25 años o más que cuidan a un niño que recibe TANF y que tienen ingresos limitados. Límites de ingresos al mes: 1 persona $2,660; 2 personas $3,607; 3 personas $4,554; 4 personas $5,500; 5 personas $6,447.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "min_age": 25,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1 and ask about One-Time TANF for relatives.",
+      "how_to_apply_es": "Solicite en línea en YourTexasBenefits.com o llame al 2-1-1 y pregunte por el TANF de Una Sola Vez para familiares.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/financial/cash/tanf-cash-help",
+      "confidence": "high",
+      "notes": "Includes grandparents, great-grandparents, aunts, uncles, great-aunts, great-uncles, sisters and brothers.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ssa-supplemental-security-income",
+      "name": "Supplemental Security Income (SSI)",
+      "organization": "Social Security Administration",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "SSI pays monthly cash to help people with very low income pay for food, clothing, and housing. No work history is needed.",
+      "description_es": "SSI da dinero cada mes para ayudar a personas con muy pocos ingresos a pagar comida, ropa y vivienda. No necesita haber trabajado antes.",
+      "eligibility_summary_en": "For people with little or no income who are age 65 or older, blind, or have a disability. Children with disabilities can also qualify.",
+      "eligibility_summary_es": "Para personas con pocos o ningún ingreso que tienen 65 años o más, son ciegas o tienen una discapacidad. Los niños con discapacidad también pueden calificar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Start online at ssa.gov/apply/ssi, call Social Security, or visit a local Social Security office. SSI applications for children start online but must be finished by phone or in person.",
+      "how_to_apply_es": "Empiece en línea en ssa.gov/apply/ssi, llame al Seguro Social o vaya a una oficina local del Seguro Social. Las solicitudes de SSI para niños se empiezan en línea, pero se deben terminar por teléfono o en persona.",
+      "apply_url": "https://www.ssa.gov/apply/ssi",
+      "phone": "(800) 772-1213",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.usa.gov/social-security-disability",
+      "confidence": "medium",
+      "notes": "For people 65+, blind, or disabled. People can get SSI and SSDI at the same time. Phone number confirmed on usa.gov SSA agency page (https://www.usa.gov/agencies/social-security-administration); ssa.gov itself blocked automated access this session. ssa.gov returned 403 to automated checks on 2026-09-26; program facts confirmed on usa.gov.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ssa-social-security-disability-insurance",
+      "name": "Social Security Disability Insurance (SSDI)",
+      "organization": "Social Security Administration",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "SSDI pays monthly benefits to people who cannot work because of a disability and who worked and paid Social Security taxes long enough. Some family members may also get benefits.",
+      "description_es": "SSDI paga beneficios cada mes a personas que no pueden trabajar por una discapacidad y que trabajaron y pagaron impuestos del Seguro Social el tiempo suficiente. Algunos familiares también pueden recibir beneficios.",
+      "eligibility_summary_en": "For people with a disability who have enough work history paying Social Security taxes. Benefits start after a five-month waiting period.",
+      "eligibility_summary_es": "Para personas con una discapacidad que trabajaron lo suficiente pagando impuestos del Seguro Social. Los pagos empiezan después de una espera de cinco meses.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at ssa.gov, by phone, or in person at a Social Security office. You can check if you might qualify at ssa.gov/prepare/check-eligibility-for-benefits.",
+      "how_to_apply_es": "Solicite en línea en ssa.gov, por teléfono o en persona en una oficina del Seguro Social. Puede revisar si podría calificar en ssa.gov/prepare/check-eligibility-for-benefits.",
+      "apply_url": "https://www.ssa.gov/apply?benefits=disability&age=adult",
+      "phone": "(800) 772-1213",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.usa.gov/social-security-disability",
+      "confidence": "medium",
+      "notes": "Five-month waiting period after approval before benefits begin. Phone confirmed on https://www.usa.gov/agencies/social-security-administration. ssa.gov returned 403 to automated checks on 2026-09-26; program facts confirmed on usa.gov.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "irs-earned-income-tax-credit",
+      "name": "Earned Income Tax Credit (EITC)",
+      "organization": "Internal Revenue Service (IRS)",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "The EITC is a tax credit for workers with low to moderate income. It can lower the taxes you owe and may give you a bigger refund.",
+      "description_es": "El EITC es un crédito de impuestos para trabajadores con ingresos bajos o moderados. Puede bajar los impuestos que debe y darle un reembolso más grande.",
+      "eligibility_summary_en": "For workers with low to moderate earned income. The amount depends on income, filing status, and number of qualifying children; workers without children may also qualify.",
+      "eligibility_summary_es": "Para trabajadores con ingresos bajos o moderados. La cantidad depende de sus ingresos, su estado civil para impuestos y cuántos hijos califican. Los trabajadores sin hijos también pueden calificar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Claim the EITC when you file your federal tax return. Use the IRS EITC Assistant to check if you qualify, or get free help at a VITA or TCE site.",
+      "how_to_apply_es": "Pida el EITC cuando presente su declaración de impuestos federal. Use el Asistente del EITC del IRS para ver si califica, o reciba ayuda gratis en un sitio VITA o TCE.",
+      "apply_url": "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Chinese",
+        "Korean",
+        "Russian",
+        "Vietnamese",
+        "Haitian Creole"
+      ],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc",
+      "confidence": "high",
+      "notes": "By law the IRS must wait until mid-February to issue refunds that include EITC. Texas has no state income tax, so this credit is federal only. Languages reflect IRS page translations.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "irs-vita-tce-free-tax-prep",
+      "name": "Volunteer Income Tax Assistance (VITA) and Tax Counseling for the Elderly (TCE)",
+      "organization": "Internal Revenue Service (IRS) and local partner organizations",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "IRS-certified volunteers prepare basic tax returns for free. They can help you claim credits like the EITC.",
+      "description_es": "Voluntarios certificados por el IRS preparan declaraciones de impuestos sencillas gratis. Pueden ayudarle a pedir créditos como el EITC.",
+      "eligibility_summary_en": "Generally for people who make about $70,244 or less, people with disabilities, and people with limited English. TCE focuses on people 60 and older.",
+      "eligibility_summary_es": "En general, para personas que ganan unos $70,244 o menos al año, personas con discapacidad y personas que hablan poco inglés. TCE se enfoca en personas de 60 años o más.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the IRS VITA/TCE Locator Tool or call 800-906-9887 to find a free tax site near you. Check IRS Publication 3676-B for what to bring.",
+      "how_to_apply_es": "Use el Localizador VITA/TCE del IRS o llame al 800-906-9887 para encontrar un sitio gratis cerca de usted. Revise la Publicación 3676-B del IRS para saber qué llevar.",
+      "apply_url": "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers",
+      "phone": "(800) 906-9887",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers",
+      "confidence": "high",
+      "notes": "Individual sites can set their own income limits; services vary by site. Locator is updated mostly February-April. Most TCE sites are run by AARP Foundation Tax-Aide (888-227-7669).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "aarp-foundation-tax-aide",
+      "name": "AARP Foundation Tax-Aide",
+      "organization": "AARP Foundation",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free tax preparation by IRS-certified volunteers at libraries, community centers, and other sites. Volunteers can prepare your return or coach you to do it yourself.",
+      "description_es": "Preparación de impuestos gratis con voluntarios certificados por el IRS en bibliotecas, centros comunitarios y otros lugares. Los voluntarios pueden preparar su declaración o enseñarle a hacerla usted mismo.",
+      "eligibility_summary_en": "Focuses on taxpayers over 50 with low to moderate income. You do not need to be an AARP member.",
+      "eligibility_summary_es": "Se enfoca en personas mayores de 50 años con ingresos bajos o moderados. No necesita ser miembro de AARP.",
+      "eligibility_rules": {
+        "min_age": 50
+      },
+      "documents_needed": [],
+      "how_to_apply": "Use the AARP Foundation Tax-Aide site locator online or call 1-888-227-7669 to find a site.",
+      "how_to_apply_es": "Use el localizador de sitios de AARP Foundation Tax-Aide en línea o llame al 1-888-227-7669 para encontrar un sitio.",
+      "apply_url": "https://www.aarp.org/money/taxes/aarp-taxaide/",
+      "phone": "(888) 227-7669",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Seasonal: early February to mid-April",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.aarp.org/money/taxes/aarp-taxaide/",
+      "confidence": "high",
+      "notes": "Email taxaide@aarp.org. Sites operate during tax season only. Service focuses on 50+ but is not strictly limited by the source wording.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "twc-unemployment-benefits",
+      "name": "Unemployment Benefits (Unemployment Insurance)",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "cash_assistance",
+        "employment"
+      ],
+      "description_en": "Unemployment benefits give temporary, partial pay to workers who lost their job or had hours cut through no fault of their own. Weekly benefits range from $75 to $605.",
+      "description_es": "Los beneficios de desempleo dan un pago temporal y parcial a trabajadores que perdieron su trabajo o les bajaron las horas sin tener la culpa. Los pagos semanales van de $75 a $605.",
+      "eligibility_summary_en": "For people who lost work or had hours reduced through no fault of their own, earned enough wages in Texas, are able and available to work, and look for work.",
+      "eligibility_summary_es": "Para personas que perdieron el trabajo o les redujeron las horas sin tener la culpa, que ganaron suficiente salario en Texas, que pueden y están disponibles para trabajar, y que buscan trabajo.",
+      "eligibility_rules": {
+        "job_loss": true
+      },
+      "documents_needed": [
+        "Social Security number",
+        "Valid driver license or state ID number",
+        "Last employer's name, address, and phone number",
+        "First and last dates worked for last employer",
+        "Hours worked and pay rate if you worked the week you apply",
+        "DD Form 214 if you served in the military",
+        "Alien registration number if not a U.S. citizen"
+      ],
+      "how_to_apply": "Apply online at Unemployment Benefits Services (UBS) or call the Tele-Center at 800-939-6631. Apply as soon as you are unemployed; your claim starts the Sunday of the week you apply. You must also register at WorkInTexas.com.",
+      "how_to_apply_es": "Solicite en línea en Unemployment Benefits Services (UBS) o llame al Tele-Center al 800-939-6631. Solicite en cuanto se quede sin trabajo; su reclamo empieza el domingo de la semana en que solicita. También debe registrarse en WorkInTexas.com.",
+      "apply_url": "https://apps.twc.texas.gov/UBS/security/logon.do",
+      "phone": "(800) 939-6631",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/unemployment-benefits",
+      "confidence": "high",
+      "notes": "As of Oct 5, 2025: minimum weekly benefit $75, maximum $605; up to 26 weeks within a 52-week benefit year. Employer-paid; no cost to workers. Upload documents at https://mft.twc.texas.gov/form/UIsubmissionENG (Spanish: UIsubmissionESP). Temp agency workers must wait 3 business days after last assignment ends. Relay service accepted. Details: https://www.twc.texas.gov/programs/unemployment-benefits/eligibility-benefit-amounts and https://www.twc.texas.gov/services/apply-benefits",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "twc-disaster-unemployment-assistance",
+      "name": "Disaster Unemployment Assistance (DUA)",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "cash_assistance",
+        "employment"
+      ],
+      "description_en": "DUA gives temporary benefits to people who lost work because of a presidentially declared major disaster and who cannot get regular unemployment benefits.",
+      "description_es": "DUA da beneficios temporales a personas que perdieron su trabajo por un desastre mayor declarado por el Presidente y que no pueden recibir el desempleo regular.",
+      "eligibility_summary_en": "Only available in disaster areas after a presidential major disaster declaration. You must apply within 60 days of the declaration.",
+      "eligibility_summary_es": "Solo está disponible en zonas de desastre después de una declaración presidencial de desastre mayor. Debe solicitar dentro de los 60 días después de la declaración.",
+      "eligibility_rules": {
+        "job_loss": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "If a disaster is declared in your area, apply through Unemployment Benefits Services online or call 800-939-6631.",
+      "how_to_apply_es": "Si se declara un desastre en su zona, solicite en línea en Unemployment Benefits Services o llame al 800-939-6631.",
+      "apply_url": "https://apps.twc.texas.gov/UBS/security/logon.do",
+      "phone": "(800) 939-6631",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/unemployment-benefits/disaster-unemployment-assistance",
+      "confidence": "high",
+      "notes": "No active DUA declarations were listed on the TWC page when checked (Sept 2026). Only show to clients when a disaster declaration is active; check FEMA/TDEM.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "twc-choices-tanf-employment",
+      "name": "Choices (TANF Employment and Training Program)",
+      "organization": "Texas Workforce Commission (TWC) and local Workforce Solutions boards",
+      "categories": [
+        "employment",
+        "cash_assistance"
+      ],
+      "description_en": "Choices helps people who get TANF cash find jobs. It offers job search help, education and training, and help with things like work clothes and training supplies.",
+      "description_es": "Choices ayuda a las personas que reciben dinero de TANF a encontrar trabajo. Ofrece ayuda para buscar empleo, estudios y capacitación, y ayuda con cosas como ropa de trabajo y materiales de capacitación.",
+      "eligibility_summary_en": "For people applying for or receiving TANF cash benefits, including single-parent and two-parent families.",
+      "eligibility_summary_es": "Para personas que solicitan o reciben dinero de TANF, incluidas familias con uno o dos padres.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your local Workforce Solutions office (Workforce Development Board) or call TWC at 800-628-5115.",
+      "how_to_apply_es": "Comuníquese con su oficina local de Workforce Solutions (Junta de Desarrollo Laboral) o llame a TWC al 800-628-5115.",
+      "apply_url": null,
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/choices",
+      "confidence": "high",
+      "notes": "Local boards may also provide child care and transportation support for Choices participants. Work activities are a TANF requirement for most adults.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-oag-crime-victims-compensation",
+      "name": "Crime Victims' Compensation (CVC) Program",
+      "organization": "Office of the Texas Attorney General",
+      "categories": [
+        "cash_assistance",
+        "healthcare",
+        "mental_health",
+        "housing"
+      ],
+      "description_en": "Helps victims of violent crime and their families pay crime-related costs such as medical bills, counseling, lost wages, funeral costs, and rent or moving costs when home is unsafe.",
+      "description_es": "Ayuda a víctimas de crímenes violentos y a sus familias a pagar gastos causados por el crimen, como cuentas médicas, consejería, salarios perdidos, gastos de funeral y renta o mudanza cuando la casa no es segura.",
+      "eligibility_summary_en": "For victims of violent crime reported to law enforcement, and claimants such as family members, dependents, or people paying the victim's crime-related bills.",
+      "eligibility_summary_es": "Para víctimas de crímenes violentos que se reportaron a la policía, y para otras personas que reclaman, como familiares, dependientes o personas que pagan las cuentas de la víctima relacionadas con el crimen.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the CVC Portal, or download a paper application (English or Spanish) or call (800) 983-9933 to request one. You can apply before you have your bills. A victim advocate can help.",
+      "how_to_apply_es": "Solicite en línea en el Portal de CVC, o descargue una solicitud en papel (en inglés o español), o llame al (800) 983-9933 para pedir una. Puede solicitar antes de tener sus cuentas. Un defensor de víctimas le puede ayudar.",
+      "apply_url": "https://www.texasattorneygeneral.gov/crime-victims/crime-victims-compensation-program/apply-crime-victims-compensation",
+      "phone": "(800) 983-9933",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.texasattorneygeneral.gov/crime-victims/crime-victims-compensation-program/apply-crime-victims-compensation",
+      "confidence": "medium",
+      "notes": "Long-running OAG program. texasattorneygeneral.gov blocked automated access (HTTP 402) during verification on 2026-09-26, so phone, application details, and hours could not be re-checked this session; hours set to null and document list removed. Each crime needs its own application. Does not cover property theft/damage, identity theft, or pain and suffering.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-oag-child-support-services",
+      "name": "Child Support Services",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "The Child Support Division helps parents establish paternity, set up and change child support orders, and collect and receive child support payments.",
+      "description_es": "La División de Manutención de Menores ayuda a los padres a establecer la paternidad, crear y cambiar órdenes de manutención, y cobrar y recibir pagos de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child in Texas who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño en Texas y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through your Child Support online account (fastest), or call (800) 252-8014 to get a paper application by mail.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores (la forma más rápida), o llame al (800) 252-8014 para recibir una solicitud en papel por correo.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "confidence": "medium",
+      "notes": "Phone (800) 252-8014 confirmed on the official OAG office locator (csapps.oag.texas.gov/locations/offices). texasattorneygeneral.gov blocked automated access (HTTP 402) on 2026-09-26, so the application page and document list could not be re-checked; document list removed. Relay Texas 7-1-1. Office locations: https://csapps.oag.texas.gov/locations/offices",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "dfps-permanency-care-assistance",
+      "name": "Permanency Care Assistance (PCA)",
+      "organization": "Texas Department of Family and Protective Services (DFPS)",
+      "categories": [
+        "cash_assistance",
+        "school_childcare"
+      ],
+      "description_en": "PCA gives monthly payments of $400 to $545 per child to relatives or family friends who take legal custody of a child they fostered.",
+      "description_es": "PCA da pagos mensuales de $400 a $545 por niño a familiares o amigos de la familia que obtienen la custodia legal de un niño que tenían en cuidado temporal (foster).",
+      "eligibility_summary_en": "For kinship caregivers who become verified foster parents, care for the child for at least six months, sign a Permanency Care Agreement, and get legal custody in court.",
+      "eligibility_summary_es": "Para familiares cuidadores que se hacen padres de crianza verificados, cuidan al niño por lo menos seis meses, firman un Acuerdo de Cuidado Permanente y obtienen la custodia legal en la corte.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Ask your DFPS caseworker about becoming a kinship foster parent and PCA before you go to court for custody.",
+      "how_to_apply_es": "Pregunte a su trabajador social de DFPS cómo hacerse padre de crianza familiar y sobre PCA antes de ir a la corte por la custodia.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.dfps.texas.gov/Child_Protection/Kinship_Care/PCA.asp",
+      "confidence": "high",
+      "notes": "Benefits continue until the child turns 18, or 21 in some cases where the child was 16 or older (per source). The agreement must be signed BEFORE custody is finalized.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "dfps-kinship-caregiver-assistance",
+      "name": "Texas Kinship Caregiver Assistance and Supports",
+      "organization": "Texas Department of Family and Protective Services (DFPS)",
+      "categories": [
+        "cash_assistance",
+        "school_childcare"
+      ],
+      "description_en": "DFPS offers help to relatives and family friends caring for children placed with them by Child Protective Services, including kinship assistance, support groups, and guides.",
+      "description_es": "DFPS ofrece ayuda a familiares y amigos de la familia que cuidan a niños que Servicios de Protección Infantil (CPS) puso en su hogar, como ayuda económica, grupos de apoyo y guías.",
+      "eligibility_summary_en": "For relatives or close family friends (fictive kin) caring for a child placed with them by DFPS/CPS.",
+      "eligibility_summary_es": "Para familiares o amigos cercanos de la familia que cuidan a un niño que DFPS/CPS puso en su hogar.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Ask your CPS caseworker about kinship assistance and supports. More information at dfps.texas.gov/kinship.",
+      "how_to_apply_es": "Pregunte a su trabajador social de CPS sobre la ayuda y los apoyos para familiares cuidadores. Más información en dfps.texas.gov/kinship.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.dfps.texas.gov/Child_Protection/Kinship_Care/default.asp",
+      "confidence": "high",
+      "notes": "Payment amounts not stated on source pages checked. Kinship Manual and flyers are available in English and Spanish. Kinship caregivers can also pursue foster home verification to receive foster care payments.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tdi-dwc-workers-compensation",
+      "name": "Workers' Compensation Help for Injured Employees",
+      "organization": "Texas Department of Insurance, Division of Workers' Compensation (DWC)",
+      "categories": [
+        "cash_assistance",
+        "healthcare"
+      ],
+      "description_en": "Workers' compensation provides pay and medical benefits to employees who get hurt or sick because of their job. DWC answers questions and helps with claims.",
+      "description_es": "La compensación para trabajadores da pagos y beneficios médicos a empleados que se lastiman o se enferman por su trabajo. DWC contesta preguntas y ayuda con los reclamos.",
+      "eligibility_summary_en": "For employees with a work-related injury or illness whose employer has workers' compensation insurance.",
+      "eligibility_summary_es": "Para empleados con una lesión o enfermedad causada por el trabajo cuyo empleador tiene seguro de compensación para trabajadores.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Tell your employer about the injury and call DWC at 800-252-7031, option 1, for help with your claim.",
+      "how_to_apply_es": "Avísele a su empleador sobre la lesión y llame a DWC al 800-252-7031, opción 1, para recibir ayuda con su reclamo.",
+      "apply_url": "https://www.tdi.texas.gov/wc/employee/index.html",
+      "phone": "(800) 252-7031",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.tdi.texas.gov/wc/employee/index.html",
+      "confidence": "high",
+      "notes": "Not all Texas employers carry workers' comp. DWC regulates but does not pay benefits; the insurance carrier pays. Scam alert: you never have to pay to get benefits.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "va-disability-compensation",
+      "name": "VA Disability Compensation",
+      "organization": "U.S. Department of Veterans Affairs",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "A monthly tax-free payment for veterans who got sick or hurt while serving, or whose service made a condition worse. Some survivors and dependents may also qualify.",
+      "description_es": "Un pago mensual libre de impuestos para veteranos que se enfermaron o se lastimaron durante su servicio, o cuyo servicio empeoró una condición. Algunos sobrevivientes y dependientes también pueden calificar.",
+      "eligibility_summary_en": "For veterans with a service-connected physical or mental health condition, such as PTSD.",
+      "eligibility_summary_es": "Para veteranos con una condición física o de salud mental relacionada con su servicio, como el trastorno de estrés postraumático (PTSD).",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at VA.gov, or by phone, mail, or fax. A free accredited Veterans Service Organization representative can help you file.",
+      "how_to_apply_es": "Solicite en línea en VA.gov, o por teléfono, correo o fax. Un representante acreditado de una Organización de Servicios para Veteranos le puede ayudar gratis.",
+      "apply_url": "https://www.va.gov/disability/",
+      "phone": "(800) 827-1000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/disability/",
+      "confidence": "high",
+      "notes": "TTY 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "va-pension",
+      "name": "VA Pension (including Aid and Attendance)",
+      "organization": "U.S. Department of Veterans Affairs",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Monthly payments for some wartime veterans and their surviving spouses or children with limited income. Extra pay is available if you need help with daily activities or are housebound.",
+      "description_es": "Pagos mensuales para algunos veteranos de tiempos de guerra y sus esposos o hijos sobrevivientes con ingresos limitados. Hay pago adicional si necesita ayuda con actividades diarias o no puede salir de su casa.",
+      "eligibility_summary_en": "For certain wartime veterans with limited income, and some surviving spouses and children.",
+      "eligibility_summary_es": "Para ciertos veteranos de tiempos de guerra con ingresos limitados, y algunos esposos e hijos sobrevivientes.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Check if you qualify and apply online at VA.gov, or get free help from an accredited VSO representative.",
+      "how_to_apply_es": "Revise si califica y solicite en línea en VA.gov, o reciba ayuda gratis de un representante acreditado de una Organización de Servicios para Veteranos.",
+      "apply_url": "https://www.va.gov/pension/",
+      "phone": "(800) 827-1000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/pension/",
+      "confidence": "high",
+      "notes": "TTY 711. Income and net worth limits not captured here.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "2-1-1-texas",
+      "name": "2-1-1 Texas",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "cash_assistance",
+        "food",
+        "housing",
+        "utilities",
+        "healthcare"
+      ],
+      "description_en": "A free helpline and website that connects Texans to local help for food, housing, bills, health care, and more. It can also help you apply for TANF.",
+      "description_es": "Una línea de ayuda y sitio web gratis que conecta a las personas en Texas con ayuda local para comida, vivienda, cuentas, atención médica y más. También le puede ayudar a solicitar TANF.",
+      "eligibility_summary_en": "For anyone in Texas.",
+      "eligibility_summary_es": "Para cualquier persona en Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Dial 2-1-1 or (877) 541-7905, chat online, or search at 211texas.org.",
+      "how_to_apply_es": "Marque 2-1-1 o (877) 541-7905, use el chat en línea o busque en 211texas.org.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.211texas.org/",
+      "confidence": "high",
+      "notes": "Alternate number (877) 541-7905. Online chat in English and Spanish.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "foundation-communities-prosper-tax-help-austin",
+      "name": "Prosper Tax Help (Free Tax Preparation)",
+      "organization": "Foundation Communities",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free tax filing by IRS-certified preparers in the Austin area. They also help with past-year returns, IRS letters, and ITIN applications.",
+      "description_es": "Preparación de impuestos gratis con preparadores certificados por el IRS en el área de Austin. También ayudan con declaraciones de años pasados, cartas del IRS y solicitudes de ITIN.",
+      "eligibility_summary_en": "For individuals earning less than $60,000 a year and households of 2-4 earning less than $85,000. The limit goes up $5,000 for each extra family member.",
+      "eligibility_summary_es": "Para personas que ganan menos de $60,000 al año y hogares de 2 a 4 personas que ganan menos de $85,000. El límite sube $5,000 por cada miembro adicional de la familia.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Schedule an appointment online. Off-season services run June through mid-October; peak season is January through April.",
+      "how_to_apply_es": "Haga una cita en línea. Los servicios fuera de temporada van de junio a mediados de octubre; la temporada alta es de enero a abril.",
+      "apply_url": "https://foundcom.org/austin-tax-help/",
+      "phone": "(737) 717-4000",
+      "address": "2900 S I-35 Frontage Rd",
+      "city": "Austin",
+      "zip": "78704",
+      "hours": "Prosper Center South: Tue 12pm-6pm, Thu 9am-3pm, one Saturday a month 9am-1pm (2026 off-season)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://foundcom.org/austin-tax-help/",
+      "confidence": "high",
+      "notes": "Off-season (June-October) services: tax returns, ITIN applications/renewals, prior-year returns, amendments, IRS letters. Also Prosper Center North, 601 W Braker Ln, Austin 78753 (Tue 12pm-6pm, Thu 9am-3pm, Sat 9am-1pm). Services in English and Spanish. Counties reflect listed site cities.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "foundation-communities-dallas-tax-centers",
+      "name": "Dallas Community Tax Centers",
+      "organization": "Foundation Communities",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free tax preparation for low- and moderate-income households in North Texas to help families get the full refund they earned.",
+      "description_es": "Preparación de impuestos gratis para hogares con ingresos bajos y moderados en el norte de Texas, para ayudar a las familias a recibir todo el reembolso que se ganaron.",
+      "eligibility_summary_en": "For people earning less than $69,000 a year.",
+      "eligibility_summary_es": "Para personas que ganan menos de $69,000 al año.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book an appointment online at a Dallas Community Tax Center, or call (214) 370-9353. Download the checklist of what to bring from the website.",
+      "how_to_apply_es": "Haga una cita en línea en un Centro de Impuestos Comunitario de Dallas, o llame al (214) 370-9353. Descargue del sitio web la lista de lo que debe llevar.",
+      "apply_url": "https://www.dallastaxcenters.org/",
+      "phone": "(214) 370-9353",
+      "address": null,
+      "city": "Dallas",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallastaxcenters.org/locations",
+      "confidence": "medium",
+      "notes": "The old foundcom.org page now redirects to dallastaxcenters.org. Sites listed: Concord Church, 6808 Pastor Bailey Dr, Dallas 75237 (Tue & Thu 11am-3pm, select Saturdays 10am-2pm); Now-Forward, 2875 Merrell Rd, Dallas 75229 (Mon & Wed 2pm-6pm, 3rd Saturday 10am-2pm). Page does not say whether sites are open outside tax season; call first. Office: 2820 Swiss Ave, Dallas 75204.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "shadow-brook-vita-arlington",
+      "name": "Shadow Brook VITA Community Tax Center",
+      "organization": "Foundation Communities / United Way of Tarrant County",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free tax preparation with IRS-certified volunteers in Arlington. Volunteers help you complete your forms and get the largest refund possible.",
+      "description_es": "Preparación de impuestos gratis con voluntarios certificados por el IRS en Arlington. Los voluntarios le ayudan a llenar sus formularios y a recibir el reembolso más grande posible.",
+      "eligibility_summary_en": "For any person or household with annual income of $69,000 or less.",
+      "eligibility_summary_es": "Para cualquier persona u hogar con ingresos de $69,000 o menos al año.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Original Social Security card or ITIN for everyone on the return",
+        "Copy of last year's tax return",
+        "All W-2 forms",
+        "SSA-1099, 1099-R and 1099-G forms",
+        "Cash income amount and work expenses",
+        "1095 health coverage form",
+        "Bank routing and account number for direct deposit"
+      ],
+      "how_to_apply": "Call 817-461-3936 to schedule an appointment. Appointment only.",
+      "how_to_apply_es": "Llame al 817-461-3936 para hacer una cita. Solo con cita.",
+      "apply_url": "https://www.unitedwaytarrant.org/get-help/tax-preparation",
+      "phone": "(817) 461-3936",
+      "address": "2020 S. Cooper St.",
+      "city": "Arlington",
+      "zip": "76013",
+      "hours": "Open May 4-October 15, 2026, by appointment only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.unitedwaytarrant.org/get-help/tax-preparation",
+      "confidence": "high",
+      "notes": "Dial 211 if unsure who to contact. United Way of Tarrant County lists this as its 2026 location.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-tax-center-gulfton-sharpstown",
+      "name": "BakerRipley Neighborhood Tax Center - Gulfton Sharpstown Campus",
+      "organization": "BakerRipley",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free, quality tax preparation for 2020-2025 tax returns and amendments. Free ITIN applications and renewals are also available.",
+      "description_es": "Preparación de impuestos gratis y de calidad para declaraciones de 2020 a 2025 y enmiendas. También hay solicitudes y renovaciones de ITIN gratis.",
+      "eligibility_summary_en": "For families and individuals earning up to $58,000 a year.",
+      "eligibility_summary_es": "Para familias y personas que ganan hasta $58,000 al año.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the site during open hours and bring the required documents listed on BakerRipley's tax page. Questions: call (713) 273-3755 or email taxprep@bakerripley.org.",
+      "how_to_apply_es": "Vaya al sitio durante su horario y lleve los documentos que pide la página de impuestos de BakerRipley. Si tiene preguntas, llame al (713) 273-3755 o escriba a taxprep@bakerripley.org.",
+      "apply_url": "https://bakerripley.org/programs-and-services/neighborhoodtaxcenters/",
+      "phone": "(713) 273-3755",
+      "address": "6500 Rookin Street",
+      "city": "Houston",
+      "zip": "77074",
+      "hours": "Mon-Thu 10am-5pm, Fri 12pm-4pm (year-round schedule starting May 2026)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://bakerripley.org/programs-and-services/neighborhoodtaxcenters/",
+      "confidence": "high",
+      "notes": "Whether walk-ins are accepted is not stated; call first. Email taxprep@bakerripley.org. Required-document lists are linked on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-tax-center-east-aldine",
+      "name": "BakerRipley Neighborhood Tax Center - East Aldine Campus",
+      "organization": "BakerRipley",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free, quality tax preparation for 2020-2025 tax returns and amendments. Free ITIN applications and renewals are also available.",
+      "description_es": "Preparación de impuestos gratis y de calidad para declaraciones de 2020 a 2025 y enmiendas. También hay solicitudes y renovaciones de ITIN gratis.",
+      "eligibility_summary_en": "For families and individuals earning up to $58,000 a year.",
+      "eligibility_summary_es": "Para familias y personas que ganan hasta $58,000 al año.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the site during open hours and bring the required documents listed on BakerRipley's tax page. Questions: call (713) 273-3755 or email taxprep@bakerripley.org.",
+      "how_to_apply_es": "Vaya al sitio durante su horario y lleve los documentos que pide la página de impuestos de BakerRipley. Si tiene preguntas, llame al (713) 273-3755 o escriba a taxprep@bakerripley.org.",
+      "apply_url": "https://bakerripley.org/programs-and-services/neighborhoodtaxcenters/",
+      "phone": "(713) 273-3755",
+      "address": "3000 Aldine Mail Route Rd.",
+      "city": "Houston",
+      "zip": "77039",
+      "hours": "Tuesday 10am-5pm (year-round schedule starting May 2026)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://bakerripley.org/programs-and-services/neighborhoodtaxcenters/",
+      "confidence": "high",
+      "notes": "Whether walk-ins are accepted is not stated; call first. Email taxprep@bakerripley.org. Required-document lists are linked on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-tax-center-pasadena",
+      "name": "BakerRipley Neighborhood Tax Center - Pasadena Campus",
+      "organization": "BakerRipley",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free, quality tax preparation for 2020-2025 tax returns and amendments. Free ITIN applications and renewals are also available.",
+      "description_es": "Preparación de impuestos gratis y de calidad para declaraciones de 2020 a 2025 y enmiendas. También hay solicitudes y renovaciones de ITIN gratis.",
+      "eligibility_summary_en": "For families and individuals earning up to $58,000 a year.",
+      "eligibility_summary_es": "Para familias y personas que ganan hasta $58,000 al año.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the site during open hours and bring the required documents listed on BakerRipley's tax page. Questions: call (713) 273-3755 or email taxprep@bakerripley.org.",
+      "how_to_apply_es": "Vaya al sitio durante su horario y lleve los documentos que pide la página de impuestos de BakerRipley. Si tiene preguntas, llame al (713) 273-3755 o escriba a taxprep@bakerripley.org.",
+      "apply_url": "https://bakerripley.org/programs-and-services/neighborhoodtaxcenters/",
+      "phone": "(713) 273-3755",
+      "address": "720 Fairmont Pkwy.",
+      "city": "Pasadena",
+      "zip": "77504",
+      "hours": "Wednesday 10am-5pm (year-round schedule starting May 2026)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://bakerripley.org/programs-and-services/neighborhoodtaxcenters/",
+      "confidence": "high",
+      "notes": "Whether walk-ins are accepted is not stated; call first. Email taxprep@bakerripley.org. Required-document lists are linked on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "united-way-coastal-bend-vita",
+      "name": "Coastal Bend VITA Coalition Free Tax Prep",
+      "organization": "United Way of the Coastal Bend",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free income tax return preparation during tax season through a coalition of United Way, Del Mar College, Goodwill Industries of South Texas, Texas A&M University-Corpus Christi and others.",
+      "description_es": "Preparación gratis de declaraciones de impuestos durante la temporada de impuestos, gracias a un grupo formado por United Way, Del Mar College, Goodwill Industries of South Texas, Texas A&M University-Corpus Christi y otros.",
+      "eligibility_summary_en": "For people who qualify for VITA (generally low- to moderate-income).",
+      "eligibility_summary_es": "Para personas que califican para VITA (en general, con ingresos bajos o moderados).",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Check the United Way of the Coastal Bend VITA page in late January for sites and schedules. Off-season, use MyFreeTaxes.com or the IRS free filing options.",
+      "how_to_apply_es": "Revise la página de VITA de United Way of the Coastal Bend a finales de enero para ver los sitios y horarios. Fuera de temporada, use MyFreeTaxes.com o las opciones gratis del IRS.",
+      "apply_url": "https://www.uwcb.org/vita",
+      "phone": "(361) 882-2529",
+      "address": null,
+      "city": "Corpus Christi",
+      "zip": null,
+      "hours": "Seasonal. Closed for the 2026 tax season; new sites are usually posted in late January.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.uwcb.org/vita",
+      "confidence": "medium",
+      "notes": "Source says VITA is CLOSED for the 2026 tax season. Show mainly during tax season (late January-April). Off-season alternatives: MyFreeTaxes.com or IRS free filing options.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-abilene",
+      "name": "Child Support Office - Abilene",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "3444 North 1st St, Ste 300",
+      "city": "Abilene",
+      "zip": "79603",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-amarillo",
+      "name": "Child Support Office - Amarillo",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "301 South Polk St, Ste 200",
+      "city": "Amarillo",
+      "zip": "79101",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-arlington-dallas-fort-worth",
+      "name": "Child Support Office - Arlington / Dallas-Fort Worth",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "4116 South Carrier Parkway, Suite 250",
+      "city": "Grand Prairie",
+      "zip": "75052",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "The OAG locator lists both the Arlington and Dallas-Fort Worth offices at this same address in Grand Prairie (merged into one record). Office hours and walk-in policy are not listed; call (800) 252-8014 first.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-austin-central",
+      "name": "Child Support Office - Austin Central",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "5500 East Oltorf Street",
+      "city": "Austin",
+      "zip": "78741",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-beaumont",
+      "name": "Child Support Office - Beaumont",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "350 Pine Street, Suite 290",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-brownsville",
+      "name": "Child Support Office - Brownsville",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1655 Ruben Torres Blvd, Suite 202",
+      "city": "Brownsville",
+      "zip": "78521",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-bryan",
+      "name": "Child Support Office - Bryan",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "4001 E 29th St, Suite 102",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-conroe",
+      "name": "Child Support Office - Conroe",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "5452 Highway 105 W, Suite 202",
+      "city": "Conroe",
+      "zip": "77304",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-corpus-christi",
+      "name": "Child Support Office - Corpus Christi",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "500 N Shoreline Blvd, Ste 210",
+      "city": "Corpus Christi",
+      "zip": "78401",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-dallas-northwest",
+      "name": "Child Support Office - Dallas Northwest",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1250 W Mockingbird Lane, Ste 160",
+      "city": "Dallas",
+      "zip": "75247",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-oak-cliff",
+      "name": "Child Support Office - Oak Cliff",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "400 S Zang Blvd, Suite 1100",
+      "city": "Dallas",
+      "zip": "75208",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-denton",
+      "name": "Child Support Office - Denton",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1808 Cornell Ln, Ste 150",
+      "city": "Denton",
+      "zip": "76201",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Denton"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-el-paso-central",
+      "name": "Child Support Office - El Paso Central",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1545 Hawkins Boulevard, Ste 201",
+      "city": "El Paso",
+      "zip": "79925",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-el-paso-west",
+      "name": "Child Support Office - El Paso West",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "6090 Surety Dr, Ste 250",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-fort-worth-metro",
+      "name": "Child Support Office - Fort Worth Metro",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2001 Beach Street, Suite 700",
+      "city": "Fort Worth",
+      "zip": "76103",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-fort-worth-southwest",
+      "name": "Child Support Office - Fort Worth Southwest",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "4920 Overton Commons Court, Suite 105",
+      "city": "Fort Worth",
+      "zip": "76132",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-georgetown",
+      "name": "Child Support Office - Georgetown",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2100 Scenic Drive, Ste 105",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-harlingen",
+      "name": "Child Support Office - Harlingen",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1810 Hale Avenue, Ste 6",
+      "city": "Harlingen",
+      "zip": "78550",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-houston-north",
+      "name": "Child Support Office - Houston North",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "450 N Sam Houston Parkway E, Ste 190",
+      "city": "Houston",
+      "zip": "77060",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-houston-southeast",
+      "name": "Child Support Office - Houston Southeast",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "8866 Gulf Freeway, Ste 200",
+      "city": "Houston",
+      "zip": "77017",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-houston-southwest",
+      "name": "Child Support Office - Houston Southwest",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "6161 Savoy Dr, Ste 420",
+      "city": "Houston",
+      "zip": "77036",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-jourdanton",
+      "name": "Child Support Office - Jourdanton",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "121 BMT Dr",
+      "city": "Jourdanton",
+      "zip": "78026",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Atascosa"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-killeen",
+      "name": "Child Support Office - Killeen",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2300 E. Rancier Ave, Ste 101",
+      "city": "Killeen",
+      "zip": "76543",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-la-marque",
+      "name": "Child Support Office - La Marque",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "5300 FM 2004 Road",
+      "city": "La Marque",
+      "zip": "77568",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-laredo",
+      "name": "Child Support Office - Laredo",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1801 E. Calton Rd",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-longview",
+      "name": "Child Support Office - Longview",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1650 N Eastman Rd",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-lubbock-county",
+      "name": "Child Support Office - Lubbock County",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "6302 Iola Ave, Ste 400",
+      "city": "Lubbock",
+      "zip": "79424",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-lubbock-rural-area",
+      "name": "Child Support Office - Lubbock Rural Area",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "6302 Iola Avenue, Ste 500",
+      "city": "Lubbock",
+      "zip": "79424",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-mesquite",
+      "name": "Child Support Office - Mesquite",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2445 S Buckner Blvd, Suite 140",
+      "city": "Dallas",
+      "zip": "75227",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-nacogdoches",
+      "name": "Child Support Office - Nacogdoches",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2015 N Stallings Dr",
+      "city": "Nacogdoches",
+      "zip": "75964",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nacogdoches"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-odessa",
+      "name": "Child Support Office - Odessa",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "6005 Eastridge Road, Ste 100",
+      "city": "Odessa",
+      "zip": "79762",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Ector"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-paris",
+      "name": "Child Support Office - Paris",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2625 South Church St",
+      "city": "Paris",
+      "zip": "75460",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lamar"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-pharr",
+      "name": "Child Support Office - Pharr",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "3508 N Jackson Rd, Ste 600",
+      "city": "Pharr",
+      "zip": "78577",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-plano",
+      "name": "Child Support Office - Plano",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2020 G Ave, Ste 1004",
+      "city": "Plano",
+      "zip": "75074",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-richland-hills",
+      "name": "Child Support Office - Richland Hills",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "7419 Pebble Dr.",
+      "city": "Fort Worth",
+      "zip": "76118",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-rosenberg",
+      "name": "Child Support Office - Rosenberg",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "117 Lane Dr, Ste 7",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-san-angelo",
+      "name": "Child Support Office - San Angelo",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1350 The Crossings Avenue",
+      "city": "San Angelo",
+      "zip": "76904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-san-antonio-east",
+      "name": "Child Support Office - San Antonio East",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "4371 E Southcross Blvd",
+      "city": "San Antonio",
+      "zip": "78222",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-san-antonio-metro",
+      "name": "Child Support Office - San Antonio Metro",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "106 S Saint Mary's St, Suite 300",
+      "city": "San Antonio",
+      "zip": "78205",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-san-antonio-northeast",
+      "name": "Child Support Office - San Antonio Northeast",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "10010 San Pedro Avenue, Suite 708",
+      "city": "San Antonio",
+      "zip": "78216",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-san-marcos",
+      "name": "Child Support Office - San Marcos",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "250 South Foxtail Run",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-seguin",
+      "name": "Child Support Office - Seguin",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "128 S Moss St, Ste 500",
+      "city": "Seguin",
+      "zip": "78155",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Guadalupe"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-temple",
+      "name": "Child Support Office - Temple",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "3011 Saulsbury Dr",
+      "city": "Temple",
+      "zip": "76504",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-texarkana",
+      "name": "Child Support Office - Texarkana",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "122 Plaza West, Suite 2",
+      "city": "Texarkana",
+      "zip": "75501",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bowie"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-tyler",
+      "name": "Child Support Office - Tyler",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "3250 Robertson Rd, Ste 506",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-uvalde",
+      "name": "Child Support Office - Uvalde",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1901 Garner Field Rd",
+      "city": "Uvalde",
+      "zip": "78801",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Uvalde"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-victoria",
+      "name": "Child Support Office - Victoria",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "5610 John Stockbauer Drive",
+      "city": "Victoria",
+      "zip": "77904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-waco",
+      "name": "Child Support Office - Waco",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "801 Austin Ave, Ste 210",
+      "city": "Waco",
+      "zip": "76701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-waxahachie",
+      "name": "Child Support Office - Waxahachie",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "1014 Ferris Avenue, Ste 220",
+      "city": "Waxahachie",
+      "zip": "75165",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Ellis"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-weatherford",
+      "name": "Child Support Office - Weatherford",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "516 Santa Fe Dr.",
+      "city": "Weatherford",
+      "zip": "76086",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Parker"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oag-child-support-office-wichita-falls",
+      "name": "Child Support Office - Wichita Falls",
+      "organization": "Office of the Texas Attorney General, Child Support Division",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "A local Texas Attorney General child support office. It serves families with child support cases, paternity, and collecting or changing child support.",
+      "description_es": "Una oficina local de manutención de menores de la Procuraduría General de Texas. Atiende a familias con casos de manutención, paternidad y cobro o cambios de manutención.",
+      "eligibility_summary_en": "For parents, grandparents, and guardians raising a child who need help getting or paying child support.",
+      "eligibility_summary_es": "Para padres, abuelos y tutores que crían a un niño y necesitan ayuda para recibir o pagar la manutención.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Child Support online account, or call (800) 252-8014 for help or a paper application before visiting.",
+      "how_to_apply_es": "Solicite en línea con su cuenta de Manutención de Menores, o llame al (800) 252-8014 para recibir ayuda o una solicitud en papel antes de ir a la oficina.",
+      "apply_url": "https://www.texasattorneygeneral.gov/child-support/get-started/how-apply-child-support",
+      "phone": "(800) 252-8014",
+      "address": "2444 Sierra Dr, Ste 600",
+      "city": "Wichita Falls",
+      "zip": "76306",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://csapps.oag.texas.gov/locations/offices",
+      "confidence": "high",
+      "notes": "Office hours and walk-in policy are not listed on the locator; call (800) 252-8014 first. County shown is where the office is located, not an official service-area list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

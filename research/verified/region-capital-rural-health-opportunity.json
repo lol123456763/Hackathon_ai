@@ -1,0 +1,1489 @@
+{
+  "scope": "Rest of Capital Area (Hays, Bastrop, Caldwell, Burnet, Blanco, Llano, Fayette, Lee) - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "workforce-solutions-rca-hays-county",
+      "name": "Workforce Solutions Rural Capital Area - Hays County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Hays County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(512) 392-1291",
+      "address": "4794 Transportation Way, Building 5, Suite 500",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Hays.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-bastrop-county",
+      "name": "Workforce Solutions Rural Capital Area - Bastrop County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Bastrop County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(512) 303-3916",
+      "address": "53 Loop 150 West",
+      "city": "Bastrop",
+      "zip": "78602",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bastrop"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Bastrop.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-caldwell-county",
+      "name": "Workforce Solutions Rural Capital Area - Caldwell County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Caldwell County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(512) 398-3491",
+      "address": "1711 South Colorado Street, Unit G",
+      "city": "Lockhart",
+      "zip": "78644",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Caldwell"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Caldwell.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-burnet-county",
+      "name": "Workforce Solutions Rural Capital Area - Burnet County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Burnet County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(512) 756-6769",
+      "address": "1001 West Buchanan Dr, Suite 1",
+      "city": "Burnet",
+      "zip": "78611",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Burnet"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780. Burnet County also has a Marble Falls office: 1016 Broadway, Marble Falls, TX 78654, (325) 248-0275.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Burnet.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-blanco-county",
+      "name": "Workforce Solutions Rural Capital Area - Blanco County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Blanco County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(325) 248-0275",
+      "address": "206 S. Hwy 281",
+      "city": "Johnson City",
+      "zip": "78636",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Blanco"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780. The official page lists the same phone for Blanco, Llano, and Marble Falls.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Blanco.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-llano-county",
+      "name": "Workforce Solutions Rural Capital Area - Llano County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Llano County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(325) 248-0275",
+      "address": "1500 Ford Street",
+      "city": "Llano",
+      "zip": "78643",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Llano"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780. The official page lists the same phone for Blanco, Llano, and Marble Falls. Llano County also has a Kingsland office at 3344 Rose Hill Drive, Kingsland, TX 78639 (no phone listed).",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Llano.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-fayette-county",
+      "name": "Workforce Solutions Rural Capital Area - Fayette County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Fayette County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(979) 968-8553",
+      "address": "851 S Reynolds St",
+      "city": "La Grange",
+      "zip": "78945",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fayette"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Fayette.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-lee-county",
+      "name": "Workforce Solutions Rural Capital Area - Lee County Center",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, writing a resume, and getting job training. Staff can also connect you to child care help and other services.",
+      "eligibility_summary_en": "Open to job seekers. This center serves people in Lee County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to get started. You can also call the main line at (844) 344-2780.",
+      "apply_url": "https://workforcesolutionsrca.com/locations",
+      "phone": "(979) 542-1740",
+      "address": "164 West Austin Street",
+      "city": "Giddings",
+      "zip": "78942",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Lee"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on workforcesolutionsrca.com/locations (2026-09-26). Hours not listed; call ahead. Board serves 9 counties (also Williamson). Main phone 1-844-344-2780.",
+      "description_es": "Ayuda gratis para buscar trabajo, hacer su currículum y recibir capacitación laboral. El personal también le puede conectar con ayuda para el cuidado de niños y otros servicios.",
+      "eligibility_summary_es": "Abierto a personas que buscan trabajo. Esta oficina atiende a personas del condado de Lee.",
+      "how_to_apply_es": "Visite la oficina o llame para empezar. También puede llamar a la línea principal al (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-child-care-services",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, go to school, or train for a job.",
+      "eligibility_summary_en": "For families who meet income limits and live in the board's counties. Each parent must work, go to school, or train at least 25 hours a week on average (50 combined hours for two-parent homes), or be looking for work.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Resident of Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano, or Williamson County"
+      },
+      "documents_needed": [
+        "Proof of household income",
+        "Proof of work, school, or training hours",
+        "Self-employed: up to 3 consecutive months of revenue and expense records"
+      ],
+      "how_to_apply": "Apply online through the Texas Child Care Connection portal. For help, call 1-877-223-0404 or email rcachildcareservices@ruralcapital.net.",
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(877) 223-0404",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or reduced cost; a parent share of cost may apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Bastrop",
+        "Caldwell",
+        "Burnet",
+        "Blanco",
+        "Llano",
+        "Fayette",
+        "Lee"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/childcare/parents",
+      "confidence": "high",
+      "notes": "Income limits effective Oct 1, 2025 are in a PDF linked from the source page. School time limits apply (e.g., 72 months for a bachelor's degree, 18 months for GED).",
+      "description_es": "Ayuda a pagar el cuidado de niños para que los padres puedan trabajar, estudiar o capacitarse para un empleo.",
+      "eligibility_summary_es": "Para familias que cumplen con los límites de ingresos y viven en los condados que atiende esta agencia. Cada padre o madre debe trabajar, estudiar o capacitarse un promedio de al menos 25 horas por semana (50 horas en total si son dos padres en el hogar), o estar buscando trabajo.",
+      "how_to_apply_es": "Solicite en línea por el portal Texas Child Care Connection. Si necesita ayuda, llame al 1-877-223-0404 o escriba a rcachildcareservices@ruralcapital.net.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-action-central-texas-adult-education",
+      "name": "Adult Education (GED, ESL, Career Training)",
+      "organization": "Community Action, Inc. of Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free classes for adults, including GED prep in English and Spanish, English classes, computer skills, college prep, and career training. Classes are in person and online.",
+      "eligibility_summary_en": "Adults 19 and older who are allowed to work in the U.S. Young people 16 to 18 who are not in school may qualify (16-year-olds need a court order).",
+      "eligibility_rules": {
+        "min_age": 16
+      },
+      "documents_needed": [
+        "One of: Texas driver's license or state ID (not expired, not limited-term) plus Social Security card; U.S. military ID plus Social Security card; U.S. birth certificate plus valid driver's license or state ID; U.S. passport; Employment Authorization Card; or Permanent Resident Card"
+      ],
+      "how_to_apply": "Register online at communityaction.com/registration, call (737) 331-0372, or email adulted@communityaction.com.",
+      "apply_url": "https://www.communityaction.com/registration",
+      "phone": "(737) 331-0372",
+      "address": "215 S. Reimer Avenue, Suite 130",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Bastrop",
+        "Caldwell",
+        "Burnet",
+        "Blanco",
+        "Llano",
+        "Fayette",
+        "Lee"
+      ],
+      "source_url": "https://www.communityaction.com/adulteducation",
+      "confidence": "high",
+      "notes": "Also serves Williamson and rural Travis County. Official site lists mailing ZIP 78667 for the main office.",
+      "description_es": "Clases gratis para adultos: preparación para el GED en inglés y español, clases de inglés, computación, preparación para la universidad y capacitación para empleos. Hay clases en persona y en línea.",
+      "eligibility_summary_es": "Adultos de 19 años o más con permiso para trabajar en EE. UU. Jóvenes de 16 a 18 años que no estén en la escuela pueden calificar (los de 16 años necesitan una orden de la corte).",
+      "how_to_apply_es": "Inscríbase en línea en communityaction.com/registration, llame al (737) 331-0372 o escriba a adulted@communityaction.com.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-action-central-texas-head-start",
+      "name": "Head Start and Early Head Start",
+      "organization": "Community Action, Inc. of Central Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning and child care for young children from low-income families, plus health, nutrition, and family support.",
+      "eligibility_summary_en": "For low-income families with children from birth to age 5, and pregnant women, in Hays and Caldwell counties.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "residency_required": "Hays or Caldwell County resident"
+      },
+      "documents_needed": [
+        "Child's birth certificate",
+        "Current immunization records",
+        "2025 family income proof (Form 1040, W-2s, or TANF/SNAP/SSI award letter)",
+        "Foster placement papers, if foster child"
+      ],
+      "how_to_apply": "Fill out the online application in English or Spanish, then upload documents from the link in your confirmation email. You can also call (512) 392-1161.",
+      "apply_url": "https://www.communityaction.com/headstarthowtoapply",
+      "phone": "(512) 392-1161",
+      "address": "215 S. Reimer Avenue, Suite 130",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Caldwell"
+      ],
+      "source_url": "https://www.communityaction.com/headstart",
+      "confidence": "high",
+      "notes": "8 sites across Hays and Caldwell counties; applications accepted year-round for 2026-2027. Families experiencing homelessness should contact staff for help with documents. A Sept 2025 Hays CISD resource list gives the Head Start admin office as 722 South McKie Street, San Marcos, (512) 396-3395 ext. 229.",
+      "description_es": "Educación temprana y cuidado de niños gratis para niños pequeños de familias de bajos ingresos, además de apoyo en salud, nutrición y ayuda para la familia.",
+      "eligibility_summary_es": "Para familias de bajos ingresos con niños desde recién nacidos hasta 5 años, y para mujeres embarazadas, en los condados de Hays y Caldwell.",
+      "how_to_apply_es": "Llene la solicitud en línea en inglés o español. Después, suba sus documentos con el enlace que le llega en el correo de confirmación. También puede llamar al (512) 392-1161.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-action-central-texas-health-services-clinic",
+      "name": "Community Health Services Clinic",
+      "organization": "Community Action, Inc. of Central Texas",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost clinic offering birth control, checkups, pregnancy tests, STD testing and treatment, and primary care visits.",
+      "eligibility_summary_en": "For low-income men and women in Hays and Caldwell counties. Primary care is for families with income from 20% to 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Hays or Caldwell County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment.",
+      "apply_url": null,
+      "phone": "(512) 392-5816",
+      "address": "611 West MLK Drive",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Low cost; based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Caldwell"
+      ],
+      "source_url": "https://www.communityaction.com/",
+      "confidence": "medium",
+      "notes": "Address (611 West MLK) and phone confirmed on communityaction.com homepage. Services and income range from a Hays CISD resource list revised Sept 2025. Community Action's health page lists family planning, breast cancer services, and Medicaid assistance, and says it is a Texas women's health program provider.",
+      "description_es": "Clínica de bajo costo con métodos anticonceptivos, chequeos, pruebas de embarazo, pruebas y tratamiento de enfermedades de transmisión sexual, y consultas de atención primaria.",
+      "eligibility_summary_es": "Para hombres y mujeres de bajos ingresos en los condados de Hays y Caldwell. La atención primaria es para familias con ingresos entre el 20% y el 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame a la clínica para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-action-central-texas-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP)",
+      "organization": "Community Action, Inc. of Central Texas",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps eligible households pay electric, propane, water, and natural gas bills. Also offers case management and budgeting help.",
+      "eligibility_summary_en": "For income-eligible households in Hays, Caldwell, and Blanco counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call for your county: Hays (512) 392-1161 ext. 324 or 334; Caldwell (830) 875-3707 or (512) 398-4420; Wimberley and Blanco County (512) 392-1161 ext. 309.",
+      "apply_url": null,
+      "phone": "(512) 392-1161",
+      "address": "215 S. Reimer Avenue, Suite 130",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": "Monday-Friday 8am-12pm and 1pm-5pm (main office)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Caldwell",
+        "Blanco"
+      ],
+      "source_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5240/Hcisd/697ef326-5abd-4819-9695-d768cac0f237/Resources_for_Hays_County.pdf?disposition=inline",
+      "confidence": "medium",
+      "notes": "Community Action's homepage (communityaction.com) lists Utility Assistance (CEAP) and Rental Assistance. Extensions and phones from a Hays CISD list revised Sept 2025. Aid depends on funding.",
+      "description_es": "Ayuda a los hogares que califican a pagar las cuentas de luz, gas propano, agua y gas natural. También ofrece manejo de casos y ayuda con el presupuesto.",
+      "eligibility_summary_es": "Para hogares que cumplen con los límites de ingresos en los condados de Hays, Caldwell y Blanco.",
+      "how_to_apply_es": "Llame según su condado: Hays (512) 392-1161 ext. 324 o 334; Caldwell (830) 875-3707 o (512) 398-4420; Wimberley y condado de Blanco (512) 392-1161 ext. 309.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "combined-community-action-ceap",
+      "name": "Utility Assistance (CEAP) and Rental Assistance",
+      "organization": "Combined Community Action, Inc.",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Helps income-eligible households pay electric, gas, and propane bills. Also offers rental help, home weatherization, and Meals on Wheels.",
+      "eligibility_summary_en": "For low-income households in the agency's service area. Call to confirm your county qualifies.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply using the online form linked on ccaction.com or call the Giddings office at (979) 540-2980. You can also email info@ccaction.com.",
+      "apply_url": "https://www.ccaction.com/",
+      "phone": "(979) 540-2980",
+      "address": "165 W Austin St",
+      "city": "Giddings",
+      "zip": "78942",
+      "hours": "Monday-Thursday 8am-5pm, Friday 8am-3pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lee",
+        "Fayette",
+        "Bastrop"
+      ],
+      "source_url": "https://www.ccaction.com/",
+      "confidence": "medium",
+      "notes": "Address, phone, hours, and services confirmed on ccaction.com (2026-09-26). Official site says it serves 10 rural counties but does not list them; county list (Lee, Fayette, Bastrop) is from third-party listings and is not confirmed. Third-party listings give a CEAP line of (979) 540-2987. Assistance depends on funding.",
+      "description_es": "Ayuda a los hogares que califican por ingresos a pagar las cuentas de luz, gas y gas propano. También ofrece ayuda con la renta, arreglos para ahorrar energía en el hogar y Meals on Wheels (comidas a domicilio).",
+      "eligibility_summary_es": "Para hogares de bajos ingresos en el área que atiende la agencia. Llame para confirmar si su condado califica.",
+      "how_to_apply_es": "Solicite con el formulario en línea que aparece en ccaction.com o llame a la oficina de Giddings al (979) 540-2980. También puede escribir a info@ccaction.com.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hays-county-indigent-health-care-program",
+      "name": "Hays County Indigent Health Care Program",
+      "organization": "Hays County Local Health Department",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Pays for doctor visits, tests, hospital care, emergency care, and prescriptions for very low-income Hays County adults who cannot get Medicaid.",
+      "eligibility_summary_en": "Hays County residents age 18 and older with income under 21% of the federal poverty level who do not qualify for Medicaid. Resource limits apply.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "min_age": 18,
+        "residency_required": "Hays County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Hays County Health Department at (512) 393-5520 to check if you qualify.",
+      "apply_url": null,
+      "phone": "(512) 393-5520",
+      "address": "712 South Stagecoach Trail",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free for eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://www.hayscountytx.gov/377/Indigent-Services",
+      "confidence": "high",
+      "notes": "2026 income limit: $3,351.60 per year for one person ($279.30/month); $6,930 per year for a family of four. Coverage capped at $30,000 per program year; hospital stays up to 30 days.",
+      "description_es": "Paga consultas médicas, exámenes, atención en el hospital, emergencias y medicinas para adultos del condado de Hays con ingresos muy bajos que no pueden recibir Medicaid.",
+      "eligibility_summary_es": "Residentes del condado de Hays de 18 años o más, con ingresos menores al 21% del nivel federal de pobreza, que no califican para Medicaid. También hay límites de bienes.",
+      "how_to_apply_es": "Llame al Departamento de Salud del Condado de Hays al (512) 393-5520 para saber si califica.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communicare-kyle-campus",
+      "name": "CommuniCare Kyle Campus",
+      "organization": "CommuniCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with care for kids, teens, women, adults, and seniors, plus dental and behavioral health.",
+      "eligibility_summary_en": "Open to everyone. Uninsured patients with household income under 200% of the poverty guidelines may get a sliding fee discount.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card (if insured)",
+        "List of current medicines",
+        "For sliding fee: proof of identity, income, and residency"
+      ],
+      "how_to_apply": "Call (512) 268-8900 to make an appointment. To apply for the sliding fee discount, call the eligibility team at (210) 233-7076 or email mes.team@communicaresa.org.",
+      "apply_url": "https://communicaresa.org/become-a-patient/",
+      "phone": "(512) 268-8900",
+      "address": "2810 Dacy Lane",
+      "city": "Kyle",
+      "zip": "78640",
+      "hours": "Monday-Friday 8:00am-7:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale; accepts Medicaid, CHIP, Medicare, and private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://communicaresa.org/locations/kyle-campus/",
+      "confidence": "high",
+      "notes": "Sliding fee details from communicaresa.org/become-a-patient. A Sept 2025 Hays CISD list says WIC and pharmacy are also at this site; not confirmed on CommuniCare's page.",
+      "description_es": "Centro de salud comunitario con atención para niños, adolescentes, mujeres, adultos y personas mayores, además de dental y salud mental.",
+      "eligibility_summary_es": "Abierto a todos. Los pacientes sin seguro con ingresos familiares menores al 200% de las guías de pobreza pueden recibir un descuento según sus ingresos.",
+      "how_to_apply_es": "Llame al (512) 268-8900 para hacer una cita. Para pedir el descuento según sus ingresos, llame al equipo de elegibilidad al (210) 233-7076 o escriba a mes.team@communicaresa.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communicare-san-marcos-campus",
+      "name": "CommuniCare San Marcos Campus",
+      "organization": "CommuniCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with care for children, adults, and seniors. Behavioral health is by video visit.",
+      "eligibility_summary_en": "Open to everyone. Uninsured patients with household income under 200% of the poverty guidelines may get a sliding fee discount.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card (if insured)",
+        "List of current medicines",
+        "For sliding fee: proof of identity, income, and residency"
+      ],
+      "how_to_apply": "Call (512) 268-8900 to make an appointment. To apply for the sliding fee discount, call the eligibility team at (210) 233-7076 or email mes.team@communicaresa.org.",
+      "apply_url": "https://communicaresa.org/become-a-patient/",
+      "phone": "(512) 268-8900",
+      "address": "1941 S I-35, Ste 101",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": "Monday-Friday 8:00am-7:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale; accepts Medicaid, CHIP, Medicare, and private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://communicaresa.org/locations/san-marcos-campus/",
+      "confidence": "high",
+      "notes": "No dental listed at this site; see Kyle campus.",
+      "description_es": "Centro de salud comunitario con atención para niños, adultos y personas mayores. La atención de salud mental es por videollamada.",
+      "eligibility_summary_es": "Abierto a todos. Los pacientes sin seguro con ingresos familiares menores al 200% de las guías de pobreza pueden recibir un descuento según sus ingresos.",
+      "how_to_apply_es": "Llame al (512) 268-8900 para hacer una cita. Para pedir el descuento según sus ingresos, llame al equipo de elegibilidad al (210) 233-7076 o escriba a mes.team@communicaresa.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-bastrop",
+      "name": "Lone Star Circle of Care at Bastrop",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center offering family medicine, children's care, behavioral health, and video visits.",
+      "eligibility_summary_en": "Open to everyone, with or without insurance.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-877-800-5722 or use the online scheduling on the website.",
+      "apply_url": "https://lonestarcares.org/",
+      "phone": "(877) 800-5722",
+      "address": "605 Old Austin Hwy",
+      "city": "Bastrop",
+      "zip": "78602",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Accepts insurance; ask about financial help",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bastrop"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-bastrop/",
+      "confidence": "high",
+      "notes": "HRSA-funded federally qualified health center. Spanish-speaking providers vary. Sliding fee details were not stated on the location page; ask when calling.",
+      "description_es": "Centro de salud comunitario con medicina familiar, atención para niños, salud mental y consultas por video.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro médico.",
+      "how_to_apply_es": "Llame al 1-877-800-5722 o haga su cita en línea en el sitio web.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-crisis-line",
+      "name": "Bluebonnet Trails 24/7 Crisis Line",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free 24/7 phone line for a mental health or substance use crisis, answered by trained mental health staff who can assess and connect you to care.",
+      "eligibility_summary_en": "Anyone in Bastrop, Burnet, Caldwell, Fayette, or Lee County (plus Gonzales, Guadalupe, and Williamson).",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-841-1255 any time. For non-crisis appointments call 1-844-309-6385.",
+      "apply_url": null,
+      "phone": "(800) 841-1255",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bastrop",
+        "Burnet",
+        "Caldwell",
+        "Fayette",
+        "Lee"
+      ],
+      "source_url": "https://bbtrails.org/crisis-services/",
+      "confidence": "high",
+      "notes": "Mobile Crisis Outreach Team available 24/7 across all 8 counties. Bluebonnet Trails is the Local Mental Health Authority for these counties. Call 911 for emergencies; 988 is also available.",
+      "description_es": "Línea telefónica gratis, abierta las 24 horas, los 7 días, para crisis de salud mental o de uso de sustancias. Le atiende personal capacitado que puede evaluar su situación y conectarle con ayuda.",
+      "eligibility_summary_es": "Cualquier persona en los condados de Bastrop, Burnet, Caldwell, Fayette o Lee (y también Gonzales, Guadalupe y Williamson).",
+      "how_to_apply_es": "Llame al 1-800-841-1255 a cualquier hora. Para citas que no son de crisis, llame al 1-844-309-6385.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-bastrop",
+      "name": "Bluebonnet Trails - Bastrop Clinic",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local public mental health center. Offers mental health care, crisis services, autism and developmental disability services, early childhood intervention, justice-involved services, and peer and veteran services.",
+      "eligibility_summary_en": "For children and adults in Bastrop County who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 for appointments. In a crisis, call 1-800-841-1255 (24/7).",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "275 Jackson St.",
+      "city": "Bastrop",
+      "zip": "78602",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bastrop"
+      ],
+      "source_url": "https://bbtrails.org/locations/",
+      "confidence": "high",
+      "notes": "Hours and fees not listed on bbtrails.org/locations; call ahead. The locations page does not list substance use or housing/employment services at this site (other clinics list them). Bastrop ISD school-based site: 1602 Hill St., Bastrop, (512) 772-4887 (per raw research; not re-checked).",
+      "description_es": "Centro público local de salud mental. Ofrece atención de salud mental, servicios de crisis, servicios para autismo y discapacidades del desarrollo, intervención temprana para niños pequeños, servicios para personas con casos en la justicia, y apoyo entre pares y para veteranos.",
+      "eligibility_summary_es": "Para niños y adultos del condado de Bastrop que necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para hacer una cita. Si está en crisis, llame al 1-800-841-1255 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-lockhart",
+      "name": "Bluebonnet Trails - Lockhart Clinic",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local public mental health center. Offers mental health care, substance use treatment, crisis services, autism and developmental disability services, early childhood intervention, peer and veteran services, and help with housing and jobs.",
+      "eligibility_summary_en": "For children and adults in Caldwell County who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 for appointments. In a crisis, call 1-800-841-1255 (24/7).",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "2060 S. Colorado St",
+      "city": "Lockhart",
+      "zip": "78644",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Caldwell"
+      ],
+      "source_url": "https://bbtrails.org/locations/",
+      "confidence": "high",
+      "notes": "Address, phone, and services confirmed on bbtrails.org/locations (2026-09-26). Hours and fees not listed; call ahead.",
+      "description_es": "Centro público local de salud mental. Ofrece atención de salud mental, tratamiento para el uso de sustancias, servicios de crisis, servicios para autismo y discapacidades del desarrollo, intervención temprana para niños pequeños, apoyo entre pares y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_es": "Para niños y adultos del condado de Caldwell que necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para hacer una cita. Si está en crisis, llame al 1-800-841-1255 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-marble-falls",
+      "name": "Bluebonnet Trails - Marble Falls Clinic",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local public mental health center. Offers mental health care, substance use treatment, crisis services, autism and developmental disability services, early childhood intervention, peer and veteran services, and help with housing and jobs.",
+      "eligibility_summary_en": "For children and adults in Burnet County who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 for appointments. In a crisis, call 1-800-841-1255 (24/7).",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "4606 Innovation Loop",
+      "city": "Marble Falls",
+      "zip": "78654",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Burnet"
+      ],
+      "source_url": "https://bbtrails.org/locations/",
+      "confidence": "high",
+      "notes": "Address, phone, and services confirmed on bbtrails.org/locations (2026-09-26). Hours and fees not listed; call ahead.",
+      "description_es": "Centro público local de salud mental. Ofrece atención de salud mental, tratamiento para el uso de sustancias, servicios de crisis, servicios para autismo y discapacidades del desarrollo, intervención temprana para niños pequeños, apoyo entre pares y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_es": "Para niños y adultos del condado de Burnet que necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para hacer una cita. Si está en crisis, llame al 1-800-841-1255 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-la-grange",
+      "name": "Bluebonnet Trails - La Grange Clinic",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local public mental health center. Offers mental health care, substance use treatment, crisis services, autism and developmental disability services, early childhood intervention, peer and veteran services, and help with housing and jobs.",
+      "eligibility_summary_en": "For children and adults in Fayette County who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 for appointments. In a crisis, call 1-800-841-1255 (24/7).",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "750 West Travis Street",
+      "city": "La Grange",
+      "zip": "78945",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fayette"
+      ],
+      "source_url": "https://bbtrails.org/locations/",
+      "confidence": "high",
+      "notes": "Address, phone, and services confirmed on bbtrails.org/locations (2026-09-26). Hours and fees not listed; call ahead.",
+      "description_es": "Centro público local de salud mental. Ofrece atención de salud mental, tratamiento para el uso de sustancias, servicios de crisis, servicios para autismo y discapacidades del desarrollo, intervención temprana para niños pequeños, apoyo entre pares y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_es": "Para niños y adultos del condado de Fayette que necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para hacer una cita. Si está en crisis, llame al 1-800-841-1255 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-giddings",
+      "name": "Bluebonnet Trails - Giddings Clinic",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local public mental health center. Offers mental health care, substance use treatment, crisis services, autism and developmental disability services, early childhood intervention, peer and veteran services, and help with housing and jobs.",
+      "eligibility_summary_en": "For children and adults in Lee County who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 for appointments. In a crisis, call 1-800-841-1255 (24/7).",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "849 E Industry St.",
+      "city": "Giddings",
+      "zip": "78942",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Lee"
+      ],
+      "source_url": "https://bbtrails.org/locations/",
+      "confidence": "high",
+      "notes": "Address, phone, and services confirmed on bbtrails.org/locations (2026-09-26). Hours and fees not listed; call ahead.",
+      "description_es": "Centro público local de salud mental. Ofrece atención de salud mental, tratamiento para el uso de sustancias, servicios de crisis, servicios para autismo y discapacidades del desarrollo, intervención temprana para niños pequeños, apoyo entre pares y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_es": "Para niños y adultos del condado de Lee que necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para hacer una cita. Si está en crisis, llame al 1-800-841-1255 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-crisis-line",
+      "name": "Hill Country MHDD Crisis Hotline",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free 24/7 crisis line for people having a mental health crisis. Staff can connect you to crisis care.",
+      "eligibility_summary_en": "Anyone in Hays, Blanco, or Llano County (and other Hill Country counties).",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-877-466-0660 any time.",
+      "apply_url": null,
+      "phone": "(877) 466-0660",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Blanco",
+        "Llano"
+      ],
+      "source_url": "https://hillcountry.org/",
+      "confidence": "high",
+      "notes": "Hill Country MHDD is the Local Mental Health Authority for Hays, Blanco, and Llano. Main office (830) 792-3300. Charity Care Policy: no one is denied services due to inability to pay; sliding fee scale for those who qualify. Call 911 for emergencies; 988 is also available.",
+      "description_es": "Línea de crisis gratis, abierta las 24 horas, los 7 días, para personas en una crisis de salud mental. El personal le puede conectar con atención de crisis.",
+      "eligibility_summary_es": "Cualquier persona en los condados de Hays, Blanco o Llano (y otros condados de la región Hill Country).",
+      "how_to_apply_es": "Llame al 1-877-466-0660 a cualquier hora.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-scheib-center",
+      "name": "Hays County Mental Health (Scheib Center)",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Outpatient mental health care for Hays County residents from the local public mental health center.",
+      "eligibility_summary_en": "For Hays County residents who need these services. No one is turned away for inability to pay.",
+      "eligibility_rules": {
+        "residency_required": "Hays County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 392-7151 for an appointment. In a crisis, call 1-877-466-0660 (24/7).",
+      "apply_url": null,
+      "phone": "(512) 392-7151",
+      "address": "1200 N Bishop St, Suite 200",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on hillcountry.org/all-locations (2026-09-26). Hours not listed; call ahead. Charity care / sliding fee policy stated on hillcountry.org homepage.",
+      "eligibility_summary_es": "Para residentes del condado de Hays que necesitan estos servicios. A nadie se le niega el servicio por no poder pagar.",
+      "description_es": "Atención de salud mental para pacientes externos, para residentes del condado de Hays, del centro público local de salud mental.",
+      "how_to_apply_es": "Llame al (512) 392-7151 para hacer una cita. Si está en crisis, llame al 1-877-466-0660 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-blanco-county",
+      "name": "Blanco County Mental Health",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Outpatient mental health care for Blanco County residents from the local public mental health center.",
+      "eligibility_summary_en": "For Blanco County residents who need these services. No one is turned away for inability to pay.",
+      "eligibility_rules": {
+        "residency_required": "Blanco County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 392-8953 for an appointment. In a crisis, call 1-877-466-0660 (24/7).",
+      "apply_url": null,
+      "phone": "(512) 392-8953",
+      "address": "206 S Hwy 281",
+      "city": "Johnson City",
+      "zip": "78636",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Blanco"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on hillcountry.org/all-locations (2026-09-26). Hours not listed; call ahead. Charity care / sliding fee policy stated on hillcountry.org homepage. The official page lists the same phone as the Kyle Mental Health Center.",
+      "eligibility_summary_es": "Para residentes del condado de Blanco que necesitan estos servicios. A nadie se le niega el servicio por no poder pagar.",
+      "description_es": "Atención de salud mental para pacientes externos, para residentes del condado de Blanco, del centro público local de salud mental.",
+      "how_to_apply_es": "Llame al (512) 392-8953 para hacer una cita. Si está en crisis, llame al 1-877-466-0660 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-llano-county",
+      "name": "Llano County Mental Health",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Outpatient mental health care for Llano County residents from the local public mental health center.",
+      "eligibility_summary_en": "For Llano County residents who need these services. No one is turned away for inability to pay.",
+      "eligibility_rules": {
+        "residency_required": "Llano County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (325) 247-5895 for an appointment. In a crisis, call 1-877-466-0660 (24/7).",
+      "apply_url": null,
+      "phone": "(325) 247-5895",
+      "address": "100 Legend Hills, Suite B",
+      "city": "Llano",
+      "zip": "78643",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Llano"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on hillcountry.org/all-locations (2026-09-26). Hours not listed; call ahead. Charity care / sliding fee policy stated on hillcountry.org homepage.",
+      "eligibility_summary_es": "Para residentes del condado de Llano que necesitan estos servicios. A nadie se le niega el servicio por no poder pagar.",
+      "description_es": "Atención de salud mental para pacientes externos, para residentes del condado de Llano, del centro público local de salud mental.",
+      "how_to_apply_es": "Llame al (325) 247-5895 para hacer una cita. Si está en crisis, llame al 1-877-466-0660 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-hays-lidda",
+      "name": "Hays County LIDDA (Intellectual and Developmental Disabilities)",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The local office for people with intellectual and developmental disabilities. Helps connect people and families to disability services.",
+      "eligibility_summary_en": "For Hays County residents who need these services. No one is turned away for inability to pay.",
+      "eligibility_rules": {
+        "residency_required": "Hays County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 558-2006 for an appointment. In a crisis, call 1-877-466-0660 (24/7).",
+      "apply_url": null,
+      "phone": "(512) 558-2006",
+      "address": "631 Mill St, Suite 100",
+      "city": "San Marcos",
+      "zip": "78666",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on hillcountry.org/all-locations (2026-09-26). Hours not listed; call ahead. Charity care / sliding fee policy stated on hillcountry.org homepage.",
+      "eligibility_summary_es": "Para residentes del condado de Hays que necesitan estos servicios. A nadie se le niega el servicio por no poder pagar.",
+      "description_es": "La oficina local para personas con discapacidades intelectuales y del desarrollo. Ayuda a conectar a las personas y sus familias con servicios para discapacidades.",
+      "how_to_apply_es": "Llame al (512) 558-2006 para hacer una cita. Si está en crisis, llame al 1-877-466-0660 (24 horas, 7 días).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-kyle-mental-health-center",
+      "name": "Kyle Mental Health Center",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Outpatient mental health care for children and adults with serious mental illness, including crisis help, psychiatric care, counseling, and peer support.",
+      "eligibility_summary_en": "Children with mental illness and adults with severe depression, bipolar disorder, schizophrenia, or mental illness with substance use, in Hays County.",
+      "eligibility_rules": {
+        "residency_required": "Hays County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 392-8953. In a crisis, call 1-877-466-0660.",
+      "apply_url": null,
+      "phone": "(512) 392-8953",
+      "address": "1300 Dacy Ln, Ste 120-130",
+      "city": "Kyle",
+      "zip": "78640",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale; no one denied for inability to pay",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Address and phone confirmed on hillcountry.org/all-locations (2026-09-26). Service and eligibility details from a Hays CISD resource list revised Sept 2025. Hours not listed; call ahead.",
+      "description_es": "Atención de salud mental para pacientes externos, para niños y adultos con enfermedades mentales graves. Incluye ayuda en crisis, atención psiquiátrica, consejería y apoyo entre pares.",
+      "eligibility_summary_es": "Niños con enfermedades mentales y adultos con depresión grave, trastorno bipolar, esquizofrenia, o enfermedad mental junto con uso de sustancias, en el condado de Hays.",
+      "how_to_apply_es": "Llame al (512) 392-8953. Si está en crisis, llame al 1-877-466-0660.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-riogrande-legal-aid-capital-area",
+      "name": "Free Civil Legal Help",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free lawyers for low-income people with civil problems like evictions, housing, divorce and custody, and public benefits or disability denials.",
+      "eligibility_summary_en": "Low-income residents of TRLA's 68 counties, including Hays, Caldwell, Bastrop, Burnet, Blanco, and Llano.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line at (833) 329-8752, Monday-Friday 9am-5pm.",
+      "apply_url": "https://www.trla.org/offices",
+      "phone": "(833) 329-8752",
+      "address": "4920 North I-35",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Monday-Friday 9am-5pm (intake line)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Caldwell",
+        "Bastrop",
+        "Burnet",
+        "Blanco",
+        "Llano"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "County list and intake line confirmed on trla.org/offices (2026-09-26). Nearest listed office is Austin; the page does not say which office handles each county. Alternate intake (956) 996-8752. Does NOT serve Fayette or Lee (see Lone Star Legal Aid).",
+      "description_es": "Abogados gratis para personas de bajos ingresos con problemas civiles, como desalojos, vivienda, divorcio y custodia, y negación de beneficios públicos o por discapacidad.",
+      "eligibility_summary_es": "Residentes de bajos ingresos de los 68 condados que atiende TRLA, incluyendo Hays, Caldwell, Bastrop, Burnet, Blanco y Llano.",
+      "how_to_apply_es": "Llame a la línea de admisión al (833) 329-8752, de lunes a viernes, de 9 a.m. a 5 p.m.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-legal-aid-fayette-lee",
+      "name": "Free Civil Legal Help",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people with problems like housing, family, and public benefits.",
+      "eligibility_summary_en": "Low-income residents of its service area, which includes Fayette and Lee counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (800) 733-8394 or apply online.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fayette",
+        "Lee"
+      ],
+      "source_url": "https://www.tlsc.org/locallegalaid",
+      "confidence": "high",
+      "notes": "County assignment confirmed on Texas Legal Services Center's legal aid map. Toll-free phone and online application link from lonestarlegal.org. Main office is in Houston.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos con problemas de vivienda, familia y beneficios públicos.",
+      "eligibility_summary_es": "Residentes de bajos ingresos del área que atiende, que incluye los condados de Fayette y Lee.",
+      "how_to_apply_es": "Llame al (800) 733-8394 o solicite en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hays-caldwell-womens-center",
+      "name": "Hays-Caldwell Women's Center",
+      "organization": "Hays-Caldwell Women's Center (HCWC)",
+      "categories": [
+        "mental_health",
+        "housing",
+        "legal"
+      ],
+      "description_en": "Free, private help for people facing family violence, dating violence, sexual assault, or child abuse. Offers a 24-hour hotline, emergency shelter, counseling, hospital support, and help finding resources.",
+      "eligibility_summary_en": "Adults, youth, and children in Hays and Caldwell counties affected by abuse.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at (512) 396-4357 or 1-800-700-4292.",
+      "apply_url": null,
+      "phone": "(512) 396-4357",
+      "address": null,
+      "city": "San Marcos",
+      "zip": null,
+      "hours": "Hotline 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Caldwell"
+      ],
+      "source_url": "https://www.hcwc.org/",
+      "confidence": "high",
+      "notes": "Office line (512) 396-3404. Shelter location is confidential.",
+      "description_es": "Ayuda gratis y confidencial para personas que sufren violencia familiar, violencia en el noviazgo, agresión sexual o abuso infantil. Ofrece línea de ayuda las 24 horas, refugio de emergencia, consejería, acompañamiento en el hospital y ayuda para encontrar recursos.",
+      "eligibility_summary_es": "Adultos, jóvenes y niños de los condados de Hays y Caldwell afectados por el abuso.",
+      "how_to_apply_es": "Llame a la línea de ayuda de 24 horas al (512) 396-4357 o al 1-800-700-4292.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "highland-lakes-family-crisis-center",
+      "name": "Highland Lakes Family Crisis Center",
+      "organization": "Highland Lakes Family Crisis Center (HLFCC)",
+      "categories": [
+        "mental_health",
+        "housing",
+        "legal"
+      ],
+      "description_en": "Free help for survivors of domestic violence and sexual assault, including a 24/7 hotline, emergency shelter, counseling, and legal and court advocacy.",
+      "eligibility_summary_en": "Survivors of family violence, dating violence, stalking, or sexual assault in Burnet, Blanco, Llano, and Lampasas counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at (830) 693-3656 (TTY (830) 201-4756).",
+      "apply_url": null,
+      "phone": "(830) 693-3656",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Hotline 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Burnet",
+        "Blanco",
+        "Llano"
+      ],
+      "source_url": "https://www.hlfcc.org/",
+      "confidence": "high",
+      "notes": "Also serves Lampasas County.",
+      "description_es": "Ayuda gratis para sobrevivientes de violencia doméstica y agresión sexual. Incluye línea de ayuda las 24 horas, los 7 días, refugio de emergencia, consejería y apoyo legal y en la corte.",
+      "eligibility_summary_es": "Sobrevivientes de violencia familiar, violencia en el noviazgo, acoso o agresión sexual en los condados de Burnet, Blanco, Llano y Lampasas.",
+      "how_to_apply_es": "Llame a la línea de ayuda de 24 horas al (830) 693-3656 (TTY (830) 201-4756).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "carts-rural-transit",
+      "name": "CARTS Rural Transit",
+      "organization": "Capital Area Rural Transportation System (CARTS)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public bus and ride service in rural Central Texas. It can take you to doctor visits, work, and errands. Seniors, people with disabilities, and kids under 12 pay half price.",
+      "eligibility_summary_en": "Open to the public in CARTS counties. Half fare for seniors 60+, people with disabilities, children under 12, and registered customers.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Reservations Center at (512) 478-7433 or 1-800-456-7433 (Monday-Friday 7:00am-4:30pm), or request a ride online. Rides are confirmed only after a reservationist calls you back; for next-day rides, you must call.",
+      "apply_url": "https://www.ridecarts.com/contact/request-a-ride",
+      "phone": "(512) 478-7433",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Reservations Center: Monday-Friday 7:00am-4:30pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "$2 in town, $4 in county, $6 all-day multi-county; half price for eligible riders",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hays",
+        "Bastrop",
+        "Caldwell",
+        "Burnet",
+        "Blanco",
+        "Llano",
+        "Fayette",
+        "Lee"
+      ],
+      "source_url": "https://www.ridecarts.com/fares-passes/",
+      "confidence": "high",
+      "notes": "Fares confirmed on ridecarts.com/fares-passes; reservation info on ridecarts.com/contact/request-a-ride (2026-09-26). Fare questions: (512) 481-1011. Seniors 60+ ride free on Country Bus services. Service area is the non-urbanized parts of these counties.",
+      "description_es": "Servicio público de autobús y transporte en las zonas rurales del centro de Texas. Le puede llevar a citas médicas, al trabajo y a hacer mandados. Las personas mayores, las personas con discapacidad y los niños menores de 12 años pagan la mitad.",
+      "eligibility_summary_es": "Abierto al público en los condados que atiende CARTS. Pagan la mitad las personas de 60 años o más, las personas con discapacidad, los niños menores de 12 años y los clientes registrados.",
+      "how_to_apply_es": "Llame al Centro de Reservaciones al (512) 478-7433 o al 1-800-456-7433 (lunes a viernes, de 7:00 a.m. a 4:30 p.m.), o pida un viaje en línea. Su viaje queda confirmado solo cuando le devuelve la llamada un agente de reservaciones. Para viajes del día siguiente, debe llamar.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-state-counseling-assessment-clinic",
+      "name": "Texas State Counseling & Assessment Clinic",
+      "organization": "Texas State University",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Counseling clinic at Texas State University, listed by the City of San Marcos as a local mental health resource.",
+      "eligibility_summary_en": "People in the San Marcos area; call to ask who can be seen.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 245-8349.",
+      "apply_url": null,
+      "phone": "(512) 245-8349",
+      "address": null,
+      "city": "San Marcos",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://www.sanmarcostx.gov/3738/Mental-Health",
+      "confidence": "low",
+      "notes": "Only the name and phone number are confirmed (City of San Marcos Mental Health page, 2026-09-26). The university clinic page could not be reached; cost, eligibility, and address not confirmed.",
+      "description_es": "Clínica de consejería de la Universidad Estatal de Texas (Texas State University). La Ciudad de San Marcos la incluye como un recurso local de salud mental.",
+      "eligibility_summary_es": "Personas del área de San Marcos. Llame para preguntar a quién pueden atender.",
+      "how_to_apply_es": "Llame al (512) 245-8349.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "greater-san-marcos-youth-council",
+      "name": "Youth Counseling and Parenting Classes (FAYS)",
+      "organization": "Greater San Marcos Youth Council",
+      "categories": [
+        "mental_health",
+        "school_childcare"
+      ],
+      "description_en": "Free counseling for youth ages 6 to 17 to help with family conflict and everyday struggles, plus free parenting classes (STEP) and truancy help.",
+      "eligibility_summary_en": "Children ages 6 to 17 who live in or go to school in Hays County, and their families.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Child lives in or attends school in Hays County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 754-0500 or fill out the online referral form on gsmyc.org. Appointments Monday-Friday, including after school and after work.",
+      "apply_url": "https://www.gsmyc.org/services",
+      "phone": "(512) 754-0500",
+      "address": null,
+      "city": "San Marcos",
+      "zip": null,
+      "hours": "Monday-Friday by appointment, including after-school and after-work times",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hays"
+      ],
+      "source_url": "https://www.gsmyc.org/services",
+      "confidence": "high",
+      "notes": "Services, eligibility, and cost confirmed on gsmyc.org/services (2026-09-26). Official mailing address is P.O. Box 1455, San Marcos, TX 78666; a Hays CISD list (Sept 2025) gives 1402 IH 35 North, San Marcos 78666 (not confirmed on official site). GSMYC also runs a 24-hour crisis hotline, 1-800-457-0797.",
+      "description_es": "Consejería gratis para jóvenes de 6 a 17 años para ayudar con conflictos en la familia y problemas del día a día. También ofrece clases gratis para padres (STEP) y ayuda con faltas a la escuela.",
+      "eligibility_summary_es": "Niños y jóvenes de 6 a 17 años que viven o estudian en el condado de Hays, y sus familias.",
+      "how_to_apply_es": "Llame al (512) 754-0500 o llene el formulario de referencia en línea en gsmyc.org. Hay citas de lunes a viernes, incluso después de la escuela y del trabajo.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

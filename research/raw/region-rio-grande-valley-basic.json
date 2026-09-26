@@ -1,0 +1,1292 @@
+{
+  "scope": "Rio Grande Valley (Hidalgo, Cameron, Starr, Willacy counties) - basic needs",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "food-bank-rgv-emergency-food-pantry-pharr",
+      "name": "Emergency Food Pantry - Pharr Resource Center",
+      "organization": "Food Bank of the Rio Grande Valley",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Gives free emergency food when you have no food at home. You also get a referral to a food pantry near where you live for monthly help.",
+      "eligibility_summary_en": "For people in Cameron, Hidalgo, and Willacy counties who need emergency food.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Proof of address (such as a utility bill)"
+      ],
+      "how_to_apply": "Visit the Pharr Resource Center during open hours with your ID and proof of address. For a referral to a pantry near you, call (956) 682-8101 and choose option 2.",
+      "apply_url": null,
+      "phone": "(956) 682-8101",
+      "address": "724 N. Cage Blvd.",
+      "city": "Pharr",
+      "zip": "78577",
+      "hours": "Monday-Friday 8:30am-11:30am and 1:30pm-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy"
+      ],
+      "source_url": "https://foodbankrgv.com/our-programs/emergency-food/",
+      "confidence": "high",
+      "notes": "Food Bank RGV has 275+ partner pantries across Cameron, Hidalgo and Willacy counties. Also runs an Edcouch-Elsa ISD Resource Center (302 S. Juanita St., Edcouch, (956) 904-4548), Mon-Fri 8:30am-12pm and 1:30pm-5pm."
+    },
+    {
+      "id": "food-bank-rgv-mission-resource-center",
+      "name": "Emergency Food Pantry - Mission Resource Center",
+      "organization": "Food Bank of the Rio Grande Valley",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Gives free emergency food and refers you to a food pantry close to your home.",
+      "eligibility_summary_en": "For people in the Food Bank RGV area (Cameron, Hidalgo, Willacy counties) who need emergency food.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Proof of address (such as a utility bill)"
+      ],
+      "how_to_apply": "Go to the Mission Resource Center during open hours with your ID and proof of address. Call (956) 682-8101, option 2, for pantry referrals.",
+      "apply_url": null,
+      "phone": "(956) 682-8101",
+      "address": "115 S. Mayberry St.",
+      "city": "Mission",
+      "zip": null,
+      "hours": "Monday-Friday 8:30am-12:00pm and 1:30pm-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://foodbankrgv.com/our-programs/emergency-food/",
+      "confidence": "high",
+      "notes": "Phone listed is the Food Bank main line; the source did not list a separate phone for the Mission center."
+    },
+    {
+      "id": "food-bank-rgv-csfp-senior-box",
+      "name": "Commodity Supplemental Food Program (Senior Box)",
+      "organization": "Food Bank of the Rio Grande Valley",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Gives seniors a free monthly box of healthy food like cereal, juice, milk, cheese, and canned fruits and vegetables. You pick it up at a drive-thru site near you.",
+      "eligibility_summary_en": "For low-income adults age 60 or older in Cameron, Hidalgo, or Willacy counties who meet income guidelines.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [
+        "Proof of identity",
+        "Proof of income"
+      ],
+      "how_to_apply": "Apply by phone: call (956) 682-8101 and press option 3. After you apply, you choose a community pick-up site.",
+      "apply_url": null,
+      "phone": "(956) 682-8101",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy"
+      ],
+      "source_url": "https://foodbankrgv.com/our-programs/csfp/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "food-bank-rgv-benefits-application-help",
+      "name": "State Benefits Application Assistance (SNAP, Medicaid, CHIP, TANF)",
+      "organization": "Food Bank of the Rio Grande Valley",
+      "categories": [
+        "food",
+        "healthcare",
+        "cash_assistance"
+      ],
+      "description_en": "Trained navigators help you apply for SNAP food benefits, Medicaid, CHIP, TANF, and Healthy Texas Women. Help is given by phone, home visits, libraries, and community centers.",
+      "eligibility_summary_en": "For people in Hidalgo, Cameron, and Willacy counties who want help applying for state benefits.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Driver's license or ID",
+        "Social Security card",
+        "Proof of income",
+        "Social Security award letter (if you have one)",
+        "Utility bill with your name and address"
+      ],
+      "how_to_apply": "Call Monday-Friday 8:30am-5:30pm to schedule a phone appointment, or call the Social Services Department at (956) 682-8101.",
+      "apply_url": null,
+      "phone": "(956) 682-8101",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday 8:30am-5:30pm (appointment scheduling)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://foodbankrgv.com/our-programs/social-services/",
+      "confidence": "high",
+      "notes": "Navigators cannot approve applications or do interviews; they only help with the application. Coordinator direct lines on the page: (956) 904-4538 and (956) 904-4542."
+    },
+    {
+      "id": "food-bank-rgv-mobile-food-distribution",
+      "name": "Mobile Produce and Food Pop-Up Distributions",
+      "organization": "Food Bank of the Rio Grande Valley",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free drive-thru food and fresh produce given out at pop-up sites across the Valley, including food deserts.",
+      "eligibility_summary_en": "Open to people in need. No application needed. First come, first served while supplies last.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Proof of address"
+      ],
+      "how_to_apply": "Check the Food Bank RGV Facebook page for dates and places. Bring ID and proof of address and have an empty car trunk.",
+      "apply_url": null,
+      "phone": "(956) 904-4533",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy"
+      ],
+      "source_url": "https://foodbankrgv.com/our-programs/mobile-food-distribution/",
+      "confidence": "high",
+      "notes": "Schedules are posted on Facebook (facebook.com/FoodBankRGV). Phone is the program contact listed on the page."
+    },
+    {
+      "id": "hidalgo-county-csa-utility-assistance",
+      "name": "Utility Assistance (CEAP/LIHEAP)",
+      "organization": "Hidalgo County Community Service Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills, with extra help in an energy crisis or bad weather. Also teaches ways to lower energy costs.",
+      "eligibility_summary_en": "For Hidalgo County residents who meet income and program rules. Elderly, disabled, and families with young children are most at risk.",
+      "eligibility_rules": {
+        "residency_required": "Hidalgo County resident"
+      },
+      "documents_needed": [
+        "Government-issued ID",
+        "Proof of citizenship or legal residency for every household member",
+        "Pay stubs for the 30 days before you sign the application (all working members)",
+        "2025 award letters for Social Security, SSI, VA, pension, etc.",
+        "Declaration of Income Statement if no income, self-employed, or paid in cash",
+        "Front and back of current electric bill (and disconnect notice if you have one)",
+        "Front and back of current gas bill"
+      ],
+      "how_to_apply": "Apply online through the agency's application portal or download the 2026 paper application from the website. Call (956) 383-6240 with questions or to check status.",
+      "apply_url": "https://hidalgocsa.org/utility-assistance/",
+      "phone": "(956) 383-6240",
+      "address": "2524 N Closner Blvd",
+      "city": "Edinburg",
+      "zip": "78541",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": null,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://hidalgocsa.org/utility-assistance/",
+      "confidence": "high",
+      "notes": "Help depends on available funds. The online portal can close when it hits its monthly limit and reopens the next month. TDHCA Help for Texans also lists this agency as the Hidalgo County CEAP provider."
+    },
+    {
+      "id": "hidalgo-county-csa-access-to-success",
+      "name": "Access to Success (CSBG)",
+      "organization": "Hidalgo County Community Service Agency",
+      "categories": [
+        "employment",
+        "cash_assistance"
+      ],
+      "description_en": "Case management plus help paying for school or job training, books, uniforms, testing, and gas so you can get a better-paying job.",
+      "eligibility_summary_en": "For Hidalgo County residents age 18+ with household income at or below 125% of the Federal Poverty Level who want to earn a certificate or degree.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 125,
+        "min_age": 18,
+        "residency_required": "Hidalgo County resident"
+      },
+      "documents_needed": [
+        "Completed CSBG application",
+        "Pay stubs for past 30 days for every working person",
+        "Award letters for benefits or child support",
+        "Current electric and gas bills",
+        "Photo ID for all adults",
+        "Social Security cards and birth certificates for all household members",
+        "High school diploma or transcript",
+        "School acceptance letter and program fee breakdown",
+        "Financial aid award letter",
+        "2 recommendation letters from non-family members"
+      ],
+      "how_to_apply": "Download and complete the application from the agency website and call (956) 383-6240 ext. 3966 for help.",
+      "apply_url": "https://hidalgocsa.org/family-support-services/",
+      "phone": "(956) 383-6240",
+      "address": "2524 N Closner Blvd",
+      "city": "Edinburg",
+      "zip": "78541",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://hidalgocsa.org/family-support-services/",
+      "confidence": "high",
+      "notes": "Tuition help up to $5,000 per program year, max $10,000 over two years."
+    },
+    {
+      "id": "cacost-ceap-cameron-willacy",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Cameron and Willacy Counties",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric, gas, and propane bills. In a crisis it can also repair or replace heating and cooling units.",
+      "eligibility_summary_en": "For households at or below 150% of the Federal Poverty Guidelines in Cameron and Willacy counties. Priority goes to seniors, people with disabilities, and families with children under 5. Proof of citizenship or legal residency is required.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150
+      },
+      "documents_needed": [
+        "Proof of citizenship or legal residency for every household member",
+        "Pay stubs for 30 days before application (all working members)",
+        "2025 award letters for benefits (bank statements not accepted)",
+        "Declaration of Income Statement if no income or paid in cash",
+        "Front and back of current electric bill",
+        "Front and back of current gas bill"
+      ],
+      "how_to_apply": "Applications are by appointment only. Request an appointment with the online form linked on the CACOST CEAP page, or call (956) 423-1100.",
+      "apply_url": "https://forms.office.com/r/fJC9UzhXP2",
+      "phone": "(956) 423-1100",
+      "address": "1822 W. Jefferson",
+      "city": "Harlingen",
+      "zip": "78550",
+      "hours": "Monday-Friday 9:00am-12:00pm and 1:00pm-4:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://cacost.org/programs/ceap-utility-assistance/",
+      "confidence": "high",
+      "notes": "TDHCA Help for Texans lists CACOST as the CEAP provider for Cameron and Willacy counties. A request does not guarantee an appointment; waitlist when funds are low. Brownsville community location: 519 E. Madison St. 2026 limit for a 1-person household: $23,940/yr."
+    },
+    {
+      "id": "cacost-weatherization-rgv",
+      "name": "Weatherization Assistance Program - Rio Grande Valley",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Free home energy upgrades like insulation and heating/cooling repair or replacement to lower your utility bills and make your home safer.",
+      "eligibility_summary_en": "For low-income households: LIHEAP weatherization up to 150% of the Federal Poverty Level; DOE weatherization up to 200%.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Proof of citizenship or legal residency for every household member",
+        "Proof of income for all working household members",
+        "Award letters for benefits",
+        "Current electric and gas bills"
+      ],
+      "how_to_apply": "Call the McAllen office at (956) 787-2539 to learn how to apply.",
+      "apply_url": null,
+      "phone": "(956) 787-2539",
+      "address": "1224 E. Jasmine Suite C",
+      "city": "McAllen",
+      "zip": "78501",
+      "hours": null,
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://cacost.org/programs/weatherization/",
+      "confidence": "high",
+      "notes": "The McAllen office serves Cameron, Hidalgo, Starr, Willacy, and Zapata counties. TDHCA also lists CACOST as weatherization provider for all four RGV counties."
+    },
+    {
+      "id": "stdc-ceap-starr-county",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Starr County",
+      "organization": "South Texas Development Council (STDC)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households with utility bill payments, energy education, budget counseling, and repair of heating and cooling units.",
+      "eligibility_summary_en": "For low-income households in STDC's area, including Starr County. Priority goes to high energy users and homes with a child 5 or younger, a person with a disability, or an elderly person.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply through STDC's online public intake portal, or call (956) 722-3995 or email communityaction@stdc.cog.tx.us.",
+      "apply_url": "https://pip.capsystems.com/PIP20/S2004C",
+      "phone": "(956) 722-3995",
+      "address": "1002 Dickey Ln",
+      "city": "Laredo",
+      "zip": null,
+      "hours": null,
+      "walk_in": null,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Starr"
+      ],
+      "source_url": "https://stdc.cog.tx.us/community-services/",
+      "confidence": "high",
+      "notes": "TDHCA Help for Texans lists STDC (Laredo) as the Starr County CEAP provider; address from that listing. STDC's page still mentions the 2024 program year, so call to confirm current intake."
+    },
+    {
+      "id": "workforce-solutions-cameron",
+      "name": "Workforce Solutions Cameron - Workforce Centers",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, career training, hiring events, and services for veterans and people with disabilities.",
+      "eligibility_summary_en": "For job seekers and employers in Cameron County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit a workforce center in Brownsville or Harlingen, or call.",
+      "apply_url": "https://www.wfscameron.org/",
+      "phone": "(956) 546-3141",
+      "address": "851 Old Alice Road",
+      "city": "Brownsville",
+      "zip": "78520",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/workforce-centers/",
+      "confidence": "high",
+      "notes": "Harlingen center: 1820 W. Jefferson, Harlingen, TX 78550, (956) 368-5200 (site header also shows (956) 423-9266 for Harlingen). Language services free on request."
+    },
+    {
+      "id": "workforce-solutions-cameron-child-care",
+      "name": "Child Care Services - Cameron County",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps income-eligible families find and pay for child care while parents work or look for work.",
+      "eligibility_summary_en": "For income-eligible families in Cameron County. New families may get 3 months of care with no co-pay while job searching. There is a waitlist.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Cameron County resident"
+      },
+      "documents_needed": [
+        "Employment verification form or self-employment verification form"
+      ],
+      "how_to_apply": "Apply online through the Texas Child Care Connection (TX3C) link on the Workforce Solutions Cameron child care page to get on the waitlist.",
+      "apply_url": "https://www.wfscameron.org/how-do-i-apply-for-childcare-services/",
+      "phone": "(956) 546-3141",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Co-pay may apply",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/how-do-i-apply-for-childcare-services/",
+      "confidence": "high",
+      "notes": "Waitlist in place; parents are contacted every 90 days and removed if they do not respond within 10 business days."
+    },
+    {
+      "id": "workforce-solutions-lower-rio-grande-valley",
+      "name": "Workforce Solutions (Lower Rio Grande Valley) - Jobs, Training and Child Care",
+      "organization": "Lower Rio Grande Valley Workforce Development Board dba Workforce Solutions",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job listings, resume help, career counseling, training help, youth programs (ages 16-24), and help paying for child care.",
+      "eligibility_summary_en": "For job seekers and income-eligible families in Hidalgo, Starr, and Willacy counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit a Workforce Solutions office. Child care applications go through the Texas Child Care Connection (TX3C).",
+      "apply_url": "https://wfsolutions.org/how-we-help/child-care.html",
+      "phone": "(888) 261-3286",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://wfsolutions.org/",
+      "confidence": "high",
+      "notes": "Website shows offices in Edinburg (2719 W University Dr), Mission (901 Travis St #7), McAllen (2101 S 2nd St), Weslaco, Raymondville (700 FM 3168 #3), and Starr County; confirm by phone. Language services free on request."
+    },
+    {
+      "id": "tropical-texas-behavioral-health",
+      "name": "Tropical Texas Behavioral Health (Local Mental Health Authority)",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health, substance use, and developmental disability services for adults and children, plus a 24-hour crisis hotline and veteran services.",
+      "eligibility_summary_en": "For people in the Rio Grande Valley with behavioral health needs. Clients who cannot pay are not turned away.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 for new appointments or questions. In a crisis, call the 24-hour hotline at 1-877-289-7199.",
+      "apply_url": null,
+      "phone": "(800) 813-1233",
+      "address": "1901 S. 24th Avenue",
+      "city": "Edinburg",
+      "zip": null,
+      "hours": "Monday-Friday 8:00am-5:00pm; extended Thursday hours in Edinburg",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale; Medicaid, Medicare and many insurance plans accepted",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron"
+      ],
+      "source_url": "https://www.ttbh.org/locations.html",
+      "confidence": "high",
+      "notes": "24-hour crisis line: 1-877-289-7199. Clinics: Edinburg (956) 289-7000; Weslaco 2215 W. Business 83 (956) 520-8800; Harlingen 103 N Loop 499 (956) 364-6500; Brownsville 861 Old Alice Rd (956) 547-5400. Site says it serves the Rio Grande Valley; Willacy coverage was not stated on pages read, so call to confirm."
+    },
+    {
+      "id": "border-region-behavioral-health-starr",
+      "name": "Border Region Behavioral Health Center - Starr County",
+      "organization": "Border Region Behavioral Health Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health services for adults and children and services for people with intellectual and developmental disabilities in Starr County.",
+      "eligibility_summary_en": "For Starr County residents needing mental health or IDD services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Rio Grande City office. For a crisis, call the 24-hour hotline at 1-800-643-1102.",
+      "apply_url": null,
+      "phone": "(956) 487-3748",
+      "address": "2751 Pharmacy Road",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Starr"
+      ],
+      "source_url": "https://www.borderregion.org/services_star.htm",
+      "confidence": "high",
+      "notes": "24-hour crisis hotline: 1-800-643-1102. TTY (956) 487-5456. Agency serves Webb, Zapata, Jim Hogg and Starr counties."
+    },
+    {
+      "id": "nuestra-clinica-del-valle",
+      "name": "Nuestra Clinica del Valle",
+      "organization": "Nuestra Clinica del Valle, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health clinics offering family medicine, pediatrics, women's health, dental, lab, nutrition, and behavioral health for all ages.",
+      "eligibility_summary_en": "Open to residents of Hidalgo and Starr counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main office or the clinic nearest you to make an appointment.",
+      "apply_url": null,
+      "phone": "(956) 787-8915",
+      "address": "801 W. 1st Street",
+      "city": "San Juan",
+      "zip": "78589",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/",
+      "confidence": "high",
+      "notes": "11 locations including Donna, Edcouch, Mercedes, Mission, San Juan, Rio Grande City ((956) 487-0846) and Roma, plus school-based clinics. Ask about discounts if uninsured (not stated on pages read)."
+    },
+    {
+      "id": "su-clinica",
+      "name": "Su Clinica",
+      "organization": "Su Clinica",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Federally qualified health center offering adult medicine, pediatrics, women's health, and dental care, with fees based on family size and income.",
+      "eligibility_summary_en": "Open to the public. Fees are adjusted by family size and income for those who qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit a clinic and meet with a Registration Specialist, or call (956) 365-6000 to set up an appointment with an outreach worker.",
+      "apply_url": "https://www.suclinica.org/become-a-patient/",
+      "phone": "(956) 365-6000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://www.suclinica.org/become-a-patient/",
+      "confidence": "high",
+      "notes": "Locations in Brownsville, Harlingen, Raymondville and Santa Rosa. Free after-hours nurse line at (956) 365-6000."
+    },
+    {
+      "id": "hope-family-health-center",
+      "name": "Hope Family Health Center",
+      "organization": "Hope Family Health Center",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Primary care, counseling, labs, and medicines for uninsured low-income families.",
+      "eligibility_summary_en": "For uninsured, low-income individuals and families.",
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 994-3319 to ask about becoming a patient.",
+      "apply_url": null,
+      "phone": "(956) 994-3319",
+      "address": "2332 Jordan Rd.",
+      "city": "McAllen",
+      "zip": "78503",
+      "hours": "Monday-Thursday 8:00am-5:00pm (Friday hours differ; call)",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "http://hfhcenter.org/",
+      "confidence": "high",
+      "notes": "Medications available for qualified patients; referrals to specialists and breast/colon cancer screening."
+    },
+    {
+      "id": "catholic-charities-rgv-emergency-assistance",
+      "name": "Emergency Assistance Program",
+      "organization": "Catholic Charities of the Rio Grande Valley",
+      "categories": [
+        "utilities",
+        "healthcare",
+        "cash_assistance"
+      ],
+      "description_en": "Short-term help paying utility bills, plus medical vouchers, doctor visits, and prescription help for people in a financial crisis.",
+      "eligibility_summary_en": "For individuals and families facing financial hardship.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the San Juan or Brownsville office.",
+      "apply_url": null,
+      "phone": "(956) 702-4088",
+      "address": "700 North Virgen de San Juan Blvd",
+      "city": "San Juan",
+      "zip": "78589",
+      "hours": null,
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron"
+      ],
+      "source_url": "https://catholiccharitiesrgv.org/get-help/emergency-assistance-program/",
+      "confidence": "high",
+      "notes": "Brownsville office: 955 West Price Road, Brownsville, TX 78520, (956) 541-0220. Coverage counties inferred from office locations."
+    },
+    {
+      "id": "catholic-charities-rgv-homelessness-prevention",
+      "name": "Homelessness Prevention",
+      "organization": "Catholic Charities of the Rio Grande Valley",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Case management and help for families facing eviction or homelessness.",
+      "eligibility_summary_en": "For households with income at least 30% below Area Median Income who have a court-ordered eviction notice or a letter from a shelter. Adults must be legal residents.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID and Social Security numbers for all adults",
+        "Birth certificates and Social Security cards for all children",
+        "Proof of all income (wages, child support, unemployment)",
+        "Benefit letter if receiving SNAP, TANF, SSI, or disability",
+        "Court-ordered eviction notice or letter certifying homelessness"
+      ],
+      "how_to_apply": "Call or visit the San Juan or Brownsville office during office hours to meet with a case manager.",
+      "apply_url": null,
+      "phone": "(956) 702-4088",
+      "address": "700 North Virgen de San Juan Blvd",
+      "city": "San Juan",
+      "zip": "78589",
+      "hours": "Monday-Friday 8:00am-12:00pm and 1:00pm-5:00pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron"
+      ],
+      "source_url": "https://catholiccharitiesrgv.org/get-help/homelessness-prevention/",
+      "confidence": "high",
+      "notes": "Brownsville office: 955 West Price Road, (956) 541-0220."
+    },
+    {
+      "id": "mujeres-unidas-mcallen",
+      "name": "Mujeres Unidas - Domestic Violence and Sexual Assault Services",
+      "organization": "Mujeres Unidas / Women Together",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Emergency shelter, transitional housing, counseling, crisis help, and legal advocacy for survivors of domestic violence and sexual assault.",
+      "eligibility_summary_en": "For victims of domestic violence and sexual assault and their children.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 crisis hotline at 1-877-580-4879. The McAllen Satellite Center is a crisis walk-in center.",
+      "apply_url": null,
+      "phone": "(877) 580-4879",
+      "address": null,
+      "city": "McAllen",
+      "zip": null,
+      "hours": "24/7 hotline",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://mujeresunidas.org/",
+      "confidence": "high",
+      "notes": "Other numbers on site: (956) 630-4878 (emergency) and (956) 664-2826. Nueva Vida transitional housing for single women and children. Services are confidential."
+    },
+    {
+      "id": "friendship-of-women-brownsville",
+      "name": "Friendship of Women - Family Violence Shelter and Services",
+      "organization": "Friendship of Women, Inc.",
+      "categories": [
+        "housing",
+        "mental_health"
+      ],
+      "description_en": "Emergency shelter and support for adults and children affected by family and sexual violence.",
+      "eligibility_summary_en": "For survivors of family and sexual violence and their children in Cameron County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 family and sexual violence hotline at (956) 544-7412.",
+      "apply_url": null,
+      "phone": "(956) 544-7412",
+      "address": null,
+      "city": "Brownsville",
+      "zip": null,
+      "hours": "24/7 hotline",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.fowinc.com/",
+      "confidence": "high",
+      "notes": "TDHCA listing shows an office at 95 E Price Rd Bldg C, Brownsville; shelter location is confidential."
+    },
+    {
+      "id": "family-crisis-center-harlingen",
+      "name": "Family Crisis Center",
+      "organization": "Family Crisis Center, Inc.",
+      "categories": [
+        "housing",
+        "mental_health"
+      ],
+      "description_en": "24-hour hotline, emergency shelter, counseling, support groups, and advocacy for victims of domestic violence and sexual assault.",
+      "eligibility_summary_en": "For victims of family violence and sexual assault and their children in Cameron and Willacy counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at 1-866-423-9304, or come in by appointment or as a walk-in.",
+      "apply_url": null,
+      "phone": "(866) 423-9304",
+      "address": null,
+      "city": "Harlingen",
+      "zip": null,
+      "hours": "24-hour hotline",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://www.familycrisisctr.org/",
+      "confidence": "high",
+      "notes": "TDHCA lists the office at 1653 Treasure Hills Blvd., Harlingen, (956) 423-9304."
+    },
+    {
+      "id": "la-posada-providencia",
+      "name": "La Posada Providencia Emergency Shelter",
+      "organization": "La Posada Providencia",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "A 24/7 emergency shelter with food, clothing, and supplies for men, women, and families who fled danger in their home countries.",
+      "eligibility_summary_en": "For asylum seekers and immigrants fleeing political oppression, disaster, or other life-threatening situations.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the shelter to ask about space and intake.",
+      "apply_url": null,
+      "phone": "(956) 399-3826",
+      "address": "30094 Marydale Rd",
+      "city": "San Benito",
+      "zip": "78586",
+      "hours": "24/7 shelter",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo"
+      ],
+      "source_url": "https://lppshelter.org/",
+      "confidence": "high",
+      "notes": "Phone and address from TDHCA Help for Texans listing (Emergency & Homeless Services for Cameron and Hidalgo counties)."
+    },
+    {
+      "id": "texas-riogrande-legal-aid-rgv",
+      "name": "Texas RioGrande Legal Aid (TRLA) - Rio Grande Valley",
+      "organization": "Texas RioGrande Legal Aid",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction, family law, and public benefits problems.",
+      "eligibility_summary_en": "For low-income people who qualify for free legal services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 996-8752 to apply. For family law help, call on Tuesdays or Thursdays during hotline hours.",
+      "apply_url": "https://www.trla.org/help",
+      "phone": "(956) 996-8752",
+      "address": "301 South Texas Avenue",
+      "city": "Mercedes",
+      "zip": "78570",
+      "hours": "Monday-Friday 8:00am-5:00pm (phone line)",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron"
+      ],
+      "source_url": "https://www.trla.org/help",
+      "confidence": "high",
+      "notes": "RGV offices: Brownsville (1206 E. Van Buren St.), Edinburg (316 South Closner Blvd.), Harlingen (308 E. Harrison Ave.). Starr/Willacy coverage not confirmed on pages read; call to check."
+    },
+    {
+      "id": "valley-metro-lrgvdc",
+      "name": "Valley Metro Public Transit (Reduced Fares)",
+      "organization": "Lower Rio Grande Valley Development Council",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Regional bus service across the Valley. Seniors, students, people with disabilities, Medicare recipients, and veterans ride for $1.00.",
+      "eligibility_summary_en": "Reduced fare for students, seniors 60+, people with disabilities, Medicare recipients, and veterans. Children under 7 with a paying adult and UTRGV/STC/TSTC students with ID ride free.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "ID showing reduced-fare eligibility (e.g., student ID)"
+      ],
+      "how_to_apply": "Ride any route and show that you qualify for the reduced fare. In Starr and Willacy counties, call 24 hours ahead for demand-response rides.",
+      "apply_url": null,
+      "phone": "(800) 574-8322",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Typically Monday-Saturday 6:00am-8:00pm (Starr: Monday-Friday 7:00am-5:00pm)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "$2.00 regular; $1.00 reduced",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://lrgvdc.org/valleymetro.html",
+      "confidence": "high",
+      "notes": "Willacy County has curb-to-curb demand response. Starr County flex/demand response needs a 24-hour advance reservation and can go to Valley destinations. Free rides do not apply on FAST RIDE or Demand Response."
+    },
+    {
+      "id": "metro-mcallen-reduced-fare",
+      "name": "Metro McAllen Bus and Paratransit",
+      "organization": "City of McAllen - Metro McAllen",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus service in McAllen with $1 rides and free transfers. Seniors, students, people with disabilities, and Medicare holders ride for $0.50. Paratransit is available for eligible riders.",
+      "eligibility_summary_en": "Reduced fare for seniors, students, people with disabilities, and Medicare recipients. Paratransit requires an application.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Ride any of the 12 routes. For paratransit, download the application (English or Spanish) from the Metro McAllen website.",
+      "apply_url": "https://www.mcallen.net/metro/",
+      "phone": "(956) 681-3510",
+      "address": "1501 US-83 BUS",
+      "city": "McAllen",
+      "zip": "78501",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "$1.00 regular; $0.50 reduced",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.mcallen.net/metro/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "brownsville-bmetro-paratransit",
+      "name": "B-Metro ADA Paratransit Service",
+      "organization": "City of Brownsville - Brownsville Metro",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Curb-to-curb rides for people with disabilities who cannot use regular city buses. $2.00 per trip.",
+      "eligibility_summary_en": "For people with disabilities who cannot board, ride, or reach the fixed-route bus system. You must apply to be found eligible.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Paratransit Services at (956) 541-8381 (Texas Relay 711) to apply. Rides are reserved the day before during business hours.",
+      "apply_url": null,
+      "phone": "(956) 541-8381",
+      "address": null,
+      "city": "Brownsville",
+      "zip": null,
+      "hours": "B-Metro buses run Monday-Saturday 6:00am-8:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$2.00 per trip",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.brownsvilletx.gov/m/newsflash/home/detail/2740",
+      "confidence": "high",
+      "notes": "B-Metro fixed routes connect at La Plaza Multimodal Terminal downtown and the Northside Transfer Station (source: https://www.brownsvilletx.gov/m/newsflash/home/detail/2997)."
+    },
+    {
+      "id": "lrgvdc-area-agency-on-aging",
+      "name": "Area Agency on Aging of the Lower Rio Grande Valley",
+      "organization": "Lower Rio Grande Valley Development Council",
+      "categories": [
+        "healthcare",
+        "legal",
+        "transportation",
+        "food"
+      ],
+      "description_en": "Case management, caregiver support, benefits counseling, legal help, and links to meals, transportation, and home help for older adults.",
+      "eligibility_summary_en": "For people age 60 and older and their caregivers.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 682-3481 or visit the Weslaco office. Home visits can be arranged if travel is hard.",
+      "apply_url": null,
+      "phone": "(956) 682-3481",
+      "address": "301 W. Railroad Street (Building D)",
+      "city": "Weslaco",
+      "zip": "78596",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy"
+      ],
+      "source_url": "https://lrgvdc.org/aging.html",
+      "confidence": "high",
+      "notes": "LRGVDC serves Cameron, Hidalgo and Willacy counties. Harlingen office is moving; in-person services are in Weslaco for now. RIO-Net Aging and Disability Resource Center: 1-800-365-6131."
+    },
+    {
+      "id": "hidalgo-county-wic",
+      "name": "Hidalgo County WIC Program",
+      "organization": "Hidalgo County",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy foods, nutrition counseling, and breastfeeding support for pregnant and new moms, babies, and children under 5. Includes a mobile unit.",
+      "eligibility_summary_en": "For pregnant, breastfeeding, and postpartum women, infants, and children under 5 who meet WIC rules, in Hidalgo and Starr counties.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the WIC application link on the county page or call the WIC office.",
+      "apply_url": "https://www.hidalgocounty.us/108/WIC-Office",
+      "phone": "(956) 381-4646",
+      "address": "3105 W University Drive",
+      "city": "Edinburg",
+      "zip": "78539",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": null,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr"
+      ],
+      "source_url": "https://www.hidalgocounty.us/108/WIC-Office",
+      "confidence": "high",
+      "notes": "Clinics include Alamo II, Hidalgo, Progreso, San Carlos, Sullivan City, and a Mobile Unit. Special accommodations: (956) 279-7850 or (956) 720-1796."
+    },
+    {
+      "id": "cameron-county-wic",
+      "name": "Cameron County Public Health WIC Program",
+      "organization": "Cameron County Public Health",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy foods, nutrition education, and breastfeeding support for pregnant women, new moms, babies, and children under 5.",
+      "eligibility_summary_en": "For pregnant, breastfeeding, or postpartum women and infants and children under 5 who have Medicaid, SNAP, TANF, or meet WIC income rules. You do not have to be a U.S. citizen.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start an application online at texaswic.org or call 1-888-942-4847.",
+      "apply_url": "https://texaswic.org",
+      "phone": "(888) 942-4847",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": null,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.cameroncountytx.gov/publichealth/wic-program/",
+      "confidence": "high",
+      "notes": "Clinics: Mary P. Lucio Health Clinic (Brownsville), Harlingen Public Health Clinic, Father Joseph O'Brien Health Clinic (Port Isabel), San Benito Health Clinic."
+    },
+    {
+      "id": "hidalgo-county-indigent-health-care",
+      "name": "County Indigent Health Care Program (CIHCP) & Hidalgo Blue",
+      "organization": "Hidalgo County Health & Human Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps low-income Hidalgo County residents who don't qualify for other programs get health care.",
+      "eligibility_summary_en": "For Hidalgo County residents with income at or below program guidelines who do not qualify for other state or federal health programs. Assets are reviewed.",
+      "eligibility_rules": {
+        "residency_required": "Hidalgo County resident"
+      },
+      "documents_needed": [
+        "Completed application packet",
+        "List of all household members",
+        "Proof of household income",
+        "Proof of household resources and assets"
+      ],
+      "how_to_apply": "Download and complete the Health Care Assistance Application Packet and call (956) 318-2011 for help.",
+      "apply_url": "https://www.hchd.org/195/CIHCP-Hidalgo-Blue-Program",
+      "phone": "(956) 318-2011",
+      "address": "1304 S 25th Ave",
+      "city": "Edinburg",
+      "zip": null,
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.hchd.org/195/CIHCP-Hidalgo-Blue-Program",
+      "confidence": "high",
+      "notes": "Human Services Division also offers funeral assistance and a Community Resource Specialist program (https://www.hchd.org/101/Human-Services)."
+    },
+    {
+      "id": "cameron-county-indigent-health-care",
+      "name": "Cameron County Indigent Health Care Program",
+      "organization": "Cameron County Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Covers basic health care like doctor visits, labs, X-rays, hospital care, and up to 3 prescriptions a month.",
+      "eligibility_summary_en": "For Cameron County residents who don't qualify for Medicaid, with income at or below 21% of the Federal Poverty Guidelines and resources under $2,000 ($3,000 if someone is 60+ or disabled).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Cameron County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Go to the Brownsville or San Benito office to pick up an application and make an appointment.",
+      "apply_url": null,
+      "phone": "(956) 574-8745",
+      "address": "1204 Jose Colunga Jr.",
+      "city": "Brownsville",
+      "zip": "78521",
+      "hours": "Monday-Friday 8:00am-12:00pm and 1:00pm-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.cameroncountytx.gov/publichealth/indigent-health-care/",
+      "confidence": "high",
+      "notes": "San Benito office: 1390 W. Expressway 83, San Benito, TX 78586, (956) 247-3665."
+    },
+    {
+      "id": "mcallen-housing-commission",
+      "name": "McAllen Housing Commission (Housing Choice Vouchers and Public Housing)",
+      "organization": "McAllen Housing Commission",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Offers Section 8 Housing Choice Vouchers, public housing, homeownership help, and veteran supportive housing in McAllen.",
+      "eligibility_summary_en": "For low-income families who meet program rules. The waitlist was closed when checked.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Check the website for when the waitlist reopens. Meetings with caseworkers are by appointment; call the office.",
+      "apply_url": "https://mcallenhc.org/",
+      "phone": "(956) 686-3951",
+      "address": "1200 N. 25th St.",
+      "city": "McAllen",
+      "zip": "78501",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://mcallenhc.org/",
+      "confidence": "high",
+      "notes": "Waitlist was closed when checked (Sept 2026)."
+    },
+    {
+      "id": "housing-authority-county-of-hidalgo",
+      "name": "Housing Authority of the County of Hidalgo",
+      "organization": "Housing Authority of the County of Hidalgo",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Provides stable, affordable rental housing in Hidalgo County.",
+      "eligibility_summary_en": "For low-income households in Hidalgo County. Waiting lists may apply.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Weslaco office to ask about applications and waiting lists.",
+      "apply_url": "https://www.hidalgocha.org/",
+      "phone": "(956) 969-5865",
+      "address": "1800 N. Texas Boulevard",
+      "city": "Weslaco",
+      "zip": "78596",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.hidalgocounty.us/321/Housing-Authority-of-Hidalgo",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "cameron-willacy-counties-community-projects",
+      "name": "Cameron and Willacy Counties Community Projects (CSBG)",
+      "organization": "Cameron and Willacy Counties Community Projects, Inc.",
+      "categories": [
+        "cash_assistance",
+        "school_childcare"
+      ],
+      "description_en": "Community action agency for low-income residents. Services may include child care, health and human services, and emergency financial help.",
+      "eligibility_summary_en": "For low-income residents of Cameron and Willacy counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Brownsville office to ask what help is available.",
+      "apply_url": null,
+      "phone": "(956) 544-6411",
+      "address": "864 Central Blvd.",
+      "city": "Brownsville",
+      "zip": "78520",
+      "hours": null,
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://hrc-ic.tdhca.state.tx.us/hrc/GetDetails.m?assistanceType=CSBG&currentOrgId=3577&city=&county=Cameron",
+      "confidence": "medium",
+      "notes": "Confirmed only through the TDHCA Help for Texans provider listing; the organization's own website was not found. Services are TDHCA's general CSBG description - call to confirm."
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "scope": "Panhandle & South Plains (Lubbock, Potter, Randall counties; Lubbock, Amarillo) - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "starcare-lubbock-crisis-line",
+      "name": "StarCare 24/7 Mental Health Crisis Line",
+      "organization": "StarCare Specialty Health System",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Call any time if you or someone you know is in a mental health crisis. StarCare offers crisis help, mobile outreach, and connects you to care.",
+      "eligibility_summary_en": "Anyone in the Lubbock area having a mental health crisis can call.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis line at (806) 740-1414 or toll free (800) 687-7581. You can also call or text 988.",
+      "apply_url": null,
+      "phone": "(806) 740-1414",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.starcarelubbock.org/about-us",
+      "confidence": "high",
+      "notes": "StarCare is the state-designated Local Mental Health and IDD Authority for Lubbock, Lynn, Hockley, Cochran and Crosby counties. Toll free crisis: (800) 687-7581."
+    },
+    {
+      "id": "starcare-lubbock-mental-health-services",
+      "name": "StarCare Mental Health, IDD and Substance Use Services (Local Mental Health Authority)",
+      "organization": "StarCare Specialty Health System",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "StarCare is the public mental health agency for Lubbock County. It offers outpatient mental health care, medication help, youth programs, services for people with intellectual disabilities, and substance use treatment.",
+      "eligibility_summary_en": "For people in Lubbock County and nearby counties who need mental health, intellectual disability, or substance use care.",
+      "eligibility_rules": {
+        "residency_required": "Lubbock, Lynn, Hockley, Cochran or Crosby County resident (mental health/IDD services)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the service information and intake line at (806) 740-1421 or toll free (844) 472-8810.",
+      "apply_url": null,
+      "phone": "(806) 740-1421",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.starcarelubbock.org/about-us",
+      "confidence": "high",
+      "notes": "Substance use services cover 41 West Texas counties. Business line (806) 766-0310; medication refills (806) 740-1447. Cost not stated on source; ask at intake."
+    },
+    {
+      "id": "texas-panhandle-centers-crisis-line",
+      "name": "Texas Panhandle Centers 24-Hour Crisis Line",
+      "organization": "Texas Panhandle Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Call any time for help with a mental health or substance use crisis in the Amarillo area. A crisis call starts an assessment and help right away.",
+      "eligibility_summary_en": "Anyone in the upper Texas Panhandle, including Amarillo, who is in crisis.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 359-6699 or toll free 1-800-692-4039. You can also call or text 988.",
+      "apply_url": null,
+      "phone": "(806) 359-6699",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.texaspanhandlecenters.org/",
+      "confidence": "high",
+      "notes": "Texas Panhandle Centers is the Local Mental Health Authority and a Certified Community Behavioral Health Clinic for the upper 21 Panhandle counties."
+    },
+    {
+      "id": "texas-panhandle-centers-adult-behavioral-health",
+      "name": "Adult Behavioral Health Outpatient Services",
+      "organization": "Texas Panhandle Centers",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Outpatient mental health care for adults, including assessment, medication management, counseling, skills training, and help with housing and jobs.",
+      "eligibility_summary_en": "Adults with serious mental illness such as schizophrenia, major depression, or bipolar disorder in the upper Texas Panhandle.",
+      "eligibility_rules": {
+        "min_age": 18
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Amarillo Behavioral Health Clinic at (806) 337-1000 (toll free 1-800-299-3699) to start intake.",
+      "apply_url": null,
+      "phone": "(806) 337-1000",
+      "address": "6600 Killgore Dr",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Based on ability to pay (fee schedule)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.texaspanhandlecenters.org/adult-behavioral-health-outpatient-services/",
+      "confidence": "high",
+      "notes": "Site references a Monthly Ability-to-Pay Fee Schedule. PATH program serves people experiencing homelessness."
+    },
+    {
+      "id": "texas-panhandle-centers-childrens-services",
+      "name": "Children's Mental Health Services",
+      "organization": "Texas Panhandle Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health programs for children and families, including the Behavioral Health Program, YES Waiver, and Family and Youth Services (FAYS).",
+      "eligibility_summary_en": "Children and youth in the Amarillo area and upper Panhandle who need mental health support.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 358-1681 or the non-crisis line at (806) 337-1000.",
+      "apply_url": null,
+      "phone": "(806) 358-1681",
+      "address": "901 Wallace Blvd",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.texaspanhandlecenters.org/childrens-services/",
+      "confidence": "high",
+      "notes": "Child and Adolescent Services clinic is at 6600 Killgore Drive, (806) 354-2191 per the locations page. Age limits not stated on source."
+    },
+    {
+      "id": "texas-panhandle-centers-substance-use-osar",
+      "name": "Substance Use Services and OSAR Screening",
+      "organization": "Texas Panhandle Centers",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Screening, referral, counseling, and outpatient treatment for alcohol and drug use. Also offers the P.A.D.R.E. program for parents of young children.",
+      "eligibility_summary_en": "OSAR serves Texas residents without health insurance in the top 22 Panhandle counties, adolescents and up. P.A.D.R.E. is for parents with a child up to age 6 or expecting parents.",
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call OSAR at (806) 349-5644 for a screening, or call (806) 337-1000.",
+      "apply_url": null,
+      "phone": "(806) 349-5644",
+      "address": "2002 Hardy Street",
+      "city": "Amarillo",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.texaspanhandlecenters.org/substance-use-services/",
+      "confidence": "high",
+      "notes": "The uninsured requirement applies to OSAR; general outpatient is for adults 18+. Toll free 1-800-299-3699."
+    },
+    {
+      "id": "texas-panhandle-centers-homeless-services",
+      "name": "Homeless Services",
+      "organization": "Texas Panhandle Centers",
+      "categories": [
+        "mental_health",
+        "housing"
+      ],
+      "description_en": "Mental health outreach and support for people experiencing homelessness in Amarillo.",
+      "eligibility_summary_en": "People who are homeless or at risk of homelessness and have mental health needs.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Homeless Services office.",
+      "apply_url": null,
+      "phone": "(806) 371-7716",
+      "address": "723 N. Taylor",
+      "city": "Amarillo",
+      "zip": "79107",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.texaspanhandlecenters.org/about/locations",
+      "confidence": "high",
+      "notes": "Hours not listed on source. Adult services page describes the PATH program for people experiencing homelessness."
+    },
+    {
+      "id": "texas-panhandle-centers-eci",
+      "name": "Early Childhood Intervention (ECI)",
+      "organization": "Texas Panhandle Centers",
+      "categories": [
+        "school_childcare",
+        "healthcare"
+      ],
+      "description_en": "Therapy and support for babies and toddlers with developmental delays or disabilities, such as speech, physical, and occupational therapy.",
+      "eligibility_summary_en": "Children from birth to age 3 with developmental delays or disabilities in Potter and Randall counties.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "max_age": 3,
+        "residency_required": "Potter or Randall County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call ECI at (806) 358-8974 to make a referral.",
+      "apply_url": null,
+      "phone": "(806) 358-8974",
+      "address": "901 Wallace Blvd",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.texaspanhandlecenters.org/early-childhood-intervention/",
+      "confidence": "high",
+      "notes": "Cost not stated on source page."
+    },
+    {
+      "id": "potter-county-mental-health-department",
+      "name": "Potter County Mental Health Department",
+      "organization": "Potter County",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A Potter County office that works on mental health matters for county residents.",
+      "eligibility_summary_en": "Potter County residents.",
+      "eligibility_rules": {
+        "residency_required": "Potter County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the department for information.",
+      "apply_url": null,
+      "phone": "(806) 379-2252",
+      "address": "500 South Fillmore, Suite 103",
+      "city": "Amarillo",
+      "zip": "79101",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Potter"
+      ],
+      "source_url": "https://www.co.potter.tx.us/page/Mental.Health",
+      "confidence": "medium",
+      "notes": "County page gives very little detail on services; call first. For crisis, use Texas Panhandle Centers crisis line or 988."
+    },
+    {
+      "id": "community-health-center-of-lubbock",
+      "name": "Community Health Center of Lubbock",
+      "organization": "Community Health Center of Lubbock",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A federally funded community health center with 8 clinics in Lubbock. It offers primary care, dental, eye care, pediatrics, women's health, pharmacy, and counseling.",
+      "eligibility_summary_en": "Open to people in the Lubbock area, including those with low income or no insurance.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 765-2611 to make an appointment. Same-day services are offered.",
+      "apply_url": null,
+      "phone": "(806) 765-2611",
+      "address": "1610 5th Street",
+      "city": "Lubbock",
+      "zip": "79401",
+      "hours": "Monday-Friday 8am-5pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.chclubbock.org/",
+      "confidence": "high",
+      "notes": "HHS-funded health center with PHS deemed status (FQHC). Sliding fee not described on homepage; ask when calling. Other sites: 96 West, Arnett Benson, Chatman, Community Dental, Medical Office Plaza, Parkway, West Medical and Dental."
+    },
+    {
+      "id": "lubbock-county-medical-indigent-lcmi",
+      "name": "Lubbock County Medical Indigent (LCMI) Program - Blue Card",
+      "organization": "UMC Health System (Lubbock County Hospital District)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps low-income Lubbock County residents get health care at UMC at low or no cost.",
+      "eligibility_summary_en": "People living in Lubbock County who meet income and asset guidelines.",
+      "eligibility_rules": {
+        "residency_required": "Lubbock County resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of Lubbock County residency"
+      ],
+      "how_to_apply": "Call the UMC Resource Assistance Department at (806) 775-9014 or 1-800-383-8039; a counselor will help you apply.",
+      "apply_url": null,
+      "phone": "(806) 775-9014",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday 8am-5pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free or reduced cost if approved",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.umchealthsystem.com/patients-visitors/patient-financial-services/",
+      "confidence": "high",
+      "notes": "Program guidelines PDF is linked from the source page. Uninsured patients also get an automatic discount on UMC hospital services (Patient Accounting (806) 761-0878)."
+    },
+    {
+      "id": "heal-the-city-free-clinic-amarillo",
+      "name": "Heal the City Free Clinic",
+      "organization": "Heal the City",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A free clinic in Amarillo for people without insurance. It offers chronic and acute care, a free pharmacy, lab, children's shots, mental health care, and dental and specialist referrals.",
+      "eligibility_summary_en": "For people in the Amarillo area who do not have health insurance.",
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 231-0364 to make an appointment. The acute clinic is by appointment only (no walk-ins).",
+      "apply_url": null,
+      "phone": "(806) 231-0364",
+      "address": "609 S. Carolina Street",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": "Chronic care clinic: Mon 8:30am-6pm; Tue-Thu 8:30am-5pm; Fri 8:30am-12pm. Acute clinic by appointment.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.healthecityamarillo.com/",
+      "confidence": "high",
+      "notes": "After-hours number (806) 803-9487. Pharmacy and lab have separate hours listed on site."
+    },
+    {
+      "id": "lubbock-impact-health-wellness",
+      "name": "Lubbock Impact Health and Wellness Ministries",
+      "organization": "Lubbock Impact",
+      "categories": [
+        "healthcare",
+        "food",
+        "mental_health"
+      ],
+      "description_en": "Volunteers provide medical, eye care, and counseling help, plus food and clothing, for working families with low income.",
+      "eligibility_summary_en": "For working people with low income in Lubbock.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 799-4329 to ask about clinic days and how to be seen.",
+      "apply_url": null,
+      "phone": "(806) 799-4329",
+      "address": "2707 34th Street",
+      "city": "Lubbock",
+      "zip": "79410",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://lubbockimpact.com/",
+      "confidence": "medium",
+      "notes": "Clinic hours and eligibility details are not on the homepage; call first."
+    },
+    {
+      "id": "amarillo-public-health-clinic",
+      "name": "Amarillo Public Health Clinic",
+      "organization": "City of Amarillo Public Health Department",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The public health clinic offers shots (immunizations), testing and treatment for sexually transmitted diseases, and tuberculosis services.",
+      "eligibility_summary_en": "Serves people in Potter and Randall counties.",
+      "eligibility_rules": {
+        "residency_required": "Potter or Randall County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 378-6300 or visit the clinic.",
+      "apply_url": null,
+      "phone": "(806) 378-6300",
+      "address": "850 Martin Rd",
+      "city": "Amarillo",
+      "zip": "79107",
+      "hours": "Monday-Thursday 7:30am-6:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.amarillo.gov/public-health/",
+      "confidence": "high",
+      "notes": "Main office is at 1000 Martin Rd. Fees not stated on source."
+    },
+    {
+      "id": "amarillo-wic",
+      "name": "Amarillo WIC Program",
+      "organization": "City of Amarillo Public Health Department",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and children under 5.",
+      "eligibility_summary_en": "Pregnant, breastfeeding (up to 1 year), or postpartum (up to 6 months) women, infants, and children under 5 with income at or below 185% of the federal poverty level. Must live in Texas; U.S. citizenship is not required.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "child_under_5": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 371-1119 or visit a WIC clinic to set up an appointment.",
+      "apply_url": null,
+      "phone": "(806) 371-1119",
+      "address": "411 S Austin St",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": "Mon-Fri 9am-5:30pm; 1st, 3rd, 5th Saturdays 8:30am-3:45pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.amarillo.gov/wic/",
+      "confidence": "high",
+      "notes": "North Branch: 1500 NE 24th Ave (Tuesdays and 2nd/4th Saturdays). Canyon satellite at 55 Hunsley Rd on the 3rd Monday."
+    },
+    {
+      "id": "spcaa-wic-lubbock",
+      "name": "SPCAA WIC Clinics (Lubbock)",
+      "organization": "South Plains Community Action Association",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and young children. SPCAA runs four WIC clinics in Lubbock.",
+      "eligibility_summary_en": "Pregnant or breastfeeding women, infants, and children under 5 with income at or below 185% of poverty, or who get SNAP, Medicaid, or TANF.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start an application online or use the clinic finder to contact a Lubbock clinic (Celia Ann, Central, Freedom, or Parkway).",
+      "apply_url": "https://www.spcaawic.org/Clinics",
+      "phone": "(806) 894-6104",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.spcaawic.org/Clinics",
+      "confidence": "medium",
+      "notes": "Clinic addresses and hours were not shown on the clinic list; phone is SPCAA main office in Levelland ((800) 782-5028 toll free)."
+    },
+    {
+      "id": "south-plains-food-bank",
+      "name": "South Plains Food Bank",
+      "organization": "South Plains Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The regional food bank for Lubbock and the South Plains. It offers food help through partner pantries, mobile pantries, senior boxes, kids' meal programs, and SNAP application help.",
+      "eligibility_summary_en": "People who need food in the 19 South Plains counties, including Lubbock County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Fill out a food assistance application or call (806) 763-3003. You can also text (806) 642-6724. For urgent needs, call 2-1-1.",
+      "apply_url": null,
+      "phone": "(806) 763-3003",
+      "address": "5605 Martin Luther King Jr. Blvd.",
+      "city": "Lubbock",
+      "zip": "79404",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.spfb.org/",
+      "confidence": "high",
+      "notes": "Also helps households affected by SNAP changes."
+    },
+    {
+      "id": "high-plains-food-bank",
+      "name": "High Plains Food Bank",
+      "organization": "High Plains Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The regional food bank for the Texas Panhandle. It supplies over 140 partner pantries and runs senior food, Kids Cafe, emergency food (TEFAP), and mobile food programs.",
+      "eligibility_summary_en": "People who need food in 29 Texas Panhandle counties, including Potter and Randall.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food tool on the website or call (806) 374-8562 to find a pantry near you.",
+      "apply_url": "https://www.hpfb.org/",
+      "phone": "(806) 374-8562",
+      "address": "1910 SE 8th Avenue",
+      "city": "Amarillo",
+      "zip": "79102",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.hpfb.org/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "high-plains-food-bank-benefit-assistance",
+      "name": "Benefit Assistance (SNAP, Medicaid, CHIP, TANF application help)",
+      "organization": "High Plains Food Bank",
+      "categories": [
+        "food",
+        "healthcare",
+        "cash_assistance"
+      ],
+      "description_en": "Staff help you apply for SNAP, Medicaid, CHIP, and TANF, and refer you for rent, utility, and medical help.",
+      "eligibility_summary_en": "Texas Panhandle residents who need help applying for benefits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Fill out the online form on the website to schedule an appointment, or call (806) 374-8562.",
+      "apply_url": "https://www.hpfb.org/benefit-assistance",
+      "phone": "(806) 374-8562",
+      "address": "1910 SE 8th Avenue",
+      "city": "Amarillo",
+      "zip": "79102",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.hpfb.org/benefit-assistance",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "panhandle-community-services-utility-assistance",
+      "name": "Utility Assistance Program",
+      "organization": "Panhandle Community Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay utility bills to stop or prevent shut-offs, and teaches ways to save energy.",
+      "eligibility_summary_en": "Low-income households in the Texas Panhandle service area. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Panhandle Community Services at (806) 372-2531 or toll free (800) 676-4727.",
+      "apply_url": null,
+      "phone": "(806) 372-2531",
+      "address": "1309 SW 8th Ave",
+      "city": "Amarillo",
+      "zip": "79101",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.pcsvcs.org/",
+      "confidence": "medium",
+      "notes": "Source did not list exact counties or income limits; PCS references serving the top 26 counties of Texas. Also offers weatherization, Housing Choice Vouchers, transportation, and tax preparation."
+    },
+    {
+      "id": "catholic-charities-lubbock-direct-assistance",
+      "name": "Direct Client Assistance Program",
+      "organization": "Catholic Charities Diocese of Lubbock",
+      "categories": [
+        "utilities",
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Helps adults and seniors with utilities, food, hygiene items, eye exams and glasses, and prescriptions. Also offers counseling for youth, parenting classes, and immigration help.",
+      "eligibility_summary_en": "Adults and elderly people in need in the Lubbock area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 765-8475. Spanish help is available at the same number.",
+      "apply_url": null,
+      "phone": "(806) 765-8475",
+      "address": "102 Ave. J",
+      "city": "Lubbock",
+      "zip": "79401",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.cclubbock.org/",
+      "confidence": "high",
+      "notes": "Hours and exact service area not listed on homepage."
+    },
+    {
+      "id": "lubbock-housing-authority",
+      "name": "Lubbock Housing Authority - Public Housing and Housing Choice Vouchers",
+      "organization": "Lubbock Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Offers public housing, Section 8 Housing Choice Vouchers, and a Family Self-Sufficiency program to help low-income families pay rent.",
+      "eligibility_summary_en": "Low-income families, seniors, and people with disabilities. Income generally cannot be over 50% of area median income. Must be a U.S. citizen or have eligible immigration status.",
+      "eligibility_rules": {
+        "residency_required": "Lubbock area"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the housing authority's application portal or call (806) 776-2300.",
+      "apply_url": "https://www.pha-web.com/portals/onlineApplication/1821",
+      "phone": "(806) 776-2300",
+      "address": "1708 Crickets Avenue",
+      "city": "Lubbock",
+      "zip": "79401",
+      "hours": "Mon-Thu 7:00am-4:00pm; Fri 7:00am-11:00am",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.lubbockha.org/programs.aspx",
+      "confidence": "high",
+      "notes": "Background checks apply. 75% of vouchers are reserved for households under 30% of area median income. Waitlist may apply."
+    },
+    {
+      "id": "amarillo-community-development",
+      "name": "City of Amarillo Community Development (Housing Vouchers, Rent Assistance, Homeless Services)",
+      "organization": "City of Amarillo",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "The city office runs Housing Choice Vouchers, rent help, home repair programs, and homeless services.",
+      "eligibility_summary_en": "Amarillo residents with low income or who are homeless. Call for rules for each program.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 378-3098 or visit the Simms Municipal Building.",
+      "apply_url": "https://www.amarillo.gov/community-development/",
+      "phone": "(806) 378-3098",
+      "address": "808 S Buchanan St, First Floor (Simms Municipal Building)",
+      "city": "Amarillo",
+      "zip": "79101",
+      "hours": "Mon-Wed 8:30am-4:30pm; Thu 8:30am-6:00pm; Fri 8:30am-1:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.amarillo.gov/community-development/",
+      "confidence": "high",
+      "notes": "Eligibility details for each program not listed on source; alternate phone (806) 378-9389."
+    },
+    {
+      "id": "faith-city-mission-amarillo",
+      "name": "Faith City Mission Shelter",
+      "organization": "Faith City Mission",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Overnight shelter for men, and for women with or without children, plus meals and clothing in Amarillo.",
+      "eligibility_summary_en": "People experiencing homelessness in Amarillo.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (806) 373-6402 or go to the mission.",
+      "apply_url": null,
+      "phone": "(806) 373-6402",
+      "address": "600 North Tyler Street",
+      "city": "Amarillo",
+      "zip": "79107",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://faithcity.org/",
+      "confidence": "high",
+      "notes": "Faith-based 501(c)(3). Also runs long-term recovery programs and an employment work program. Hours not listed on homepage."
+    },
+    {
+      "id": "open-door-lubbock",
+      "name": "Open Door Community Center and Supportive Housing",
+      "organization": "Open Door Lubbock",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "A day community center with meals, plus supportive housing and survivor housing for people leaving domestic violence or trafficking.",
+      "eligibility_summary_en": "People in Lubbock experiencing poverty, homelessness, domestic violence, or sex trafficking. Religious participation is not required.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit the community center during open hours or call (806) 687-6876.",
+      "apply_url": null,
+      "phone": "(806) 687-6876",
+      "address": "1916 13th St.",
+      "city": "Lubbock",
+      "zip": "79401",
+      "hours": "Mon-Fri 7:30am-2:30pm; Sun 7am-12pm (subject to change)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://opendoorlbk.org/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "womens-protective-services-lubbock",
+      "name": "Women's Protective Services of Lubbock - 24/7 Hotline and Shelter",
+      "organization": "Women's Protective Services of Lubbock",
+      "categories": [
+        "housing",
+        "legal",
+        "mental_health"
+      ],
+      "description_en": "Crisis help, emergency shelter, counseling, legal help, and court support for women facing abuse and their children.",
+      "eligibility_summary_en": "Women experiencing domestic violence and their children in 12 West Texas counties including Lubbock.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 hotline at (806) 747-6491.",
+      "apply_url": null,
+      "phone": "(806) 747-6491",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.wpslubbock.org/",
+      "confidence": "high",
+      "notes": "Second hotline number (806) 748-5292. Shelter address is confidential."
+    },
+    {
+      "id": "workforce-solutions-south-plains-child-care",
+      "name": "Child Care Services (Child Care Scholarships) - Workforce Solutions South Plains",
+      "organization": "Workforce Solutions South Plains",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low- and moderate-income families pay for child care while parents work, go to school, or train.",
+      "eligibility_summary_en": "Parents who work, go to school, or train at least 25 hours a week (50 combined for two parents), with household income at or below 85% of state median income, for children under 13 (under 19 with a disability).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 12,
+        "residency_required": "Lives in the 15-county South Plains workforce area (includes Lubbock County)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply through the Texas Child Care Connection portal, or call (806) 744-3572 for help.",
+      "apply_url": "https://www.childcare.texas.gov/",
+      "phone": "(806) 744-3572",
+      "address": "2002 West Loop 289, Ste. 117 (Wayland Plaza)",
+      "city": "Lubbock",
+      "zip": "79407",
+      "hours": "Mon-Thu 8:00am-5:00pm; Fri 8:00am-12:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent copay based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://workforcesouthplains.org/child-care-services/",
+      "confidence": "high",
+      "notes": "Source says CCS enrollment is currently CLOSED with an average wait of about 15 months. Example limit: family of 3 at $77,315/year. Email childcareservices@spworkforce.org."
+    },
+    {
+      "id": "workforce-solutions-panhandle-child-care",
+      "name": "Child Care Services (Child Care Scholarships) - Workforce Solutions Panhandle",
+      "organization": "Workforce Solutions Panhandle",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low- to moderate-income families pay for child care while parents work, go to school, or take part in training.",
+      "eligibility_summary_en": "Families in the 26-county Texas Panhandle area who meet work/school rules and income limits.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply through the Texas child care scholarships portal, or call (806) 372-5521 for help.",
+      "apply_url": "https://www.childcare.texas.gov/for-families/child-care-scholarships",
+      "phone": "(806) 372-5521",
+      "address": "3120 Eddy St.",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent copay based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://wspanhandle.com/child-care/",
+      "confidence": "high",
+      "notes": "Income limits not listed on the page; see parent FAQs at wspanhandle.com/child-care/for-parents/faq/. Toll free 1-877-967-5228."
+    },
+    {
+      "id": "spcaa-head-start-lubbock",
+      "name": "SPCAA Head Start and Early Head Start",
+      "organization": "South Plains Community Action Association",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning for young children, with health screenings, healthy meals, and family support. Lubbock centers include Eddie Richardson Center and Carver Center.",
+      "eligibility_summary_en": "Head Start is for children 3-5 (must be 3 by Sept 1). Early Head Start is for babies up to 30 months and pregnant women. Families must meet federal poverty guidelines, or be homeless, in foster care, or getting TANF, SNAP, or SSI.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Register online through the ChildPlus portal (English or Spanish), or call (806) 894-2207.",
+      "apply_url": "https://www.spcaa.org/home/head-start-program",
+      "phone": "(806) 894-2207",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.spcaa.org/home/head-start-program",
+      "confidence": "high",
+      "notes": "Families meeting federal poverty guidelines qualify; children with disabilities are also served. 2026-2027 registration open per source."
+    },
+    {
+      "id": "amarillo-isd-pre-k",
+      "name": "Amarillo ISD Free Pre-K",
+      "organization": "Amarillo Independent School District",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free pre-kindergarten for 3- and 4-year-olds in Amarillo ISD.",
+      "eligibility_summary_en": "Children who are 3 or 4 by September 1 and are educationally disadvantaged (low income), learning English, homeless, from military families, in foster care, or children of first responders.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "min_age": 3,
+        "max_age": 4
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Birth certificate",
+        "Current immunization records",
+        "Social Security card (if available)",
+        "Proof of address (utility bill, lease, or mortgage)"
+      ],
+      "how_to_apply": "Find your home campus with the School Locator, then complete the online registration form. Staff will contact you to finish.",
+      "apply_url": "https://www.amaisd.org/pre-k-information-home",
+      "phone": "(806) 326-1320",
+      "address": "7200 I-40 West",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.amaisd.org/pre-k-information-home",
+      "confidence": "high",
+      "notes": "Spanish-speaking contact: (806) 326-1155. 3-year-old pre-K only at select campuses."
+    },
+    {
+      "id": "workforce-solutions-south-plains-lubbock",
+      "name": "Workforce Solutions South Plains - Lubbock Career Center",
+      "organization": "Workforce Solutions South Plains",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, job readiness workshops, on-the-job training, WIOA training programs, and help with unemployment claims.",
+      "eligibility_summary_en": "Anyone looking for work in the South Plains area. Training programs have extra rules.",
+      "eligibility_rules": {
+        "residency_required": "15-county South Plains workforce area (includes Lubbock County)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit the Lubbock career center or call (806) 765-5038. Search jobs at WorkInTexas.com.",
+      "apply_url": "https://workforcesouthplains.org/job-seeker/",
+      "phone": "(806) 765-5038",
+      "address": "2002 West Loop 289, Ste. 117",
+      "city": "Lubbock",
+      "zip": "79407",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://workforcesouthplains.org/locations/",
+      "confidence": "high",
+      "notes": "Toll free (866) 765-5038. Serves TANF customers, veterans, and people with disabilities (Vocational Rehabilitation referrals)."
+    },
+    {
+      "id": "workforce-solutions-south-plains-wioa",
+      "name": "WIOA Adult, Dislocated Worker and Youth Training",
+      "organization": "Workforce Solutions South Plains",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays for job training and gives career help for adults, laid-off workers, and youth. Youth services include GED prep, tutoring, and paid work experience.",
+      "eligibility_summary_en": "Adults and dislocated workers in the area; youth programs are for ages 14-24 who live in the 15-county area and can work in the U.S.",
+      "eligibility_rules": {
+        "residency_required": "15-county South Plains workforce area (includes Lubbock County)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the online WIOA application, or visit a Workforce Solutions South Plains office.",
+      "apply_url": "https://sql-web-srv.spworkforce.org/Forms/WIOA-Application_11-24",
+      "phone": "(806) 765-5038",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://workforcesouthplains.org/wioa-adult-youth/",
+      "confidence": "high",
+      "notes": "Males 18+ must be registered with Selective Service. Phone is the Lubbock career center."
+    },
+    {
+      "id": "workforce-solutions-panhandle-amarillo",
+      "name": "Workforce Solutions Panhandle - Amarillo Center",
+      "organization": "Workforce Solutions Panhandle",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free resume help, job matching, job readiness classes, and money for job training (tuition, fees, supplies). Also serves youth and veterans.",
+      "eligibility_summary_en": "Job seekers in the Texas Panhandle. Priority for veterans and spouses, low-income people, foster youth, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Amarillo center or call (806) 372-5521. Search jobs at WorkInTexas.com.",
+      "apply_url": "https://wspanhandle.com/job-seekers/",
+      "phone": "(806) 372-5521",
+      "address": "3120 Eddy St.",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://wspanhandle.com/contact/",
+      "confidence": "high",
+      "notes": "Toll free 1-877-967-5228."
+    },
+    {
+      "id": "legal-aid-northwest-texas-lubbock",
+      "name": "Legal Aid of NorthWest Texas - Lubbock Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, including evictions and housing, custody, domestic violence, debt, benefits, and wills.",
+      "eligibility_summary_en": "People with low income who live in the service area. You likely qualify if you get SNAP, Medicaid, SSI, WIC, or live in public housing. Must be a U.S. citizen or permanent resident, with some exceptions.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the Legal Aid Line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(806) 763-4557",
+      "address": "1711 Avenue J",
+      "city": "Lubbock",
+      "zip": "79401",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "No criminal or personal injury cases. Landlord-Tenant Hotline: 855-548-8457. Toll free Lubbock: 800-933-4557."
+    },
+    {
+      "id": "legal-aid-northwest-texas-amarillo",
+      "name": "Legal Aid of NorthWest Texas - Amarillo Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, including evictions and housing, custody, domestic violence, debt, benefits, and wills.",
+      "eligibility_summary_en": "People with low income who live in the service area. You likely qualify if you get SNAP, Medicaid, SSI, WIC, or live in public housing. Must be a U.S. citizen or permanent resident, with some exceptions.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the Legal Aid Line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(806) 373-6808",
+      "address": "203 SW 8th Ave., Ste. 600",
+      "city": "Amarillo",
+      "zip": "79101",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "No criminal or personal injury cases. Landlord-Tenant Hotline: 855-548-8457. Toll free Amarillo: 800-955-6808."
+    },
+    {
+      "id": "legal-aid-northwest-texas-tenant-hotline",
+      "name": "Landlord-Tenant Hotline",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "A phone line for renters who need legal advice about eviction, repairs, or other landlord problems.",
+      "eligibility_summary_en": "Low-income renters in the Legal Aid of NorthWest Texas service area, including Lubbock and Amarillo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 855-548-8457.",
+      "apply_url": null,
+      "phone": "(855) 548-8457",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock",
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://legalaidtx.org/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "texas-tech-law-clinics",
+      "name": "Texas Tech University School of Law Clinics",
+      "organization": "Texas Tech University School of Law",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Law students, supervised by professors, help low-income people with family law, public benefits, consumer, estate planning, and IRS tax problems.",
+      "eligibility_summary_en": "Low-income individuals. The Tax Clinic serves low-income residents of West Texas, the Panhandle, and Eastern New Mexico.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the School of Law at (806) 742-3791 to ask about clinic help.",
+      "apply_url": null,
+      "phone": "(806) 742-3791",
+      "address": "3311 18th Street",
+      "city": "Lubbock",
+      "zip": "79409",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock",
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.depts.ttu.edu/law/clinics-and-externships/clinics/index.php",
+      "confidence": "medium",
+      "notes": "Clinic availability depends on the school term. Potter/Randall coverage applies to the Tax Clinic; other clinics mainly serve the Lubbock area."
+    },
+    {
+      "id": "amarillo-city-transit-reduced-fare",
+      "name": "Amarillo City Transit Reduced Fare Card",
+      "organization": "City of Amarillo - Amarillo City Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Seniors, students, and people with disabilities can ride the bus for half price with a reduced fare card.",
+      "eligibility_summary_en": "Seniors, students, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Seniors: proof of age",
+        "Students: student ID",
+        "Disability: Social Security award letter or Medicare card"
+      ],
+      "how_to_apply": "Bring your documents to a transit office during business hours. Staff will make your card on the spot.",
+      "apply_url": null,
+      "phone": "(806) 378-3095",
+      "address": "509 S Bowie St (Multimodal Transfer Station)",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "50% off regular fares",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Potter",
+        "Randall"
+      ],
+      "source_url": "https://www.amarillo.gov/amarillo-city-transit/reduced-fare/",
+      "confidence": "high",
+      "notes": "Second office: 801 SE 23rd Ave. ACT-Connect paratransit is available for certified riders with disabilities."
+    },
+    {
+      "id": "citibus-citiaccess-lubbock",
+      "name": "CitiAccess Paratransit",
+      "organization": "Citibus (Lubbock)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door ride service in Lubbock for approved riders who cannot use the regular bus.",
+      "eligibility_summary_en": "Riders approved for CitiAccess (usually people with disabilities).",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Approved riders call customer service at (806) 775-3640 to book a ride.",
+      "apply_url": null,
+      "phone": "(806) 775-3640",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.citibus.com/",
+      "confidence": "medium",
+      "notes": "Eligibility application details and reduced fare info were not on the Citibus homepage; call customer service."
+    }
+  ]
+}

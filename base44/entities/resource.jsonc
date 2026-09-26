@@ -15,6 +15,10 @@
     "name": {
       "type": "string"
     },
+    "name_es": {
+      "type": "string",
+      "description": "Spanish name (optional)"
+    },
     "organization": {
       "type": "string"
     },

@@ -1,0 +1,1349 @@
+{
+  "scope": "Coastal Bend (Nueces, San Patricio, Victoria, Kleberg) - healthcare, mental health, childcare, employment, legal",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "nueces-center-mental-health-idd",
+      "name": "Nueces Center for Mental Health & Intellectual Disabilities (Local Mental Health Authority)",
+      "organization": "Nueces Center for Mental Health & Intellectual Disabilities",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Nueces County. It offers crisis help, adult and youth mental health care, and services for people with intellectual and developmental disabilities.",
+      "eligibility_summary_en": "For Nueces County residents who need mental health, crisis, or disability services.",
+      "eligibility_rules": {
+        "residency_required": "Nueces County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call the 24-hour crisis line at (888) 767-4493. For other services, call the main number at (361) 886-6900.",
+      "apply_url": null,
+      "phone": "(361) 886-6900",
+      "address": "3733 S. Port Ave. Bldg. B",
+      "city": "Corpus Christi",
+      "zip": "78415",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "http://www.ncmhid.org/",
+      "confidence": "high",
+      "notes": "24-hour crisis line: (888) 767-4493. The old bhcnc.org (Behavioral Health Center of Nueces County) address redirects to this site. Hours not listed on the site."
+    },
+    {
+      "id": "coastal-plains-kingsville-clinic",
+      "name": "Coastal Plains Integrated Health - Kleberg-Kenedy County Clinic",
+      "organization": "Coastal Plains Integrated Health (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Public mental health clinic in Kingsville. It offers adult and youth mental health care, substance use help, disability (IDD) services, veteran services, and 24/7 crisis help.",
+      "eligibility_summary_en": "For people living in Coastal Plains' 9-county area, including Kleberg County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Kingsville clinic at (361) 592-6481 or the toll-free line (888) 819-5312. In a crisis, call the 24/7 crisis hotline at (800) 841-6467.",
+      "apply_url": null,
+      "phone": "(361) 592-6481",
+      "address": "1621 East Corral",
+      "city": "Kingsville",
+      "zip": "78363",
+      "hours": "Monday-Friday 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fee schedule based on ability to pay (see provider fee schedule)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kleberg"
+      ],
+      "source_url": "https://coastalplainsctr.org/kleberg-kenedy/",
+      "confidence": "high",
+      "notes": "24/7 crisis hotline: (800) 841-6467. Youth Empowerment Services inquiry line: (800) 831-6467. Main office: 200 Marriott Drive, Portland, TX 78374, (361) 777-3991."
+    },
+    {
+      "id": "coastal-plains-san-patricio-clinic",
+      "name": "Coastal Plains Integrated Health - San Patricio County Clinic (Taft)",
+      "organization": "Coastal Plains Integrated Health (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Public mental health clinic in Taft for San Patricio County. It offers mental health care, substance use help, disability (IDD) services, and 24/7 crisis help.",
+      "eligibility_summary_en": "For people living in Coastal Plains' 9-county area, including San Patricio County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Taft clinic at (361) 528-4516 or the toll-free line (888) 819-5312. In a crisis, call the 24/7 crisis hotline at (800) 841-6467.",
+      "apply_url": null,
+      "phone": "(361) 528-4516",
+      "address": "201 Roots Ave.",
+      "city": "Taft",
+      "zip": "78390",
+      "hours": "Monday-Friday 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fee schedule based on ability to pay (see provider fee schedule)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://coastalplainsctr.org/san-patricio/",
+      "confidence": "high",
+      "notes": "24/7 crisis hotline: (800) 841-6467. Main location: 200 Marriott Drive, Portland, TX 78374 (San Patricio County), main phone (361) 777-3991."
+    },
+    {
+      "id": "gulf-bend-center",
+      "name": "Gulf Bend Center (Local Mental Health Authority)",
+      "organization": "Gulf Bend MHDD Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Public mental health center in Victoria. It offers adult and youth mental health care, substance use treatment, disability (IDD) services, veteran services, and 24-hour crisis help.",
+      "eligibility_summary_en": "For residents of Calhoun, DeWitt, Goliad, Jackson, Refugio, Lavaca and Victoria counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 575-0611 or (800) 421-8825 for services. In a crisis, call the 24-hour line at (877) 723-3422.",
+      "apply_url": null,
+      "phone": "(361) 575-0611",
+      "address": "6502 Nursery Drive, Suite 100",
+      "city": "Victoria",
+      "zip": "77904",
+      "hours": "Monday-Friday 8 am-5 pm; open until 7 pm the 1st Thursday (Victoria)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.gulfbend.org/",
+      "confidence": "high",
+      "notes": "24-hour crisis line: (877) SAFEGBC / (877) 723-3422. Also serves Calhoun, DeWitt, Goliad, Jackson, Refugio and Lavaca counties."
+    },
+    {
+      "id": "wfscb-mission-plaza-career-center",
+      "name": "Workforce Solutions Coastal Bend - Mission Plaza Career Center",
+      "organization": "Workforce Solutions Coastal Bend",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job help center in Corpus Christi. Staff help with job searches, resumes, interview practice, career coaching, and training scholarships.",
+      "eligibility_summary_en": "For job seekers in the Coastal Bend area. You do not have to be unemployed to use services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the career center or call (361) 882-7491. Staff can also help by phone, text, and email.",
+      "apply_url": "https://www.workforcesolutionscb.org/career-centers/",
+      "phone": "(361) 882-7491",
+      "address": "4981 Ayers Street",
+      "city": "Corpus Christi",
+      "zip": "78415",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nueces",
+        "San Patricio",
+        "Kleberg"
+      ],
+      "source_url": "https://www.workforcesolutionscb.org/career-centers/",
+      "confidence": "high",
+      "notes": "Replaced the former Staples St. career center in May 2026. The board serves 11 counties including Nueces, San Patricio and Kleberg. Hours not listed on the site."
+    },
+    {
+      "id": "wfscb-kingsville-career-center",
+      "name": "Workforce Solutions Coastal Bend - Kingsville Career Center",
+      "organization": "Workforce Solutions Coastal Bend",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job help center in Kingsville on the Coastal Bend College campus. It helps with job searches, resumes, and job training.",
+      "eligibility_summary_en": "For job seekers in the Kingsville and Kleberg County area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the career center or call (361) 592-1006.",
+      "apply_url": "https://www.workforcesolutionscb.org/career-centers/",
+      "phone": "(361) 592-1006",
+      "address": "1814 S. Brahma Blvd. (Coastal Bend College Campus)",
+      "city": "Kingsville",
+      "zip": "78363",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kleberg"
+      ],
+      "source_url": "https://www.workforcesolutionscb.org/career-centers/",
+      "confidence": "high",
+      "notes": "Hours not listed on the site; call ahead."
+    },
+    {
+      "id": "wfscb-sinton-career-center",
+      "name": "Workforce Solutions Coastal Bend - Sinton Career Center",
+      "organization": "Workforce Solutions Coastal Bend",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job help center in Sinton. It helps with job searches, resumes, and job training.",
+      "eligibility_summary_en": "For job seekers in the San Patricio County area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the career center or call (361) 364-3284 or (800) 727-4356.",
+      "apply_url": "https://www.workforcesolutionscb.org/career-centers/",
+      "phone": "(361) 364-3284",
+      "address": "1113 East Sinton (Pirate Plaza)",
+      "city": "Sinton",
+      "zip": "78387",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://www.workforcesolutionscb.org/career-centers/",
+      "confidence": "high",
+      "notes": "Hours not listed on the site; call ahead."
+    },
+    {
+      "id": "wfsgc-victoria-workforce-center",
+      "name": "Workforce Solutions Golden Crescent - Victoria Workforce Center",
+      "organization": "Workforce Solutions Golden Crescent",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job help center in Victoria. It offers job search help, career exploration, wage information, and on-the-job training, with services for veterans, seniors, people with disabilities, and youth.",
+      "eligibility_summary_en": "For job seekers in the Golden Crescent area, including Victoria County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call (361) 578-0341.",
+      "apply_url": "https://www.gcworkforce.org/workforce-centers",
+      "phone": "(361) 578-0341",
+      "address": "1905 Leary Lane",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": "8:00 a.m. to 5:00 p.m., Monday through Friday",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.gcworkforce.org/workforce-centers",
+      "confidence": "high",
+      "notes": "Board office phone: (361) 576-5872. Relay TX: 711. Serves Gonzales, Lavaca, DeWitt, Jackson, Victoria, Goliad and Calhoun counties."
+    },
+    {
+      "id": "wfscb-child-care-assistance",
+      "name": "Child Care Financial Assistance - Workforce Solutions Coastal Bend",
+      "organization": "Workforce Solutions Coastal Bend",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low-income families pay for child care while parents work or go to school or training.",
+      "eligibility_summary_en": "Families in the 11-county Coastal Bend area with children under 13 (under 19 with a disability), income at or below 85% of State Median Income, and parents working or in school at least 25 hours a week (single parent) or 50 combined hours (two parents).",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Child's birth certificate, current U.S. passport, or hospital/public health/church record",
+        "Proof of income",
+        "Custody documents"
+      ],
+      "how_to_apply": "Apply online through the Texas Child Care Connection portal at childcare.twc.texas.gov, or call (361) 885-3010 for help.",
+      "apply_url": "https://childcare.twc.texas.gov",
+      "phone": "(361) 885-3010",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or reduced cost; a parent share of cost may apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nueces",
+        "San Patricio",
+        "Kleberg"
+      ],
+      "source_url": "https://www.workforcesolutionscb.org/child-care",
+      "confidence": "high",
+      "notes": "Income limit is 85% of State Median Income (not FPL). Family assets may not exceed $1 million. Children must be U.S. citizens or legal immigrants. A document checklist is on the provider site."
+    },
+    {
+      "id": "wfsgc-child-care-assistance",
+      "name": "Child Care Assistance - Workforce Solutions Golden Crescent",
+      "organization": "Workforce Solutions Golden Crescent",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low-income families in the Golden Crescent area pay for child care while parents work, train, or go to school.",
+      "eligibility_summary_en": "Families with income at or below 85% of State Median Income where parents work at least 25 hours a week (single parent) or 50 hours (two parents). TANF families, teen parents, families with children with disabilities, and families experiencing homelessness may also qualify.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 576-5872 or visit 1905 Leary Lane in Victoria. Enrollment forms are on the website.",
+      "apply_url": "https://www.gcworkforce.org/child-care-assistance",
+      "phone": "(361) 576-5872",
+      "address": "1905 Leary Lane",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee (parent share of cost based on income)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.gcworkforce.org/child-care-assistance",
+      "confidence": "high",
+      "notes": "Services are subject to a waiting list. Uses a 2026 sliding fee scale."
+    },
+    {
+      "id": "cacost-head-start-birth-to-five",
+      "name": "Head Start Birth to Five - Community Action Corporation of South Texas",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning and child care for young children from 6 weeks to 5 years old. Centers include Kingsville, Sinton, Mathis, Odem, Portland, Taft, Gregory, and Aransas Pass.",
+      "eligibility_summary_en": "For children 6 weeks to 5 years old in families that meet federal poverty guidelines. Children in foster care, homeless families, and families on TANF, SNAP, or SSI get priority.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online using the Apply Now link on the program page, or call (361) 664-0145.",
+      "apply_url": "https://cacost.org/programs/head-start/",
+      "phone": "(361) 664-0145",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "San Patricio",
+        "Kleberg"
+      ],
+      "source_url": "https://cacost.org/programs/head-start/",
+      "confidence": "high",
+      "notes": "Income rules may be waived for children with disabilities who have an IEP or IFSP. Main office: 204 E First St., Alice, TX 78333. Portland Head Start center: 518 Elm St, Portland, TX 78374 (per headstart.gov locator)."
+    },
+    {
+      "id": "upbring-head-start-corpus-christi",
+      "name": "Upbring Head Start / Early Head Start - Corpus Christi",
+      "organization": "Lutheran Social Service of the South, Inc. (Upbring)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free Head Start preschool and Early Head Start care at many centers across Corpus Christi, such as Los Pequenos, Stepping Stone, Cliff Maus, and Navarro.",
+      "eligibility_summary_en": "For young children in low-income families in Corpus Christi. Early Head Start serves infants and toddlers; Head Start serves preschoolers.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 237-3041 to register.",
+      "apply_url": null,
+      "phone": "(361) 237-3041",
+      "address": null,
+      "city": "Corpus Christi",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://headstart.gov/center-locator?latitude=27.8006&longitude=-97.3964&radius=10",
+      "confidence": "high",
+      "notes": "Center examples from headstart.gov: Los Pequenos, 2801 Morris St (78405); Stepping Stone, 1625 Arlington Dr (78415); Cliff Maus, 1458 W Point Rd (78416). West Oso ISD Head Start (5350 Bear Ln) registers at (361) 806-5900."
+    },
+    {
+      "id": "ink-head-start-victoria",
+      "name": "Victoria County Head Start and Early Head Start",
+      "organization": "Innovative Network of Knowledge (INK)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free Head Start preschool and Early Head Start care in Victoria.",
+      "eligibility_summary_en": "For young children in low-income families in Victoria County.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (830) 331-8908 to register.",
+      "apply_url": null,
+      "phone": "(830) 331-8908",
+      "address": "1309 E Red River St",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://headstart.gov/center-locator?latitude=28.8053&longitude=-97.0036&radius=25",
+      "confidence": "high",
+      "notes": "Another Head Start preschool site: FW Gross Early Childhood Center, 1208 S Navarro St, Victoria, TX 77901."
+    },
+    {
+      "id": "visd-free-school-meals",
+      "name": "Free School Meals (Community Eligibility Provision) - Victoria ISD",
+      "organization": "Victoria Independent School District Child Nutrition",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "All Victoria ISD students in PreK through 12th grade get free breakfast and lunch at school for the 2026-2027 school year.",
+      "eligibility_summary_en": "Any student enrolled at a Victoria ISD school. No meal application is needed.",
+      "eligibility_rules": {
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "No application needed. Families are asked to fill out an Income Survey form online at visd.net.",
+      "apply_url": null,
+      "phone": "(361) 788-9235",
+      "address": null,
+      "city": "Victoria",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.visd.net/page/freereduced-meal-programs",
+      "confidence": "high",
+      "notes": "Covers school year 2026-2027 under CEP. VISD also runs a Summer Meal Program."
+    },
+    {
+      "id": "nueces-aid-healthcare-access",
+      "name": "Nueces Aid Healthcare Access",
+      "organization": "Nueces County Hospital District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps Nueces County residents with low income get health care at low or no cost.",
+      "eligibility_summary_en": "Nueces County residents with household income at or below 150% of the Federal Poverty Guidelines and countable resources under $5,571.37.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Nueces County resident"
+      },
+      "documents_needed": [
+        "Social Security card",
+        "Photo ID",
+        "Proof of income (pay stubs, tax returns, or benefit letters)",
+        "Bank/financial account statements",
+        "Vehicle descriptions and values",
+        "Proof of Nueces County residency (house payment receipt, rent receipt with lease, or utility bill with Statement of Residency form)",
+        "Property tax statement, if applicable"
+      ],
+      "how_to_apply": "Apply online, or get help at NCHD Enrollment Services, 600 Elizabeth St., Corpus Christi, or at a partner clinic. Call (361) 881-3000.",
+      "apply_url": "https://cms9.revize.com/revize/nchdtx/nueces_aid/apply.php",
+      "phone": "(361) 881-3000",
+      "address": "600 Elizabeth St.",
+      "city": "Corpus Christi",
+      "zip": "78404",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.nchdcc.org/nueces_aid/nchd_eligibility.php",
+      "confidence": "high",
+      "notes": "Homestead, personal property and one vehicle are exempt from resources. Also enroll at Dr. Hector P. Garcia Memorial Family Health Center, 2606 Hospital Blvd. (361) 902-4855; CHRISTUS Trinity Clinic Robstown, 1038 Texas Yes Blvd (361) 861-9005; CHRISTUS Trinity Clinic Westside, 4617 Greenwood Rd (361) 814-8448. District line: (361) 808-3300."
+    },
+    {
+      "id": "san-patricio-indigent-health-care",
+      "name": "San Patricio County Indigent Health Care Program",
+      "organization": "San Patricio County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County program that helps very low-income San Patricio County residents pay for health care.",
+      "eligibility_summary_en": "San Patricio County residents with income at or below 21% of the federal poverty guidelines and resources under $2,000.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "San Patricio County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the office to be screened. If you may qualify, you will get an application. A printable application is also online.",
+      "apply_url": "https://www.sanpatriciocountytx.gov/page/health.indigent.program",
+      "phone": "(361) 587-3518",
+      "address": "313 N Rachal Room 225",
+      "city": "Sinton",
+      "zip": "78387",
+      "hours": "Monday-Friday 8:00 am-5:00 pm (closed 12:00-1:00 pm)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://www.sanpatriciocountytx.gov/page/health.indigent.program",
+      "confidence": "high",
+      "notes": "Staff give referrals to people who do not qualify. Monthly outreach sites in Mathis, Ingleside and Aransas Pass."
+    },
+    {
+      "id": "kleberg-county-indigent-health-care",
+      "name": "Kleberg County Indigent Health Care & Welfare",
+      "organization": "Kleberg County",
+      "categories": [
+        "healthcare",
+        "cash_assistance"
+      ],
+      "description_en": "County office that handles indigent health care and welfare help for Kleberg County residents.",
+      "eligibility_summary_en": "For low-income Kleberg County residents. Call the office for income and resource rules.",
+      "eligibility_rules": {
+        "residency_required": "Kleberg County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the indigent health care line at (361) 595-8569 or the welfare line at (361) 595-8555.",
+      "apply_url": null,
+      "phone": "(361) 595-8569",
+      "address": "700 E. King",
+      "city": "Kingsville",
+      "zip": "78363",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kleberg"
+      ],
+      "source_url": "https://www.co.kleberg.tx.us/page/kleberg.Indigent.Welfare",
+      "confidence": "high",
+      "notes": "Eligibility limits and hours are not posted on the county page. The page lists both 700 E. King and the Courthouse at 700 E Kleberg Ave."
+    },
+    {
+      "id": "cc-nueces-public-health-district",
+      "name": "Corpus Christi-Nueces County Public Health District",
+      "organization": "Corpus Christi-Nueces County Public Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Public health office offering shots (immunizations), STI/HIV testing and prevention, tuberculosis services, and WIC.",
+      "eligibility_summary_en": "For residents of Nueces County.",
+      "eligibility_rules": {
+        "residency_required": "Nueces County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 826-7200 or visit the Horne Road office.",
+      "apply_url": null,
+      "phone": "(361) 826-7200",
+      "address": "1702 Horne Road",
+      "city": "Corpus Christi",
+      "zip": "78416",
+      "hours": "Monday-Friday 8:00 a.m.-5:00 p.m. (closed 12:00-1:00 p.m.)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies by service",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.corpuschristitx.gov/department-directory/health-district/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "cc-nueces-wic",
+      "name": "WIC Clinic - Corpus Christi-Nueces County Public Health District",
+      "organization": "Corpus Christi-Nueces County Public Health District",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "Pregnant, breastfeeding, or postpartum women and children under 5 who meet income rules. You automatically meet the income rule if you get Medicaid, TANF, or SNAP. You must live in Texas; U.S. citizenship is not required.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start online at texaswic.org/apply, call (361) 826-1355, or apply in person at the clinic.",
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(361) 826-1355",
+      "address": "1702 Horne Road",
+      "city": "Corpus Christi",
+      "zip": "78416",
+      "hours": "Monday-Thursday 8am-6pm (closed 12-1 pm); Friday 8 am-12 pm",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.corpuschristitx.gov/department-directory/health-district/women-infants-and-children-wic/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "victoria-county-public-health",
+      "name": "Victoria County Public Health Department",
+      "organization": "Victoria County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Public health office offering shots (immunizations), STI testing, TB testing, HIV/AIDS resources, car seat checks, and home visiting programs for new parents.",
+      "eligibility_summary_en": "For residents of Victoria County and nearby communities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 578-6281 or visit the office.",
+      "apply_url": null,
+      "phone": "(361) 578-6281",
+      "address": "2805 N Navarro",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": "Monday through Thursday 8 am to noon, 1 pm to 5 pm (individual programs may vary)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies by service",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.victoriacountytx.gov/286/Public-Health",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "victoria-county-wic",
+      "name": "Victoria County WIC Program",
+      "organization": "Victoria County Public Health Department",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "Pregnant, breastfeeding, or postpartum women, infants, and children under 5 who meet WIC income rules.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 578-2884 or (800) 880-9427 to make an appointment.",
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(361) 578-2884",
+      "address": "2805 N Navarro St.",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": "Mon-Thu 8 am-noon, 12:30-5:30 pm; Fri 8 am-noon; 2nd and 4th Mondays 5:30-7 pm; 2nd and 4th Saturdays 8 am-noon",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.victoriacountytx.gov/346/WIC-Program",
+      "confidence": "high",
+      "notes": "Also runs WIC clinics in Cuero, Goliad, Port Lavaca, Yoakum and Yorktown."
+    },
+    {
+      "id": "san-patricio-county-wic",
+      "name": "San Patricio County WIC Program",
+      "organization": "San Patricio County Health Department",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition education, breastfeeding support, and health referrals to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "Pregnant, breastfeeding, and postpartum women, infants, and children who meet WIC income rules.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Texas WIC portal or find a clinic at find.texaswic.org. For questions, call the WIC office at (361) 587-3510.",
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(361) 587-3510",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://www.sanpatriciocountytx.gov/page/health.wic",
+      "confidence": "high",
+      "notes": "The phone listed is the WIC Director's line. Clinic addresses and hours are not on the county page; use find.texaswic.org."
+    },
+    {
+      "id": "kleberg-county-health-unit",
+      "name": "Kleberg County City-County Health Unit",
+      "organization": "City of Kingsville / Kleberg County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Local public health department for Kingsville and Kleberg County.",
+      "eligibility_summary_en": "For residents of Kingsville and Kleberg County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 592-3324.",
+      "apply_url": null,
+      "phone": "(361) 592-3324",
+      "address": null,
+      "city": "Kingsville",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kleberg"
+      ],
+      "source_url": "https://www.co.kleberg.tx.us/page/kleberg.Health.Unit",
+      "confidence": "medium",
+      "notes": "County page does not list services or hours. Mailing address: P.O. Box 1458, 3421 North Farm Market 1355, Kingsville."
+    },
+    {
+      "id": "amistad-health-brownlee",
+      "name": "Amistad Health - Brownlee Main Clinic",
+      "organization": "Amistad Community Health Center",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with medical, dental, behavioral health, pediatric, and women's health care, plus a pharmacy. Uninsured patients pay on a sliding scale.",
+      "eligibility_summary_en": "Open to everyone. Patients without insurance can get a lower price based on family size and income.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card (if you have one)",
+        "If uninsured: two forms of ID and proof of income (recent tax return or pay stubs)"
+      ],
+      "how_to_apply": "Call (361) 884-2242 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 884-2242",
+      "address": "1533 S Brownlee Blvd",
+      "city": "Corpus Christi",
+      "zip": "78404",
+      "hours": "Mon-Thu 8:00 AM-8:00 PM; Fri 8:00 AM-5:00 PM; Sat 9:00 AM-2:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://amistadchc.com/",
+      "confidence": "high",
+      "notes": "Federally qualified health center. Behavioral Health (361) 886-3065; Dental (361) 886-3000; Pediatrics (361) 886-3030; Women's Health (361) 299-7055; Pharmacy (361) 299-7080; Medication Assistance Program (361) 886-3014. Website available in English and Spanish."
+    },
+    {
+      "id": "amistad-health-benefits-application-help",
+      "name": "Amistad Health - Free Benefits Application Help",
+      "organization": "Amistad Community Health Center",
+      "categories": [
+        "healthcare",
+        "food"
+      ],
+      "description_en": "A community health worker helps you apply for or renew SNAP, Medicaid, CHIP, Medicare Savings, Marketplace insurance, and Social Security. Televisits are available.",
+      "eligibility_summary_en": "Open to the public.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Schedule an appointment by calling (361) 336-2522 or (361) 442-4482.",
+      "apply_url": "https://amistadchc.com/for-patients/",
+      "phone": "(361) 336-2522",
+      "address": "1533 S Brownlee Blvd",
+      "city": "Corpus Christi",
+      "zip": "78404",
+      "hours": "Monday & Tuesday: 9:00 AM-4:30 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://amistadchc.com/for-patients/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "amistad-health-robstown",
+      "name": "Amistad Health - Robstown",
+      "organization": "Amistad Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Neighborhood community health clinic in Robstown. Uninsured patients pay on a sliding scale.",
+      "eligibility_summary_en": "Open to everyone. Sliding fee discounts based on family size and income.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card (if you have one)",
+        "If uninsured: two forms of ID and proof of income (recent tax return or pay stubs)"
+      ],
+      "how_to_apply": "Call (361) 886-3040 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 886-3040",
+      "address": "814 E Main Ave",
+      "city": "Robstown",
+      "zip": "78380",
+      "hours": "Mon-Fri 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://amistadchc.com/",
+      "confidence": "high",
+      "notes": "A second Robstown site, Amistad Health @Calderon, is at 710 E Main Ave, (361) 886-3020, Mon-Fri 8 AM-5 PM."
+    },
+    {
+      "id": "amistad-health-aransas-pass",
+      "name": "Amistad Health - Aransas Pass",
+      "organization": "Amistad Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health clinic in Aransas Pass (San Patricio County). Uninsured patients pay on a sliding scale.",
+      "eligibility_summary_en": "Open to everyone. Sliding fee discounts based on family size and income.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card (if you have one)",
+        "If uninsured: two forms of ID and proof of income (recent tax return or pay stubs)"
+      ],
+      "how_to_apply": "Call (361) 886-3025 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 886-3025",
+      "address": "1711 W Wheeler Ave, Suite 1",
+      "city": "Aransas Pass",
+      "zip": "78336",
+      "hours": "Monday 8:00 AM-8:00 PM; Tue-Fri 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://amistadchc.com/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "amistad-health-kids-clinic",
+      "name": "Amistad Health - Pediatrics (Kids Clinic)",
+      "organization": "Amistad Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Children's clinic on the south side of Corpus Christi with evening and Saturday hours. Uninsured families pay on a sliding scale.",
+      "eligibility_summary_en": "For children and teens. Sliding fee discounts based on family size and income.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card (if you have one)",
+        "If uninsured: two forms of ID and proof of income (recent tax return or pay stubs)"
+      ],
+      "how_to_apply": "Call (361) 994-7255 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 994-7255",
+      "address": "7017 S Staples St Suite 101",
+      "city": "Corpus Christi",
+      "zip": "78413",
+      "hours": "Mon-Thu 8:00 AM-9:00 PM; Fri 8:00 AM-5:00 PM; Sat 10:00 AM-2:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://amistadchc.com/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "cacost-health-center-sinton",
+      "name": "Community Action Health Center - Sinton",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center in Sinton with family medical care, behavioral health, and a separate pediatric clinic. Fees are based on income.",
+      "eligibility_summary_en": "Open to everyone, regardless of ability to pay. Accepts Medicaid, CHIP, Medicare, private insurance, and self-pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 364-4486 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 364-4486",
+      "address": "621 E. Sinton Street",
+      "city": "Sinton",
+      "zip": "78387",
+      "hours": "Family: Mon-Fri 8:00 AM-12:00 PM, 1:00-5:00 PM; Behavioral: Mon & Fri 8:00 AM-12:00 PM, 1:00-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://cacost.org/programs/fqhc/",
+      "confidence": "high",
+      "notes": "Pediatric clinic: 1133 E. Sinton Street, Mon-Fri 8:00 AM-12:00 PM, 1:00-5:00 PM. Federally qualified health center."
+    },
+    {
+      "id": "cacost-health-center-mathis",
+      "name": "Community Action Health Center - Mathis",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center in Mathis with family, pediatric, and behavioral health care. Fees are based on income.",
+      "eligibility_summary_en": "Open to everyone, regardless of ability to pay. Accepts Medicaid, CHIP, Medicare, private insurance, and self-pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 547-4121 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 547-4121",
+      "address": "213 S. Duval St",
+      "city": "Mathis",
+      "zip": "78368",
+      "hours": "Family & Pediatric: Mon-Fri 8:00 AM-12:00 PM, 1:00-5:00 PM; Behavioral: Mon-Thu 8:00 AM-12:00 PM, 1:00-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://cacost.org/programs/fqhc/",
+      "confidence": "high",
+      "notes": "HRSA lists this as a school-based health center site."
+    },
+    {
+      "id": "cacost-health-center-kingsville",
+      "name": "Community Action Health Center - Kingsville",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center in Kingsville with family, pediatric, dental, and behavioral health care. Fees are based on income.",
+      "eligibility_summary_en": "Open to everyone, regardless of ability to pay. Accepts Medicaid, CHIP, Medicare, private insurance, and self-pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 592-3237 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 592-3237",
+      "address": "1311 E. General Cavazos Blvd, Suite 303 & Suite C",
+      "city": "Kingsville",
+      "zip": "78363",
+      "hours": "Family: Mon-Fri 8:00 AM-12:00 PM, 1:00-5:00 PM, 3rd Saturday 8:00 AM-12:00 PM; Pediatric: Mon-Fri 8:00 AM-5:00 PM; Behavioral: Mon-Thu 8:00 AM-12:00 PM, 1:00-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Kleberg"
+      ],
+      "source_url": "https://cacost.org/programs/fqhc/",
+      "confidence": "high",
+      "notes": "Dental center is in Suite C (per HRSA data). HRSA also lists Javelina Health Clinic, 1210 N Retama St, Kingsville, (361) 239-0600."
+    },
+    {
+      "id": "victoria-community-health-center",
+      "name": "Victoria Community Health Center",
+      "organization": "Community Health Centers of South Central Texas, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center in Victoria offering checkups, sick visits, dental, mental health, pediatrics, women's health, senior care, vaccines, and labs.",
+      "eligibility_summary_en": "Open to all, regardless of age, income, or insurance status. Sliding fee scale and financial help are available.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 576-2110 to make an appointment.",
+      "apply_url": null,
+      "phone": "(361) 576-2110",
+      "address": "4206 Retama Circle",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": "Monday-Friday 8 AM-5 PM (Tuesday until 8 PM)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://communityhealthtx.com/clinics/victoria/",
+      "confidence": "high",
+      "notes": "Federally qualified health center. Spanish availability varies by provider."
+    },
+    {
+      "id": "coastal-bend-wellness-foundation",
+      "name": "Coastal Bend Wellness Foundation",
+      "organization": "Coastal Bend Wellness Foundation, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center in Corpus Christi offering primary care, HIV testing, prevention (PrEP/PEP) and treatment, women's health, counseling, substance use treatment, pharmacy, and LGBTQIA+ care.",
+      "eligibility_summary_en": "Open to people in need in the Coastal Bend area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 814-2001.",
+      "apply_url": null,
+      "phone": "(361) 814-2001",
+      "address": "2882 Holly Rd.",
+      "city": "Corpus Christi",
+      "zip": "78415",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.cbwellness.org/",
+      "confidence": "high",
+      "notes": "Listed in HRSA health center site data. Hours and fee policy not listed on the homepage."
+    },
+    {
+      "id": "cacost-ceap-san-patricio",
+      "name": "CEAP Utility Assistance - San Patricio County (CACOST Sinton office)",
+      "organization": "Community Action Corporation of South Texas (CACOST)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills through the Comprehensive Energy Assistance Program (CEAP).",
+      "eligibility_summary_en": "Households in San Patricio County with income at or below 150% of the federal poverty guidelines (for example, up to $23,940 a year for one person in 2026).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "San Patricio County (or other CACOST CEAP county)"
+      },
+      "documents_needed": [
+        "Proof of citizenship or legal residency for each household member",
+        "30 days of consecutive pay stubs or 2025 award letters",
+        "Front and back copies of current utility bills with meter numbers",
+        "Declaration of income statement if self-employed or unemployed"
+      ],
+      "how_to_apply": "Request an appointment using the online form on the CEAP page, or call the Sinton office at (361) 364-0220. Sending a request does not guarantee an appointment.",
+      "apply_url": "https://cacost.org/programs/ceap-utility-assistance/",
+      "phone": "(361) 364-0220",
+      "address": null,
+      "city": "Sinton",
+      "zip": null,
+      "hours": "Monday-Friday 9 a.m.-12 p.m. and 1 p.m.-4 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "San Patricio"
+      ],
+      "source_url": "https://cacost.org/programs/ceap-utility-assistance/",
+      "confidence": "high",
+      "notes": "The Sinton office also serves Bee County. CACOST CEAP does not cover Nueces, Kleberg, or Victoria counties."
+    },
+    {
+      "id": "trla-corpus-christi",
+      "name": "Texas RioGrande Legal Aid - Corpus Christi Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people with problems like housing, family law, and public benefits.",
+      "eligibility_summary_en": "Low-income residents of TRLA's service area, which includes Nueces County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line at (956) 996-8752 or toll-free (833) 329-8752 to apply for free legal help.",
+      "apply_url": "https://www.trla.org/",
+      "phone": "(833) 329-8752",
+      "address": "555 N. Carancahua St., Suite 400",
+      "city": "Corpus Christi",
+      "zip": "78401",
+      "hours": "Mon-Fri 8am-5pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nueces",
+        "San Patricio",
+        "Kleberg"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "medium",
+      "notes": "Courthouse office: 901 Leopard St., Room 105, Corpus Christi, TX 78401. TRLA serves 68 counties; the offices page confirmed Nueces, but San Patricio and Kleberg coverage should be confirmed when calling."
+    },
+    {
+      "id": "trla-victoria",
+      "name": "Texas RioGrande Legal Aid - Victoria Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people with problems like housing, family law, and public benefits.",
+      "eligibility_summary_en": "Low-income residents of TRLA's service area, which includes Victoria County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line at (956) 996-8752 or toll-free (833) 329-8752 to apply for free legal help.",
+      "apply_url": "https://www.trla.org/",
+      "phone": "(833) 329-8752",
+      "address": "121 S. Main St., Suite 300",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": "Mon-Fri 8am-5pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "coastal-bend-food-bank",
+      "name": "Coastal Bend Food Bank",
+      "organization": "Coastal Bend Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank that supplies food pantries in every Corpus Christi zip code and in nearby rural counties. Use the online agency locator to find a pantry near you.",
+      "eligibility_summary_en": "For people who need food in Corpus Christi and the surrounding Coastal Bend.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Agency Locator on the website to find a pantry by zip code, or call (361) 887-6291.",
+      "apply_url": "https://www.coastalbendfoodbank.org/get-help/find-food/",
+      "phone": "(361) 887-6291",
+      "address": "5442 Bear Lane",
+      "city": "Corpus Christi",
+      "zip": "78405",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.coastalbendfoodbank.org/",
+      "confidence": "high",
+      "notes": "Serves Corpus Christi plus 11 rural counties (counties not named on the page; San Patricio and Kleberg coverage not confirmed). Food is given out through partner pantries."
+    },
+    {
+      "id": "food-bank-golden-crescent",
+      "name": "Food Bank of the Golden Crescent",
+      "organization": "Food Bank of the Golden Crescent",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank in Victoria that works with food pantries and food distributions across the Golden Crescent.",
+      "eligibility_summary_en": "For people who need food in the Golden Crescent area, including Victoria County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Food Pantry List or Food Pantry Map on the website, or call (361) 578-0591.",
+      "apply_url": "https://www.tfbgc.org/",
+      "phone": "(361) 578-0591",
+      "address": "801 South Laurent Street",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": "Monday-Friday 8:00 am-4:30 pm (closed 12:00-1:00 pm)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.tfbgc.org/",
+      "confidence": "high",
+      "notes": "Serves 11 counties in the Golden Crescent region."
+    },
+    {
+      "id": "ccrta-reduced-fare",
+      "name": "CCRTA Reduced Fare Program (B-ID Card)",
+      "organization": "Corpus Christi Regional Transportation Authority (CCRTA)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Half-price bus fares in Corpus Christi: $0.50 per ride and $17.50 for a 31-day pass.",
+      "eligibility_summary_en": "People with disabilities (including disabled veterans), Medicare card holders, and technical/vocational college students. Seniors can show a state ID showing age 65+.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Completed B-ID application (English or Spanish)",
+        "Medicare card, Disabled Veteran ID, Medicaid card, or state ID showing age 65+"
+      ],
+      "how_to_apply": "Show a valid ID when you board, or download the B-ID application, bring it to the Customer Service Center, and pick up your card once approved.",
+      "apply_url": "https://www.ccrta.org/programs/reduced-fare",
+      "phone": "(361) 883-2287",
+      "address": "602 N. Staples St.",
+      "city": "Corpus Christi",
+      "zip": "78401",
+      "hours": "M-F, 8:00 a.m. to 5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "$0.50 per ride; $17.50 31-day pass",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.ccrta.org/programs/reduced-fare",
+      "confidence": "high",
+      "notes": "Reduced 31-day passes are sold only at the Customer Service Center. B-Line paratransit is also offered: https://www.ccrta.org/services/b-line"
+    },
+    {
+      "id": "corpus-christi-hope-house",
+      "name": "Corpus Christi Hope House",
+      "organization": "Corpus Christi Hope House",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "24/7 emergency shelter and transitional housing for pregnant women, single mothers, and families, plus food, clothing, baby items, counseling, and parenting classes.",
+      "eligibility_summary_en": "Families, pregnant women, and single mothers with children facing homelessness, addiction, domestic violence, poverty, or a crisis pregnancy in the Coastal Bend.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (361) 852-2273 or visit the office.",
+      "apply_url": null,
+      "phone": "(361) 852-2273",
+      "address": "3226 Reid Dr.",
+      "city": "Corpus Christi",
+      "zip": "78404",
+      "hours": "Office: Mon 8 AM-5 PM; Tue & Thu 9 AM-5 PM; Wed 9:30 AM-7 PM; Fri 8 AM-12 PM (closed 12-1 PM)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.cchope.org/",
+      "confidence": "high",
+      "notes": "Also offers homeless prevention services. Pregnant women without other children also qualify."
+    },
+    {
+      "id": "mid-coast-family-services",
+      "name": "Mid-Coast Family Services",
+      "organization": "Mid-Coast Family Services",
+      "categories": [
+        "housing",
+        "mental_health"
+      ],
+      "description_en": "Help for survivors of domestic violence and sexual assault in Victoria, including a crisis center, a 24-hour hotline, and housing and rental assistance.",
+      "eligibility_summary_en": "For people facing family violence, sexual assault, or homelessness in the Victoria area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the hotline at (361) 573-4357 or (800) 870-0368. For other services, call (361) 575-7842.",
+      "apply_url": null,
+      "phone": "(361) 575-7842",
+      "address": "2010 N Navarro Suite A",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Victoria"
+      ],
+      "source_url": "https://www.midcoastfamily.org/",
+      "confidence": "high",
+      "notes": "Domestic Violence & Sexual Assault Hotline: (361) 573-4357 or (800) 870-0368. Counties served are not listed on the homepage."
+    }
+  ]
+}

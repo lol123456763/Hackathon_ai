@@ -1,0 +1,87 @@
+{
+  "topic": "2026 HHS Federal Poverty Guidelines (48 contiguous states + DC) and Texas SNAP eligibility/benefit parameters (FY2026 and FY2027)",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "verification_notes": "Independent re-check on 2026-09-26; every numeric value re-confirmed against the official source, no mismatches found, no values changed. HHS 2026 guidelines (sizes 1-8, +$5,680) and FR doc 2026-00755 (Jan 15, 2026) confirmed on ASPE page. SNAP FY2026 income limits (130/100/165%), allotments sizes 1-8 + $218 each additional, $24 minimum, standard deductions $209/$209/$223/$261/$299, shelter cap $744, homeless $198.99, assets $3,000/$4,500, change-reporting $125 confirmed from the USDA FY2026 COLA memo PDF (signed Aug 14, 2025). FY2026 sizes 9-10 income limits and C-121.1 Texas figures (SME $170, SUA $445, BUA $400, telephone $62, Rev. 25-4 eff. Oct 1, 2025) confirmed on Texas Works Handbook C-120 page; sizes 9-10 allotments ($2,007/$2,225) confirmed on C-1431 allotment chart PDF. SNAP FY2027 values (all income limits, allotments incl. 9-17 +$225 and 18+ $3,887 cap, $25 minimum, standard deductions $217/$217/$229/$268/$308, shelter $769, homeless $205.66, assets $3,000/$4,750, change-reporting $150) confirmed from the USDA FY2027 COLA memo PDF dated Aug 21, 2026. 20% earned income deduction (A-1425.1) and $35 medical threshold (A-1428) confirmed in Texas Works Handbook. $5,000 resource limit (A-1220, Rev. 15-4), B-471 (Rev. 15-4)/B-472 (Rev. 26-1) cat-el rules, and A-1238.5 vehicle thresholds $1,500/$8,700/$22,500 (Rev. 24-2) confirmed. FNS eligibility page confirms elderly/disabled households only need to meet the net income limit. Removed unconfirmed note about ASPE price-change wording. USDA/FNS pages return 403 to automated fetch; memo PDFs were read via browser same-origin fetch. Not independently re-confirmed: claim that no Texas Works Handbook 26-4 revision had posted (revisions index URL returned 404).",
+  "effective_period": "HHS 2026 poverty guidelines (published Jan 2026); SNAP FY2026 = Oct 1, 2025 - Sep 30, 2026; SNAP FY2027 = Oct 1, 2026 - Sep 30, 2027",
+  "tables": {
+    "hhs_poverty_guidelines_2026_48_states_dc": {
+      "unit": "annual USD",
+      "source": "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines",
+      "federal_register_document": "2026-00755 (January 2026)",
+      "by_household_size": {"1": 15960, "2": 21640, "3": 27320, "4": 33000, "5": 38680, "6": 44360, "7": 50040, "8": 55720},
+      "each_additional_person": 5680
+    },
+    "snap_FY2026": {
+      "period": "2025-10-01 to 2026-09-30",
+      "applies_to": "48 States, D.C., Guam, Virgin Islands (income standards); 48 States and D.C. (allotments/deductions); confirmed identical in Texas Works Handbook C-121 (Rev. 25-4, eff. Oct. 1, 2025)",
+      "gross_monthly_income_limit_130pct": {"1": 1696, "2": 2292, "3": 2888, "4": 3483, "5": 4079, "6": 4675, "7": 5271, "8": 5867, "9": 6463, "10": 7059, "each_additional": 596},
+      "net_monthly_income_limit_100pct": {"1": 1305, "2": 1763, "3": 2221, "4": 2680, "5": 3138, "6": 3596, "7": 4055, "8": 4513, "9": 4972, "10": 5431, "each_additional": 459},
+      "gross_monthly_income_limit_165pct": {"1": 2152, "2": 2909, "3": 3665, "4": 4421, "5": 5177, "6": 5934, "7": 6690, "8": 7446, "9": 8203, "10": 8960, "each_additional": 757},
+      "maximum_monthly_allotment": {"1": 298, "2": 546, "3": 785, "4": 994, "5": 1183, "6": 1421, "7": 1571, "8": 1789, "9": 2007, "10": 2225, "each_additional": 218},
+      "minimum_monthly_benefit_1_2_person": 24,
+      "standard_deduction": {"1": 209, "2": 209, "3": 209, "4": 223, "5": 261, "6_plus": 299},
+      "earned_income_deduction_pct": 20,
+      "max_excess_shelter_deduction": 744,
+      "homeless_shelter_standard_deduction": 198.99,
+      "medical_expense_threshold": 35,
+      "federal_asset_limit": {"all_other_households": 3000, "elderly_or_disabled_member": 4500},
+      "change_reporting_threshold": 125,
+      "texas_specific_FY2026": {
+        "source": "Texas Works Handbook C-121.1 (Rev. 25-4, eff. Oct. 1, 2025)",
+        "standard_medical_expense_SME": 170,
+        "standard_utility_allowance_SUA": 445,
+        "basic_utility_allowance_BUA": 400,
+        "telephone_standard_deduction": 62
+      }
+    },
+    "snap_FY2027": {
+      "period": "2026-10-01 to 2027-09-30",
+      "source": "USDA FNA memo 'SNAP - Fiscal Year 2027 Cost-of-Living Adjustments' dated August 21, 2026",
+      "applies_to": "48 States, D.C., Guam, Virgin Islands (income standards); 48 States and D.C. (allotments/deductions). Texas Works Handbook had not yet posted an Oct 2026 (26-4) revision as of 2026-09-26.",
+      "gross_monthly_income_limit_130pct": {"1": 1729, "2": 2345, "3": 2960, "4": 3575, "5": 4191, "6": 4806, "7": 5421, "8": 6037, "each_additional": 616},
+      "net_monthly_income_limit_100pct": {"1": 1330, "2": 1804, "3": 2277, "4": 2750, "5": 3224, "6": 3697, "7": 4170, "8": 4644, "each_additional": 474},
+      "gross_monthly_income_limit_165pct": {"1": 2195, "2": 2976, "3": 3757, "4": 4538, "5": 5319, "6": 6100, "7": 6881, "8": 7662, "each_additional": 781},
+      "maximum_monthly_allotment": {"1": 306, "2": 562, "3": 808, "4": 1023, "5": 1217, "6": 1463, "7": 1616, "8": 1841, "9_to_17_each_additional": 225, "18_plus": 3887},
+      "minimum_monthly_benefit_1_2_person": 25,
+      "standard_deduction": {"1": 217, "2": 217, "3": 217, "4": 229, "5": 268, "6_plus": 308},
+      "max_excess_shelter_deduction": 769,
+      "homeless_shelter_standard_deduction": 205.66,
+      "federal_asset_limit": {"all_other_households": 3000, "elderly_or_disabled_member": 4750},
+      "change_reporting_threshold": 150
+    },
+    "texas_bbce": {
+      "applicable": true,
+      "gross_income_limit": "165% of FPIL (TANF Non-cash categorical eligibility); dollar amounts = gross_monthly_income_limit_165pct column above",
+      "rule": "Household is categorically eligible if all members are approved for TANF cash or SSI, or the household meets the resource criteria for TANF Non-cash (combined $5,000 limit for liquid assets and excess vehicle value) and has gross income <= 165% FPIL. TANF-NC categorically eligible households are not subject to the resource or gross and net income limits (B-472, Rev. 26-1).",
+      "source": "Texas Works Handbook B-471 (Rev. 15-4), B-472 (Rev. 26-1), C-121 footnote"
+    },
+    "texas_snap_asset_rules": {
+      "countable_resource_limit": 5000,
+      "rule_text": "A household is not eligible for benefits if the total value of countable resources (liquid resources and excess vehicle value) is over $5,000 (A-1220, Rev. 15-4).",
+      "vehicles": {
+        "equity_value_exempt_at_or_below": 1500,
+        "fmv_exempt_per_adult_below": 8700,
+        "fmv_counted_over": 8700,
+        "highest_valued_countable_vehicle_fmv_exempt_up_to": 22500,
+        "source": "Texas Works Handbook A-1238 (Rev. 24-2, eff. April 1, 2024)"
+      },
+      "cat_el_tanf_ssi_households": "Not subject to resource limits (B-472)"
+    }
+  },
+  "sources": [
+    "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines",
+    "https://www.fns.usda.gov/snap/recipient/eligibility",
+    "https://www.fns.usda.gov/snap/allotment/cola/fy26",
+    "https://www.usda.gov/sites/default/files/guidance-documents/fns.snap-cola-fy26memo.pdf",
+    "https://www.fns.usda.gov/snap/allotment/cola/fy27",
+    "https://www.usda.gov/guidance-documents/snap/fna/snap-fiscal-year-2027-cost-living-adjustments",
+    "https://www.usda.gov/sites/default/files/guidance-documents/fna.snap-cola2027.pdf",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/c-120-supplemental-nutrition-assistance-program",
+    "https://fhb.hhs.texas.gov/sites/default/files/documents/snap-allotment-chart-25-4.pdf",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-1220-limits",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/b-470-categorically-eligible-households",
+    "https://fhb.hhs.texas.gov/node/285151"
+  ],
+  "notes": "All figures copied from official sources; none estimated. FY2026 SNAP limits are based on 2025 poverty guidelines; FY2027 SNAP limits (Oct 1, 2026) are based on the 2026 HHS guidelines (net 100% for 1 person = $15,960/12 = $1,330). FY2026 sizes 9-10 come from Texas Works Handbook C-121/C-1431; FY2027 USDA memo lists sizes 1-8 plus each-additional only. FY2027 Texas-specific utility allowances (SUA/BUA/telephone/SME) not yet published in the Texas Works Handbook as of 2026-09-26 (latest revision 26-3, July 2026). Texas uses BBCE with a 165% FPIL gross limit and a $5,000 resource limit, so the federal $3,000/$4,500 ($4,750 in FY2027) asset limits generally do not bind in Texas. Households with an elderly/disabled member need only meet the net income test (FNS). The FY2027 USDA memo PDF was blocked for automated fetch (403) and was read via an in-app browser."
+}

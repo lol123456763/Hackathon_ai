@@ -134,9 +134,9 @@ export function extractSituation(text) {
 
   if (OUT_OF_FOOD.test(lower) && !out.needs.includes('food')) out.needs.push('food');
   out.tonight_need = out.urgency === 'today' && out.needs.includes('food');
-  if (/(no pork|without pork|sin cerdo|sin puerco|no como cerdo)/i.test(lower)) out.food_prefs.push('no_pork');
-  if (/(vegetarian|vegetariano|vegetariana)/i.test(lower)) out.food_prefs.push('vegetarian');
-  if (/halal/i.test(lower)) out.food_prefs.push('halal');
+  if (/\b(no pork|without pork|sin cerdo|sin puerco|no como cerdo)\b/i.test(lower)) out.food_prefs.push('no_pork');
+  if (/\b(vegetarian[oa]?s?)\b/i.test(lower)) out.food_prefs.push('vegetarian');
+  if (/\bhalal\b/i.test(lower)) out.food_prefs.push('halal');
   return out;
 }
 

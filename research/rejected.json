@@ -1,0 +1,98 @@
+[
+ {
+  "unit": "region-panhandle-south-plains-basic",
+  "id": "guyon-saunders-resource-center",
+  "name": "Guyon Saunders Resource Center",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "region-west-texas-basic",
+  "id": "midland-soup-kitchen-ministry",
+  "name": "Midland Soup Kitchen Ministry Daily Meals",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "region-williamson-health-opportunity",
+  "id": "workforce-solutions-rca-youth-pack",
+  "name": "Youth Services - PACK (Preparing Adolescents with Career Knowledge)",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "special-immigrants-refugees",
+  "id": "texas-riogrande-legal-aid",
+  "name": "Texas RioGrande Legal Aid (TRLA)",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-cash_assistance",
+  "id": "dfps-permanency-care-assistance",
+  "name": "Permanency Care Assistance (PCA)",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-cash_assistance",
+  "id": "dfps-kinship-caregiver-assistance",
+  "name": "Texas Kinship Caregiver Assistance and Supports",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-cash_assistance",
+  "id": "oag-child-support-office-arlington-dallas-fort-worth",
+  "name": "Child Support Office - Arlington / Dallas-Fort Worth",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-cash_assistance",
+  "id": "oag-child-support-office-lubbock-rural-area",
+  "name": "Child Support Office - Lubbock Rural Area",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-housing",
+  "id": "tdhca-section-811-project-rental-assistance",
+  "name": "Section 811 Project Rental Assistance",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-housing",
+  "id": "texas-riogrande-legal-aid-housing",
+  "name": "Texas RioGrande Legal Aid - Eviction and Housing Help",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-housing",
+  "id": "legal-aid-of-northwest-texas-housing",
+  "name": "Legal Aid of NorthWest Texas - Landlord-Tenant and Eviction Help",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-housing",
+  "id": "lone-star-legal-aid-housing",
+  "name": "Lone Star Legal Aid - Eviction Defense and Housing",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ }
+]

@@ -1,0 +1,1741 @@
+{
+  "scope": "Rio Grande Valley (Hidalgo, Cameron, Starr, Willacy) - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "tropical-texas-behavioral-health-crisis-line",
+      "name": "Mental Health & Substance Use Crisis Hotline",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24-hour phone line for anyone having a mental health or substance use crisis in the Rio Grande Valley. Trained staff can talk with you and connect you to help.",
+      "description_es": "Una línea telefónica abierta las 24 horas para cualquier persona que tenga una crisis de salud mental o de uso de drogas o alcohol. Personal capacitado puede hablar con usted y conectarle con ayuda.",
+      "eligibility_summary_en": "Anyone in Cameron, Hidalgo, or Willacy County who is in crisis, or worried about someone who is.",
+      "eligibility_summary_es": "Cualquier persona en el condado de Cameron, Hidalgo o Willacy que esté en crisis, o que esté preocupada por alguien que lo está.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis hotline any time, day or night. For TTY, call 1-800-735-2988. If there is immediate danger, call 911.",
+      "how_to_apply_es": "Llame a la línea de crisis a cualquier hora, de día o de noche. Para TTY, llame al 1-800-735-2988. Si hay peligro inmediato, llame al 911.",
+      "apply_url": null,
+      "phone": "(877) 289-7199",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://www.ttbh.org/",
+      "confidence": "high",
+      "notes": "TTBH is the local mental health authority for Cameron, Hidalgo and Willacy Counties (HHSC LMHA list). Starr County residents should call Border Region Behavioral Health Center at 1-800-643-1102. The national 988 line is another option.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-edinburg-outpatient-clinic",
+      "name": "TTBH Edinburg Outpatient Clinic",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "An outpatient clinic with adult mental health, intellectual and developmental disability (IDD), children's, and substance use services, plus a peer drop-in center.",
+      "description_es": "Una clínica de consulta externa con servicios de salud mental para adultos, servicios para niños, servicios para discapacidad intelectual y del desarrollo (IDD) y servicios por uso de drogas o alcohol. También tiene un centro de apoyo entre compañeros donde puede llegar sin cita.",
+      "eligibility_summary_en": "Residents of Cameron, Hidalgo, or Willacy County who need mental health, IDD, or substance use care. Call to ask which services this clinic offers for your age.",
+      "eligibility_summary_es": "Residentes del condado de Cameron, Hidalgo o Willacy que necesitan atención de salud mental, de discapacidad intelectual o del desarrollo (IDD) o por uso de drogas o alcohol. Llame para preguntar qué servicios ofrece esta clínica para su edad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 to make an appointment or ask questions. In a crisis, call 1-877-289-7199.",
+      "how_to_apply_es": "Llame al 1-800-813-1233 para hacer una cita o hacer preguntas. En una crisis, llame al 1-877-289-7199.",
+      "apply_url": null,
+      "phone": "(956) 289-7000",
+      "address": "1901 S. 24th Avenue",
+      "city": "Edinburg",
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM; Thursday until 7:00 PM (adult mental health); first Saturday of each month 8:00 AM-12:00 PM (children's services)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare and many insurance plans; sliding fee scale; no one is denied services for inability to pay.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.ttbh.org/locations.html",
+      "confidence": "high",
+      "notes": "The ZIP code is not listed on the source page. TTBH also has a McAllen clinic; call 1-800-813-1233 for its address. Per the HHSC local mental health authority list, TTBH serves Cameron, Hidalgo and Willacy Counties; Starr County residents are served by Border Region Behavioral Health Center (24-hour crisis line 1-800-643-1102).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-weslaco-outpatient-clinic",
+      "name": "TTBH Weslaco Outpatient Clinic",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "An outpatient clinic with intellectual and developmental disability (IDD) and substance use services, plus a veterans center (call for schedule).",
+      "description_es": "Una clínica de consulta externa con servicios para discapacidad intelectual y del desarrollo (IDD) y por uso de drogas o alcohol. También tiene un centro para veteranos (llame para saber el horario).",
+      "eligibility_summary_en": "Residents of Cameron, Hidalgo, or Willacy County who need mental health, IDD, or substance use care. Call to ask which services this clinic offers for your age.",
+      "eligibility_summary_es": "Residentes del condado de Cameron, Hidalgo o Willacy que necesitan atención de salud mental, de discapacidad intelectual o del desarrollo (IDD) o por uso de drogas o alcohol. Llame para preguntar qué servicios ofrece esta clínica para su edad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 to make an appointment or ask questions. In a crisis, call 1-877-289-7199.",
+      "how_to_apply_es": "Llame al 1-800-813-1233 para hacer una cita o hacer preguntas. En una crisis, llame al 1-877-289-7199.",
+      "apply_url": null,
+      "phone": "(956) 520-8800",
+      "address": "2215 W. Business 83",
+      "city": "Weslaco",
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare and many insurance plans; sliding fee scale; no one is denied services for inability to pay.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.ttbh.org/locations.html",
+      "confidence": "high",
+      "notes": "The ZIP code is not listed on the source page. TTBH also has a McAllen clinic; call 1-800-813-1233 for its address. Per the HHSC local mental health authority list, TTBH serves Cameron, Hidalgo and Willacy Counties; Starr County residents are served by Border Region Behavioral Health Center (24-hour crisis line 1-800-643-1102).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-harlingen-outpatient-clinic",
+      "name": "TTBH Harlingen Outpatient Clinic",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "An outpatient clinic for children and adults. Adult mental health, IDD, and substance use services.",
+      "description_es": "Una clínica de consulta externa para niños y adultos. Ofrece servicios de salud mental para adultos, para discapacidad intelectual y del desarrollo (IDD) y por uso de drogas o alcohol.",
+      "eligibility_summary_en": "Residents of Cameron, Hidalgo, or Willacy County who need mental health, IDD, or substance use care. Call to ask which services this clinic offers for your age.",
+      "eligibility_summary_es": "Residentes del condado de Cameron, Hidalgo o Willacy que necesitan atención de salud mental, de discapacidad intelectual o del desarrollo (IDD) o por uso de drogas o alcohol. Llame para preguntar qué servicios ofrece esta clínica para su edad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 to make an appointment or ask questions. In a crisis, call 1-877-289-7199.",
+      "how_to_apply_es": "Llame al 1-800-813-1233 para hacer una cita o hacer preguntas. En una crisis, llame al 1-877-289-7199.",
+      "apply_url": null,
+      "phone": "(956) 364-6500",
+      "address": "103 N Loop 499",
+      "city": "Harlingen",
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare and many insurance plans; sliding fee scale; no one is denied services for inability to pay.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.ttbh.org/locations.html",
+      "confidence": "high",
+      "notes": "The ZIP code is not listed on the source page. TTBH also has a McAllen clinic; call 1-800-813-1233 for its address. Per the HHSC local mental health authority list, TTBH serves Cameron, Hidalgo and Willacy Counties; Starr County residents are served by Border Region Behavioral Health Center (24-hour crisis line 1-800-643-1102).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-brownsville-outpatient-clinic",
+      "name": "TTBH Brownsville Outpatient Clinic",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "An outpatient behavioral health clinic. A TTBH veterans center is next door at 871 Old Alice Rd., Suite C.",
+      "description_es": "Una clínica de consulta externa de salud mental y del comportamiento. Al lado, en 871 Old Alice Rd., Suite C, hay un centro para veteranos de TTBH.",
+      "eligibility_summary_en": "Residents of Cameron, Hidalgo, or Willacy County who need mental health, IDD, or substance use care. Call to ask which services this clinic offers for your age.",
+      "eligibility_summary_es": "Residentes del condado de Cameron, Hidalgo o Willacy que necesitan atención de salud mental, de discapacidad intelectual o del desarrollo (IDD) o por uso de drogas o alcohol. Llame para preguntar qué servicios ofrece esta clínica para su edad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 to make an appointment or ask questions. In a crisis, call 1-877-289-7199.",
+      "how_to_apply_es": "Llame al 1-800-813-1233 para hacer una cita o hacer preguntas. En una crisis, llame al 1-877-289-7199.",
+      "apply_url": null,
+      "phone": "(956) 547-5400",
+      "address": "861 Old Alice Rd.",
+      "city": "Brownsville",
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare and many insurance plans; sliding fee scale; no one is denied services for inability to pay.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.ttbh.org/locations.html",
+      "confidence": "high",
+      "notes": "The ZIP code is not listed on the source page. TTBH also has a McAllen clinic; call 1-800-813-1233 for its address. Per the HHSC local mental health authority list, TTBH serves Cameron, Hidalgo and Willacy Counties; Starr County residents are served by Border Region Behavioral Health Center (24-hour crisis line 1-800-643-1102).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-veteran-services",
+      "name": "Veteran Services",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Counseling for veterans with depression, anxiety, or PTSD, plus substance use treatment, peer support, family support, and help getting VA benefits.",
+      "description_es": "Consejería para veteranos con depresión, ansiedad o estrés postraumático (PTSD). También ofrece tratamiento por uso de drogas o alcohol, apoyo de otros veteranos, apoyo para la familia y ayuda para obtener beneficios del VA.",
+      "eligibility_summary_en": "Veterans and their families in Cameron, Hidalgo, and Willacy Counties.",
+      "eligibility_summary_es": "Veteranos y sus familias en los condados de Cameron, Hidalgo y Willacy.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 for an appointment or visit a veterans center. Centers are in Weslaco (2215 W. Business 83, 956-520-8860), Harlingen (1242 N. 77 Sunshine Strip, 956-423-1233), and Brownsville (871 Old Alice Rd. Suite C, 956-547-1510).",
+      "how_to_apply_es": "Llame al 1-800-813-1233 para una cita o visite un centro para veteranos. Hay centros en Weslaco (2215 W. Business 83, 956-520-8860), Harlingen (1242 N. 77 Sunshine Strip, 956-423-1233) y Brownsville (871 Old Alice Rd. Suite C, 956-547-1510).",
+      "apply_url": null,
+      "phone": "(800) 813-1233",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Veteran centers: Monday-Friday 9:00 AM-6:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare and many insurance plans; sliding fee scale; no one is denied services for inability to pay.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://www.ttbh.org/veteran-services.html",
+      "confidence": "high",
+      "notes": "The Veterans Crisis Line is also available: dial 988, then press 1. In a crisis, call TTBH at 1-877-289-7199. Per the HHSC local mental health authority list, TTBH serves Cameron, Hidalgo and Willacy Counties; Starr County residents are served by Border Region Behavioral Health Center (24-hour crisis line 1-800-643-1102).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-idd-services",
+      "name": "Intellectual & Developmental Disability (IDD) Services",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Help for people with intellectual and developmental disabilities. It includes service coordination, day programs, respite care for caregivers, community support, and help getting and keeping a job.",
+      "description_es": "Ayuda para personas con discapacidades intelectuales y del desarrollo. Incluye coordinación de servicios, programas de día, descanso para las personas que cuidan, apoyo en la comunidad y ayuda para conseguir y mantener un trabajo.",
+      "eligibility_summary_en": "People with intellectual or developmental disabilities in Cameron, Hidalgo, or Willacy County. Services are for people who have finished high school, and for young children through Early Childhood Intervention up to age 3. Staff check if you qualify at intake.",
+      "eligibility_summary_es": "Personas con discapacidad intelectual o del desarrollo en el condado de Cameron, Hidalgo o Willacy. Los servicios son para personas que ya terminaron la preparatoria, y para niños pequeños hasta los 3 años por medio de Intervención Temprana en la Infancia (ECI). El personal revisa si usted califica en la primera cita.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the IDD line at (956) 289-7233 to ask about an intake and assessment.",
+      "how_to_apply_es": "Llame a la línea de IDD al (956) 289-7233 para pedir una cita de admisión y evaluación.",
+      "apply_url": null,
+      "phone": "(956) 289-7233",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, Medicare and many insurance plans. Many services are on a sliding fee scale.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://www.ttbh.org/idd-services.html",
+      "confidence": "high",
+      "notes": "The page also mentions YES Waiver services. Appointments/questions: 1-800-813-1233. Per the HHSC local mental health authority list, TTBH serves Cameron, Hidalgo and Willacy Counties; Starr County residents are served by Border Region Behavioral Health Center (24-hour crisis line 1-800-643-1102).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ttbh-osar-substance-use-referral",
+      "name": "Outreach, Screening, Assessment and Referral (OSAR)",
+      "organization": "Tropical Texas Behavioral Health",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Helps people who need treatment for drug or alcohol use. Staff screen you and connect you to the right level of care.",
+      "description_es": "Ayuda a personas que necesitan tratamiento por uso de drogas o alcohol. El personal le hace unas preguntas y le conecta con el tipo de atención que necesita.",
+      "eligibility_summary_en": "Anyone in Health Region 11 (Rio Grande Valley area) who needs help with drug or alcohol use.",
+      "eligibility_summary_es": "Cualquier persona en la Región de Salud 11 (el área del Valle del Río Grande) que necesite ayuda por uso de drogas o alcohol.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-813-1233 or visit your nearest TTBH location to get screened. In a crisis, call 1-877-289-7199.",
+      "how_to_apply_es": "Llame al 1-800-813-1233 o visite la oficina de TTBH más cercana para su evaluación. En una crisis, llame al 1-877-289-7199.",
+      "apply_url": null,
+      "phone": "(800) 813-1233",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact TTBH about cost. TTBH uses a sliding fee scale and does not turn people away for inability to pay.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://www.ttbh.org/osar.html",
+      "confidence": "high",
+      "notes": "This program serves Health Region 11, which includes Starr County. The source page does not list costs.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "behavioral-health-solutions-of-south-texas",
+      "name": "Substance Use Prevention, Treatment & Recovery Services",
+      "organization": "Behavioral Health Solutions of South Texas",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Outpatient treatment, counseling, recovery support groups, and free naloxone (overdose medicine) with training for people dealing with drug or alcohol use. It also runs parenting and youth prevention programs.",
+      "description_es": "Tratamiento de consulta externa, consejería, grupos de apoyo para la recuperación y naloxona gratis (medicina para sobredosis) con capacitación, para personas con problemas de drogas o alcohol. También tiene programas de prevención para padres y jóvenes.",
+      "eligibility_summary_en": "Youth and adults in Cameron, Hidalgo, and Willacy Counties. Some programs also serve Starr County. Each program has its own age and county rules.",
+      "eligibility_summary_es": "Jóvenes y adultos en los condados de Cameron, Hidalgo y Willacy. Algunos programas también atienden el condado de Starr. Cada programa tiene sus propias reglas de edad y condado.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 787-7111 and ask for the program you need. For example, ask for treatment at extension 221.",
+      "how_to_apply_es": "Llame al (956) 787-7111 y pida el programa que necesita. Por ejemplo, para tratamiento pida la extensión 221.",
+      "apply_url": null,
+      "phone": "(956) 787-7111",
+      "address": "5510 N Cage Blvd.",
+      "city": "Pharr",
+      "zip": "78577",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fueling Hope treatment and naloxone are free. Ask about costs for other programs.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy",
+        "Starr"
+      ],
+      "source_url": "https://www.bhsst.org/services",
+      "confidence": "high",
+      "notes": "Treatment programs include Fueling Hope (adults 18+, ext. 221), Empowering Hope (adults 18+, ext. 298) and Monarch (ages 13-17, ext. 298). The PADRES parenting program and Empowering Communities also serve Starr County. Hours are not listed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hope-family-health-center-mcallen",
+      "name": "Hope Family Health Center",
+      "organization": "Hope Family Health Center",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A nonprofit safety-net clinic for uninsured, low-income families. It offers primary care, women's health, labs, medicines for patients who qualify, and counseling. Case coordinators can help with rent, food, transportation, and child care resources.",
+      "description_es": "Una clínica sin fines de lucro para familias sin seguro médico y de bajos ingresos. Ofrece atención médica general, salud de la mujer, laboratorio, medicinas para pacientes que califican y consejería. Los coordinadores de casos pueden ayudarle a encontrar ayuda con renta, comida, transporte y cuidado de niños.",
+      "eligibility_summary_en": "Uninsured, low-income people in the Rio Grande Valley. The clinic currently sees patients age 6 and older.",
+      "eligibility_summary_es": "Personas sin seguro médico y de bajos ingresos en el Valle del Río Grande. Por ahora la clínica atiende a pacientes de 6 años en adelante.",
+      "eligibility_rules": {
+        "uninsured": true,
+        "min_age": 6
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 994-3319 or email office@hfhcenter.org to ask about becoming a patient.",
+      "how_to_apply_es": "Llame al (956) 994-3319 o escriba a office@hfhcenter.org para preguntar cómo ser paciente.",
+      "apply_url": null,
+      "phone": "(956) 994-3319",
+      "address": "2332 Jordan Rd.",
+      "city": "McAllen",
+      "zip": "78503",
+      "hours": "Monday-Thursday 8:00 AM-5:00 PM; Friday 8:00 AM-1:30 PM (closed holidays)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "The source does not list fees. Services are funded by donors and grants.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "http://hfhcenter.org/",
+      "confidence": "high",
+      "notes": "The home page mentions pediatric care from age 2, but the medical and counseling pages say ages 6 and up. Case coordination helps with rent relief, transportation, food pantries, child care, and insurance. The site says it serves the Rio Grande Valley but does not name counties; Hidalgo County is listed because the clinic is in McAllen.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "mujeres-unidas-women-together",
+      "name": "Domestic Violence & Sexual Assault Services",
+      "organization": "Mujeres Unidas / Women Together",
+      "categories": [
+        "mental_health",
+        "housing",
+        "legal"
+      ],
+      "description_en": "Help for survivors of domestic violence and sexual assault. It includes a 24/7 hotline, emergency shelter, transitional housing, counseling, a rape crisis center, and legal advocacy.",
+      "description_es": "Ayuda para sobrevivientes de violencia doméstica y agresión sexual. Incluye una línea de ayuda las 24 horas, refugio de emergencia, vivienda temporal, consejería, un centro de crisis por violación y apoyo legal.",
+      "eligibility_summary_en": "Survivors of domestic violence or sexual assault in the Rio Grande Valley, especially women and children.",
+      "eligibility_summary_es": "Sobrevivientes de violencia doméstica o agresión sexual en el Valle del Río Grande, especialmente mujeres y niños.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 hotline at 1-877-580-4879. The main office number is (956) 630-4878.",
+      "how_to_apply_es": "Llame a la línea de ayuda 24/7 al 1-877-580-4879. El número de la oficina principal es (956) 630-4878.",
+      "apply_url": null,
+      "phone": "(877) 580-4879",
+      "address": "511 N. Cynthia",
+      "city": "McAllen",
+      "zip": "78501",
+      "hours": "Hotline 24/7. Office: Monday-Thursday 9:00 AM-5:00 PM, Friday 8:00 AM-4:00 PM, closed 12:00-1:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.mujeresunidas.org/contact-us",
+      "confidence": "high",
+      "notes": "There is also a satellite center at 420 N. 21st Street, McAllen, TX 78501 (956-664-2826). Services also include the Family Justice Center and Nueva Vida transitional housing. The site does not list costs or name the counties it serves.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-san-juan",
+      "name": "Nuestra Clinica del Valle - San Juan Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 787-0787",
+      "address": "801 West 1st Street",
+      "city": "San Juan",
+      "zip": "78589",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM; night clinic Tuesdays 6:00-9:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/san-juan-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family and internal medicine, dental, and behavioral health. Outreach staff can help with CHIP and Medicaid applications.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-rio-grande-city",
+      "name": "Nuestra Clinica del Valle - Rio Grande City Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 487-0846",
+      "address": "600 North Garza Street",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Starr"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/rio-grande-city-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family and internal medicine, with a pharmacist on site. The main line is (956) 787-0787.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-roma",
+      "name": "Nuestra Clinica del Valle - Roma Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 849-2100",
+      "address": "2891 East Grant Street",
+      "city": "Roma",
+      "zip": "78584",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Starr"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/roma-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family and internal medicine. The main line is (956) 787-0787.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-mission",
+      "name": "Nuestra Clinica del Valle - Mission Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 580-3303",
+      "address": "611 Bryan Road",
+      "city": "Mission",
+      "zip": "78572",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/mission-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family and internal medicine, dental, behavioral health, and pharmacy. The main line is (956) 787-0787.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-donna",
+      "name": "Nuestra Clinica del Valle - Donna Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 464-5809",
+      "address": "105 South 10th Street",
+      "city": "Donna",
+      "zip": "78537",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/donna-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family and internal medicine. The main line is (956) 787-0787.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-mercedes",
+      "name": "Nuestra Clinica del Valle - Mercedes Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 565-3191",
+      "address": "1500 First Street",
+      "city": "Mercedes",
+      "zip": "78570",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/mercedes-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family medicine and behavioral health. The main line is (956) 787-0787.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nuestra-clinica-del-valle-edcouch",
+      "name": "Nuestra Clinica del Valle - Edcouch Clinic",
+      "organization": "Nuestra Clinica del Valle",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center that provides medical care for the whole family. Nuestra Clinica also offers dental, behavioral health, pharmacy, and lab services across its clinics.",
+      "description_es": "Un centro de salud comunitario que da atención médica para toda la familia. Nuestra Clínica también ofrece servicios dentales, de salud mental, farmacia y laboratorio en sus diferentes clínicas.",
+      "eligibility_summary_en": "Everyone is welcome, whether or not they can pay. People without insurance can pay on a sliding fee scale based on income.",
+      "eligibility_summary_es": "Todos son bienvenidos, puedan pagar o no. Las personas sin seguro médico pueden pagar según una escala de tarifas basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license or state ID)",
+        "Insurance card (Medicaid, CHIP, Medicare or private), if you have one",
+        "If uninsured: proof of residency (utility bill or lease) and proof of income (tax return or pay stubs) for the sliding fee scale"
+      ],
+      "how_to_apply": "Call or visit the clinic to become a patient. You can fill out the patient registration form from the website ahead of time.",
+      "how_to_apply_es": "Llame o visite la clínica para hacerse paciente. Puede llenar antes el formulario de registro de pacientes que está en el sitio web.",
+      "apply_url": "https://nuestraclinicadelvalle.org/become-a-patient/",
+      "phone": "(956) 262-1363",
+      "address": "1518 East Santa Rosa",
+      "city": "Edcouch",
+      "zip": "78538",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale for uninsured patients; accepts Medicaid, Medicare, CHIP and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://nuestraclinicadelvalle.org/locations/edcouch-clinic/",
+      "confidence": "high",
+      "notes": "Services at this clinic: family medicine and behavioral health counseling. The main line is (956) 787-0787.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "su-clinica-brownsville",
+      "name": "Su Clinica Brownsville",
+      "organization": "Su Clinica",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A federally qualified community health center. It offers pediatrics, women's health, adult medicine, behavioral health, and dental care, plus an on-site pharmacy, lab, and x-ray.",
+      "description_es": "Un centro de salud comunitario con fondos federales. Ofrece pediatría, salud de la mujer, medicina para adultos, salud mental y servicios dentales, además de farmacia, laboratorio y rayos X en el mismo lugar.",
+      "eligibility_summary_en": "Open to the community. As a federally qualified health center, it can lower fees based on family size and income.",
+      "eligibility_summary_es": "Abierto a la comunidad. Como centro de salud con fondos federales, puede bajar el costo según el tamaño y los ingresos de su familia.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "The items on Su Clinica's Registration Checklist (ask the clinic)"
+      ],
+      "how_to_apply": "Stop by the clinic to meet with a Registration Specialist, pick a provider, and schedule your first visit. Appointments are preferred over walk-ins. Call (956) 365-6000 with questions or to talk with an outreach worker.",
+      "how_to_apply_es": "Pase a la clínica para hablar con un especialista de registro, escoger un proveedor y hacer su primera cita. Es mejor hacer cita que llegar sin cita. Llame al (956) 365-6000 si tiene preguntas o quiere hablar con un trabajador de alcance comunitario.",
+      "apply_url": "https://www.suclinica.org/become-a-patient/",
+      "phone": "(956) 365-6000",
+      "address": "105 East Alton Gloor",
+      "city": "Brownsville",
+      "zip": "78526",
+      "hours": "Pediatrics Monday-Friday 8:00 AM-8:30 PM, Saturday-Sunday 11:00 AM-4:30 PM; Adult Medicine Monday-Friday 8:00 AM-5:00 PM; Women's Health Monday-Friday 8:00 AM-5:00 PM and every 2nd Saturday 8:00 AM-12:00 PM; Dental Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee based on family size and income; accepts Medicaid, Medicare and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.suclinica.org/brownsville/",
+      "confidence": "high",
+      "notes": "The website does not say whether this location is taking new patients; call to ask. A free after-hours nurse line is at (956) 365-6000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "su-clinica-harlingen",
+      "name": "Su Clinica Harlingen",
+      "organization": "Su Clinica",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A federally qualified community health center. It offers pediatrics, women's health (including delivery), adult medicine, dental care, behavioral wellness, and a pharmacy.",
+      "description_es": "Un centro de salud comunitario con fondos federales. Ofrece pediatría, salud de la mujer (incluyendo partos), medicina para adultos, servicios dentales, bienestar emocional y farmacia.",
+      "eligibility_summary_en": "Open to the community. As a federally qualified health center, it can lower fees based on family size and income.",
+      "eligibility_summary_es": "Abierto a la comunidad. Como centro de salud con fondos federales, puede bajar el costo según el tamaño y los ingresos de su familia.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "The items on Su Clinica's Registration Checklist (ask the clinic)"
+      ],
+      "how_to_apply": "Stop by the clinic to meet with a Registration Specialist, pick a provider, and schedule your first visit. Appointments are preferred over walk-ins. Call (956) 365-6000 with questions or to talk with an outreach worker.",
+      "how_to_apply_es": "Pase a la clínica para hablar con un especialista de registro, escoger un proveedor y hacer su primera cita. Es mejor hacer cita que llegar sin cita. Llame al (956) 365-6000 si tiene preguntas o quiere hablar con un trabajador de alcance comunitario.",
+      "apply_url": "https://www.suclinica.org/become-a-patient/",
+      "phone": "(956) 365-6000",
+      "address": "1706 Treasure Hills Blvd",
+      "city": "Harlingen",
+      "zip": "78550",
+      "hours": "Pediatrics Monday-Friday 8:00 AM-8:30 PM, Saturday-Sunday 11:00 AM-4:30 PM; Adult Medicine Monday-Friday 8:00 AM-5:00 PM, Sunday 11:00 AM-4:30 PM; Dental Monday-Friday 8:00 AM-5:00 PM, Saturday 8:00 AM-3:00 PM; Pharmacy Monday-Friday 9:00 AM-6:00 PM, Saturday 2:00-6:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee based on family size and income; accepts Medicaid, Medicare and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.suclinica.org/harlingen/",
+      "confidence": "high",
+      "notes": "The website does not say whether this location is taking new patients; call to ask. A free after-hours nurse line is at (956) 365-6000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "su-clinica-raymondville",
+      "name": "Su Clinica Raymondville",
+      "organization": "Su Clinica",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A federally qualified community health center. It offers pediatrics, women's health, adult medicine, behavioral health, dental care, lab, x-ray, social services, and a pharmacy with a drive-thru.",
+      "description_es": "Un centro de salud comunitario con fondos federales. Ofrece pediatría, salud de la mujer, medicina para adultos, salud mental, servicios dentales, laboratorio, rayos X, servicios sociales y una farmacia con servicio desde el carro.",
+      "eligibility_summary_en": "Open to the community. As a federally qualified health center, it can lower fees based on family size and income.",
+      "eligibility_summary_es": "Abierto a la comunidad. Como centro de salud con fondos federales, puede bajar el costo según el tamaño y los ingresos de su familia.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "The items on Su Clinica's Registration Checklist (ask the clinic)"
+      ],
+      "how_to_apply": "Stop by the clinic to meet with a Registration Specialist, pick a provider, and schedule your first visit. Appointments are preferred over walk-ins. Call (956) 365-6000 with questions or to talk with an outreach worker.",
+      "how_to_apply_es": "Pase a la clínica para hablar con un especialista de registro, escoger un proveedor y hacer su primera cita. Es mejor hacer cita que llegar sin cita. Llame al (956) 365-6000 si tiene preguntas o quiere hablar con un trabajador de alcance comunitario.",
+      "apply_url": "https://www.suclinica.org/become-a-patient/",
+      "phone": "(956) 365-6000",
+      "address": "131 FM 3168",
+      "city": "Raymondville",
+      "zip": "78580",
+      "hours": "Pediatrics and Adult Medicine Monday-Friday 8:00 AM-5:00 PM; Dental Monday-Friday 8:00 AM-5:00 PM (closed 12-1 PM)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee based on family size and income; accepts Medicaid, Medicare and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Willacy"
+      ],
+      "source_url": "https://www.suclinica.org/raymondville/",
+      "confidence": "high",
+      "notes": "The website does not say whether this location is taking new patients; call to ask. A free after-hours nurse line is at (956) 365-6000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "su-clinica-santa-rosa",
+      "name": "Su Clinica Santa Rosa",
+      "organization": "Su Clinica",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A federally qualified community health center. It offers family medicine (checkups, sick visits, shots, school and sports physicals) and pediatric dental care.",
+      "description_es": "Un centro de salud comunitario con fondos federales. Ofrece medicina familiar (chequeos, consultas por enfermedad, vacunas, exámenes físicos para la escuela y deportes) y servicios dentales para niños.",
+      "eligibility_summary_en": "Open to the community. As a federally qualified health center, it can lower fees based on family size and income.",
+      "eligibility_summary_es": "Abierto a la comunidad. Como centro de salud con fondos federales, puede bajar el costo según el tamaño y los ingresos de su familia.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "The items on Su Clinica's Registration Checklist (ask the clinic)"
+      ],
+      "how_to_apply": "Stop by the clinic to meet with a Registration Specialist, pick a provider, and schedule your first visit. Appointments are preferred over walk-ins. Call (956) 365-6000 with questions or to talk with an outreach worker.",
+      "how_to_apply_es": "Pase a la clínica para hablar con un especialista de registro, escoger un proveedor y hacer su primera cita. Es mejor hacer cita que llegar sin cita. Llame al (956) 365-6000 si tiene preguntas o quiere hablar con un trabajador de alcance comunitario.",
+      "apply_url": "https://www.suclinica.org/become-a-patient/",
+      "phone": "(956) 365-6000",
+      "address": "Highway 107 & La Feria Ave",
+      "city": "Santa Rosa",
+      "zip": "78593",
+      "hours": "Family Medicine Monday-Friday 8:00 AM-5:00 PM (closed 12-1 PM)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee based on family size and income; accepts Medicaid, Medicare and most private insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.suclinica.org/santa-rosa/",
+      "confidence": "high",
+      "notes": "The website does not say whether this location is taking new patients; call to ask. A free after-hours nurse line is at (956) 365-6000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cameron-county-indigent-health-care-program",
+      "name": "Cameron County Indigent Health Care Program",
+      "organization": "Cameron County Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Basic health care for very low-income county residents who do not qualify for Medicaid or other programs. It covers doctor visits, screenings, yearly checkups, shots, labs and x-rays, hospital care, and up to 3 prescriptions a month.",
+      "description_es": "Atención médica básica para residentes del condado con muy bajos ingresos que no califican para Medicaid u otros programas. Cubre visitas al doctor, exámenes, chequeos anuales, vacunas, laboratorio y rayos X, atención en el hospital y hasta 3 medicinas recetadas al mes.",
+      "eligibility_summary_en": "Cameron County residents who do not qualify for Medicaid, with household income at or below 21% of the federal poverty guidelines. Household resources must be $2,000 or less, or $3,000 or less if someone in the home is 60+ or disabled.",
+      "eligibility_summary_es": "Residentes del condado de Cameron que no califican para Medicaid y cuyos ingresos familiares están en o por debajo del 21% de las guías federales de pobreza. Los bienes de la familia deben ser de $2,000 o menos, o de $3,000 o menos si alguien en el hogar tiene 60 años o más o tiene una discapacidad.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Cameron County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Pick up an application at the Brownsville or San Benito office and make an appointment.",
+      "how_to_apply_es": "Recoja una solicitud en la oficina de Brownsville o de San Benito y haga una cita.",
+      "apply_url": null,
+      "phone": "(956) 574-8745",
+      "address": "1204 Jose Colunga Jr.",
+      "city": "Brownsville",
+      "zip": "78521",
+      "hours": "Monday-Friday 8:00 AM-12:00 PM and 1:00-5:00 PM; closed Saturday and Sunday",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.cameroncountytx.gov/publichealth/indigent-health-care/",
+      "confidence": "high",
+      "notes": "San Benito office: 1390 W. Expressway 83, San Benito, TX 78586, (956) 247-3665. Care is limited to participating providers.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cameron-county-public-health-clinics",
+      "name": "Cameron County Public Health Clinics",
+      "organization": "Cameron County Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost or free public health services, including family planning, shots for children and adults, maternal and child health, and STD prevention and treatment.",
+      "description_es": "Servicios de salud pública gratis o de bajo costo, como planificación familiar, vacunas para niños y adultos, salud de la madre y el niño, y prevención y tratamiento de enfermedades de transmisión sexual.",
+      "eligibility_summary_en": "Cameron County residents who qualify. Call to check if you are eligible.",
+      "eligibility_summary_es": "Residentes del condado de Cameron que califican. Llame para saber si usted califica.",
+      "eligibility_rules": {
+        "residency_required": "Cameron County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 247-3685 to check if you qualify or to ask for services. You can also call one of the clinics.",
+      "how_to_apply_es": "Llame al (956) 247-3685 para saber si califica o para pedir servicios. También puede llamar a una de las clínicas.",
+      "apply_url": null,
+      "phone": "(956) 247-3685",
+      "address": "1390 W. Expressway 83",
+      "city": "San Benito",
+      "zip": "78586",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Minimal to no cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.cameroncountytx.gov/publichealth/clinical-services/",
+      "confidence": "high",
+      "notes": "Clinics: Mary P. Lucio Health Center, 1204 Jose Colunga Jr. St., Brownsville (956-574-8745); San Benito Public Health Clinic, 1390 W. Expressway 83 (956-361-8244); Harlingen Public Health Center, 711 N. L St. (956-423-3516); Father Joseph O'Brien Health Clinic, 142 Champion Ave, Port Isabel. General information: (956) 247-3650. Hours are not listed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cameron-county-wic",
+      "name": "Cameron County WIC Program",
+      "organization": "Cameron County Public Health",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy foods, nutrition classes, and breastfeeding support for pregnant women, new mothers, babies, and children under 5.",
+      "description_es": "Alimentos saludables, clases de nutrición y apoyo para dar pecho, para mujeres embarazadas, mamás que acaban de dar a luz, bebés y niños menores de 5 años.",
+      "eligibility_summary_en": "Pregnant women, breastfeeding women, women who had a baby in the last 6 months, and parents or guardians of children under 5. Families on Medicaid, TANF, or SNAP meet the income rule. You do not have to be a U.S. citizen.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años. Las familias con Medicaid, TANF o SNAP cumplen con la regla de ingresos. No tiene que ser ciudadano de EE. UU.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start an application online at texaswic.org or call 1-888-942-4847.",
+      "how_to_apply_es": "Empiece su solicitud en línea en texaswic.org o llame al 1-888-942-4847.",
+      "apply_url": "https://texaswic.org",
+      "phone": "(888) 942-4847",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.cameroncountytx.gov/publichealth/ccph-wic-clinics/",
+      "confidence": "high",
+      "notes": "Cameron County lists about a dozen WIC clinics, including Brownsville (several), Harlingen (711 N. L St., 956-423-3516), San Benito, Los Fresnos, Port Isabel, Rio Hondo, and Santa Rosa. All clinics use 1-888-942-4847. Eligibility details: https://www.cameroncountytx.gov/publichealth/wic-program/",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hidalgo-county-wic",
+      "name": "Hidalgo County WIC Program",
+      "organization": "Hidalgo County",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy foods, nutrition counseling, breastfeeding support, and referrals for pregnant and postpartum women, infants, and children up to age 5. A mobile unit visits communities.",
+      "description_es": "Alimentos saludables, consejos de nutrición, apoyo para dar pecho y referencias para mujeres embarazadas y que acaban de dar a luz, bebés y niños hasta los 5 años. Una unidad móvil visita diferentes comunidades.",
+      "eligibility_summary_en": "Pregnant, breastfeeding, and postpartum women, infants, and children under 5 in households at or below 185% of the federal poverty line. People on Medicaid, TANF, or SNAP meet the income rule. U.S. citizenship is not required.",
+      "eligibility_summary_es": "Mujeres embarazadas, que dan pecho o que acaban de dar a luz, bebés y niños menores de 5 años en hogares con ingresos en o por debajo del 185% del nivel federal de pobreza. Las personas con Medicaid, TANF o SNAP cumplen con la regla de ingresos. No se requiere ser ciudadano de EE. UU.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "child_under_5": true,
+        "pregnant": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 381-4646 to make an appointment. Your nutrition risk is checked at the first visit.",
+      "how_to_apply_es": "Llame al (956) 381-4646 para hacer una cita. En la primera visita revisan su salud y nutrición.",
+      "apply_url": null,
+      "phone": "(956) 381-4646",
+      "address": "3105 W University Drive",
+      "city": "Edinburg",
+      "zip": "78539",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr"
+      ],
+      "source_url": "https://www.hidalgocounty.us/108/wic-office",
+      "confidence": "high",
+      "notes": "The program serves Hidalgo and Starr Counties. Clinics include Alamo II, Hidalgo, Progreso, San Carlos, Sullivan City, and a mobile unit that visits Hidalgo County sites. You can also apply online at https://texaswic.org/apply. For special accommodations, call (956) 279-7850 or (956) 720-1796. Income chart: https://www.hidalgocounty.us/1010/WIC-Eligibility-Requirements",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hidalgo-county-indigent-health-care",
+      "name": "Hidalgo County Indigent Health Care Program",
+      "organization": "Hidalgo County Health & Human Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A county program that pays for basic health care, such as doctor visits, shots, labs and x-rays, family planning, up to 3 prescriptions a month, and hospital care, for very low-income residents who cannot get Medicaid or other help.",
+      "description_es": "Un programa del condado que paga por atención médica básica, como visitas al doctor, vacunas, laboratorio y rayos X, planificación familiar, hasta 3 medicinas recetadas al mes y atención en el hospital, para residentes con muy bajos ingresos que no pueden recibir Medicaid u otra ayuda.",
+      "eligibility_summary_en": "Hidalgo County residents who do not qualify for Medicaid and who meet strict income and resource limits. Texas sets the limit at or below 21% of federal poverty guidelines, with resources under $2,000.",
+      "eligibility_summary_es": "Residentes del condado de Hidalgo que no califican para Medicaid y que cumplen con límites estrictos de ingresos y bienes. Texas pone el límite en o por debajo del 21% de las guías federales de pobreza, con bienes de menos de $2,000.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Hidalgo County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Hidalgo County Health & Human Services at (956) 383-6221 and ask about the County Indigent Health Care Program.",
+      "how_to_apply_es": "Llame a Salud y Servicios Humanos del Condado de Hidalgo al (956) 383-6221 y pregunte por el Programa de Atención Médica para Indigentes del Condado.",
+      "apply_url": null,
+      "phone": "(956) 383-6221",
+      "address": "1304 S 25th Avenue",
+      "city": "Edinburg",
+      "zip": "78539",
+      "hours": "Monday-Friday 8:00 AM-12:00 PM and 1:00-5:00 PM (from a 2016 county flyer; call to confirm)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.hidalgocounty.us/m/directory/department?did=67",
+      "confidence": "medium",
+      "notes": "The county directory confirms the Health & Human Services Department (1304 S 25th Ave, Edinburg, 956-383-6221). A 2016 county flyer (hidalgocounty.us/documentcenter/view/22872) describes the program, lists offices in all four county precincts, and gives (956) 318-2011 for program information. Income and resource limits come from the HHSC CIHCP page. Call to confirm current details.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hidalgo-county-head-start",
+      "name": "Hidalgo County Head Start & Early Head Start",
+      "organization": "Hidalgo County Head Start Program",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early education for young children, plus health, dental, nutrition, mental health, and family support services. Head Start is for ages 3-4. Early Head Start is for birth to age 2.",
+      "description_es": "Educación temprana gratis para niños pequeños, además de servicios de salud, dentales, nutrición, salud mental y apoyo para la familia. Head Start es para niños de 3 a 4 años. Early Head Start es para niños desde el nacimiento hasta los 2 años.",
+      "eligibility_summary_en": "Families in Hidalgo County with young children. Families on TANF, SNAP, or SSI, children in foster care, and homeless families are automatically eligible, if space allows.",
+      "eligibility_summary_es": "Familias en el condado de Hidalgo con niños pequeños. Las familias que reciben TANF, SNAP o SSI, los niños en cuidado temporal (foster) y las familias sin hogar califican automáticamente, si hay espacio.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "max_age": 4,
+        "residency_required": "Hidalgo County"
+      },
+      "documents_needed": [
+        "Child's birth certificate or baptismal record",
+        "Proof of all sources of income",
+        "Utility statement"
+      ],
+      "how_to_apply": "Fill out the online pre-application on the Head Start website, or call (956) 383-0706.",
+      "how_to_apply_es": "Llene la pre-solicitud en línea en el sitio web de Head Start, o llame al (956) 383-0706.",
+      "apply_url": "https://www.hchsp.org/apps/pages/index.jsp?uREC_ID=4352033&type=d&pREC_ID=2541683",
+      "phone": "(956) 383-0706",
+      "address": "1901 W. State Hwy 107",
+      "city": "McAllen",
+      "zip": "78504",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.hchsp.org/apps/pages/index.jsp?uREC_ID=4352033&type=d&pREC_ID=2541683",
+      "confidence": "high",
+      "notes": "Early Head Start campuses are in Donna, Mission, and San Juan. Head Start campuses are across Hidalgo County, subject to availability. Office address, phone and hours are also on https://www.hidalgocounty.us/1110/Head-Start-Program. max_age 4 is the child's age.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-child-care-services",
+      "name": "Child Care Services (child care scholarships)",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps income-eligible parents pay for child care while they work, go to school or training, or look for a job. Parents choose their own licensed provider.",
+      "description_es": "Ayuda a padres que califican por sus ingresos a pagar el cuidado de niños mientras trabajan, estudian, toman un entrenamiento o buscan trabajo. Los padres escogen su propio proveedor con licencia.",
+      "eligibility_summary_en": "Parents in Hidalgo, Starr, or Willacy County who meet income guidelines and need child care to work, go to school or training (at least 25 hours a week for one parent, or 50 hours combined for two parents), or look for work.",
+      "eligibility_summary_es": "Padres en el condado de Hidalgo, Starr o Willacy que cumplen con las guías de ingresos y necesitan cuidado de niños para trabajar, estudiar o entrenarse (por lo menos 25 horas a la semana si es un solo padre, o 50 horas entre los dos padres), o para buscar trabajo.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Proof of income (if paid in cash, an Employment/Income Verification Form from your employer)",
+        "Previous year's income tax form"
+      ],
+      "how_to_apply": "Create an account on TX3C Parent Central and complete the Eligibility Screener & Waitlist Application. For help, call the Mission (956-519-4300) or Weslaco (956-969-6100) office.",
+      "how_to_apply_es": "Cree una cuenta en TX3C Parent Central y llene la Evaluación de Elegibilidad y Solicitud de Lista de Espera. Para ayuda, llame a la oficina de Mission (956-519-4300) o de Weslaco (956-969-6100).",
+      "apply_url": "https://childcare.twc.texas.gov/find/register?mode=signup",
+      "phone": "(888) 261-3286",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Parent co-pay on a sliding scale based on income and family size. Initial job search care is available for up to 3 months.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://www.wfsolutions.org/how-we-help/child-care/parents/faq.html",
+      "confidence": "high",
+      "notes": "Report a job loss within 14 days. Parents in school full time without work have a 60-month limit. Fee reductions are possible for unexpected expenses. Parents choose a state-licensed provider or an eligible listed family member. The apply_url is the state TX3C sign-up link.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-cameron-child-care-services",
+      "name": "Child Care Services",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps income-eligible families in Cameron County find and pay for child care. New families may get up to 3 months of care with no co-pay while looking for work.",
+      "description_es": "Ayuda a familias del condado de Cameron que califican por sus ingresos a encontrar y pagar el cuidado de niños. Las familias nuevas pueden recibir hasta 3 meses de cuidado sin copago mientras buscan trabajo.",
+      "eligibility_summary_en": "Income-eligible Cameron County families who need child care to work, go to school, or look for work. There is a waitlist.",
+      "eligibility_summary_es": "Familias del condado de Cameron que califican por sus ingresos y necesitan cuidado de niños para trabajar, estudiar o buscar trabajo. Hay una lista de espera.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Cameron County"
+      },
+      "documents_needed": [
+        "Employment Verification Form or Self-Employment Verification Form (as needed)",
+        "Parent Rights and Responsibilities form"
+      ],
+      "how_to_apply": "Submit the pre-screener and waitlist application online through Texas Child Care Connection (TX3C). You will be asked every 90 days if you still need care, and you must answer within 10 business days to stay on the list.",
+      "how_to_apply_es": "Llene la evaluación previa y la solicitud de lista de espera en línea en Texas Child Care Connection (TX3C). Cada 90 días le preguntarán si todavía necesita el cuidado, y tiene que contestar en 10 días hábiles para seguir en la lista.",
+      "apply_url": "https://childcare.twc.texas.gov/find/register?mode=signup",
+      "phone": "(956) 546-3141",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Co-pay based on income once work requirements are met",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/how-do-i-apply-for-childcare-services/",
+      "confidence": "high",
+      "notes": "After 3 months of initial job search care, parents must work 25 hours a week (single parent) or 50 hours combined (two parents); care can then continue for up to 12 months total. Harlingen office: (956) 423-9266. Email: info@wfscameron.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-edinburg",
+      "name": "Workforce Solutions Edinburg Office",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center. Staff help with job searches, resumes, career counseling, and workshops. They can also help you apply for training money and child care assistance.",
+      "description_es": "Un centro de empleo gratis. El personal ayuda a buscar trabajo, hacer su currículum, recibir orientación sobre carreras y tomar talleres. También puede ayudarle a pedir dinero para entrenamiento y ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Anyone looking for work. To get personalized job or training services, you must show papers proving you are allowed to work in the U.S.",
+      "eligibility_summary_es": "Cualquier persona que busca trabajo. Para recibir servicios personalizados de empleo o entrenamiento, tiene que mostrar documentos que prueben que puede trabajar legalmente en EE. UU.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Work authorization documents (one item from List A, or one from List B and one from List C)"
+      ],
+      "how_to_apply": "Visit the office or call (888) 261-3286 to schedule an appointment. You can also search jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina o llame al (888) 261-3286 para hacer una cita. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(956) 380-0008",
+      "address": "2719 W. University Dr.",
+      "city": "Edinburg",
+      "zip": "78539",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM, except holidays",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.wfsolutions.org/connect/locations.html",
+      "confidence": "high",
+      "notes": "Serves Hidalgo, Starr, and Willacy Counties. In-person and virtual services are available. Free language services are available on request. TTY: Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-mcallen",
+      "name": "Workforce Solutions McAllen Office",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center. Staff help with job searches, resumes, career counseling, and workshops. They can also help you apply for training money and child care assistance.",
+      "description_es": "Un centro de empleo gratis. El personal ayuda a buscar trabajo, hacer su currículum, recibir orientación sobre carreras y tomar talleres. También puede ayudarle a pedir dinero para entrenamiento y ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Anyone looking for work. To get personalized job or training services, you must show papers proving you are allowed to work in the U.S.",
+      "eligibility_summary_es": "Cualquier persona que busca trabajo. Para recibir servicios personalizados de empleo o entrenamiento, tiene que mostrar documentos que prueben que puede trabajar legalmente en EE. UU.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Work authorization documents (one item from List A, or one from List B and one from List C)"
+      ],
+      "how_to_apply": "Visit the office or call (888) 261-3286 to schedule an appointment. You can also search jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina o llame al (888) 261-3286 para hacer una cita. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(956) 302-0800",
+      "address": "2101 S. 2nd St.",
+      "city": "McAllen",
+      "zip": "78503",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM, except holidays",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.wfsolutions.org/connect/locations.html",
+      "confidence": "high",
+      "notes": "Serves Hidalgo, Starr, and Willacy Counties. In-person and virtual services are available. Free language services are available on request. TTY: Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-mission",
+      "name": "Workforce Solutions Mission Office",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center. Staff help with job searches, resumes, career counseling, and workshops. They can also help you apply for training money and child care assistance.",
+      "description_es": "Un centro de empleo gratis. El personal ayuda a buscar trabajo, hacer su currículum, recibir orientación sobre carreras y tomar talleres. También puede ayudarle a pedir dinero para entrenamiento y ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Anyone looking for work. To get personalized job or training services, you must show papers proving you are allowed to work in the U.S.",
+      "eligibility_summary_es": "Cualquier persona que busca trabajo. Para recibir servicios personalizados de empleo o entrenamiento, tiene que mostrar documentos que prueben que puede trabajar legalmente en EE. UU.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Work authorization documents (one item from List A, or one from List B and one from List C)"
+      ],
+      "how_to_apply": "Visit the office or call (888) 261-3286 to schedule an appointment. You can also search jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina o llame al (888) 261-3286 para hacer una cita. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(956) 519-4300",
+      "address": "901 Travis St., Ste. 7",
+      "city": "Mission",
+      "zip": "78572",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM, except holidays",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.wfsolutions.org/connect/locations.html",
+      "confidence": "high",
+      "notes": "Serves Hidalgo, Starr, and Willacy Counties. In-person and virtual services are available. Free language services are available on request. TTY: Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-weslaco",
+      "name": "Workforce Solutions Weslaco Office",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center. Staff help with job searches, resumes, career counseling, and workshops. They can also help you apply for training money and child care assistance.",
+      "description_es": "Un centro de empleo gratis. El personal ayuda a buscar trabajo, hacer su currículum, recibir orientación sobre carreras y tomar talleres. También puede ayudarle a pedir dinero para entrenamiento y ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Anyone looking for work. To get personalized job or training services, you must show papers proving you are allowed to work in the U.S.",
+      "eligibility_summary_es": "Cualquier persona que busca trabajo. Para recibir servicios personalizados de empleo o entrenamiento, tiene que mostrar documentos que prueben que puede trabajar legalmente en EE. UU.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Work authorization documents (one item from List A, or one from List B and one from List C)"
+      ],
+      "how_to_apply": "Visit the office or call (888) 261-3286 to schedule an appointment. You can also search jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina o llame al (888) 261-3286 para hacer una cita. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(956) 969-6100",
+      "address": "2290 W. Pike Blvd., Ste. 100",
+      "city": "Weslaco",
+      "zip": "78596",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM, except holidays",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.wfsolutions.org/connect/locations.html",
+      "confidence": "high",
+      "notes": "Serves Hidalgo, Starr, and Willacy Counties. In-person and virtual services are available. Free language services are available on request. TTY: Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-starr-county",
+      "name": "Workforce Solutions Starr County Office",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center. Staff help with job searches, resumes, career counseling, and workshops. They can also help you apply for training money and child care assistance.",
+      "description_es": "Un centro de empleo gratis. El personal ayuda a buscar trabajo, hacer su currículum, recibir orientación sobre carreras y tomar talleres. También puede ayudarle a pedir dinero para entrenamiento y ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Anyone looking for work. To get personalized job or training services, you must show papers proving you are allowed to work in the U.S.",
+      "eligibility_summary_es": "Cualquier persona que busca trabajo. Para recibir servicios personalizados de empleo o entrenamiento, tiene que mostrar documentos que prueben que puede trabajar legalmente en EE. UU.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Work authorization documents (one item from List A, or one from List B and one from List C)"
+      ],
+      "how_to_apply": "Visit the office or call (888) 261-3286 to schedule an appointment. You can also search jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina o llame al (888) 261-3286 para hacer una cita. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(956) 487-9100",
+      "address": "5408 Brand St., Ste. 1",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM, except holidays",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Starr"
+      ],
+      "source_url": "https://www.wfsolutions.org/connect/locations.html",
+      "confidence": "high",
+      "notes": "Serves Hidalgo, Starr, and Willacy Counties. In-person and virtual services are available. Free language services are available on request. TTY: Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-willacy-county",
+      "name": "Workforce Solutions Willacy County Office",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center. Staff help with job searches, resumes, career counseling, and workshops. They can also help you apply for training money and child care assistance.",
+      "description_es": "Un centro de empleo gratis. El personal ayuda a buscar trabajo, hacer su currículum, recibir orientación sobre carreras y tomar talleres. También puede ayudarle a pedir dinero para entrenamiento y ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Anyone looking for work. To get personalized job or training services, you must show papers proving you are allowed to work in the U.S.",
+      "eligibility_summary_es": "Cualquier persona que busca trabajo. Para recibir servicios personalizados de empleo o entrenamiento, tiene que mostrar documentos que prueben que puede trabajar legalmente en EE. UU.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Work authorization documents (one item from List A, or one from List B and one from List C)"
+      ],
+      "how_to_apply": "Visit the office or call (888) 261-3286 to schedule an appointment. You can also search jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina o llame al (888) 261-3286 para hacer una cita. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(956) 689-3412",
+      "address": "700 FM 3168, Ste. 3",
+      "city": "Raymondville",
+      "zip": "78580",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM, except holidays",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Willacy"
+      ],
+      "source_url": "https://www.wfsolutions.org/connect/locations.html",
+      "confidence": "high",
+      "notes": "Serves Hidalgo, Starr, and Willacy Counties. In-person and virtual services are available. Free language services are available on request. TTY: Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lrgv-e3-youth",
+      "name": "E3 Youth Program (Empower - Educate - Employ)",
+      "organization": "Workforce Solutions (Lower Rio Grande Valley Workforce Development Board)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Helps young people get paid work experience, job-readiness training, mentoring, career counseling, and help with training or school costs.",
+      "description_es": "Ayuda a jóvenes a tener experiencia de trabajo pagada, entrenamiento para prepararse para el trabajo, mentores, orientación sobre carreras y ayuda con los costos de entrenamiento o estudios.",
+      "eligibility_summary_en": "Young people ages 16-24 in Hidalgo, Starr, or Willacy County who need money, want a paid internship, or want to build job skills. Other eligibility rules apply.",
+      "eligibility_summary_es": "Jóvenes de 16 a 24 años en el condado de Hidalgo, Starr o Willacy que necesitan dinero, quieren una práctica pagada o quieren mejorar sus habilidades de trabajo. Hay otras reglas para calificar.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 24
+      },
+      "documents_needed": [],
+      "how_to_apply": "Schedule a virtual or in-person orientation online, visit a Workforce Solutions office, email info@wfsolutions.org, or call (888) 261-3286.",
+      "how_to_apply_es": "Haga una cita en línea para una orientación virtual o en persona, visite una oficina de Workforce Solutions, escriba a info@wfsolutions.org o llame al (888) 261-3286.",
+      "apply_url": "https://www.wfsolutions.org/connect/schedule-appointment.html",
+      "phone": "(888) 261-3286",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://www.wfsolutions.org/how-we-help/job-seekers/youth-services.html",
+      "confidence": "high",
+      "notes": "ASL interpreters are available if you ask 3 business days ahead. Support services may help with child care, transportation, uniforms, rent and utilities for those who qualify.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-cameron-brownsville",
+      "name": "Workforce Solutions Cameron - Brownsville Center",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center for Cameron County. It offers job listings, hiring events, help with resumes and job searches, training money, and help with child care services.",
+      "description_es": "Un centro de empleo gratis para el condado de Cameron. Ofrece listas de trabajos, eventos de contratación, ayuda con el currículum y la búsqueda de trabajo, dinero para entrenamiento y ayuda con servicios de cuidado de niños.",
+      "eligibility_summary_en": "Job seekers and employers in Cameron County.",
+      "eligibility_summary_es": "Personas que buscan trabajo y empleadores en el condado de Cameron.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call. You can also search for jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite el centro en horas de oficina o llame. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.workintexas.com/",
+      "phone": "(956) 546-3141",
+      "address": "851 Old Alice Road",
+      "city": "Brownsville",
+      "zip": "78520",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/workforce-centers/",
+      "confidence": "high",
+      "notes": "Corporate office: 700 Ruben M. Torres Blvd., 3rd Floor, Brownsville. Relay Texas: 711 (voice) or 1-800-735-2989 (TTY).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-cameron-harlingen",
+      "name": "Workforce Solutions Cameron - Harlingen Center",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "A free job center for Cameron County. It offers job listings, hiring events, help with resumes and job searches, training money, and help with child care services.",
+      "description_es": "Un centro de empleo gratis para el condado de Cameron. Ofrece listas de trabajos, eventos de contratación, ayuda con el currículum y la búsqueda de trabajo, dinero para entrenamiento y ayuda con servicios de cuidado de niños.",
+      "eligibility_summary_en": "Job seekers and employers in Cameron County.",
+      "eligibility_summary_es": "Personas que buscan trabajo y empleadores en el condado de Cameron.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call. You can also search for jobs on WorkInTexas.com.",
+      "how_to_apply_es": "Visite el centro en horas de oficina o llame. También puede buscar trabajos en WorkInTexas.com.",
+      "apply_url": "https://www.workintexas.com/",
+      "phone": "(956) 368-5200",
+      "address": "1820 W. Jefferson",
+      "city": "Harlingen",
+      "zip": "78550",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/workforce-centers/",
+      "confidence": "high",
+      "notes": "Corporate office: 700 Ruben M. Torres Blvd., 3rd Floor, Brownsville. Relay Texas: 711 (voice) or 1-800-735-2989 (TTY).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-cameron-wioa-training",
+      "name": "WIOA Occupational Training Assistance",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays for job training in high-demand jobs. It can also cover books, tools, transportation, work clothes, on-the-job training, and referrals for child care.",
+      "description_es": "Paga por entrenamiento para trabajos con mucha demanda. También puede cubrir libros, herramientas, transporte, ropa de trabajo, entrenamiento en el trabajo y referencias para cuidado de niños.",
+      "eligibility_summary_en": "Cameron County low-income adults 18 and older, workers who were laid off, and low-income youth ages 14-24 with a barrier (for example, dropped out of school, learning English, homeless, pregnant or parenting, or disabled).",
+      "eligibility_summary_es": "Adultos de 18 años o más de bajos ingresos en el condado de Cameron, trabajadores que perdieron su empleo, y jóvenes de 14 a 24 años de bajos ingresos con alguna barrera (por ejemplo, dejaron la escuela, están aprendiendo inglés, no tienen hogar, están embarazadas o tienen hijos, o tienen una discapacidad).",
+      "eligibility_rules": {
+        "residency_required": "Cameron County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Attend a free WIOA orientation, held every Wednesday at 9:30 AM at the Workforce Centers. Then fill out the WIOA application online. Questions: Brownsville (956) 546-3141 or Harlingen (956) 423-9266.",
+      "how_to_apply_es": "Vaya a una orientación gratis de WIOA, que se da cada miércoles a las 9:30 AM en los centros de Workforce. Después llene la solicitud de WIOA en línea. Preguntas: Brownsville (956) 546-3141 o Harlingen (956) 423-9266.",
+      "apply_url": null,
+      "phone": "(956) 546-3141",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to eligible participants",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/career-training/",
+      "confidence": "high",
+      "notes": "Training must come from a provider on the state Eligible Training Provider list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cameron-county-adult-continuing-education",
+      "name": "Adult Continuing Education (A.C.E.) - GED & English Classes",
+      "organization": "Workforce Solutions Cameron - Adult Continuing Education (A.C.E.)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free GED classes, English classes, job certifications (like Microsoft Office Specialist), and classes to help adults move on to college or a job. Online distance learning is available.",
+      "description_es": "Clases gratis de GED, clases de inglés, certificaciones para el trabajo (como Microsoft Office Specialist) y clases para ayudar a adultos a pasar a la universidad o a un trabajo. También hay clases a distancia por computadora.",
+      "eligibility_summary_en": "Adults who live in Cameron County.",
+      "eligibility_summary_es": "Adultos que viven en el condado de Cameron.",
+      "eligibility_rules": {
+        "residency_required": "Cameron County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the enrollment form on the Workforce Solutions Cameron website and an enrollment specialist will contact you, or call (956) 548-8175.",
+      "how_to_apply_es": "Llene el formulario de inscripción en el sitio web de Workforce Solutions Cameron y un especialista le va a contactar, o llame al (956) 548-8175.",
+      "apply_url": "https://www.wfscameron.org/ged-training/",
+      "phone": "(956) 548-8175",
+      "address": "708 Palm Blvd.",
+      "city": "Brownsville",
+      "zip": "78520",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.wfscameron.org/ged-training/",
+      "confidence": "high",
+      "notes": "English classes are held in Harlingen, La Feria, Los Fresnos, Port Isabel, San Benito, and Brownsville. There is a Welcome Back Center for immigrants with college degrees.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "vida-valley-initiative-for-development-and-advancement",
+      "name": "VIDA Workforce Training Program",
+      "organization": "Valley Initiative for Development and Advancement (VIDA)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Helps adults train for well-paying careers. Programs include nursing (BSN), patient care technician, diesel and automotive technology, commercial electrician, EMT/paramedic, and police academy.",
+      "description_es": "Ayuda a adultos a entrenarse para carreras con buen sueldo. Los programas incluyen enfermería (BSN), técnico de cuidado de pacientes, tecnología diésel y automotriz, electricista comercial, técnico de emergencias médicas/paramédico y academia de policía.",
+      "eligibility_summary_en": "Rio Grande Valley residents who want training for a high-demand career. The website does not list exact eligibility rules, so call to ask.",
+      "eligibility_summary_es": "Residentes del Valle del Río Grande que quieren entrenarse para una carrera con mucha demanda. El sitio web no dice las reglas exactas para calificar, así que llame para preguntar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Click \"Start Journey\" on VIDA's website to fill out the intake form, or call (956) 903-1900.",
+      "how_to_apply_es": "Haga clic en \"Start Journey\" en el sitio web de VIDA para llenar el formulario de admisión, o llame al (956) 903-1900.",
+      "apply_url": "https://www.vidacareers.org/",
+      "phone": "(956) 903-1900",
+      "address": "417 S. Ohio Ave.",
+      "city": "Mercedes",
+      "zip": "78570",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "The website does not list costs. Call VIDA to ask about help paying for training.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Cameron"
+      ],
+      "source_url": "https://www.vidacareers.org/",
+      "confidence": "medium",
+      "notes": "Toll-free: (800) 478-1770. The address is VIDA's administration office. The site says it serves the Rio Grande Valley but does not list counties; Starr and Willacy are not included. Confirm eligibility with VIDA.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-edinburg",
+      "name": "Free Civil Legal Aid - Edinburg Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people. This includes family law, housing and eviction, subsidized housing, foreclosure, employment, farmworker, and civil rights cases.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos. Incluye casos de familia, vivienda y desalojo, vivienda subsidiada, pérdida de casa por embargo, empleo, trabajadores del campo y derechos civiles.",
+      "eligibility_summary_en": "Low-income residents of TRLA's 68-county service area in Southwest Texas, which includes the Rio Grande Valley. TRLA screens callers for income and case type.",
+      "eligibility_summary_es": "Residentes de bajos ingresos en los 68 condados que atiende TRLA en el suroeste de Texas, que incluyen el Valle del Río Grande. TRLA revisa sus ingresos y el tipo de caso cuando usted llama.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 996-8752 (toll-free 833-329-8752) on weekdays from 9:00 AM to 5:00 PM to apply for free legal help.",
+      "how_to_apply_es": "Llame al (956) 996-8752 (gratis al 833-329-8752) de lunes a viernes de 9:00 AM a 5:00 PM para pedir ayuda legal gratis.",
+      "apply_url": null,
+      "phone": "(956) 996-8752",
+      "address": "316 South Closner Blvd.",
+      "city": "Edinburg",
+      "zip": "78539",
+      "hours": "Phone intake: Monday-Friday 9:00 AM-5:00 PM Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "TRLA will never ask for payment or bank details. The Mercedes headquarters (301 S. Texas) has administrative staff only and does no intake. The county listed for each office is a best guess based on location; the central intake line serves all four counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-brownsville",
+      "name": "Free Civil Legal Aid - Brownsville Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people. This includes family law, housing and eviction, subsidized housing, foreclosure, employment, farmworker, and civil rights cases.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos. Incluye casos de familia, vivienda y desalojo, vivienda subsidiada, pérdida de casa por embargo, empleo, trabajadores del campo y derechos civiles.",
+      "eligibility_summary_en": "Low-income residents of TRLA's 68-county service area in Southwest Texas, which includes the Rio Grande Valley. TRLA screens callers for income and case type.",
+      "eligibility_summary_es": "Residentes de bajos ingresos en los 68 condados que atiende TRLA en el suroeste de Texas, que incluyen el Valle del Río Grande. TRLA revisa sus ingresos y el tipo de caso cuando usted llama.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 996-8752 (toll-free 833-329-8752) on weekdays from 9:00 AM to 5:00 PM to apply for free legal help.",
+      "how_to_apply_es": "Llame al (956) 996-8752 (gratis al 833-329-8752) de lunes a viernes de 9:00 AM a 5:00 PM para pedir ayuda legal gratis.",
+      "apply_url": null,
+      "phone": "(956) 996-8752",
+      "address": "1206 E. Van Buren St.",
+      "city": "Brownsville",
+      "zip": "78520",
+      "hours": "Phone intake: Monday-Friday 9:00 AM-5:00 PM Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "TRLA will never ask for payment or bank details. The Mercedes headquarters (301 S. Texas) has administrative staff only and does no intake. The county listed for each office is a best guess based on location; the central intake line serves all four counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-harlingen",
+      "name": "Free Civil Legal Aid - Harlingen Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people. This includes family law, housing and eviction, subsidized housing, foreclosure, employment, farmworker, and civil rights cases.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos. Incluye casos de familia, vivienda y desalojo, vivienda subsidiada, pérdida de casa por embargo, empleo, trabajadores del campo y derechos civiles.",
+      "eligibility_summary_en": "Low-income residents of TRLA's 68-county service area in Southwest Texas, which includes the Rio Grande Valley. TRLA screens callers for income and case type.",
+      "eligibility_summary_es": "Residentes de bajos ingresos en los 68 condados que atiende TRLA en el suroeste de Texas, que incluyen el Valle del Río Grande. TRLA revisa sus ingresos y el tipo de caso cuando usted llama.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (956) 996-8752 (toll-free 833-329-8752) on weekdays from 9:00 AM to 5:00 PM to apply for free legal help.",
+      "how_to_apply_es": "Llame al (956) 996-8752 (gratis al 833-329-8752) de lunes a viernes de 9:00 AM a 5:00 PM para pedir ayuda legal gratis.",
+      "apply_url": null,
+      "phone": "(956) 996-8752",
+      "address": "308 E. Harrison Ave.",
+      "city": "Harlingen",
+      "zip": "78550",
+      "hours": "Phone intake: Monday-Friday 9:00 AM-5:00 PM Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Willacy"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "TRLA will never ask for payment or bank details. The Mercedes headquarters (301 S. Texas) has administrative staff only and does no intake. The county listed for each office is a best guess based on location; the central intake line serves all four counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

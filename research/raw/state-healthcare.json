@@ -1,0 +1,2418 @@
+{
+  "scope": "healthcare",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "texas-childrens-medicaid",
+      "name": "Children's Medicaid (STAR)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free health coverage for children. It pays for checkups, dentist visits, medicine, shots, hospital care, vision, hearing, mental health care and rides to the doctor.",
+      "eligibility_summary_en": "Children 18 or younger (some children with disabilities up to age 20) who live in Texas, are U.S. citizens or qualified non-citizens, and whose family income is under the limit (for example, $3,564 a month for a family of 4).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 18,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1. If your income is too high for Medicaid, you are checked for CHIP automatically.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-children-adults-disabilities/programs-children-families/childrens-medicaid-star",
+      "confidence": "high",
+      "notes": "Monthly income limits on source: 1=$1,735; 2=$2,345; 3=$2,954; 4=$3,564; 5=$4,173; 6=$4,783; 7=$5,393; 8=$6,002; +$610 each additional person."
+    },
+    {
+      "id": "texas-chip",
+      "name": "Children's Health Insurance Program (CHIP)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost health coverage for children whose families earn too much for Medicaid. It covers checkups, medicine, shots, hospital care, dental, vision and mental health care.",
+      "eligibility_summary_en": "Children 18 or younger who live in Texas and are U.S. citizens or qualified non-citizens, with family income under the CHIP limit (for example, $5,386 a month for a family of 4).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 18,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com. For help choosing a plan, call the enrollment broker helpline.",
+      "apply_url": "https://www.yourtexasbenefits.com/Learn/Home",
+      "phone": "(800) 964-2777",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Enrollment fee of $50 or less per family per year; small copays",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-members/chip",
+      "confidence": "high",
+      "notes": "Monthly income limits: 1=$2,622; 2=$3,543; 3=$4,464; 4=$5,386; 5=$6,307; 6=$7,228; 7=$8,149; +$922 each. Enrollment fee $50 or less per family per year; copays $3-$5 or $20-$35 depending on income."
+    },
+    {
+      "id": "texas-medicaid-pregnant-women",
+      "name": "Medicaid for Pregnant Women",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free health care during pregnancy, including prenatal visits, prenatal vitamins, labor and delivery, and care after the baby is born. Coverage lasts up to 12 months after birth.",
+      "eligibility_summary_en": "Pregnant women who live in Texas, are U.S. citizens or qualified non-citizens, and meet income limits (for example, $3,571 a month for a family of 2).",
+      "eligibility_rules": {
+        "pregnant": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/medicaid-pregnant-women-chip-perinatal",
+      "confidence": "high",
+      "notes": "Monthly gross income limits: 1=$2,634; 2=$3,571; 3=$4,508; 4=$5,445; 5=$6,383; +$938 each. Postpartum coverage up to 12 months."
+    },
+    {
+      "id": "texas-chip-perinatal",
+      "name": "CHIP Perinatal",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Covers prenatal visits, prenatal vitamins, labor and delivery, and two checkups after the pregnancy ends for pregnant women who cannot get Medicaid.",
+      "eligibility_summary_en": "Pregnant women who live in Texas, do not qualify for Medicaid, have no other health insurance, and meet income limits (for example, $3,643 a month for a family of 2). Citizenship is not listed as a requirement on the source page.",
+      "eligibility_rules": {
+        "pregnant": true,
+        "uninsured": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/medicaid-pregnant-women-chip-perinatal",
+      "confidence": "high",
+      "notes": "Monthly gross income limits: 1=$2,687; 2=$3,643; 3=$4,599; 4=$5,555; 5=$6,512; +$957 each. Postpartum: two doctor visits within 60 days after pregnancy ends. Often an option for pregnant women who are not eligible for Medicaid due to immigration status."
+    },
+    {
+      "id": "texas-medicaid-parents-caretakers",
+      "name": "Medicaid for Parents and Caretakers",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Medicaid health coverage for very low-income adults who care for a child who already gets Medicaid.",
+      "eligibility_summary_en": "Parents or related caretakers (like grandparents, aunts or siblings) of a child who has Medicaid and lives with them. Income limits are very low (for example, $230 a month for a one-parent family of 3).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-children-adults-disabilities/programs-children-families/medicaid-parents-caretakers",
+      "confidence": "high",
+      "notes": "Texas did not expand Medicaid; most adults without children or disabilities do not qualify. Child must be 17 or younger, or 18 and in school full time."
+    },
+    {
+      "id": "healthy-texas-women",
+      "name": "Healthy Texas Women (HTW) and HTW Plus",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free women's health and family planning services, like yearly exams, birth control, and disease screenings and treatment. Women who were pregnant in the last 12 months can get extra HTW Plus services.",
+      "eligibility_summary_en": "Women ages 15-44 (ages 15-17 need a parent or guardian to apply) who live in Texas, are U.S. citizens or qualified immigrants, have no health insurance, are not pregnant, and earn up to 204.2% of the federal poverty level (for example, $5,616 a month for a family of 4).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 204.2,
+        "min_age": 15,
+        "max_age": 44,
+        "uninsured": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com. For help, call 2-1-1 (pick a language, then press 2) or 1-877-541-7905.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.healthytexaswomen.org/healthcare-programs/healthy-texas-women/htw-who-can-apply",
+      "confidence": "high",
+      "notes": "Income limits effective March 1, 2026: 1=$2,716; 2=$3,682; 3=$4,649; 4=$5,616; 5=$6,582; 6=$7,549; 7=$8,515; +$967 each. Backup phone (877) 541-7905. Find a provider at healthytexaswomen.org/find-doctor."
+    },
+    {
+      "id": "texas-family-planning-program",
+      "name": "Family Planning Program (FPP)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free or low-cost family planning and reproductive health care for women and men, such as birth control and health screenings.",
+      "eligibility_summary_en": "Texas residents age 64 or younger with income at or below 250% of the federal poverty level. Open to women and men.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 250,
+        "max_age": 64,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of Texas residency"
+      ],
+      "how_to_apply": "Contact a Family Planning Program clinic near you (find one at healthytexaswomen.org/find-doctor or call 2-1-1). The clinic checks if you qualify.",
+      "apply_url": "https://www.healthytexaswomen.org/find-doctor",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or low cost",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.healthytexaswomen.org/healthcare-programs/family-planning-program/fpp-who-can-apply",
+      "confidence": "high",
+      "notes": "Income limits effective March 1, 2026 range from $3,325/month (1 person) to $13,975/month (10 people). Backup phone (877) 541-7905. Documents listed are typical clinic requirements; confirm with clinic."
+    },
+    {
+      "id": "texas-breast-cervical-cancer-services",
+      "name": "Breast and Cervical Cancer Services (BCCS)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free or low-cost breast and cervical cancer screening and follow-up tests, like mammograms, breast exams, pelvic exams and Pap tests.",
+      "eligibility_summary_en": "Women 18 or older who live in Texas, have no health insurance or not enough insurance, and earn under 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "min_age": 18,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact a BCCS clinic near you (search at healthytexaswomen.org/find-doctor) or call 2-1-1 and press 2.",
+      "apply_url": "https://www.healthytexaswomen.org/find-doctor",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or low cost",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.healthytexaswomen.org/healthcare-programs/breast-cervical-cancer-services/bccs-who-can-apply",
+      "confidence": "high",
+      "notes": "Income limits range $2,660-$13,073 per month for families of 1-12. Clinics make the final eligibility decision. Backup phone (877) 541-7905."
+    },
+    {
+      "id": "texas-medicaid-breast-cervical-cancer",
+      "name": "Medicaid for Breast and Cervical Cancer (MBCC)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Full Medicaid coverage for women who need treatment for breast or cervical cancer, including cancer treatment, lab tests, hospital care and care coordination.",
+      "eligibility_summary_en": "Women ages 18-64 in Texas who were diagnosed with breast or cervical cancer and need treatment, are U.S. citizens or eligible immigrants, have no health insurance, and earn at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "min_age": 18,
+        "max_age": 64,
+        "uninsured": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact a Breast and Cervical Cancer Services (BCCS) provider or call 2-1-1. The provider checks eligibility and sends the application to HHSC for you.",
+      "apply_url": "https://www.healthytexaswomen.org/find-doctor",
+      "phone": "(512) 776-7796",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/medicaid-breast-cervical-cancer-program",
+      "confidence": "high",
+      "notes": "Email mbccapps@hhs.texas.gov. For application status or Medicaid number, call 2-1-1. STAR+PLUS questions: HHS Ombudsman (866) 566-8989."
+    },
+    {
+      "id": "texas-medicaid-buy-in-adults",
+      "name": "Medicaid Buy-In for Adults",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Lets working adults with disabilities get Medicaid by paying a monthly fee based on income. Covers doctor visits, hospital care, medicine, mental health care and therapies.",
+      "eligibility_summary_en": "Texans with a disability who are working, with earned income under $3,325 a month and assets of $5,000 or less. People getting Social Security disability benefits meet the disability rule.",
+      "eligibility_rules": {
+        "disability": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Application form H1200 (if applying by mail/fax)"
+      ],
+      "how_to_apply": "Apply online at YourTexasBenefits.com, call 2-1-1, visit a local HHSC benefits office, or mail/fax form H1200.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Monthly premium based on income (max $500)",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-children-adults-disabilities/medicaid-buy-adults",
+      "confidence": "high",
+      "notes": "Monthly premium up to $500 depending on income. Retirement accounts and PASS funds do not count as assets."
+    },
+    {
+      "id": "texas-medicaid-buy-in-children",
+      "name": "Medicaid Buy-In for Children (MBIC)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Lets families with a child who has a disability buy Medicaid coverage, even if they earn too much for regular Medicaid. Covers the same services as Medicaid.",
+      "eligibility_summary_en": "Children 18 or younger with a disability who are U.S. citizens or qualified non-citizens living in Texas, with family income under the limit (for example, $8,250 a month for a family of 4).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 18,
+        "disability": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Application form H1200 (if applying by mail/fax)"
+      ],
+      "how_to_apply": "Apply online at YourTexasBenefits.com, call 2-1-1, or apply by mail, fax or in person at an HHSC benefits office.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Monthly premium up to $230",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-children-adults-disabilities/medicaid-buy-children",
+      "confidence": "high",
+      "notes": "Monthly income limits: 1=$3,990; 2=$5,410; 3=$6,830; 4=$8,250; +$1,420 each. Premium up to $230/month (up to $70 with employer insurance plus HIPP)."
+    },
+    {
+      "id": "texas-medicaid-elderly-disabilities",
+      "name": "Medicaid for the Elderly and People with Disabilities (MEPD)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Medicaid for seniors and people with disabilities. It covers doctor visits, medicine, hospital care, and long-term care like help at home or nursing home care.",
+      "eligibility_summary_en": "Seniors and adults or children with disabilities who live in Texas and are U.S. citizens or qualified non-citizens. You may qualify even if you have Medicare.",
+      "eligibility_rules": {
+        "senior": true,
+        "disability": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com or call 2-1-1. Your local Aging and Disability Resource Center can also help.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-children-adults-disabilities/medicaid-elderly-people-disabilities",
+      "confidence": "high",
+      "notes": "Income and asset limits vary by program and were not listed on the source page. The rules keys 'senior' and 'disability' mean either group may qualify."
+    },
+    {
+      "id": "texas-hipp",
+      "name": "Health Insurance Premium Payment Program (HIPP)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Pays the cost of job-based health insurance when a family member has Medicaid and it saves the state money. You keep both your job insurance and Medicaid.",
+      "eligibility_summary_en": "Families with at least one person on Medicaid who can get health insurance through a job. People in STAR Health or CHIP cannot take part.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Form 5020 (HIPP application)",
+        "Insurance rate sheet",
+        "Insurance card",
+        "Proof of health insurance payment (if already enrolled)"
+      ],
+      "how_to_apply": "Fill out Form 5020 and send it with your insurance papers. Call for help applying.",
+      "apply_url": null,
+      "phone": "(800) 440-0493",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-children-adults-disabilities/programs-children-families/health-insurance-premium-payment-program",
+      "confidence": "high",
+      "notes": "Employer plan must cover at least 60% of costs for key services."
+    },
+    {
+      "id": "texas-medicaid-former-foster-care-youth",
+      "name": "Medicaid for Transitioning and Former Foster Care Youth",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Medicaid for young adults who were in Texas foster care. It covers doctor visits, medicine, hospital stays, glasses, dental care and rides to appointments.",
+      "eligibility_summary_en": "Youth ages 18-20 who were in Texas foster care on their 18th birthday (income limits apply), or former foster youth ages 18-25 who had Medicaid when they aged out (no income limit).",
+      "eligibility_rules": {
+        "min_age": 18,
+        "max_age": 25,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at YourTexasBenefits.com.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/foster-care-youth/medicaid-transitioning-former-foster-care-youth",
+      "confidence": "high",
+      "notes": "Transitioning youth income limit: $5,493/month for 1 person, +$1,955 per extra household member. Phone 2-1-1 is the general HHS benefits line."
+    },
+    {
+      "id": "texas-health-steps",
+      "name": "Texas Health Steps",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free medical checkups from birth and dental checkups starting at 6 months for children with Medicaid, plus help finding doctors and getting rides.",
+      "eligibility_summary_en": "Children from birth through age 20 who have Medicaid.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 20,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Medicaid ID card"
+      ],
+      "how_to_apply": "Call Texas Health Steps to find a doctor or dentist and schedule a checkup.",
+      "apply_url": null,
+      "phone": "(877) 847-8377",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-members/texas-health-steps",
+      "confidence": "high",
+      "notes": "877-THSTEPS. Relay Texas: 7-1-1. Email thsteps@hhsc.state.tx.us."
+    },
+    {
+      "id": "texas-medicaid-nemt",
+      "name": "Nonemergency Medical Transportation (NEMT) Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare",
+        "transportation"
+      ],
+      "description_en": "Free rides to doctor, dentist, hospital, drug store and other covered health care visits, by bus, taxi, van or other transit.",
+      "eligibility_summary_en": "People with Medicaid, Children with Special Health Care Needs, or Transportation for Indigent Cancer Patients who have no other way to get there.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Medicaid ID or Social Security number",
+        "Doctor/provider name and address",
+        "Appointment date and time"
+      ],
+      "how_to_apply": "If you have a Medicaid health plan, call the transportation number for your plan. If not, call 877-MED-TRIP. Call at least 2 workdays before (5 days for out-of-county trips).",
+      "apply_url": null,
+      "phone": "(877) 633-8747",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8 a.m.-5 p.m. local time",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-members/nonemergency-medical-transportation-program",
+      "confidence": "high",
+      "notes": "877-MED-TRIP line is for members without a health plan. Same-day rides may be approved for urgent doctor visits, hospital discharge or pharmacy trips."
+    },
+    {
+      "id": "texas-hhs-ombudsman-managed-care",
+      "name": "HHS Office of the Ombudsman (Medicaid/CHIP managed care help)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps Medicaid and CHIP members who have problems with their health plan or with getting services.",
+      "eligibility_summary_en": "Texas Medicaid and CHIP members.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Ombudsman if your health plan cannot solve your problem. For service coordination, first call the number on your health plan ID card.",
+      "apply_url": null,
+      "phone": "(866) 566-8989",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-members/help-coordinating-your-services",
+      "confidence": "high",
+      "notes": "STAR Kids, STAR Health and STAR+PLUS members get a service coordinator automatically; STAR and CHIP members with special health care needs also qualify."
+    },
+    {
+      "id": "texas-county-indigent-health-care",
+      "name": "County Indigent Health Care Program (CIHCP)",
+      "organization": "Texas counties, overseen by Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Your county may pay for basic health care, like doctor visits, hospital care, lab tests, X-rays and shots, for very low-income residents who cannot get Medicaid.",
+      "eligibility_summary_en": "Texas residents with income at or below 21% of the federal poverty level, resources under $2,000, and who do not qualify for Medicaid. Counties or hospital districts may use more generous rules.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your county's indigent health care office. Call 2-1-1 or search 211texas.org to find it.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/county-indigent-health-care-program",
+      "confidence": "high",
+      "notes": "Statewide minimum rules; each county runs its own program. Large hospital districts (e.g., in Harris, Dallas, Travis, Bexar, Tarrant) run their own financial assistance programs with different limits. Email CIHCP@hhs.texas.gov."
+    },
+    {
+      "id": "texas-primary-health-care-program",
+      "name": "Primary Health Care Services Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Basic health care at contracted clinics, including checkups, treatment for common illness, shots, family planning, lab tests and X-rays.",
+      "eligibility_summary_en": "Texas residents with income at or below 200% of the federal poverty level who cannot get the same services from another program.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of Texas residency"
+      ],
+      "how_to_apply": "Call 2-1-1 or search 211texas.org to find a clinic. Clinic staff check if you qualify by phone or in person; sometimes you can get care the same day.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or low cost",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/primary-health-care-program",
+      "confidence": "high",
+      "notes": "Email PrimaryHealthCare@hhs.texas.gov. Clinics may charge a copay. Documents listed are typical; confirm with the clinic."
+    },
+    {
+      "id": "texas-title-v-mch-fee-for-service",
+      "name": "Title V Maternal and Child Health Fee-for-Service Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Medical and dental care at contracted clinics for pregnant women and for children and teens, including prenatal care, well-child checkups, shots, and dental care.",
+      "eligibility_summary_en": "Texas residents with income at or below 185% of the federal poverty level who cannot get Medicaid or CHIP: pregnant women (up to 90 days after birth) and children and teens from birth to age 21.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 2-1-1 or search 211texas.org to find a clinic, then call or visit the clinic to apply.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or low cost",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/title-v-maternal-child-health-fee-service-program",
+      "confidence": "high",
+      "notes": "Email titlevffs@hhs.texas.gov. Same-day services possible in some cases."
+    },
+    {
+      "id": "texas-cshcn-services-program",
+      "name": "Children with Special Health Care Needs (CSHCN) Services Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for medical, dental, vision and mental health care, special equipment and case management for children with serious long-term health problems.",
+      "eligibility_summary_en": "Texans age 20 or younger (any age with cystic fibrosis) with a physical medical condition lasting at least a year, and family income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "max_age": 20,
+        "disability": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Form 3031 (CSHCN application)",
+        "Form 3034 (Physician or Dentist Assessment)",
+        "Proof of birth",
+        "Proof of Texas residency",
+        "Proof of income",
+        "Proof of insurance"
+      ],
+      "how_to_apply": "Send the forms and proofs to your local public health office or the program. You must also apply for Medicaid and CHIP for your child.",
+      "apply_url": null,
+      "phone": "(800) 222-3986",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8 a.m.-5 p.m. Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/disability/children-special-health-care-needs-services-program",
+      "confidence": "high",
+      "notes": "Program helpline 800-222-3986 (eligibility, applications, waiting list). Client line (877) 888-2350 for services and billing. Email cshcn@hhs.texas.gov. There may be a waiting list."
+    },
+    {
+      "id": "texas-kidney-health-care",
+      "name": "Kidney Health Care (KHC) Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps people with end-stage kidney disease pay for dialysis, access surgery, medicine, travel to treatment, and Medicare premiums.",
+      "eligibility_summary_en": "Texas residents with end-stage renal disease on regular dialysis or with a kidney transplant, income under $60,000 a year, and no Medicaid coverage for these benefits.",
+      "eligibility_rules": {
+        "disability": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Form 3035 (KHC application)",
+        "Form 3057 (Physician Assessment)",
+        "CMS 2728 (Medical Evidence Report)",
+        "Proof of residency",
+        "Proof of income",
+        "Proof of insurance",
+        "Social Security number"
+      ],
+      "how_to_apply": "Ask the social worker at your dialysis center, hospital or VA facility to help you apply.",
+      "apply_url": null,
+      "phone": "(800) 222-3986",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8 a.m.-5 p.m. Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/chronic-kidney-disease/kidney-health-care",
+      "confidence": "high",
+      "notes": "Email khc@hhs.texas.gov; applications KHC_Apply@hhs.texas.gov; fax 512-206-3982."
+    },
+    {
+      "id": "texas-epilepsy-program",
+      "name": "Epilepsy Program",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Outpatient care for epilepsy, including diagnosis, treatment and case management, at contracted clinics.",
+      "eligibility_summary_en": "Texas residents with epilepsy (or suspected epilepsy) and income at or below 200% of the federal poverty level. People under 21 who qualify for CSHCN must use that program.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of Texas residency",
+        "Doctor's statement of epilepsy diagnosis"
+      ],
+      "how_to_apply": "Apply in person at a contracted clinic in your county. Call 2-1-1 to find one. Services may start the same day.",
+      "apply_url": null,
+      "phone": "(512) 438-3769",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/epilepsy-program",
+      "confidence": "high",
+      "notes": "Email epilepsy@hhs.texas.gov."
+    },
+    {
+      "id": "texas-hemophilia-assistance-program",
+      "name": "Hemophilia Assistance Program (HAP)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for blood factor products or health insurance premiums for adults with hemophilia.",
+      "eligibility_summary_en": "Texas residents 18 or older with hemophilia, income at or below 200% of the federal poverty level, who cannot get Medicaid, CHIP or CSHCN services.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "min_age": 18,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Form 3033 (HAP application)",
+        "Form 3032 (Physical Assessment)",
+        "Proof of residency",
+        "Proof of income",
+        "Proof of insurance"
+      ],
+      "how_to_apply": "Send the forms and proofs by fax (512-206-3982), mail or email.",
+      "apply_url": null,
+      "phone": "(800) 222-3986",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8 a.m.-5 p.m. CT",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/hemophilia-assistance-program",
+      "confidence": "high",
+      "notes": "Email hemophilia@hhs.texas.gov. Mail: Hemophilia Assistance Program, Mail Code 1938, P.O. Box 149030, Austin, TX 78714-9947."
+    },
+    {
+      "id": "texas-hiv-medication-program",
+      "name": "Texas HIV Medication Program (THMP)",
+      "organization": "Texas Department of State Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Provides HIV medicines and help with insurance costs for HIV treatment for low-income Texans, through community pharmacies.",
+      "eligibility_summary_en": "Low-income Texans living with HIV who meet program rules.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the TakeChargeTexas portal, or call for help applying by phone.",
+      "apply_url": "https://tct.hhs.state.tx.us",
+      "phone": "(800) 255-1090",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.dshs.texas.gov/hivstd/meds",
+      "confidence": "high",
+      "notes": "Email hivstd@dshs.texas.gov. Income limit not stated on source page."
+    },
+    {
+      "id": "texas-medicare-help-hicap",
+      "name": "Texas Medicare Help Line (Health Information, Counseling and Advocacy Program)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free, unbiased counseling on Medicare, Medicare Advantage, Medigap, Part D drug plans, and programs that help pay Medicare costs.",
+      "eligibility_summary_en": "People with Medicare, people about to get Medicare, and their families and caregivers in Texas.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the free Texas Medicare help line to talk to a certified counselor.",
+      "apply_url": null,
+      "phone": "(800) 252-9240",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicare",
+      "confidence": "high",
+      "notes": "Texas's State Health Insurance Assistance Program (SHIP). Can help apply for Extra Help and Medicare Savings Programs."
+    },
+    {
+      "id": "texas-medicare-savings-programs",
+      "name": "Medicare Savings Programs (QMB, SLMB, QI, QDWI)",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps people with Medicare pay premiums, and sometimes deductibles and copays.",
+      "eligibility_summary_en": "Texans with Medicare and limited income. Income limits per person: QMB about $1,330/month; SLMB $1,330-$1,596; QI $1,596-$1,796. QDWI is for working people with disabilities 64 or younger.",
+      "eligibility_rules": {
+        "senior": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply at YourTexasBenefits.com or a local HHS office, or call 800-252-9240 for help.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp?lang=en_US",
+      "phone": "(800) 252-9240",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/medicare",
+      "confidence": "high",
+      "notes": "Income figures are as listed on the HHS Medicare page; asset limits also apply. People with disabilities under 65 who have Medicare also qualify."
+    },
+    {
+      "id": "medicare-extra-help",
+      "name": "Extra Help with Medicare Drug Costs (Low-Income Subsidy)",
+      "organization": "Social Security Administration / Centers for Medicare & Medicaid Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps people with Medicare pay for Part D prescription drug premiums, deductibles and copays.",
+      "eligibility_summary_en": "People with Medicare and limited income and resources. 2026 limits: $23,940 income and $18,090 resources for one person; $32,460 income and $36,100 resources for a married couple. People on Medicaid, SSI or a Medicare Savings Program qualify automatically.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online at SSA.gov, or get free help from the Texas Medicare help line (800-252-9240).",
+      "apply_url": "https://www.ssa.gov/medicare/part-d-extra-help",
+      "phone": "(800) 633-4227",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.medicare.gov/basics/costs/help/drug-costs",
+      "confidence": "high",
+      "notes": "Phone is 1-800-MEDICARE (TTY 1-877-486-2048). You can apply for Extra Help and Medicare Savings Programs at the same time."
+    },
+    {
+      "id": "healthcare-gov-marketplace-texas",
+      "name": "Health Insurance Marketplace (HealthCare.gov) and Local Enrollment Help",
+      "organization": "Centers for Medicare & Medicaid Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Texas uses HealthCare.gov to sell private health plans. Many people get tax credits that lower the monthly cost. Free trained helpers (navigators and assisters) can help you enroll.",
+      "eligibility_summary_en": "People in Texas who need health insurance. Open Enrollment starts November 1.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply at HealthCare.gov or call the Marketplace. Find free local help at localhelp.healthcare.gov.",
+      "apply_url": "https://www.healthcare.gov/",
+      "phone": "(800) 318-2596",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Monthly premium; financial help based on income",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.healthcare.gov/",
+      "confidence": "high",
+      "notes": "Find navigators/assisters by ZIP code at https://localhelp.healthcare.gov."
+    },
+    {
+      "id": "tachc-health-center-finder",
+      "name": "Community Health Center Finder",
+      "organization": "Texas Association of Community Health Centers (TACHC)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Online search tool to find a community health center (FQHC) near you. Health centers give medical, dental and mental health care, often on a sliding fee scale.",
+      "eligibility_summary_en": "Anyone in Texas looking for a community health center, including people without insurance.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Search for a health center at my.tachc.org/s/search-centers, then call the center to make an appointment.",
+      "apply_url": "https://my.tachc.org/s/search-centers",
+      "phone": "(512) 329-5959",
+      "address": "5900 Southwest Parkway, Bldg. 3",
+      "city": "Austin",
+      "zip": "78735",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to search; clinics use sliding fee scales",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.tachc.org/",
+      "confidence": "high",
+      "notes": "TACHC is a membership association; phone reaches TACHC's Austin office, not a clinic. HRSA's national finder: https://findahealthcenter.hrsa.gov/. The TACHC finder page had loading issues when checked."
+    },
+    {
+      "id": "hrsa-find-a-health-center",
+      "name": "Find a Health Center",
+      "organization": "Health Resources and Services Administration (HRSA)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Federal online tool to find HRSA-funded community health centers near you by address or ZIP code.",
+      "eligibility_summary_en": "Anyone; health centers serve people with or without insurance.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Enter your address or ZIP code at findahealthcenter.hrsa.gov and call the nearest center.",
+      "apply_url": "https://findahealthcenter.hrsa.gov/",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to search",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://findahealthcenter.hrsa.gov/",
+      "confidence": "high",
+      "notes": "Texas has 71 HRSA health center program awardees (HRSA state data)."
+    },
+    {
+      "id": "texas-medicaid-drug-store-finder",
+      "name": "Medicaid and CHIP Drug Store Finder",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Online tool to find pharmacies that fill Medicaid and CHIP prescriptions.",
+      "eligibility_summary_en": "Medicaid and CHIP members in Texas.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Use the drug store finder on the HHS website.",
+      "apply_url": "https://www.hhs.texas.gov/services/health/clinics-health-organizations-resource-centers/find-a-drug-store",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/clinics-health-organizations-resource-centers",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "texas-local-public-health-directory",
+      "name": "Texas Local Public Health Departments Directory",
+      "organization": "Texas Department of State Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A list of local health departments and public health districts in Texas, which offer services like shots, TB and STD testing, and WIC.",
+      "eligibility_summary_en": "Anyone in Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Look up your local health department in the directory and call them.",
+      "apply_url": "https://www.dshs.texas.gov/regional-local-health-operations/public-health-regions/texas-local-public-health",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/health/clinics-health-organizations-resource-centers",
+      "confidence": "medium",
+      "notes": "Services vary by health department."
+    },
+    {
+      "id": "texas-vaccines-for-children-adult-safety-net",
+      "name": "Texas Vaccines for Children and Adult Safety Net Programs",
+      "organization": "Texas Department of State Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost or free vaccines for children and some adults who cannot afford them, given at participating clinics and health departments.",
+      "eligibility_summary_en": "Texans who need vaccines regardless of ability to pay or insurance limits, per DSHS.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call your local health department or 2-1-1 to find a participating clinic.",
+      "apply_url": null,
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free or low cost",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.dshs.texas.gov/immunizations",
+      "confidence": "medium",
+      "notes": "Detailed eligibility (e.g., age, Medicaid/uninsured status) was not listed on the page checked; confirm with the clinic."
+    },
+    {
+      "id": "988-suicide-crisis-lifeline",
+      "name": "988 Suicide & Crisis Lifeline",
+      "organization": "988 Suicide & Crisis Lifeline",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Free, private support 24 hours a day for anyone in emotional distress, a mental health crisis, or with alcohol or drug concerns.",
+      "eligibility_summary_en": "Anyone, any time.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or text 988, or chat at chat.988lifeline.org.",
+      "apply_url": "https://chat.988lifeline.org",
+      "phone": "988",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7/365",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://988lifeline.org/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "texas-tobacco-quitline-yes-quit",
+      "name": "Texas Tobacco Quitline (Yes Quit)",
+      "organization": "Texas Department of State Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free coaching and a personal quit plan to help you stop smoking, vaping or using other tobacco. Adults can get free nicotine patches, gum or lozenges.",
+      "eligibility_summary_en": "Texas residents ages 13 and older. Nicotine replacement is for adults 18 and older; a youth program serves ages 13-17.",
+      "eligibility_rules": {
+        "min_age": 13,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-877-YES-QUIT or enroll online at yesquit.org.",
+      "apply_url": "https://www.yesquit.org/",
+      "phone": "(877) 937-7848",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.yesquit.org/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "texas-211",
+      "name": "2-1-1 Texas",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare",
+        "food",
+        "housing",
+        "utilities",
+        "mental_health"
+      ],
+      "description_en": "Free help line and website that connects you to local services for health care, food, housing and more. It is also the phone line for Medicaid, CHIP and other state benefits questions.",
+      "eligibility_summary_en": "Anyone in Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Dial 2-1-1 (or 877-541-7905), chat online, or search 211texas.org.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.211texas.org/",
+      "confidence": "high",
+      "notes": "Alternate number (877) 541-7905. Live chat in English and Spanish."
+    },
+    {
+      "id": "texas-adrc-statewide",
+      "name": "Aging and Disability Resource Centers (ADRC) - Statewide Line",
+      "organization": "Texas Health and Human Services Commission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "One place to get information and help finding long-term care, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and their caregivers in all 254 Texas counties.",
+      "eligibility_rules": {
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 855-YES-ADRC to be connected to your local ADRC.",
+      "apply_url": null,
+      "phone": "(855) 937-2372",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers",
+      "confidence": "high",
+      "notes": "855-YES-ADRC routes to the local ADRC."
+    },
+    {
+      "id": "adrc-alamo",
+      "name": "Alamo ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Atascosa, Bandera, Comal, Frio, Gillespie, Guadalupe, Karnes, Kendall, Kerr, McMullen, Medina, Wilson counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(210) 477-3275",
+      "address": "206 Schreiner St.",
+      "city": "Kerrville",
+      "zip": "78028",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bandera",
+        "Comal",
+        "Frio",
+        "Gillespie",
+        "Guadalupe",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "McMullen",
+        "Medina",
+        "Wilson"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-ark-tex",
+      "name": "Ark-Tex ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Bowie, Cass, Delta, Franklin, Hopkins, Lamar, Morris, Red River, Titus counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(903) 793-2756",
+      "address": "4808 Elizabeth Street",
+      "city": "Texarkana",
+      "zip": "75503",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bowie",
+        "Cass",
+        "Delta",
+        "Franklin",
+        "Hopkins",
+        "Lamar",
+        "Morris",
+        "Red River",
+        "Titus"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-bexar-county",
+      "name": "Bexar County ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Bexar County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(210) 477-3275",
+      "address": "2700 NE Loop 410, Suite 101",
+      "city": "San Antonio",
+      "zip": "78217",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-brazos-valley",
+      "name": "Brazos Valley ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Brazos, Burleson, Grimes, Leon, Madison, Robertson, Washington counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(979) 595-2831",
+      "address": "3991 E. 29th St.",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos",
+        "Burleson",
+        "Grimes",
+        "Leon",
+        "Madison",
+        "Robertson",
+        "Washington"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-capital-area",
+      "name": "Capital Area ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano, Travis, Williamson counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(855) 937-2372",
+      "address": "6800 Burleson Road, Bldg. 310, Suite 165",
+      "city": "Austin",
+      "zip": "78744",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bastrop",
+        "Blanco",
+        "Burnet",
+        "Caldwell",
+        "Fayette",
+        "Hays",
+        "Lee",
+        "Llano",
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "No local phone listed on the HHS page; phone shown is the statewide 855-YES-ADRC line. Email adrc@capcog.org. Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-central-texas",
+      "name": "Central Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Bell, Coryell, Hamilton, Lampasas, Milam, Mills, San Saba counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(855) 937-2372",
+      "address": "2180 N. Main St.",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell",
+        "Hamilton",
+        "Lampasas",
+        "Milam",
+        "Mills",
+        "San Saba"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "No local phone listed on the HHS page; phone shown is the statewide 855-YES-ADRC line. HHS page lists email adrc@capcog.org (may be a listing error). Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-coastal-bend",
+      "name": "Coastal Bend ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Aransas, Bee, Brooks, Duval, Jim Wells, Kenedy, Kleberg, Live Oak, Nueces, Refugio, San Patricio counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(361) 883-3935",
+      "address": "2910 Leopard St.",
+      "city": "Corpus Christi",
+      "zip": "78408",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Aransas",
+        "Bee",
+        "Brooks",
+        "Duval",
+        "Jim Wells",
+        "Kenedy",
+        "Kleberg",
+        "Live Oak",
+        "Nueces",
+        "Refugio",
+        "San Patricio"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-concho-valley",
+      "name": "Concho Valley ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Coke, Concho, Crockett, Edwards, Irion, Kimble, Mason, McCulloch, Menard, Reagan, Schleicher, Sterling, Sutton, Tom Green counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(325) 944-9666",
+      "address": "2801 W. Loop 306, Suite A",
+      "city": "San Angelo",
+      "zip": "76904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Coke",
+        "Concho",
+        "Crockett",
+        "Edwards",
+        "Irion",
+        "Kimble",
+        "Mason",
+        "McCulloch",
+        "Menard",
+        "Reagan",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-dallas",
+      "name": "Dallas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Dallas County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(888) 743-1202",
+      "address": "1345 River Bend Drive, Suite 200",
+      "city": "Dallas",
+      "zip": "75247",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-deep-east-texas",
+      "name": "Deep East Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Angelina, Houston, Jasper, Nacogdoches, Newton, Polk, Sabine, San Augustine, San Jacinto, Shelby, Trinity, Tyler counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(409) 381-5255",
+      "address": "1405 Kurth Drive",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Houston",
+        "Jasper",
+        "Nacogdoches",
+        "Newton",
+        "Polk",
+        "Sabine",
+        "San Augustine",
+        "San Jacinto",
+        "Shelby",
+        "Trinity",
+        "Tyler"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-east-texas",
+      "name": "East Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Anderson, Camp, Cherokee, Gregg, Harrison, Henderson, Marion, Panola, Rains, Rusk, Smith, Upshur, Van Zandt, Wood counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(903) 295-5922",
+      "address": "501 Pine Tree Road",
+      "city": "Longview",
+      "zip": "75604",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Anderson",
+        "Camp",
+        "Cherokee",
+        "Gregg",
+        "Harrison",
+        "Henderson",
+        "Marion",
+        "Panola",
+        "Rains",
+        "Rusk",
+        "Smith",
+        "Upshur",
+        "Van Zandt",
+        "Wood"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-golden-crescent",
+      "name": "Golden Crescent ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Calhoun, DeWitt, Goliad, Gonzales, Jackson, Lavaca, Victoria counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(361) 578-1587",
+      "address": "1908 N. Laurent, Suite 600",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Calhoun",
+        "DeWitt",
+        "Goliad",
+        "Gonzales",
+        "Jackson",
+        "Lavaca",
+        "Victoria"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-harris-county",
+      "name": "Harris County ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Harris County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(832) 393-5564",
+      "address": "4802 Lockwood Dr.",
+      "city": "Houston",
+      "zip": "77026",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-heart-of-texas",
+      "name": "Heart of Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Bosque, Falls, Freestone, Hill, Limestone, McLennan counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(254) 292-1855",
+      "address": "1514 South New Road",
+      "city": "Waco",
+      "zip": "76711",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bosque",
+        "Falls",
+        "Freestone",
+        "Hill",
+        "Limestone",
+        "McLennan"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-houston-galveston",
+      "name": "Houston-Galveston ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Austin, Brazoria, Chambers, Colorado, Fort Bend, Galveston, Liberty, Matagorda, Montgomery, Walker, Waller, Wharton counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(832) 681-2635",
+      "address": "1111 Collins Road",
+      "city": "Richmond",
+      "zip": "77469",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Austin",
+        "Brazoria",
+        "Chambers",
+        "Colorado",
+        "Fort Bend",
+        "Galveston",
+        "Liberty",
+        "Matagorda",
+        "Montgomery",
+        "Walker",
+        "Waller",
+        "Wharton"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-lower-rio-grande-valley",
+      "name": "Lower Rio Grande Valley ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Cameron, Hidalgo, Willacy counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(956) 412-0958",
+      "address": "301 W. Railroad St.",
+      "city": "Weslaco",
+      "zip": "78596",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-middle-rio-grande",
+      "name": "Middle Rio Grande ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Dimmit, Kinney, La Salle, Maverick, Real, Uvalde, Val Verde, Zavala counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(830) 256-8174",
+      "address": "3406 Bob Rogers Drive",
+      "city": "Eagle Pass",
+      "zip": "78852",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dimmit",
+        "Kinney",
+        "La Salle",
+        "Maverick",
+        "Real",
+        "Uvalde",
+        "Val Verde",
+        "Zavala"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-north-central-texas",
+      "name": "North Central Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Collin, Denton, Ellis, Erath, Hood, Hunt, Johnson, Kaufman, Navarro, Palo Pinto, Parker, Rockwall, Somervell, Wise counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(877) 229-9084",
+      "address": "616 Six Flags Drive",
+      "city": "Arlington",
+      "zip": "76011",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Collin",
+        "Denton",
+        "Ellis",
+        "Erath",
+        "Hood",
+        "Hunt",
+        "Johnson",
+        "Kaufman",
+        "Navarro",
+        "Palo Pinto",
+        "Parker",
+        "Rockwall",
+        "Somervell",
+        "Wise"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-north-texas",
+      "name": "North Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Archer, Baylor, Clay, Cottle, Foard, Hardeman, Jack, Montague, Wichita, Wilbarger, Young counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(940) 234-1644",
+      "address": "4309 Jacksboro Highway, Suite 200",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Archer",
+        "Baylor",
+        "Clay",
+        "Cottle",
+        "Foard",
+        "Hardeman",
+        "Jack",
+        "Montague",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-panhandle",
+      "name": "Panhandle ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Armstrong, Briscoe, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, Wheeler counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(855) 937-2372",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Armstrong",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "HHS page lists the same Lubbock address and phone (806-744-2657) as South Plains ADRC, which may be a listing error; phone shown is the statewide 855-YES-ADRC line. Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-permian-basin",
+      "name": "Permian Basin ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Andrews, Borden, Crane, Dawson, Ector, Gaines, Glasscock, Howard, Loving, Martin, Midland, Pecos, Reeves, Terrell, Upton, Ward, Winkler counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(800) 687-0135",
+      "address": "319 Runnels",
+      "city": "Big Spring",
+      "zip": "79720",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Andrews",
+        "Borden",
+        "Crane",
+        "Dawson",
+        "Ector",
+        "Gaines",
+        "Glasscock",
+        "Howard",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Pecos",
+        "Reeves",
+        "Terrell",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-rio-grande",
+      "name": "Rio Grande ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Brewster, Culberson, El Paso, Hudspeth, Jeff Davis, Presidio counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(915) 298-7307",
+      "address": "3210 Dyer Street",
+      "city": "El Paso",
+      "zip": "79930",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brewster",
+        "Culberson",
+        "El Paso",
+        "Hudspeth",
+        "Jeff Davis",
+        "Presidio"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-south-east-texas",
+      "name": "South East Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Hardin, Jefferson, Orange counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(409) 373-6776",
+      "address": "228 Durdin Drive",
+      "city": "Silsbee",
+      "zip": "77656",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hardin",
+        "Jefferson",
+        "Orange"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "HHS page spells the city 'Sillsbee'. Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-south-plains",
+      "name": "South Plains ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Bailey, Cochran, Crosby, Dickens, Floyd, Garza, Hale, Hockley, King, Lamb, Lubbock, Lynn, Motley, Terry, Yoakum counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(806) 744-2657",
+      "address": "1323 58th Street",
+      "city": "Lubbock",
+      "zip": "79412",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bailey",
+        "Cochran",
+        "Crosby",
+        "Dickens",
+        "Floyd",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "King",
+        "Lamb",
+        "Lubbock",
+        "Lynn",
+        "Motley",
+        "Terry",
+        "Yoakum"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-south-texas",
+      "name": "South Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Jim Hogg, Starr, Webb, Zapata counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(956) 729-1425",
+      "address": "1002 Dicky Lane",
+      "city": "Laredo",
+      "zip": "78044",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jim Hogg",
+        "Starr",
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-tarrant-county",
+      "name": "Tarrant County ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Tarrant County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(682) 207-6107",
+      "address": "201 Rupert Street, Suite 107",
+      "city": "Fort Worth",
+      "zip": "76107",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-texoma",
+      "name": "Texoma ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Cooke, Fannin, Grayson counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(903) 813-3581",
+      "address": "1117 Gallagher Drive, Suite 200",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cooke",
+        "Fannin",
+        "Grayson"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    },
+    {
+      "id": "adrc-west-central-texas",
+      "name": "West Central Texas ADRC",
+      "organization": "Texas Health and Human Services Commission (local ADRC partner)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free help finding long-term care and support, like personal care, nursing care and help at home, for older adults and people with disabilities.",
+      "eligibility_summary_en": "Older adults, people with disabilities, and caregivers who live in the counties this ADRC serves.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Brown, Callahan, Coleman, Comanche, Eastland, Fisher, Haskell, Jones, Kent, Knox, Mitchell, Nolan, Runnels, Scurry, Shackelford, Stephens, Stonewall, Taylor, Throckmorton counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the ADRC to talk about your needs and get connected to services.",
+      "apply_url": null,
+      "phone": "(325) 793-8440",
+      "address": "3702 Loop 322",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "Fisher",
+        "Haskell",
+        "Jones",
+        "Kent",
+        "Knox",
+        "Mitchell",
+        "Nolan",
+        "Runnels",
+        "Scurry",
+        "Shackelford",
+        "Stephens",
+        "Stonewall",
+        "Taylor",
+        "Throckmorton"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/aging/long-term-care/aging-disability-resource-centers/find-adrc",
+      "confidence": "high",
+      "notes": "Local office of the Texas ADRC network. Statewide toll-free line: 855-YES-ADRC (855-937-2372)."
+    }
+  ]
+}

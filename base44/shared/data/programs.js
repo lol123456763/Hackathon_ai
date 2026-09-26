@@ -36,7 +36,7 @@ function p(r) {
 export const CURATED_PROGRAMS = [
   // ---------------- National ----------------
   p({
-    slug: 'snap-national', program_key: 'snap', name: 'SNAP (food benefits)', organization: 'U.S. Department of Agriculture',
+    slug: 'snap-national', program_key: 'snap', name: 'SNAP (food benefits)', name_es: 'SNAP (beneficios de comida)', organization: 'U.S. Department of Agriculture',
     categories: ['food'], coverage_type: 'national',
     what_it_gives_en: 'Monthly money on a card to buy groceries.',
     what_it_gives_es: 'Dinero cada mes en una tarjeta para comprar comida.',
@@ -61,7 +61,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.fns.usda.gov/wic/applicant-participant',
   }),
   p({
-    slug: 'school-meals-national', program_key: 'school_meals', name: 'Free and reduced-price school meals', organization: 'U.S. Department of Agriculture',
+    slug: 'school-meals-national', program_key: 'school_meals', name: 'Free and reduced-price school meals', name_es: 'Comidas escolares gratis o a precio reducido', organization: 'U.S. Department of Agriculture',
     categories: ['food', 'school_childcare'], coverage_type: 'national',
     what_it_gives_en: 'Free or low-cost breakfast and lunch at school.',
     what_it_gives_es: 'Desayuno y almuerzo gratis o a bajo costo en la escuela.',
@@ -98,7 +98,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.insurekidsnow.gov',
   }),
   p({
-    slug: 'liheap-national', program_key: 'energy_help', name: 'LIHEAP energy help', organization: 'U.S. Department of Health and Human Services',
+    slug: 'liheap-national', program_key: 'energy_help', name: 'LIHEAP energy help', name_es: 'LIHEAP: ayuda con la energía', organization: 'U.S. Department of Health and Human Services',
     categories: ['utilities'], coverage_type: 'national',
     what_it_gives_en: 'Help paying heating and cooling bills.',
     what_it_gives_es: 'Ayuda para pagar facturas de calefacción y aire acondicionado.',
@@ -148,7 +148,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.211.org',
   }),
   p({
-    slug: 'lifeline-988', program_key: 'crisis_988', name: '988 Suicide & Crisis Lifeline', organization: '988 Lifeline',
+    slug: 'lifeline-988', program_key: 'crisis_988', name: '988 Suicide & Crisis Lifeline', name_es: 'Línea 988 de Prevención del Suicidio y Crisis', organization: '988 Lifeline',
     categories: ['mental_health'], coverage_type: 'national', is_crisis: true, apply_online: false,
     what_it_gives_en: 'Free, private support from a trained counselor, any time, day or night.',
     what_it_gives_es: 'Apoyo gratis y privado de un consejero capacitado, a cualquier hora del día o de la noche.',
@@ -160,7 +160,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://988lifeline.org',
   }),
   p({
-    slug: 'dv-hotline', program_key: 'dv_hotline', name: 'National Domestic Violence Hotline', organization: 'The Hotline',
+    slug: 'dv-hotline', program_key: 'dv_hotline', name: 'National Domestic Violence Hotline', name_es: 'Línea Nacional contra la Violencia Doméstica', organization: 'The Hotline',
     categories: ['mental_health', 'legal', 'housing'], coverage_type: 'national', is_crisis: true, apply_online: false,
     what_it_gives_en: 'Free, private support and safety planning, any time.',
     what_it_gives_es: 'Apoyo gratis y privado, y ayuda para hacer un plan de seguridad, a cualquier hora.',
@@ -172,7 +172,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.thehotline.org',
   }),
   p({
-    slug: 'unemployment-finder', program_key: 'unemployment', name: 'Unemployment insurance finder', organization: 'CareerOneStop (U.S. Department of Labor)',
+    slug: 'unemployment-finder', program_key: 'unemployment', name: 'Unemployment insurance finder', name_es: 'Buscador de seguro de desempleo', organization: 'CareerOneStop (U.S. Department of Labor)',
     categories: ['employment', 'cash_assistance'], coverage_type: 'national',
     what_it_gives_en: "Helps you find your state's unemployment benefits.",
     what_it_gives_es: 'Le ayuda a encontrar los beneficios de desempleo de su estado.',
@@ -184,7 +184,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.careeronestop.org/LocalHelp/UnemploymentBenefits/find-unemployment-benefits.aspx',
   }),
   p({
-    slug: 'hud-housing-counseling', program_key: 'housing_counseling', name: 'HUD housing counseling', organization: 'U.S. Department of Housing and Urban Development',
+    slug: 'hud-housing-counseling', program_key: 'housing_counseling', name: 'HUD housing counseling', name_es: 'Asesoría de vivienda de HUD', organization: 'U.S. Department of Housing and Urban Development',
     categories: ['housing', 'legal'], coverage_type: 'national',
     what_it_gives_en: 'Free advice on renting, eviction, and foreclosure.',
     what_it_gives_es: 'Consejos gratis sobre renta, desalojo y ejecución hipotecaria.',
@@ -208,7 +208,7 @@ export const CURATED_PROGRAMS = [
 
   // ---------------- Texas / Austin ----------------
   p({
-    slug: 'snap-texas', program_key: 'snap', name: 'SNAP food benefits (Your Texas Benefits)', organization: 'Texas Health and Human Services',
+    slug: 'snap-texas', program_key: 'snap', name: 'SNAP food benefits (Your Texas Benefits)', name_es: 'Beneficios de comida SNAP (Your Texas Benefits)', organization: 'Texas Health and Human Services',
     categories: ['food'], coverage_type: 'state', coverage_state: 'TX', priority_weight: 3,
     what_it_gives_en: 'Monthly money on a Lone Star Card to buy groceries. Ask about expedited SNAP: if you have very little income or money, it can arrive within 7 days.',
     what_it_gives_es: 'Dinero cada mes en una tarjeta Lone Star para comprar comida. Pregunte por SNAP acelerado: si tiene muy pocos ingresos o dinero, puede llegar en 7 días.',
@@ -222,7 +222,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.yourtexasbenefits.com',
   }),
   p({
-    slug: 'medicaid-chip-texas', program_key: 'medicaid_chip', name: "Children's Medicaid & CHIP (Your Texas Benefits)", organization: 'Texas Health and Human Services',
+    slug: 'medicaid-chip-texas', program_key: 'medicaid_chip', name: "Children's Medicaid & CHIP (Your Texas Benefits)", name_es: 'Medicaid para Niños y CHIP (Your Texas Benefits)', organization: 'Texas Health and Human Services',
     categories: ['healthcare'], coverage_type: 'state', coverage_state: 'TX', priority_weight: 3,
     what_it_gives_en: 'Free or low-cost health coverage for children, including checkups, dental care, and medicine.',
     what_it_gives_es: 'Seguro médico gratis o a bajo costo para niños, incluye chequeos, dentista y medicinas.',
@@ -235,7 +235,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.yourtexasbenefits.com',
   }),
   p({
-    slug: 'tanf-texas', program_key: 'tanf', name: 'TANF cash help (Your Texas Benefits)', organization: 'Texas Health and Human Services',
+    slug: 'tanf-texas', program_key: 'tanf', name: 'TANF cash help (Your Texas Benefits)', name_es: 'Ayuda en efectivo TANF (Your Texas Benefits)', organization: 'Texas Health and Human Services',
     categories: ['cash_assistance'], coverage_type: 'state', coverage_state: 'TX', priority_weight: 1,
     what_it_gives_en: 'Monthly cash help for families with children.',
     what_it_gives_es: 'Ayuda mensual en efectivo para familias con niños.',
@@ -261,7 +261,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://texaswic.org',
   }),
   p({
-    slug: 'twc-unemployment', program_key: 'unemployment', name: 'Texas Workforce Commission unemployment benefits', organization: 'Texas Workforce Commission',
+    slug: 'twc-unemployment', program_key: 'unemployment', name: 'Texas Workforce Commission unemployment benefits', name_es: 'Seguro de desempleo de la Comisión de la Fuerza Laboral de Texas', organization: 'Texas Workforce Commission',
     categories: ['employment', 'cash_assistance'], coverage_type: 'state', coverage_state: 'TX', priority_weight: 3,
     what_it_gives_en: 'Weekly payments while you look for a new job.',
     what_it_gives_es: 'Pagos semanales mientras busca un nuevo trabajo.',
@@ -296,7 +296,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.centraltexasfoodbank.org',
   }),
   p({
-    slug: 'austin-energy-bill-help', program_key: 'utility_local', name: 'Austin Energy bill help', organization: 'Austin Energy',
+    slug: 'austin-energy-bill-help', program_key: 'utility_local', name: 'Austin Energy bill help', name_es: 'Ayuda con la factura de Austin Energy', organization: 'Austin Energy',
     categories: ['utilities'], coverage_type: 'city', coverage_state: 'TX', coverage_zip_prefixes: AUSTIN, priority_weight: 3,
     what_it_gives_en: 'Customer Assistance Program discounts and payment arrangements on your utility bill.',
     what_it_gives_es: 'Descuentos del Programa de Asistencia al Cliente y arreglos de pago para su factura.',
@@ -308,7 +308,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://austinenergy.com',
   }),
   p({
-    slug: 'ceap-texas', program_key: 'energy_help', name: 'Texas energy assistance (CEAP)', organization: 'Texas Department of Housing and Community Affairs',
+    slug: 'ceap-texas', program_key: 'energy_help', name: 'Texas energy assistance (CEAP)', name_es: 'Ayuda de energía de Texas (CEAP)', organization: 'Texas Department of Housing and Community Affairs',
     categories: ['utilities'], coverage_type: 'state', coverage_state: 'TX', priority_weight: 3,
     what_it_gives_en: 'Help with electric bills through local agencies.',
     what_it_gives_es: 'Ayuda con la factura de luz a través de agencias locales.',
@@ -333,7 +333,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.childinc.org',
   }),
   p({
-    slug: 'austin-isd-school-meals', program_key: 'school_meals', name: 'Austin ISD school meals', organization: 'Austin Independent School District',
+    slug: 'austin-isd-school-meals', program_key: 'school_meals', name: 'Austin ISD school meals', name_es: 'Comidas escolares de Austin ISD', organization: 'Austin Independent School District',
     categories: ['food', 'school_childcare'], coverage_type: 'city', coverage_state: 'TX', coverage_zip_prefixes: AUSTIN, priority_weight: 3,
     what_it_gives_en: 'Free and reduced-price meals for AISD students.',
     what_it_gives_es: 'Comidas gratis y a precio reducido para estudiantes de AISD.',
@@ -345,7 +345,7 @@ export const CURATED_PROGRAMS = [
     apply_url: 'https://www.austinisd.org',
   }),
   p({
-    slug: 'capmetro-reduced-fares', program_key: 'transport', name: 'CapMetro reduced fares', organization: 'CapMetro',
+    slug: 'capmetro-reduced-fares', program_key: 'transport', name: 'CapMetro reduced fares', name_es: 'Tarifas reducidas de CapMetro', organization: 'CapMetro',
     categories: ['transportation'], coverage_type: 'city', coverage_state: 'TX', coverage_zip_prefixes: AUSTIN, priority_weight: 2,
     what_it_gives_en: 'Reduced bus and rail fares for eligible riders.',
     what_it_gives_es: 'Tarifas reducidas de autobús y tren para quienes califiquen.',

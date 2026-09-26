@@ -1,0 +1,1012 @@
+{
+  "scope": "Greater Houston suburbs (Fort Bend, Montgomery, Brazoria, Galveston counties) - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "accesshealth-fort-bend",
+      "name": "AccessHealth Community Health Centers",
+      "organization": "AccessHealth (formerly Fort Bend Family Health Center)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Nonprofit community health center with clinics in Richmond, Missouri City, Stafford and Brookshire. Offers adult and child medical care, women's health, dental, pharmacy, counseling, vaccines and lab work.",
+      "description_es": "Centro de salud comunitario sin fines de lucro con clínicas en Richmond, Missouri City, Stafford y Brookshire. Ofrece atención médica para adultos y niños, salud de la mujer, dentista, farmacia, consejería, vacunas y análisis de laboratorio.",
+      "eligibility_summary_en": "Open to everyone. Uninsured patients who qualify can pay less based on household income and family size.",
+      "eligibility_summary_es": "Abierto para todos. Si no tiene seguro y califica, puede pagar menos según el ingreso y el tamaño de su familia.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (281) 342-4530 or schedule online to make an appointment. New patient registration forms are on the AccessHealth website.",
+      "how_to_apply_es": "Llame al (281) 342-4530 o haga su cita en línea. Los formularios para pacientes nuevos están en el sitio web de AccessHealth.",
+      "apply_url": "https://www.myaccesshealth.org/appointment",
+      "phone": "(281) 342-4530",
+      "address": "400 Austin St.",
+      "city": "Richmond",
+      "zip": "77469",
+      "hours": "Richmond Clinic: Monday-Friday 7:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale based on income and family size; accepts Medicaid, CHIP, Medicare and private insurance",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.myaccesshealth.org/locations",
+      "confidence": "high",
+      "notes": "Other clinics (all use (281) 342-4530): East Fort Bend Clinic, 7707 Highway 6 South Bldg B, Missouri City 77459 (Mon-Fri 8 AM-5 PM); Missouri City Clinic, 307 Texas Pkwy #100, Missouri City 77489; Second Mile Clinic, 1135 US-90 ALT, Missouri City 77489 (family practice Monday, dental Wednesday); Stafford Clinic (pediatrics and dental), 10435 Greenbough Dr Suite 300, Stafford 77477; Brookshire Clinic, 533 FM 359 S, Brookshire 77423 (Waller County). Hours vary by site and service. Online scheduling and new patient forms at myaccesshealth.org/appointment.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "accesshealth-wic-fort-bend",
+      "name": "WIC Nutrition Program at AccessHealth",
+      "organization": "AccessHealth",
+      "categories": [
+        "food",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition classes, one-on-one counseling with nutritionists and breastfeeding support to eligible families.",
+      "description_es": "WIC da comida saludable, clases de nutrición, consejería personal con nutricionistas y apoyo para la lactancia a familias que califican.",
+      "eligibility_summary_en": "For low-income pregnant women, new mothers, infants and young children who qualify for WIC. Call to check if you qualify.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mamás que acaban de dar a luz, bebés y niños pequeños de familias de bajos ingresos que califican para WIC. Llame para saber si califica.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call AccessHealth at (281) 342-4530 to ask about WIC and set up a visit.",
+      "how_to_apply_es": "Llame a AccessHealth al (281) 342-4530 para preguntar por WIC y hacer una cita en el centro de WIC más cercano.",
+      "apply_url": null,
+      "phone": "(281) 342-4530",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.myaccesshealth.org/services",
+      "confidence": "high",
+      "notes": "AccessHealth runs separate WIC centers (not inside its medical clinics), including in Rosenberg, Stafford, Katy and Brookshire, plus Bellville, Columbus, Eagle Lake, Hempstead, Sealy, Weimar and Wharton outside Fort Bend. Hours vary by center; see the AccessHealth locations page or call the main line.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-bend-county-indigent-health-care",
+      "name": "Fort Bend County Indigent Health Care Program (CIHCP)",
+      "organization": "Fort Bend County Health & Human Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Pays for medically necessary health care for very low-income Fort Bend County residents who have no other coverage.",
+      "description_es": "Paga la atención médica necesaria para residentes del Condado de Fort Bend con ingresos muy bajos que no tienen otra cobertura.",
+      "eligibility_summary_en": "For Fort Bend County residents with countable income at or below 21% of the federal poverty level and household resources of $2,000 or less ($3,000 if a household member is disabled).",
+      "eligibility_summary_es": "Para residentes del Condado de Fort Bend con ingresos contables del 21% o menos del nivel federal de pobreza, y con bienes del hogar de $2,000 o menos ($3,000 si alguien en el hogar tiene una discapacidad).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Fort Bend County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Fort Bend County Health & Human Services at (281) 342-3411 or see the 'How To Apply For CIHCP' page on the county website. Fill in every blank and bring proof of residency and the required documents.",
+      "how_to_apply_es": "Llame a Salud y Servicios Humanos del Condado de Fort Bend al (281) 342-3411 o vea la página 'How To Apply For CIHCP' en el sitio web del condado. Llene todos los espacios de la solicitud y lleve prueba de que vive en el condado y los documentos que piden.",
+      "apply_url": "https://www.fortbendcountytx.gov/government/departments/health-and-human-services/indigent-health-care",
+      "phone": "(281) 342-3411",
+      "address": "301 Jackson St",
+      "city": "Richmond",
+      "zip": "77469",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.fortbendcountytx.gov/government/departments/health-and-human-services/indigent-health-care/eligibility",
+      "confidence": "high",
+      "notes": "Household members who already qualify for Medicaid are not counted for CIHCP, but should still be listed on the application. Work-related and child care costs can lower countable income. The resource limit of $3,000 for a household with a disabled member needs a doctor's statement. The county also offers the Rx Assist Program for medication help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-bend-county-social-services",
+      "name": "Fort Bend County Social Services - General Assistance",
+      "organization": "Fort Bend County Health & Human Services",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "County office that offers general assistance with rent and utility bills, case management and a benefits bank to help families move from crisis to stability. Also runs veteran help (Operation Fort Bend Heroes), Adopt A Family and a crime victims program.",
+      "description_es": "Oficina del condado que da ayuda general con la renta y los recibos de servicios (luz, agua, gas), manejo de casos y un banco de beneficios para ayudar a las familias a salir de una crisis. También tiene ayuda para veteranos, el programa Adopt A Family y un programa para víctimas de delitos.",
+      "eligibility_summary_en": "For Fort Bend County residents in need. There is no income limit. Help can be given once per fiscal year (October 1 - September 30).",
+      "eligibility_summary_es": "Para residentes del Condado de Fort Bend que necesitan ayuda. No hay límite de ingresos. Se puede recibir ayuda una vez por año fiscal (del 1 de octubre al 30 de septiembre).",
+      "eligibility_rules": {
+        "residency_required": "Fort Bend County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Appointments are required. Request one online through the county's form or call the Rosenberg office (281) 238-3502 or the Missouri City office (281) 403-8050. Phone interviews are possible. Review the required documents list on the county website first.",
+      "how_to_apply_es": "Necesita cita. Pídala en línea con el formulario del condado o llame a la oficina de Rosenberg al (281) 238-3502 o a la de Missouri City al (281) 403-8050. Pueden hacer la entrevista por teléfono. Revise primero la lista de documentos en el sitio web del condado.",
+      "apply_url": "https://www.fortbendcountytx.gov/government/departments/health-and-human-services/social-services",
+      "phone": "(281) 342-3411",
+      "address": "301 Jackson St",
+      "city": "Richmond",
+      "zip": "77469",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM (closed 12 PM - 1 PM)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.fortbendcountytx.gov/government/departments/health-and-human-services/social-services",
+      "confidence": "high",
+      "notes": "Main HHS line: (281) 342-3411 (301 Jackson St, Richmond). Help with rent, deposits (through Rapid Rehousing) and utilities varies case by case. Does not pay car payments, credit cards, student loans or late fees. Applications are usually processed within two days once all documents are in. Social Services office street addresses were not listed on the pages checked.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texana-center-mental-health-fort-bend",
+      "name": "Texana Center Mental Health Outpatient Services",
+      "organization": "Texana Center (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Texana Center is the public mental health center for Fort Bend County. It offers outpatient mental health care for adults, youth and families, plus developmental disability and autism services.",
+      "description_es": "Texana Center es el centro público de salud mental del Condado de Fort Bend. Ofrece atención de salud mental para adultos, jóvenes y familias, además de servicios para discapacidades del desarrollo y autismo.",
+      "eligibility_summary_en": "Adult outpatient care is for residents 18 and older with a serious mental illness like schizophrenia, major depression or bipolar disorder. Children ages 3-17 with a serious emotional disturbance that causes major problems at school or home can also get services.",
+      "eligibility_summary_es": "La atención para adultos es para residentes de 18 años o más con una enfermedad mental grave, como esquizofrenia, depresión mayor o trastorno bipolar. También atienden a niños de 3 a 17 años con problemas emocionales serios que les causan muchas dificultades en la escuela o en casa.",
+      "eligibility_rules": {
+        "residency_required": "Resident of Fort Bend, Austin, Colorado, Matagorda, Waller or Wharton County"
+      },
+      "documents_needed": [
+        "Insurance card (Medicaid, Medicare or private), if you have one",
+        "Social Security card",
+        "Benefits award letter (if any)",
+        "Proof of residency (utility bill or lease)",
+        "For children: birth certificate, custody/guardianship papers, both parents' income, government ID"
+      ],
+      "how_to_apply": "Call your nearest Texana mental health clinic to learn its intake days. Intake is first come, first served at each clinic.",
+      "how_to_apply_es": "Llame a la clínica de Texana más cercana para saber qué días hacen la evaluación de ingreso. Atienden por orden de llegada.",
+      "apply_url": null,
+      "phone": "(281) 344-4900",
+      "address": "5310 Airport Avenue",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Based on ability to pay (HHSC guidelines); accepts Medicaid, Medicare, CHIP and Blue Cross Blue Shield",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.texanacenter.com/services/mental-health-adult-services/mental-health-services-intake/",
+      "confidence": "high",
+      "notes": "Phone above is the Rosenberg Clinic. Sugar Land Clinic: 2535 Cordes Dr., Sugar Land 77479, (281) 276-4400. Administration: 2330 Graeber Road, Rosenberg 77471, (281) 239-1300. Intake days change from time to time, so call first. Texana also serves Austin, Colorado, Matagorda, Waller and Wharton counties. The Texana website can be translated into Spanish, Vietnamese, Arabic, Chinese and other languages; ask the clinic about interpreter help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texana-center-crisis-hotline",
+      "name": "Texana Center 24/7 Mental Health Crisis Hotline and Mobile Crisis Outreach Team",
+      "organization": "Texana Center (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24-hour crisis line for anyone in Fort Bend County having a mental health crisis. A mobile crisis team can screen people and connect them to the Texana Crisis Center for short-term stabilization.",
+      "description_es": "Una línea de crisis que funciona las 24 horas para cualquier persona en el Condado de Fort Bend que esté pasando por una crisis de salud mental. Un equipo móvil puede evaluar a la persona y conectarla con el Centro de Crisis de Texana para estabilizarla por poco tiempo.",
+      "eligibility_summary_en": "Anyone in a mental health crisis can call. The Crisis Center units are for adults 18 and older who are low-income, uninsured or have Medicaid.",
+      "eligibility_summary_es": "Cualquier persona en crisis de salud mental puede llamar. Las unidades del Centro de Crisis son para adultos de 18 años o más con bajos ingresos, sin seguro o con Medicaid.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1 (800) 633-5686 any time, day or night. You can also call or text 988. In an emergency call 911 and, in Fort Bend County, ask for the Crisis Intervention Team.",
+      "how_to_apply_es": "Llame al 1 (800) 633-5686 a cualquier hora, de día o de noche. También puede llamar o mandar un texto al 988. En una emergencia llame al 911 y, en el Condado de Fort Bend, pida el Equipo de Intervención en Crisis.",
+      "apply_url": null,
+      "phone": "(800) 633-5686",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to call",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.texanacenter.com/crisis-center/",
+      "confidence": "high",
+      "notes": "The Texana Crisis Center (2330 Graeber Road, Rosenberg) is NOT open to the public and is NOT a drop-off center; access is only through the hotline and a Mobile Crisis Outreach Team screening. It has an Extended Observation Unit (up to 48 hours) and a Crisis Residential Unit. Texana also serves Austin, Colorado, Matagorda, Waller and Wharton counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texana-eci-project-grow",
+      "name": "Early Childhood Intervention (ECI) - Project GROW",
+      "organization": "Texana Center",
+      "categories": [
+        "school_childcare",
+        "healthcare"
+      ],
+      "description_en": "Helps babies and toddlers under 3 who have developmental delays or disabilities, with services for the child and family.",
+      "description_es": "Ayuda a bebés y niños menores de 3 años que tienen retrasos en su desarrollo o discapacidades, con servicios para el niño y su familia.",
+      "eligibility_summary_en": "For children under 36 months with a developmental delay, a diagnosed condition likely to cause delay, or hearing or vision concerns. Income does not affect eligibility.",
+      "eligibility_summary_es": "Para niños menores de 36 meses con un retraso en el desarrollo, una condición médica que probablemente cause retraso, o problemas de audición o de vista. Los ingresos de la familia no importan para calificar.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "requires_children": true,
+        "max_age": 2
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Project GROW at (281) 238-1800 to refer your child.",
+      "how_to_apply_es": "Llame a Project GROW al (281) 238-1800 para referir a su niño.",
+      "apply_url": null,
+      "phone": "(281) 238-1800",
+      "address": "4706 Airport Avenue",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Some services are free regardless of income; other costs are explained on Texana's ECI cost page",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.texanacenter.com/services/child-and-family-services/early-childhood-intervention/eci-eligibility/",
+      "confidence": "high",
+      "notes": "Serves only certain Fort Bend ZIP codes (including 77053, 77082, 77083, 77406, 77407, 77417, 77423, 77441, 77444 and others) plus most of Waller County. Texana's homepage says ECI staff are temporarily relocated, until further notice, to Buildings A and B at 4910 Airport Ave., Rosenberg 77471 - call before visiting. Questions about the move: (281) 239-1300.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tri-county-behavioral-healthcare-mental-health",
+      "name": "Tri-County Behavioral Healthcare Adult Mental Health Services",
+      "organization": "Tri-County Behavioral Healthcare (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Montgomery County. Offers adult and youth mental health care, substance use treatment, IDD services, veterans services and housing help.",
+      "description_es": "El centro público de salud mental del Condado de Montgomery. Ofrece atención de salud mental para adultos y jóvenes, tratamiento para el uso de drogas o alcohol, servicios para discapacidades intelectuales y del desarrollo, servicios para veteranos y ayuda con vivienda.",
+      "eligibility_summary_en": "Adult services are for Montgomery, Liberty or Walker County residents 18 and older with major depression, bipolar disorder, schizophrenia or schizoaffective disorder.",
+      "eligibility_summary_es": "Los servicios para adultos son para residentes de los condados de Montgomery, Liberty o Walker, de 18 años o más, con depresión mayor, trastorno bipolar, esquizofrenia o trastorno esquizoafectivo.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "residency_required": "Montgomery, Liberty or Walker County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in during intake hours. You will meet with a financial specialist and a mental health professional the same day, and a full evaluation is scheduled later.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de ingreso. Ese mismo día hablará con un especialista financiero y con un profesional de salud mental, y luego le darán una cita para una evaluación completa.",
+      "apply_url": null,
+      "phone": "(800) 550-8408",
+      "address": "233 Sgt Ed Holcomb Blvd S.",
+      "city": "Conroe",
+      "zip": "77304",
+      "hours": "Conroe walk-in intake: Monday-Thursday 9:30 AM - 11:00 AM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale; charity care available",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.tcbhc.org/services/adult-mental-health/",
+      "confidence": "high",
+      "notes": "Montgomery County intake line: 936-521-6400; routine services: 936-521-6300. Other walk-in intake sites: Cleveland, 402 Liberty St (Mon & Wed 8-10 AM); Liberty, 2000 Panther Ln (Tue & Thu 8-10 AM); Huntsville, 7045 Hwy 75 South (Mon & Thu 8-10 AM). Must complete the Adult Needs and Strengths Assessment (ANSA). Crisis line: 1-800-659-6994.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tri-county-crisis-line-petc",
+      "name": "Tri-County 24/7 Crisis Line and Psychiatric Emergency Treatment Center (PETC)",
+      "organization": "Tri-County Behavioral Healthcare (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24-hour crisis hotline and a walk-in psychiatric emergency center in Conroe that is open every day of the year. Includes mobile crisis outreach and a crisis stabilization unit.",
+      "description_es": "Una línea de crisis que funciona las 24 horas y un centro de emergencias psiquiátricas en Conroe, abierto todos los días del año, donde puede llegar sin cita. Incluye un equipo móvil de crisis y una unidad de estabilización.",
+      "eligibility_summary_en": "For people age 4 and older in Montgomery, Liberty or Walker County having a mental health emergency, even if they do not get other services from Tri-County.",
+      "eligibility_summary_es": "Para personas de 4 años o más en los condados de Montgomery, Liberty o Walker que tengan una emergencia de salud mental, aunque no reciban otros servicios de Tri-County.",
+      "eligibility_rules": {
+        "min_age": 4,
+        "residency_required": "Montgomery, Liberty or Walker County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-659-6994 any time, or go to the PETC in Conroe, open 24 hours a day.",
+      "how_to_apply_es": "Llame al 1-800-659-6994 a cualquier hora, o vaya al PETC en Conroe, que está abierto las 24 horas.",
+      "apply_url": null,
+      "phone": "(800) 659-6994",
+      "address": "706 FM 2854 (Old Montgomery Road/Metcalf Street)",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": "24 hours a day, 365 days a year",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale for uninsured, co-pays as low as $0",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.tcbhc.org/services/crisis-services/",
+      "confidence": "high",
+      "notes": "PETC direct phone: 936-538-1102. Crisis services are in English and Spanish, with other languages and TTY on request. The Crisis Stabilization Unit is for adults 18+.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gulf-coast-center-mental-health",
+      "name": "Gulf Coast Center Mental Health Services",
+      "organization": "The Gulf Coast Center (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Public mental health center for Brazoria and Galveston counties. Offers counseling, medication management, case management, peer support and skills training for adults, children and teens.",
+      "description_es": "Centro público de salud mental para los condados de Brazoria y Galveston. Ofrece consejería, manejo de medicamentos, manejo de casos, apoyo de compañeros y clases de habilidades para adultos, niños y adolescentes.",
+      "eligibility_summary_en": "For adults and for youth ages 3-17 in Brazoria and Galveston counties who need mental health care.",
+      "eligibility_summary_es": "Para adultos y jóvenes de 3 a 17 años en los condados de Brazoria y Galveston que necesitan atención de salud mental.",
+      "eligibility_rules": {
+        "residency_required": "Brazoria or Galveston County resident"
+      },
+      "documents_needed": [
+        "Driver's license or ID",
+        "Social Security card",
+        "Proof of residency",
+        "Proof of income",
+        "Insurance card (if any)",
+        "List of medications",
+        "For youth: birth certificate, immunization records, household income proof"
+      ],
+      "how_to_apply": "Walk in for same-day or next-day intake on weekdays. Adults: 8-10:15 AM or 12:30-2:45 PM. Youth: 8-9:45 AM or 12:30-2:15 PM. Or call 1-800-643-0967.",
+      "how_to_apply_es": "Vaya sin cita de lunes a viernes para una evaluación el mismo día o el día siguiente. Adultos: de 8 a 10:15 AM o de 12:30 a 2:45 PM. Jóvenes: de 8 a 9:45 AM o de 12:30 a 2:15 PM. O llame al 1-800-643-0967.",
+      "apply_url": null,
+      "phone": "(800) 643-0967",
+      "address": "7510 FM 1765",
+      "city": "Texas City",
+      "zip": "77591",
+      "hours": "Walk-in intake Monday-Friday: adults 8:00-10:15 AM and 12:30-2:45 PM; youth 8:00-9:45 AM and 12:30-2:15 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://gulfcoastcenter.org/mentalhealth/",
+      "confidence": "high",
+      "notes": "Address shown is the Mainland Community Service Center (adults). Other adult sites: Galveston Island Community Service Center, 4700 Broadway #100, Galveston; Northern Brazoria Community Service Center, 101 Brennen Ln, Alvin 77511; Southern Brazoria Community Service Center, 101 Tigner Rd, Angleton 77515. Youth sites: Galveston County Youth Behavioral Health Clinic, 3201 FM 2004, Texas City 77591; Brazoria County Youth Behavioral Health Clinic, 101 Tigner Rd, Angleton 77515. Walk-in intake is offered at all clinics. Crisis hotline: 866-729-3848. Cost is not listed on the website.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gulf-coast-center-crisis-hotline",
+      "name": "Gulf Coast Center 24-Hour Crisis Hotline",
+      "organization": "The Gulf Coast Center (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24-hour mental health crisis hotline for Brazoria and Galveston counties, with emergency and stabilization services.",
+      "description_es": "Una línea de crisis de salud mental que funciona las 24 horas para los condados de Brazoria y Galveston, con servicios de emergencia y de estabilización.",
+      "eligibility_summary_en": "Anyone in Brazoria or Galveston County having a mental health crisis can call.",
+      "eligibility_summary_es": "Cualquier persona en los condados de Brazoria o Galveston que esté pasando por una crisis de salud mental puede llamar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 866-729-3848 any time. In a life-threatening emergency call 911.",
+      "how_to_apply_es": "Llame al 866-729-3848 a cualquier hora. Si su vida está en peligro, llame al 911.",
+      "apply_url": null,
+      "phone": "(866) 729-3848",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to call",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.gulfcoastcenter.org/",
+      "confidence": "high",
+      "notes": "HHSC's LMHA directory also lists Gulf Coast Center with this crisis number for Brazoria and Galveston counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gulf-coast-center-osar-substance-use",
+      "name": "Gulf Coast Center Substance Use Services (OSAR screening)",
+      "organization": "The Gulf Coast Center",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Free screening and referral for drug and alcohol problems, plus counseling, group therapy, peer recovery and residential treatment. Has special services for women with children.",
+      "description_es": "Evaluación y referencia gratis para problemas con drogas o alcohol, además de consejería, terapia en grupo, apoyo de personas en recuperación y tratamiento residencial. Tiene servicios especiales para mujeres con hijos.",
+      "eligibility_summary_en": "Anyone seeking help with substance use can call. Residential treatment is for people without insurance or money to pay; women's services are for women 18+ with dependent children.",
+      "eligibility_summary_es": "Cualquier persona que busque ayuda por el uso de drogas o alcohol puede llamar. El tratamiento residencial es para personas sin seguro o sin dinero para pagar; los servicios para mujeres son para mujeres de 18 años o más con hijos que dependen de ellas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the OSAR line for a free phone or video screening, Monday-Friday 8 AM - 5 PM.",
+      "how_to_apply_es": "Llame a la línea OSAR para una evaluación gratis por teléfono o video, de lunes a viernes de 8 AM a 5 PM.",
+      "apply_url": null,
+      "phone": "(844) 704-1291",
+      "address": "101 Tigner",
+      "city": "Angleton",
+      "zip": "77515",
+      "hours": "OSAR screening line: Monday-Friday 8:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Screening and referral are free; treatment cost is based on ability to pay",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.gulfcoastcenter.org/substance-use-services/",
+      "confidence": "high",
+      "notes": "Alternate OSAR number: 409-944-4365. Other locations: 4700 Broadway #103, Galveston; 7510 FM 1765, Texas City 77591. Women's program includes parenting education.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-family-health-center-montgomery",
+      "name": "Lone Star Family Health Center",
+      "organization": "Lone Star Family Health Center (FQHC)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Federally Qualified Health Center with clinics in Conroe, Magnolia, Spring and Willis. Offers family medicine, OB-GYN, dental, counseling, pharmacy, lab and X-ray.",
+      "description_es": "Centro de salud con fondos federales, con clínicas en Conroe, Magnolia, Spring y Willis. Ofrece medicina familiar, ginecología y embarazo, dentista, consejería, farmacia, laboratorio y rayos X.",
+      "eligibility_summary_en": "Open to everyone, including people without insurance. A sliding fee discount is based on household size and income.",
+      "eligibility_summary_es": "Abierto para todos, incluso para personas sin seguro. Hay un descuento según el tamaño de la familia y sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Sliding fee application",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call 936-539-4004 for an appointment. To get a discount, fill out the Sliding Fee Discount application online (English or Spanish) and send proof of income.",
+      "how_to_apply_es": "Llame al 936-539-4004 para hacer una cita. Para recibir el descuento, llene en línea la solicitud del programa de descuento (en inglés o español) y mande prueba de sus ingresos.",
+      "apply_url": "https://www.lonestarfamily.org/sliding-fee/",
+      "phone": "(936) 539-4004",
+      "address": "605 S. Conroe Medical Drive",
+      "city": "Conroe",
+      "zip": "77304",
+      "hours": "Conroe: Monday-Friday 8 AM - 5 PM; after-hours walk-in family medicine Monday-Friday 5 PM - 9 PM and Saturday 9 AM - 1 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding fee discount; patients pay a small nominal fee at time of service",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.lonestarfamily.org/locations/",
+      "confidence": "high",
+      "notes": "Other Montgomery County sites (same phone): Grangerland, 13905 Grangerland Rd, Conroe 77306 (Mon, Tue, Thu 8 AM-12 PM and 1:30-5 PM); Magnolia, 18230 FM 1488 Suite 203, Magnolia 77354; Spring, 440 Rayford Rd Suite 150, Spring 77386; Willis, 9516 West FM 1097 Suite 140, Willis 77318 (these three Mon-Fri 8 AM-5 PM, closed 12-1). Also Huntsville (Walker County), 227 SH 75 N Suite 130, Huntsville 77320. Insured patients may also qualify for discounts.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "mchd-health-care-assistance-program",
+      "name": "Health Care Assistance Program (HCAP)",
+      "organization": "Montgomery County Hospital District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Montgomery County's indigent care program. It pays local doctors, hospitals and providers for care for low-income residents with no other coverage.",
+      "description_es": "Programa de atención médica para personas de bajos ingresos del Condado de Montgomery. Paga a médicos, hospitales y proveedores locales por la atención de residentes de bajos ingresos que no tienen otra cobertura.",
+      "eligibility_summary_en": "For Montgomery County residents with income at or below 150% of the federal poverty level (about $1,995 a month for one person, $4,125 for a family of four) and resources under $2,000 ($3,000 if aged or disabled). Must be a U.S. citizen or resident alien with a medical need.",
+      "eligibility_summary_es": "Para residentes del Condado de Montgomery con ingresos del 150% o menos del nivel federal de pobreza (unos $1,995 al mes para una persona, $4,125 para una familia de cuatro) y bienes de menos de $2,000 ($3,000 si es persona mayor o con discapacidad). Debe ser ciudadano de EE. UU. o residente legal y tener una necesidad médica.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Montgomery County resident"
+      },
+      "documents_needed": [
+        "Texas driver license or ID matching the application address",
+        "Social Security card",
+        "Birth certificate or other identity proof (voter card, passport, naturalization certificate)",
+        "Current utility bill with the same address"
+      ],
+      "how_to_apply": "Fill out the paper or online application with no blank fields, attach your documents, and submit it to HCAP at 1400 South Loop 336 West, Suite 500, Conroe.",
+      "how_to_apply_es": "Llene la solicitud en papel o en línea sin dejar espacios en blanco, adjunte sus documentos y entréguela a HCAP en 1400 South Loop 336 West, Suite 500, Conroe.",
+      "apply_url": "https://www.mchd-tx.org/health-care-assistance-program/forms/",
+      "phone": "(936) 523-5100",
+      "address": "1400 S Loop 336 West, Suite 500",
+      "city": "Conroe",
+      "zip": "77304",
+      "hours": "Monday-Thursday 7:30 AM - 4:30 PM; Friday 7:30 AM - 11:30 AM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.mchd-tx.org/health-care-assistance-program/",
+      "confidence": "high",
+      "notes": "Income limits effective 04/01/2026. Payor of last resort. Emails: HCAPeligibility@mchd-tx.org and hcap@mchd-tx.org. Benefits verification: (936) 523-5111. Fax: (936) 539-3450. More documents may be requested after the first review.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "montgomery-county-public-health-clinic",
+      "name": "Montgomery County Public Health District Clinic",
+      "organization": "Montgomery County Public Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Public health clinic offering child and adult vaccines, TB testing and treatment, HIV testing, and STI testing and treatment.",
+      "description_es": "Clínica de salud pública que ofrece vacunas para niños y adultos, pruebas y tratamiento de tuberculosis, pruebas de VIH, y pruebas y tratamiento de infecciones de transmisión sexual.",
+      "eligibility_summary_en": "For people in Montgomery County who need vaccines or testing. Call for details on cost and appointments.",
+      "eligibility_summary_es": "Para personas en el Condado de Montgomery que necesitan vacunas o pruebas. Llame para preguntar el costo y cómo hacer cita.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic at (936) 523-5020 to ask about services and appointments.",
+      "how_to_apply_es": "Llame a la clínica al (936) 523-5020 para preguntar por los servicios y las citas.",
+      "apply_url": null,
+      "phone": "(936) 523-5020",
+      "address": "1300 South Loop 336 West",
+      "city": "Conroe",
+      "zip": "77304",
+      "hours": "Monday-Friday 8 AM - 5 PM (closed 12 PM - 1 PM for lunch)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.mcphd-tx.org/",
+      "confidence": "high",
+      "notes": "Cost and eligibility details were not listed on the homepage.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "coastal-health-wellness-texas-city",
+      "name": "Coastal Health & Wellness - Texas City",
+      "organization": "Coastal Health & Wellness (Galveston County Health District community health center)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Galveston County's community health center. Offers primary care, well-child visits, women's health, prenatal care, dental care, counseling, lab, X-ray and prescriptions.",
+      "description_es": "El centro de salud comunitario del Condado de Galveston. Ofrece atención primaria, chequeos para niños, salud de la mujer, atención durante el embarazo, dentista, consejería, laboratorio, rayos X y recetas.",
+      "eligibility_summary_en": "Open to Galveston County residents with or without insurance. Fees for uninsured patients are on a sliding scale based on household income.",
+      "eligibility_summary_es": "Abierto para residentes del Condado de Galveston, con o sin seguro. Si no tiene seguro, paga según una escala basada en los ingresos de su hogar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the contact center at (409) 938-2234 to become a patient and make an appointment.",
+      "how_to_apply_es": "Llame al centro de contacto al (409) 938-2234 para hacerse paciente y pedir una cita.",
+      "apply_url": null,
+      "phone": "(409) 938-2234",
+      "address": "9850 Emmett F. Lowry Expressway, Suite C",
+      "city": "Texas City",
+      "zip": "77591",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM; Saturday 8:00 AM - noon",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale; accepts Medicaid, Medicare and most major insurance",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://freeclinicdirectory.org/detail/community_family_center2_texas_city_tx.html",
+      "confidence": "medium",
+      "notes": "Official site (coastalhw.org) blocked automated access. Address and ZIP confirmed in the federal HRSA health center site list (listed as 9850C Emmett F Lowry Expy Ste C103, active FQHC site operated by Coastal Health & Wellness). Phone and hours come from a clinic directory; HRSA lists 409-938-2401 as the site phone. Call to confirm hours. Also the primary care home for Galveston County Indigent Health Care patients.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "coastal-health-wellness-galveston",
+      "name": "Coastal Health & Wellness - Galveston",
+      "organization": "Coastal Health & Wellness (Galveston County Health District community health center)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center clinic on Galveston Island offering primary medical care, dental care, prenatal care, counseling and prescriptions.",
+      "description_es": "Clínica del centro de salud comunitario en la Isla de Galveston que ofrece atención médica primaria, dentista, atención durante el embarazo, consejería y recetas.",
+      "eligibility_summary_en": "Open to Galveston County residents with or without insurance. Uninsured patients can pay on a sliding scale based on income.",
+      "eligibility_summary_es": "Abierto para residentes del Condado de Galveston, con o sin seguro. Si no tiene seguro, puede pagar según una escala basada en sus ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the contact center at (409) 938-2234 to become a patient and make an appointment.",
+      "how_to_apply_es": "Llame al centro de contacto al (409) 938-2234 para hacerse paciente y pedir una cita.",
+      "apply_url": null,
+      "phone": "(409) 938-2234",
+      "address": "4700 Broadway, F100",
+      "city": "Galveston",
+      "zip": "77551",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale; accepts Medicaid, Medicare and most insurance",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://freeclinicdirectory.org/detail/galveston_4cs_clinic_galveston_tx.html",
+      "confidence": "medium",
+      "notes": "Official site blocked automated access. Address and ZIP 77551 confirmed in the federal HRSA health center site list (active FQHC site operated by Coastal Health & Wellness). Phone and hours come from a clinic directory; HRSA lists 409-938-2401 as the site phone. Call to confirm hours.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "st-vincents-house-galveston",
+      "name": "St. Vincent's House",
+      "organization": "St. Vincent's House",
+      "categories": [
+        "healthcare",
+        "mental_health",
+        "food",
+        "transportation"
+      ],
+      "description_en": "Galveston nonprofit with a medical clinic, dental extraction clinic, bilingual counseling, a drive-through food pantry, diapers and case management.",
+      "description_es": "Organización sin fines de lucro en Galveston con clínica médica, clínica dental para sacar muelas, consejería en inglés y español, despensa de comida donde recoge desde su carro, pañales y manejo de casos.",
+      "eligibility_summary_en": "Serves people in need in Galveston. No ID is needed for the food pantry; fill out a form on your first visit.",
+      "eligibility_summary_es": "Ayuda a personas necesitadas en Galveston. No necesita identificación para la despensa de comida; llene un formulario en su primera visita.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic at (409) 765-2242 for medical appointments (in person, video or phone), or come to the drive-through food pantry Monday-Friday 9 AM - 1 PM. No ID is needed for the pantry.",
+      "how_to_apply_es": "Llame a la clínica al (409) 765-2242 para citas médicas (en persona, por video o por teléfono), o venga a la despensa de comida de lunes a viernes de 9 AM a 1 PM. No necesita identificación para la despensa.",
+      "apply_url": null,
+      "phone": "(409) 763-8521",
+      "address": "2817 Post Office St.",
+      "city": "Galveston",
+      "zip": "77550",
+      "hours": "Monday-Thursday 8 AM - 4:30 PM; Friday 8 AM - 3 PM; food pantry Monday-Friday 9 AM - 1 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://www.stvhope.org/",
+      "confidence": "high",
+      "notes": "Clinic line: 409-765-2242. Dental extraction clinic Saturdays 9 AM - noon. Bilingual counseling Monday-Friday 8 AM - 3 PM. Transportation Monday-Thursday 8:30 AM - 3:30 PM, Friday 8:30 AM - 2 PM. Homebound grocery delivery Tuesday-Thursday. Emergency financial assistance is temporarily NOT accepting applications due to a waitlist backlog; call 211 instead.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-child-care-financial-aid",
+      "name": "Child Care Financial Assistance (Child Care Scholarships)",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, go to school or job training, or look for work.",
+      "description_es": "Ayuda a pagar el cuidado de niños para que los padres puedan trabajar, estudiar, tomar capacitación o buscar trabajo.",
+      "eligibility_summary_en": "Families earning up to 85% of state median income (for a family of four, about $7,670 a month from Oct 2025 to Sept 2026). There is currently a wait list.",
+      "eligibility_summary_es": "Para familias que ganan hasta el 85% del ingreso medio del estado (para una familia de cuatro, unos $7,670 al mes de octubre de 2025 a septiembre de 2026). Ahora hay una lista de espera.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Proof of residency",
+        "Proof of U.S. citizenship or legal immigration status for each child",
+        "Training/school information for adults in the household",
+        "Income for the last 13 weeks for all working household members",
+        "Child care provider name, address and phone"
+      ],
+      "how_to_apply": "Create an account and apply through the state's online child care portal. A Workforce Solutions career office can also help send your application.",
+      "how_to_apply_es": "Cree una cuenta y presente su solicitud en el portal estatal de cuidado de niños en línea. Una oficina de Workforce Solutions también le puede ayudar a mandar su solicitud.",
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(713) 334-5980",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday 7:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend",
+        "Montgomery",
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.wrksolutions.com/for-individuals/financial-aid/financial-assistance-for-child-care",
+      "confidence": "high",
+      "notes": "Support Center hours are for the phone line. Text line: 346-249-7700. Wait list active; families are notified when their name is pulled. Approved families can get up to 12 months of care, then recertify. Processing takes about 20 days after all information is received.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-conroe",
+      "name": "Workforce Solutions Career Office - Conroe",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career office that helps people find jobs and job training, with free computers, Wi-Fi and printers. Staff can also help you apply for child care help.",
+      "description_es": "Oficina de empleo gratis que ayuda a las personas a encontrar trabajo y capacitación, con computadoras, Wi-Fi e impresoras gratis. El personal también le puede ayudar a pedir ayuda para el cuidado de niños.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de la oficina o llame a la oficina.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(936) 441-0037",
+      "address": "Interstate 45 N #2218",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": "Monday-Friday 8 AM - 5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-location?county=Montgomery",
+      "confidence": "high",
+      "notes": "Regional line: 1-888-469-5627 (1-888-469-JOBS). Closed on major holidays. Address is listed exactly as shown on the official locator.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rosenberg",
+      "name": "Workforce Solutions Career Office - Rosenberg",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career office that helps people find jobs and job training, with free computers, Wi-Fi and printers. Staff can also help you apply for child care help.",
+      "description_es": "Oficina de empleo gratis que ayuda a las personas a encontrar trabajo y capacitación, con computadoras, Wi-Fi e impresoras gratis. El personal también le puede ayudar a pedir ayuda para el cuidado de niños.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de la oficina o llame a la oficina.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(281) 344-0279",
+      "address": "28000 SW Freeway Suite D",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": "Monday-Friday 8 AM - 5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-location?county=Fort%20Bend",
+      "confidence": "high",
+      "notes": "Regional line: 1-888-469-5627 (1-888-469-JOBS). Closed on major holidays.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-missouri-city",
+      "name": "Workforce Solutions Career Office - Missouri City",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career office that helps people find jobs and job training, with free computers, Wi-Fi and printers. Staff can also help you apply for child care help.",
+      "description_es": "Oficina de empleo gratis que ayuda a las personas a encontrar trabajo y capacitación, con computadoras, Wi-Fi e impresoras gratis. El personal también le puede ayudar a pedir ayuda para el cuidado de niños.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de la oficina o llame a la oficina.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(346) 341-7390",
+      "address": "3823 Cartwright Rd.",
+      "city": "Missouri City",
+      "zip": "77459",
+      "hours": "Monday-Friday 8 AM - 5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-location?county=Fort%20Bend",
+      "confidence": "high",
+      "notes": "Regional line: 1-888-469-5627 (1-888-469-JOBS). Closed on major holidays.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-pearland",
+      "name": "Workforce Solutions Career Office - Pearland",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career office that helps people find jobs and job training, with free computers, Wi-Fi and printers. Staff can also help you apply for child care help.",
+      "description_es": "Oficina de empleo gratis que ayuda a las personas a encontrar trabajo y capacitación, con computadoras, Wi-Fi e impresoras gratis. El personal también le puede ayudar a pedir ayuda para el cuidado de niños.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de la oficina o llame a la oficina.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(832) 409-0049",
+      "address": "5730 W. Broadway Ste 122",
+      "city": "Pearland",
+      "zip": "77581",
+      "hours": "Monday-Friday 8 AM - 5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Brazoria"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-location?county=Brazoria",
+      "confidence": "high",
+      "notes": "Regional line: 1-888-469-5627 (1-888-469-JOBS). Closed on major holidays.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lake-jackson",
+      "name": "Workforce Solutions Career Office - Lake Jackson",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career office that helps people find jobs and job training, with free computers, Wi-Fi and printers. Staff can also help you apply for child care help.",
+      "description_es": "Oficina de empleo gratis que ayuda a las personas a encontrar trabajo y capacitación, con computadoras, Wi-Fi e impresoras gratis. El personal también le puede ayudar a pedir ayuda para el cuidado de niños.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de la oficina o llame a la oficina.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(979) 297-6400",
+      "address": "206 Highway 332 W",
+      "city": "Lake Jackson",
+      "zip": "77566",
+      "hours": "Monday-Friday 8 AM - 5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Brazoria"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-location?county=Brazoria",
+      "confidence": "high",
+      "notes": "Regional line: 1-888-469-5627 (1-888-469-JOBS). Closed on major holidays.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-texas-city",
+      "name": "Workforce Solutions Career Office - Texas City",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career office that helps people find jobs and job training, with free computers, Wi-Fi and printers. Staff can also help you apply for child care help.",
+      "description_es": "Oficina de empleo gratis que ayuda a las personas a encontrar trabajo y capacitación, con computadoras, Wi-Fi e impresoras gratis. El personal también le puede ayudar a pedir ayuda para el cuidado de niños.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de la oficina o llame a la oficina.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(409) 949-9055",
+      "address": "10000 Emmett F. Lowry Expressway Suite 1260",
+      "city": "Texas City",
+      "zip": "77591",
+      "hours": "Monday-Friday 8 AM - 5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-location?county=Galveston",
+      "confidence": "high",
+      "notes": "Regional line: 1-888-469-5627 (1-888-469-JOBS). Closed on major holidays.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-legal-aid-houston-suburbs",
+      "name": "Lone Star Legal Aid",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction defense, family law, consumer problems, public benefits, employment and disaster issues.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como defensa contra desalojos, derecho familiar, problemas con compras o deudas, beneficios públicos, empleo y desastres.",
+      "eligibility_summary_en": "For low-income people who meet financial and legal status rules.",
+      "eligibility_summary_es": "Para personas de bajos ingresos que cumplen con las reglas de ingresos y estatus legal.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online 24/7 or call the toll-free intake line at 1-800-733-8394.",
+      "how_to_apply_es": "Presente su solicitud en línea a cualquier hora o llame gratis a la línea de ingreso al 1-800-733-8394.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(800) 733-8394",
+      "address": "1415 Fannin Street",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": "Online intake 24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend",
+        "Montgomery",
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "confidence": "high",
+      "notes": "The Conroe, Galveston and Richmond offices have CLOSED; Montgomery, Galveston and Fort Bend residents are served by phone and online intake. The Clute office (serving Brazoria, Matagorda, Wharton) is open, but its street address was not listed. Houston local line: 713-652-0077. Address shown is the main Houston office.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": [
+    {
+      "id": "galveston-county-indigent-health-care",
+      "reason": "Could not confirm from an official source: Galveston County and Coastal Health & Wellness websites returned 403 to every fetch, and web search was unavailable. Phone (409) 949-3439 and the 100% FPL limit came only from search-indexed text in the raw research, so they cannot be shown as verified."
+    }
+  ]
+}

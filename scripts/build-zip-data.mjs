@@ -13,10 +13,12 @@ if (!relPath || !gazPath) {
 }
 
 const TX_STATE_FIPS = '48';
+const BOM = String.fromCharCode(0xfeff);
 
 // zip -> { county: landAreaInZip }
 const parts = new Map();
-const relLines = readFileSync(relPath, 'utf8').replace(/^﻿/, '').split(/\r?\n/);
+const relText = readFileSync(relPath, 'utf8');
+const relLines = (relText.startsWith(BOM) ? relText.slice(1) : relText).split(/\r?\n/);
 const header = relLines[0].split('|');
 const col = (name) => header.indexOf(name);
 const iZip = col('GEOID_ZCTA5_20');

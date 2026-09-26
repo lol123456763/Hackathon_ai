@@ -1,0 +1,2099 @@
+{
+  "scope": "Williamson County community-level resources (ISDs, local nonprofits, WCCHD, LSCC, transit, libraries)",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "round-rock-area-serving-center",
+      "name": "Round Rock Area Serving Center Food Pantry and Financial Assistance",
+      "organization": "Round Rock Area Serving Center",
+      "categories": [
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "Gives free groceries from a food pantry and can give help with some bills through vouchers or checks. It also runs a thrift store and a home food delivery program.",
+      "description_es": "Da comida gratis de su despensa y puede ayudar a pagar algunas cuentas con vales o cheques. También tiene una tienda de segunda mano y un programa que lleva comida a la casa.",
+      "eligibility_summary_en": "For people living in Round Rock and southern Williamson County.",
+      "eligibility_summary_es": "Para personas que viven en Round Rock y el sur del condado de Williamson.",
+      "eligibility_rules": {
+        "residency_required": "Round Rock / southern Williamson County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Create an account and submit a request online first; you must have a food voucher before visiting the pantry. Online requests are processed Monday-Thursday 10 AM-5 PM and Friday 10 AM-4 PM.",
+      "how_to_apply_es": "Primero cree una cuenta y haga su solicitud en línea. Necesita un vale de comida antes de ir a la despensa. Las solicitudes en línea se revisan de lunes a jueves de 10 AM a 5 PM y el viernes de 10 AM a 4 PM.",
+      "apply_url": "https://secure.rrasc.org/",
+      "phone": "(512) 244-2431",
+      "address": "1099 E. Main Street",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Food pantry: Mon-Fri 10 AM-4 PM (last check-in 3:30 PM), Sat 9 AM-1 PM. Voucher/check pickup: Mon-Fri 10 AM-3:30 PM, Sat 9 AM-1 PM. Thrift store: Mon-Sat 10 AM-4 PM.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.rrasc.org/request-assistance/",
+      "confidence": "high",
+      "notes": "Food help may be given without photo ID. Clients MUST apply online and have a food voucher before entering the pantry. Online requests are processed Mon-Thu 10 AM-5 PM and Fri 10 AM-4 PM. Email: Hello@rrasc.org. The exact bills covered were not listed online - call to ask.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "caring-place-georgetown-food-pantry",
+      "name": "The Caring Place Food Pantry and Assistance Programs",
+      "organization": "The Caring Place",
+      "categories": [
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "Free food pantry plus financial help, free laundry nights (Loads of Caring), thrift store vouchers, and holiday programs.",
+      "description_es": "Despensa de comida gratis, además de ayuda con dinero, noches de lavandería gratis (Loads of Caring), vales para la tienda de segunda mano y programas para los días festivos.",
+      "eligibility_summary_en": "For people in Georgetown, Andice, Bartlett, Florence, Granger, Jarrell, Jonah, Schwertner, Walburg, Weir, and parts of Hutto inside Georgetown ISD. Other rules apply to each program.",
+      "eligibility_summary_es": "Para personas en Georgetown, Andice, Bartlett, Florence, Granger, Jarrell, Jonah, Schwertner, Walburg, Weir y la parte de Hutto que está dentro de Georgetown ISD. Cada programa tiene sus propias reglas.",
+      "eligibility_rules": {
+        "residency_required": "Georgetown-area resident (see service area list)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit Programs & Services at 2001 Railroad Avenue (Mon-Fri 9 AM-4 PM) or call (512) 943-0700. The food pantry is at 2000 Railroad Avenue.",
+      "how_to_apply_es": "Vaya a Programas y Servicios en 2001 Railroad Avenue (lunes a viernes, 9 AM a 4 PM) o llame al (512) 943-0700. La despensa de comida está en 2000 Railroad Avenue.",
+      "apply_url": null,
+      "phone": "(512) 943-0700",
+      "address": "2000 Railroad Avenue",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": "Food pantry: Mon, Tue, Wed, Fri 9 AM-4 PM; Thu 2-6 PM. Programs & Services: Mon-Fri 9 AM-4 PM. Loads of Caring: 2nd Tuesday and last Thursday of each month, 4-8 PM.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.caringplacetx.org/",
+      "confidence": "high",
+      "notes": "Programs & Services office is across the street at 2001 Railroad Avenue; check in by 3 PM for financial help. Required documents for general help were not listed online - call ahead.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "caring-place-senior-independence",
+      "name": "Senior Independence Program",
+      "organization": "The Caring Place",
+      "categories": [
+        "housing",
+        "utilities",
+        "cash_assistance"
+      ],
+      "description_en": "Limited help with rent, mortgage, and utility bills for older adults, plus case management. Extra help is available for City of Georgetown utility bills.",
+      "description_es": "Ayuda limitada para pagar renta, hipoteca y cuentas de luz, agua o gas para personas mayores, además de apoyo de un trabajador de casos. Hay ayuda extra para las cuentas de servicios de la Ciudad de Georgetown.",
+      "eligibility_summary_en": "For adults age 65 and older who get retirement income (such as Social Security) and live in The Caring Place service area. Other rules apply.",
+      "eligibility_summary_es": "Para adultos de 65 años o más que reciben ingresos de jubilación (como el Seguro Social) y viven en el área que atiende The Caring Place. Hay otras reglas.",
+      "eligibility_rules": {
+        "min_age": 65,
+        "senior": true,
+        "residency_required": "Georgetown-area resident (Caring Place service area)"
+      },
+      "documents_needed": [
+        "Current signed lease or mortgage statement",
+        "Most recent utility bills",
+        "Social Security or retirement award letter"
+      ],
+      "how_to_apply": "Go to Programs & Services at 2001 Railroad Avenue, Georgetown (Mon-Fri 9 AM-4 PM) or call (512) 943-0700.",
+      "how_to_apply_es": "Vaya a Programas y Servicios en 2001 Railroad Avenue, Georgetown (lunes a viernes, 9 AM a 4 PM) o llame al (512) 943-0700.",
+      "apply_url": null,
+      "phone": "(512) 943-0700",
+      "address": "2001 Railroad Avenue",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": "Mon-Fri 9 AM-4 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.caringplacetx.org/get-help",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hutto-resource-center-food-pantry",
+      "name": "Hutto Resource Center Food Pantry",
+      "organization": "Hutto Resource Center",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free groceries including canned food, fresh produce, frozen items, meat, and hygiene products. Diapers and baby items are available on request when in stock.",
+      "description_es": "Comida gratis: latas, frutas y verduras frescas, comida congelada, carne y artículos de higiene. Pañales y cosas para bebé si los pide y hay disponibles.",
+      "eligibility_summary_en": "For people who live in Hutto or the Hutto ISD attendance zone. There are no income requirements.",
+      "eligibility_summary_es": "Para personas que viven en Hutto o en la zona de Hutto ISD. No hay requisitos de ingresos.",
+      "eligibility_rules": {
+        "residency_required": "Hutto or Hutto ISD attendance zone"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 688-0162 or register online (QR code on the website) before your first visit.",
+      "how_to_apply_es": "Llame al (512) 688-0162 o regístrese en línea (código QR en la página web) antes de su primera visita.",
+      "apply_url": "https://www.huttoresourcecenter.org/food-pantry",
+      "phone": "(512) 688-0162",
+      "address": "204 E. Live Oak",
+      "city": "Hutto",
+      "zip": "78634",
+      "hours": "Saturday drive-thru: 1st, 3rd, and 5th Saturday, 9 AM-12 PM. Wednesday pop-up (fresh/frozen): every Wednesday, 2-3:30 PM.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.huttoresourcecenter.org/food-pantry",
+      "confidence": "high",
+      "notes": "Hygiene and household items when available; diapers and baby items on request. The center also has a separate program called Golden Connections.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hutto-resource-center-financial-assistance",
+      "name": "Hutto Resource Center Financial Assistance",
+      "organization": "Hutto Resource Center",
+      "categories": [
+        "utilities",
+        "healthcare",
+        "cash_assistance"
+      ],
+      "description_en": "Helps pay utility bills (gas, water, electric), utility connection, medicine, doctor visits, medical bills, and some medical equipment. It cannot help with rent or housing costs right now.",
+      "description_es": "Ayuda a pagar cuentas de gas, agua y luz, la conexión de servicios, medicinas, visitas al doctor, cuentas médicas y algo de equipo médico. Por ahora no puede ayudar con la renta ni gastos de vivienda.",
+      "eligibility_summary_en": "For people who live in Hutto or the Hutto ISD attendance zone. Help is considered once every 12 months for returning clients.",
+      "eligibility_summary_es": "Para personas que viven en Hutto o en la zona de Hutto ISD. Si ya recibió ayuda, puede pedir otra vez una vez cada 12 meses.",
+      "eligibility_rules": {
+        "residency_required": "Hutto or Hutto ISD attendance zone"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply with the online form on the website, or call (512) 688-0162 for help.",
+      "how_to_apply_es": "Llene el formulario en línea en la página web, o llame al (512) 688-0162 si necesita ayuda.",
+      "apply_url": "https://www.huttoresourcecenter.org/financial-assistance",
+      "phone": "(512) 688-0162",
+      "address": "204 E. Live Oak",
+      "city": "Hutto",
+      "zip": "78634",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.huttoresourcecenter.org/financial-assistance",
+      "confidence": "high",
+      "notes": "Amount depends on available funding. Required documents are not listed online - call to ask.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-community-ministries",
+      "name": "Hill Country Community Ministries Food Pantry and Assistance",
+      "organization": "Hill Country Community Ministries",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "housing"
+      ],
+      "description_en": "Food pantry, Community Cupboard, and Fresh Food For All produce distribution. Leander ISD also lists emergency financial help (rent, deposits, moving costs, mortgage) and vouchers for eye exams and glasses.",
+      "description_es": "Despensa de comida, Community Cupboard y entrega de frutas y verduras frescas (Fresh Food For All). Leander ISD dice que también ayudan en emergencias con renta, depósitos, gastos de mudanza o hipoteca, y con vales para exámenes de la vista y lentes.",
+      "eligibility_summary_en": "For people in the Leander/Cedar Park area who need help. Round Rock ISD lists these ZIP codes: 78613, 78641, 78642, 78645, 78717, 78726, 78729, 78732, 78750, and 78759.",
+      "eligibility_summary_es": "Para personas del área de Leander y Cedar Park que necesitan ayuda. Round Rock ISD dice que atienden estos códigos postales: 78613, 78641, 78642, 78645, 78717, 78726, 78729, 78732, 78750 y 78759.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office at 1005 Lacy Drive during open hours to get started, or call (512) 259-0360.",
+      "how_to_apply_es": "Vaya a la oficina en 1005 Lacy Drive cuando esté abierta, o llame al (512) 259-0360.",
+      "apply_url": null,
+      "phone": "(512) 259-0360",
+      "address": "1005 Lacy Drive",
+      "city": "Leander",
+      "zip": "78641",
+      "hours": "Mon-Fri 9 AM-12 PM and 1-3 PM; Thursday extended until 7 PM. Community Cupboard closes 10 minutes before the pantry.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.hccm.org/get-help",
+      "confidence": "high",
+      "notes": "ZIP code list is from the Round Rock ISD community resource page (some ZIPs are in Travis County). Financial help details are from the Leander ISD community resources page. Even if you do not meet every rule, HCCM says to come in and ask.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "leander-church-of-christ-brighter-days-pantry",
+      "name": "Brighter Days Food Pantry",
+      "organization": "Leander Church of Christ",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Church food pantry that also has a clothes closet and HOPE, a program for older adults.",
+      "description_es": "Despensa de comida de una iglesia que también tiene ropero y HOPE, un programa para personas mayores.",
+      "eligibility_summary_en": "Open to community members who need food. Eligibility rules were not listed.",
+      "eligibility_summary_es": "Para personas de la comunidad que necesitan comida. No se publicaron reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Go during pantry hours or call (512) 259-4673 first.",
+      "how_to_apply_es": "Vaya durante el horario de la despensa o llame primero al (512) 259-4673.",
+      "apply_url": null,
+      "phone": "(512) 259-4673",
+      "address": "300 Crystal Falls Parkway",
+      "city": "Leander",
+      "zip": "78641",
+      "hours": "Wednesday 5:30-7 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.leanderisd.org/communityresources/",
+      "confidence": "medium",
+      "notes": "Pantry listed on the Leander ISD community resources page. The church's own site confirms the phone and address but does not list pantry hours. Call before visiting.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "operation-liberty-hill-food-pantry",
+      "name": "Operation Liberty Hill Food Pantry",
+      "organization": "Operation Liberty Hill",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Community food pantry. Clients can visit once a week, plus Food Share Fridays that are open to everyone.",
+      "description_es": "Despensa de comida de la comunidad. Puede venir una vez por semana, y además los viernes hay reparto de comida abierto a todos (Food Share Fridays).",
+      "eligibility_summary_en": "For people who live in Liberty Hill ISD, Leander, Bertram, or Briggs. You can visit once a week.",
+      "eligibility_summary_es": "Para personas que viven en Liberty Hill ISD, Leander, Bertram o Briggs. Puede venir una vez por semana.",
+      "eligibility_rules": {
+        "residency_required": "Liberty Hill ISD, Leander, Bertram, or Briggs"
+      },
+      "documents_needed": [],
+      "how_to_apply": "New clients sign up with a volunteer during pantry hours on Tuesday, Thursday, or Saturday. Call (512) 778-5077 with questions.",
+      "how_to_apply_es": "Si es nuevo, inscríbase con un voluntario durante el horario del martes, jueves o sábado. Si tiene preguntas, llame al (512) 778-5077.",
+      "apply_url": null,
+      "phone": "(512) 778-5077",
+      "address": "1401 N. Hwy 183",
+      "city": "Leander",
+      "zip": "78641",
+      "hours": "Tue and Thu 9 AM-4 PM; Sat 10 AM-2 PM. Food Share Friday (open to the public, first come first served): Fri 12-1 PM.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Burnet"
+      ],
+      "source_url": "https://operationlh.org/food-pantry",
+      "confidence": "high",
+      "notes": "Hours updated from the organization's own site (Leander ISD list had older hours). Spanish translators available. Email: info@operationlh.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "owbc-energy-assistance-ceap",
+      "name": "Community Energy Assistance Program (CEAP)",
+      "organization": "Opportunities for Williamson and Burnet Counties (OWBC)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps qualifying households pay electric, gas, and propane bills.",
+      "description_es": "Ayuda a hogares que califican a pagar las cuentas de luz, gas y propano.",
+      "eligibility_summary_en": "For Williamson and Burnet County residents with income at or below the program's Federal Poverty Level guidelines. At least one household member must be a U.S. citizen or legal resident, and the applicant must be the account holder or an authorized user.",
+      "eligibility_summary_es": "Para personas que viven en los condados de Williamson o Burnet con ingresos dentro de las guías federales de pobreza del programa. Por lo menos una persona del hogar debe ser ciudadana o residente legal de EE. UU., y quien aplica debe ser el titular de la cuenta o un usuario autorizado.",
+      "eligibility_rules": {
+        "residency_required": "Williamson or Burnet County resident"
+      },
+      "documents_needed": [
+        "Proof of income for the last 30 days for everyone 18+",
+        "Current utility bill(s)",
+        "Photo ID and proof of citizenship or legal residence (SAVE form)",
+        "SNAP award letter (if you have one)",
+        "Signed utility release form (Atmos and City of Austin customers)"
+      ],
+      "how_to_apply": "Download the application (English or Spanish) from the OWBC Community Services page, fill it out, and send it in with your documents. Email utilities@owbc-tx.org or call (512) 763-1400 with questions.",
+      "how_to_apply_es": "Descargue la solicitud (en inglés o español) en la página de Servicios Comunitarios de OWBC, llénela y envíela con sus documentos. Si tiene preguntas, escriba a utilities@owbc-tx.org o llame al (512) 763-1400.",
+      "apply_url": null,
+      "phone": "(512) 763-1400",
+      "address": "604 High Tech Drive",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson",
+        "Burnet"
+      ],
+      "source_url": "https://owbc-tx.org/community-services/",
+      "confidence": "high",
+      "notes": "Processing can take up to 90 days, so apply before a shutoff if possible. The old 'online application' link (owbc-tx.org/community-services-online-application/) now shows an unrelated gambling site - do not use it.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "owbc-head-start",
+      "name": "Head Start / Early Head Start (Williamson County)",
+      "organization": "Opportunities for Williamson and Burnet Counties (OWBC)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning program for young children from low-income families, with meals included. Runs from August to late June or early July.",
+      "description_es": "Programa gratis de aprendizaje temprano para niños pequeños de familias de bajos ingresos. Incluye comidas. Funciona de agosto hasta finales de junio o principios de julio.",
+      "eligibility_summary_en": "For children ages 0-5 from low-income families.",
+      "eligibility_summary_es": "Para niños de 0 a 5 años de familias de bajos ingresos.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Turn in a paper application (English or Spanish) at any center or at the main office at 604 High Tech Drive, Georgetown, or email the enrollment coordinator.",
+      "how_to_apply_es": "Entregue una solicitud en papel (en inglés o español) en cualquier centro o en la oficina principal en 604 High Tech Drive, Georgetown, o envíela por correo electrónico a la coordinadora de inscripción.",
+      "apply_url": null,
+      "phone": "(512) 763-1400",
+      "address": "604 High Tech Drive",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson",
+        "Burnet"
+      ],
+      "source_url": "https://owbc-tx.org/head-start/",
+      "confidence": "high",
+      "notes": "Williamson County centers: Bartlett (254) 527-4645, Florence (254) 793-9495, Harris Ross/Taylor (512) 365-1070, Hutto (512) 642-3144, Leander (512) 570-0480, Mary Bailey/Georgetown (512) 863-5259, Rawleigh Elliott/Georgetown (512) 864-9733, Round Rock (512) 255-4536.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "rrisd-free-reduced-meals",
+      "name": "Round Rock ISD Free and Reduced-Price Meals",
+      "organization": "Round Rock ISD Food Services",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Free or reduced-price school breakfast and lunch. Reduced-price meals cost $0. Approval can also lower fees for AP, SAT, ACT, college applications, activities, and some internet service.",
+      "description_es": "Desayuno y almuerzo escolar gratis o a precio reducido. Las comidas a precio reducido cuestan $0. Si lo aprueban, también puede pagar menos en exámenes AP, SAT, ACT, solicitudes a universidades, actividades y algunos servicios de internet.",
+      "eligibility_summary_en": "For Round Rock ISD students whose household income or benefits meet federal school meal rules.",
+      "eligibility_summary_es": "Para estudiantes de Round Rock ISD cuyo hogar cumple las reglas federales de comidas escolares por sus ingresos o beneficios.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online any time during the school year; it takes about 5 minutes. Benefits can start within 72 hours. You must apply again each school year.",
+      "how_to_apply_es": "Aplique en línea en cualquier momento del año escolar; toma unos 5 minutos. Los beneficios pueden empezar en 72 horas. Debe aplicar de nuevo cada año escolar.",
+      "apply_url": "https://www.myschoolapps.com/Home/DistrictRedirect/ROUNDROCKISD_TX?langid=1",
+      "phone": null,
+      "address": null,
+      "city": "Round Rock",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.roundrockisd.org/page/free-and-reduced-meals/",
+      "confidence": "high",
+      "notes": "Round Rock ISD covers parts of Williamson and Travis counties. The application is confidential. Full prices shown on the site: elementary lunch $3.20, secondary lunch $3.45, breakfast $1.70.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "rrisd-families-in-transition",
+      "name": "Families in Transition (FiT) / McKinney-Vento Homeless Education Program",
+      "organization": "Round Rock ISD State & Federal Programs",
+      "categories": [
+        "school_childcare",
+        "housing"
+      ],
+      "description_en": "Helps students who have no stable home enroll right away, stay in their school, get rides to school, and get school supplies, clothing, and referrals to community help.",
+      "description_es": "Ayuda a estudiantes sin un hogar estable a inscribirse enseguida, quedarse en su escuela, tener transporte a la escuela y recibir útiles, ropa y referidos a ayuda de la comunidad.",
+      "eligibility_summary_en": "For Round Rock ISD students living in a shelter, motel, car, park, or campground, or doubled-up with others because they lost housing or cannot afford it.",
+      "eligibility_summary_es": "Para estudiantes de Round Rock ISD que viven en un refugio, motel, carro, parque o campamento, o que viven con otras personas porque perdieron su vivienda o no pueden pagarla.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true,
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the FiT Student Residency Questionnaire online and a staff member will contact you. You can also call the McKinney-Vento/Foster Care liaison at (512) 464-5185.",
+      "how_to_apply_es": "Llene en línea el cuestionario de residencia estudiantil de FiT y alguien del personal se comunicará con usted. También puede llamar a la persona de enlace McKinney-Vento/Cuidado de Crianza al (512) 464-5185.",
+      "apply_url": "https://forms.gle/eNxKd6BrKv18SBZR8",
+      "phone": "(512) 464-5185",
+      "address": "1311 Round Rock Avenue",
+      "city": "Round Rock",
+      "zip": "78681",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.roundrockisd.org/page/families-in-transition/",
+      "confidence": "high",
+      "notes": "Students can enroll even without school records, immunization records, or a birth certificate. Brochures are available in English and Spanish. Texas homeless education support center: (800) 446-3142.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "rrisd-clothes-closet",
+      "name": "The Clothes Closet (Round Rock ISD Council of PTAs)",
+      "organization": "Round Rock ISD Council of PTAs",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free gently used clothing plus new socks and underwear for students, sizes 4T to 2XL.",
+      "description_es": "Ropa usada en buen estado y calcetines y ropa interior nuevos, gratis para estudiantes, tallas 4T a 2XL.",
+      "eligibility_summary_en": "Any Round Rock ISD student who needs clothing.",
+      "eligibility_summary_es": "Para cualquier estudiante de Round Rock ISD que necesite ropa.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit a Clothes Closet location during open hours, or ask your school nurse or counselor. Email clothescloset@rrisdpta.org with questions.",
+      "how_to_apply_es": "Vaya a un Clothes Closet en su horario, o pregunte a la enfermera o consejera de su escuela. Si tiene preguntas, escriba a clothescloset@rrisdpta.org.",
+      "apply_url": null,
+      "phone": null,
+      "address": "1201 Cushing Drive (Voigt Elementary)",
+      "city": "Round Rock",
+      "zip": null,
+      "hours": "Voigt Elementary: Wed and Thu 9:30-11:30 AM during the school year, plus 1st Saturday of each month 10 AM-noon. Anderson Mill Elementary (10610 Salt Mill Hollow, Austin): Tue 10 AM-noon, plus 1st Wednesday of each month 5-7 PM.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.roundrockisd.org/page/the-clothes-closet/",
+      "confidence": "high",
+      "notes": "Closed on school holidays.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "rrisd-free-prekindergarten",
+      "name": "Round Rock ISD Free Pre-K",
+      "organization": "Round Rock ISD",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free or reduced-tuition pre-kindergarten for 3- and 4-year-olds who qualify.",
+      "description_es": "Pre-kínder gratis o a costo reducido para niños de 3 y 4 años que califican.",
+      "eligibility_summary_en": "The child must be 4 by September 1 (or 3 if a 3-year-old class is offered) and meet one rule, such as: qualifies for free/reduced school meals, is learning English, is homeless, has been in foster care, or has a parent in the military or who is a qualifying first responder.",
+      "eligibility_summary_es": "El niño debe tener 4 años para el 1 de septiembre (o 3 años si hay clase para esa edad) y cumplir una regla, por ejemplo: califica para comidas escolares gratis o reducidas, está aprendiendo inglés, no tiene hogar, ha estado en cuidado de crianza (foster), o su padre o madre es militar o un socorrista que califica.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "min_age": 3,
+        "max_age": 4
+      },
+      "documents_needed": [],
+      "how_to_apply": "Register through Round Rock ISD's Pre-K enrollment pages and show that your child meets one eligibility rule.",
+      "how_to_apply_es": "Inscríbase por las páginas de Pre-K de Round Rock ISD y muestre que su hijo cumple una de las reglas.",
+      "apply_url": "https://www.roundrockisd.org/page/pre-k-eligibility/",
+      "phone": null,
+      "address": null,
+      "city": "Round Rock",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.roundrockisd.org/page/pre-k-eligibility/",
+      "confidence": "high",
+      "notes": "Children of district classroom teachers are also eligible.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "georgetown-isd-free-reduced-meals",
+      "name": "Georgetown ISD Free and Reduced Meal Application",
+      "organization": "Georgetown ISD Nutrition Services",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Free or reduced-price school meals for Georgetown ISD students.",
+      "description_es": "Comidas escolares gratis o a precio reducido para estudiantes de Georgetown ISD.",
+      "eligibility_summary_en": "For Georgetown ISD families whose income or benefits meet federal school meal rules.",
+      "eligibility_summary_es": "Para familias de Georgetown ISD que cumplen las reglas federales de comidas escolares por sus ingresos o beneficios.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through Skyward Family Access (Online Free and Reduced Meal Application), or contact Georgetown ISD Nutrition Services.",
+      "how_to_apply_es": "Aplique en línea por Skyward Family Access (solicitud de comidas gratis y reducidas), o comuníquese con Servicios de Nutrición de Georgetown ISD.",
+      "apply_url": "https://www.georgetownisd.org/parents/skyward-family-student-access/skyward-family-student-access/online-free-and-reduced-meal-application",
+      "phone": "(512) 943-5000",
+      "address": "507 E. University Avenue",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.georgetownisd.org/departments/nutrition-services/free-reduced-lunch",
+      "confidence": "high",
+      "notes": "Phone and address are the Georgetown ISD main office. Georgetown ISD also has a Homeless and Foster Programs office under Federal Programs.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "leander-isd-free-reduced-meals",
+      "name": "Leander ISD Free and Reduced Meal Benefits",
+      "organization": "Leander ISD Child Nutrition Services",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Free or reduced-price school meals for Leander ISD students.",
+      "description_es": "Comidas escolares gratis o a precio reducido para estudiantes de Leander ISD.",
+      "eligibility_summary_en": "For Leander ISD families whose income or benefits meet federal school meal rules.",
+      "eligibility_summary_es": "Para familias de Leander ISD que cumplen las reglas federales de comidas escolares por sus ingresos o beneficios.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at My School Apps, or get a paper form at any campus or the Child Nutrition Services office.",
+      "how_to_apply_es": "Aplique en línea en My School Apps, o pida un formulario en papel en cualquier escuela o en la oficina de Servicios de Nutrición Infantil.",
+      "apply_url": "https://www.myschoolapps.com/Home/PickDistrict",
+      "phone": "(512) 570-0670",
+      "address": "204 W. South Street",
+      "city": "Leander",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.leanderisd.org/childnutritionservices/",
+      "confidence": "high",
+      "notes": "Leander ISD also offers a weekend Backpack food program for families who qualify, through school counselors.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "leander-isd-homeless-services",
+      "name": "Leander ISD Homeless (McKinney-Vento) Services and Family Supports",
+      "organization": "Leander ISD",
+      "categories": [
+        "school_childcare",
+        "housing"
+      ],
+      "description_en": "Help for students without a stable home, including enrollment help and support services. The district also lists a PTA clothes closet, Parents as Teachers (birth to 5), and Young Parent Services.",
+      "description_es": "Ayuda para estudiantes sin un hogar estable, como ayuda para inscribirse y otros servicios de apoyo. El distrito también tiene un ropero de la PTA, Parents as Teachers (de 0 a 5 años) y servicios para padres jóvenes.",
+      "eligibility_summary_en": "For Leander ISD students who lack a fixed, regular, adequate place to sleep at night.",
+      "eligibility_summary_es": "Para estudiantes de Leander ISD que no tienen un lugar fijo, regular y adecuado para dormir.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true,
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the District Homeless Liaison at (512) 570-5931 or the Homeless Liaison Assistant at (512) 570-0364.",
+      "how_to_apply_es": "Llame a la persona de enlace para estudiantes sin hogar al (512) 570-5931 o a su asistente al (512) 570-0364.",
+      "apply_url": null,
+      "phone": "(512) 570-5931",
+      "address": null,
+      "city": "Leander",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson",
+        "Travis"
+      ],
+      "source_url": "https://www.leanderisd.org/communityresources/",
+      "confidence": "high",
+      "notes": "Parents as Teachers: (512) 570-0320. Young Parent Services: (512) 570-0338. Weekend Backpack meals through school counselors.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hutto-isd-free-reduced-meals",
+      "name": "Hutto ISD Free and Reduced-Price Meals",
+      "organization": "Hutto ISD Child Nutrition Services",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Free or reduced-price school meals for Hutto ISD students.",
+      "description_es": "Comidas escolares gratis o a precio reducido para estudiantes de Hutto ISD.",
+      "eligibility_summary_en": "For Hutto ISD families whose income or benefits meet federal school meal rules.",
+      "eligibility_summary_es": "Para familias de Hutto ISD que cumplen las reglas federales de comidas escolares por sus ingresos o beneficios.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [
+        "Student's first and last name and date of birth (to link your account)"
+      ],
+      "how_to_apply": "Apply online through SchoolCafe, or get a paper form at the Child Nutrition Services office, 305 E. Live Oak Street, Hutto.",
+      "how_to_apply_es": "Aplique en línea por SchoolCafe, o pida un formulario en papel en la oficina de Nutrición Infantil, 305 E. Live Oak Street, Hutto.",
+      "apply_url": "https://family.schoolcafe.com/",
+      "phone": "(512) 759-2164",
+      "address": "305 E. Live Oak Street",
+      "city": "Hutto",
+      "zip": "78634",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.hipponation.org/child-nutrition-services/free-reduced-meal-information",
+      "confidence": "high",
+      "notes": "SchoolCafe support: (855) 729-2328. Applications usually open in July. The district announced free breakfast for all students in the 2025-2026 school year; check whether this continues.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "pflugerville-isd-social-work",
+      "name": "Pflugerville ISD Social Work and Free/Reduced Meals",
+      "organization": "Pflugerville ISD",
+      "categories": [
+        "school_childcare",
+        "food",
+        "mental_health"
+      ],
+      "description_en": "District social workers connect families to mental health crisis help, therapy partners, local food help, holiday help, and other community resources. Families can also apply for free or reduced school meals.",
+      "description_es": "Los trabajadores sociales del distrito conectan a las familias con ayuda en crisis de salud mental, terapia, comida, ayuda en días festivos y otros recursos de la comunidad. Las familias también pueden pedir comidas escolares gratis o reducidas.",
+      "eligibility_summary_en": "For Pflugerville ISD students and families.",
+      "eligibility_summary_es": "Para estudiantes y familias de Pflugerville ISD.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your campus counselor or the Social Work team through the district website. Apply for meals on the Free and Reduced Meals Application page.",
+      "how_to_apply_es": "Hable con el consejero de su escuela o con el equipo de Trabajo Social por la página web del distrito. Para comidas, aplique en la página de solicitud de comidas gratis y reducidas.",
+      "apply_url": "https://www.pfisd.net/programs/food-and-child-nutrition-services/free-and-reduced-meals-application-and-socioeconomic-information-form",
+      "phone": "(512) 594-0000",
+      "address": "1401 W. Pecan St.",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://www.pfisd.net/programs/social-work",
+      "confidence": "high",
+      "notes": "Phone is the district main line. Pflugerville ISD is mostly in Travis County with parts in Williamson County. Also runs Project Hope.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-wic-round-rock",
+      "name": "WIC - Round Rock Clinic",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives monthly healthy foods, nutrition education, and breastfeeding help and support, plus referrals to other services.",
+      "description_es": "WIC da alimentos saludables cada mes, clases de nutrición y ayuda y apoyo para dar pecho, además de referidos a otros servicios.",
+      "eligibility_summary_en": "For pregnant women, breastfeeding women with a baby under 1, women who had a baby in the last 6 months, and caregivers of children under 5 who meet income rules. Having a job or private insurance does not disqualify you.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o cuidadores de niños menores de 5 años que cumplen las reglas de ingresos. Tener trabajo o seguro privado no le quita el derecho.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement)",
+        "Proof of address (utility bill or rent receipt; no PO boxes)",
+        "Photo ID",
+        "Proof of Medicaid, TANF, or SNAP if you have it (can replace income proof)"
+      ],
+      "how_to_apply": "Call the clinic to make an appointment. At the visit you will have a health screening and nutrition check.",
+      "how_to_apply_es": "Llame a la clínica para hacer una cita. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 248-3254",
+      "address": "355 Texas Ave.",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "See the WCCHD calendar for clinic hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Email: RoundRockWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-wic-cedar-park",
+      "name": "WIC - Cedar Park Clinic",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives monthly healthy foods, nutrition education, and breastfeeding help and support, plus referrals to other services.",
+      "description_es": "WIC da alimentos saludables cada mes, clases de nutrición y ayuda y apoyo para dar pecho, además de referidos a otros servicios.",
+      "eligibility_summary_en": "For pregnant women, breastfeeding women with a baby under 1, women who had a baby in the last 6 months, and caregivers of children under 5 who meet income rules. Having a job or private insurance does not disqualify you.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o cuidadores de niños menores de 5 años que cumplen las reglas de ingresos. Tener trabajo o seguro privado no le quita el derecho.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement)",
+        "Proof of address (utility bill or rent receipt; no PO boxes)",
+        "Photo ID",
+        "Proof of Medicaid, TANF, or SNAP if you have it (can replace income proof)"
+      ],
+      "how_to_apply": "Call the clinic to make an appointment. At the visit you will have a health screening and nutrition check.",
+      "how_to_apply_es": "Llame a la clínica para hacer una cita. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 260-4241",
+      "address": "350 Discovery Blvd #102",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": "See the WCCHD calendar for clinic hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Email: CedarParkWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-wic-taylor",
+      "name": "WIC - Taylor Clinic",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives monthly healthy foods, nutrition education, and breastfeeding help and support, plus referrals to other services.",
+      "description_es": "WIC da alimentos saludables cada mes, clases de nutrición y ayuda y apoyo para dar pecho, además de referidos a otros servicios.",
+      "eligibility_summary_en": "For pregnant women, breastfeeding women with a baby under 1, women who had a baby in the last 6 months, and caregivers of children under 5 who meet income rules. Having a job or private insurance does not disqualify you.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o cuidadores de niños menores de 5 años que cumplen las reglas de ingresos. Tener trabajo o seguro privado no le quita el derecho.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement)",
+        "Proof of address (utility bill or rent receipt; no PO boxes)",
+        "Photo ID",
+        "Proof of Medicaid, TANF, or SNAP if you have it (can replace income proof)"
+      ],
+      "how_to_apply": "Call the clinic to make an appointment. At the visit you will have a health screening and nutrition check.",
+      "how_to_apply_es": "Llame a la clínica para hacer una cita. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 238-2109",
+      "address": "115 W 6th St",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": "See the WCCHD calendar for clinic hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Email: TaylorWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-wic-georgetown",
+      "name": "WIC - Georgetown Clinic (Carver Center for Families)",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives monthly healthy foods, nutrition education, and breastfeeding help and support, plus referrals to other services.",
+      "description_es": "WIC da alimentos saludables cada mes, clases de nutrición y ayuda y apoyo para dar pecho, además de referidos a otros servicios.",
+      "eligibility_summary_en": "For pregnant women, breastfeeding women with a baby under 1, women who had a baby in the last 6 months, and caregivers of children under 5 who meet income rules. Having a job or private insurance does not disqualify you.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o cuidadores de niños menores de 5 años que cumplen las reglas de ingresos. Tener trabajo o seguro privado no le quita el derecho.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement)",
+        "Proof of address (utility bill or rent receipt; no PO boxes)",
+        "Photo ID",
+        "Proof of Medicaid, TANF, or SNAP if you have it (can replace income proof)"
+      ],
+      "how_to_apply": "Call the clinic to make an appointment. At the visit you will have a health screening and nutrition check.",
+      "how_to_apply_es": "Llame a la clínica para hacer una cita. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 943-3680",
+      "address": "1200 W 17th St",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": "See the WCCHD calendar for clinic hours. The Liberty Hill WIC site (155 Hillcrest Lane, appointment only) uses this same phone number.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Email: GeorgetownWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-wilco-care-healthcare-helpline",
+      "name": "WilCo Care Indigent Health Program and Healthcare Helpline",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The Healthcare Helpline helps residents find and apply for health programs. WilCo Care pays for needed medical care for very low-income adults, including doctor visits, hospital care, emergency care, up to 3 medicines a month, glasses, and mental health care.",
+      "description_es": "La Línea de Ayuda de Salud ayuda a los residentes a encontrar y pedir programas de salud. WilCo Care paga atención médica necesaria para adultos con ingresos muy bajos: visitas al doctor, hospital, emergencias, hasta 3 medicinas al mes, lentes y salud mental.",
+      "eligibility_summary_en": "WilCo Care is for Williamson County residents age 18+ with income below 21% of the Federal Poverty Level who cannot get Medicaid. The Helpline is open to any county resident.",
+      "eligibility_summary_es": "WilCo Care es para residentes del condado de Williamson de 18 años o más, con ingresos menores al 21% del nivel federal de pobreza, que no pueden recibir Medicaid. La Línea de Ayuda es para cualquier residente del condado.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "min_age": 18,
+        "residency_required": "Williamson County resident"
+      },
+      "documents_needed": [
+        "Valid Social Security card",
+        "Proof of income",
+        "Proof of Williamson County residency"
+      ],
+      "how_to_apply": "Call the Healthcare Helpline at (512) 248-3252 or visit 355 Texas Ave, Round Rock, Mon-Fri 8 AM-5 PM.",
+      "how_to_apply_es": "Llame a la Línea de Ayuda de Salud al (512) 248-3252 o vaya a 355 Texas Ave, Round Rock, de lunes a viernes, 8 AM a 5 PM.",
+      "apply_url": null,
+      "phone": "(512) 248-3252",
+      "address": "355 Texas Ave.",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Mon-Fri 8 AM-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/health_resources.php",
+      "confidence": "high",
+      "notes": "Yearly benefit limit is $30,000 per person; hospital care up to 30 days/$30,000. Resource (asset) limits under Texas Health & Safety Code Ch. 61 also apply.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-immunizations",
+      "name": "WCCHD Immunization Clinics (Vaccines for Children and Adult Safety Net)",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost shots for children and uninsured adults at public health centers in Round Rock, Cedar Park, and Taylor. Flu shots are free for everyone 6 months and older.",
+      "description_es": "Vacunas a bajo costo para niños y adultos sin seguro en los centros de salud pública. La vacuna contra la gripe es gratis para todos desde los 6 meses de edad.",
+      "eligibility_summary_en": "Child vaccines: ages birth-18 with Medicaid, CHIP, no insurance, or not enough insurance, or American Indian/Alaska Native. Adult vaccines: only adults with no health insurance.",
+      "eligibility_summary_es": "Vacunas para niños: de 0 a 18 años con Medicaid, CHIP, sin seguro o con seguro que no cubre vacunas, o indígenas americanos o nativos de Alaska. Vacunas para adultos: solo adultos sin ningún seguro médico.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Clinical Services at (512) 943-3600 to make an appointment.",
+      "how_to_apply_es": "Llame a Servicios Clínicos al (512) 943-3600 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(512) 943-3600",
+      "address": "355 Texas Ave.",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; payment due at visit (cash, check, card). Flu shots free for ages 6 months and up.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/vaccination.php",
+      "confidence": "high",
+      "notes": "Travel vaccines are not offered. Adult vaccines include Hepatitis A and B, meningococcal, MMR, Tdap, and Td.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-round-rock-grimes",
+      "name": "Lone Star Circle of Care - Texas A&M Health Science Center (Round Rock)",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center offering family medicine, pediatrics, senior health, women's health, behavioral health, pharmacy, and specialty care. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con medicina familiar, pediatría, salud para mayores, salud de la mujer, salud mental, farmacia y especialistas. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "3950 N. A.W. Grimes Blvd.",
+      "city": "Round Rock",
+      "zip": "78665",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Free help signing up for Marketplace insurance, Medicaid, or CHIP: Patient Services (512) 686-0534.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-round-rock-health-clinic",
+      "name": "Lone Star Circle of Care - Round Rock Health Clinic",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center offering pediatrics, dental, and behavioral health care. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con pediatría, dentista y salud mental. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "2120 N. Mays St., Suite 430",
+      "city": "Round Rock",
+      "zip": "78665",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Round Rock ISD lists this clinic for pediatrics and says it accepts Medicaid, Medicare, WilCo, and all major insurance, with a sliding scale based on income for uninsured patients.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-georgetown-lake-aire",
+      "name": "Lone Star Circle of Care - Lake Aire Medical Center (Georgetown)",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center offering family medicine, pediatrics, senior health, behavioral health, vision, and pharmacy. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con medicina familiar, pediatría, salud para mayores, salud mental, cuidado de la vista y farmacia. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "2423 Williams Dr.",
+      "city": "Georgetown",
+      "zip": "78628",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Free help signing up for Marketplace insurance, Medicaid, or CHIP: Patient Services (512) 686-0534.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-georgetown-dental",
+      "name": "Lone Star Circle of Care - Georgetown Dental",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health center offering dental care. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con servicios de dentista. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "2411 Williams Dr., Suite 111",
+      "city": "Georgetown",
+      "zip": "78628",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Free help signing up for Marketplace insurance, Medicaid, or CHIP: Patient Services (512) 686-0534.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-hutto",
+      "name": "Lone Star Circle of Care - Hutto",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health center offering family medicine and pediatrics. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con medicina familiar y pediatría. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "123 Ed Schmidt Blvd., Suite 140",
+      "city": "Hutto",
+      "zip": "78634",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Free help signing up for Marketplace insurance, Medicaid, or CHIP: Patient Services (512) 686-0534.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-cedar-park",
+      "name": "Lone Star Circle of Care - Cedar Park",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health center offering family medicine and pediatrics. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con medicina familiar y pediatría. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "1401 Medical Parkway, Building B, Suite 311",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Free help signing up for Marketplace insurance, Medicaid, or CHIP: Patient Services (512) 686-0534.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-taylor",
+      "name": "Lone Star Circle of Care - Taylor",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health center offering family medicine. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con medicina familiar. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita.",
+      "apply_url": null,
+      "phone": "(877) 800-5722",
+      "address": "1301 West 4th St.",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Free help signing up for Marketplace insurance, Medicaid, or CHIP: Patient Services (512) 686-0534.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "georgetown-isd-health-wellness-center",
+      "name": "Lone Star Circle of Care - Georgetown ISD Health & Wellness Center",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health center offering school-linked primary care. Patients with or without insurance are seen.",
+      "description_es": "Centro de salud comunitario con atención primaria ligada a las escuelas. Atienden a pacientes con o sin seguro.",
+      "eligibility_summary_en": "Open to everyone, insured or uninsured. Accepts Medicaid, CHIP, Medicare, and many private plans; staff can help uninsured patients make care affordable.",
+      "eligibility_summary_es": "Abierto a todos, con o sin seguro. Aceptan Medicaid, CHIP, Medicare y muchos seguros privados; el personal puede ayudar a pacientes sin seguro a pagar menos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 688-6250 to ask who can be seen and to make an appointment.",
+      "how_to_apply_es": "Llame al (512) 688-6250 para preguntar a quién atienden y hacer una cita.",
+      "apply_url": null,
+      "phone": "(512) 688-6250",
+      "address": "5001 Airport Road",
+      "city": "Georgetown",
+      "zip": "78628",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for uninsured; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "high",
+      "notes": "Run by Lone Star Circle of Care with Georgetown ISD. Call (512) 688-6250 to ask who can be seen and hours.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "sacred-heart-community-clinic",
+      "name": "Sacred Heart Community Clinic",
+      "organization": "Sacred Heart Community Clinic",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free primary care, dental care, lab work, and diabetes education for adults without insurance.",
+      "description_es": "Atención médica primaria, dentista, análisis de laboratorio y clases sobre diabetes, gratis para adultos sin seguro.",
+      "eligibility_summary_en": "For uninsured adults in Williamson County.",
+      "eligibility_summary_es": "Para adultos sin seguro médico que viven en el condado de Williamson.",
+      "eligibility_rules": {
+        "uninsured": true,
+        "min_age": 18,
+        "residency_required": "Williamson County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the New Patient Packet on the website, then register during registration hours or call (512) 716-3929.",
+      "how_to_apply_es": "Llene el paquete para pacientes nuevos en la página web y luego regístrese en el horario de registro, o llame al (512) 716-3929.",
+      "apply_url": null,
+      "phone": "(512) 716-3929",
+      "address": "620 Round Rock West Drive, Building 8",
+      "city": "Round Rock",
+      "zip": "78681",
+      "hours": "Appointments: Mon 8 AM-3 PM; Tue 8 AM-5 PM; Wed closed; Thu 10 AM-4 PM; Fri 8 AM-12 PM. Registration: Mon 11 AM-2:30 PM; Tue 8 AM-4 PM; Thu 10 AM-4 PM.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.sacredheartclinic.org/",
+      "confidence": "high",
+      "notes": "Located at the back of the St. William Church campus. Lab hours Mon and Fri 8-11 AM (no registrations during lab hours). Follows Round Rock ISD weather closures.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-community-services",
+      "name": "Bluebonnet Trails Community Services (Mental Health, IDD, Substance Use)",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health",
+        "healthcare",
+        "employment",
+        "housing"
+      ],
+      "description_en": "The public mental health and disability center for Williamson County. It offers mental health care, a 24/7 crisis line, substance use treatment, autism and disability (IDD) services, veteran and peer support, supportive housing, and job help.",
+      "description_es": "El centro público de salud mental y discapacidad del condado de Williamson. Ofrece atención de salud mental, línea de crisis las 24 horas, tratamiento para el uso de sustancias, servicios de autismo y discapacidad intelectual (IDD), apoyo para veteranos y de compañeros, vivienda con apoyo y ayuda para encontrar trabajo.",
+      "eligibility_summary_en": "For children and adults in its Central Texas service area who need mental health, substance use, or disability services.",
+      "eligibility_summary_es": "Para niños y adultos en su área del centro de Texas que necesitan servicios de salud mental, uso de sustancias o discapacidad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (844) 309-6385 (7:30 AM-5:30 PM) to start services. In a crisis, call the 24/7 crisis line at (800) 841-1255.",
+      "how_to_apply_es": "Llame al (844) 309-6385 (7:30 AM a 5:30 PM) para empezar. En una crisis, llame a la línea de crisis 24/7 al (800) 841-1255.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "1009 N. Georgetown Street",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Main line 7:30 AM-5:30 PM; crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies; call to ask",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.bbtrails.org/locations/",
+      "confidence": "high",
+      "notes": "Other Williamson County sites: Cedar Park (1401 Medical Pkwy, Bldg C, Suite 300), Taylor (1301 W 4th St), Liberty Hill (155 Hillcrest Ln). 24/7 crisis line: (800) 841-1255.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-early-childhood-intervention",
+      "name": "Early Childhood Intervention (ECI)",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "school_childcare",
+        "healthcare"
+      ],
+      "description_en": "Services for babies and toddlers who have delays or disabilities, to help them grow and learn.",
+      "description_es": "Servicios para bebés y niños pequeños con retrasos o discapacidades, para ayudarles a crecer y aprender.",
+      "eligibility_summary_en": "For children from birth to age 3 with developmental delays or disabilities.",
+      "eligibility_summary_es": "Para niños desde el nacimiento hasta los 3 años con retrasos en el desarrollo o discapacidades.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "max_age": 2
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Bluebonnet Trails at (844) 309-6385 to ask for an ECI screening.",
+      "how_to_apply_es": "Llame a Bluebonnet Trails al (844) 309-6385 para pedir una evaluación de ECI.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "1009 N. Georgetown Street",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.bbtrails.org/",
+      "confidence": "high",
+      "notes": "Bluebonnet Trails also runs autism services for ages 3-15 and Parents as Teachers.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-mobile-outreach-team",
+      "name": "Williamson County Mobile Outreach Team (MOT)",
+      "organization": "Williamson County",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Trained team that responds to mental health crisis calls in the community.",
+      "description_es": "Equipo entrenado que responde a llamadas de crisis de salud mental en la comunidad.",
+      "eligibility_summary_en": "For anyone in Williamson County having a mental health crisis. If there is immediate danger, call 911. You can also call or text 988.",
+      "eligibility_summary_es": "Para cualquier persona en el condado de Williamson que tenga una crisis de salud mental. Si hay peligro inmediato, llame al 911. También puede llamar o enviar un texto al 988.",
+      "eligibility_rules": {
+        "residency_required": "In Williamson County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 864-8277. In an emergency call 911.",
+      "how_to_apply_es": "Llame al (512) 864-8277. En una emergencia, llame al 911.",
+      "apply_url": null,
+      "phone": "(512) 864-8277",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.roundrockisd.org/page/community-resources/",
+      "confidence": "medium",
+      "notes": "Listed by the Round Rock ISD Social Work team; could not confirm on a Williamson County page. For a crisis you can also call the Bluebonnet Trails 24/7 crisis line (800) 841-1255, call or text 988, or call 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hope-alliance",
+      "name": "Hope Alliance Family Violence and Sexual Assault Services",
+      "organization": "Hope Alliance",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Free, private help for survivors of domestic violence and sexual assault: 24-hour hotline, emergency shelter at a safe location, counseling for adults and children, housing help, and legal advocacy.",
+      "description_es": "Ayuda gratis y confidencial para sobrevivientes de violencia doméstica y agresión sexual: línea de ayuda las 24 horas, refugio de emergencia en un lugar seguro, consejería para adultos y niños, ayuda con vivienda y apoyo legal.",
+      "eligibility_summary_en": "For people in Williamson County affected by family violence or sexual assault.",
+      "eligibility_summary_es": "Para personas en el condado de Williamson afectadas por violencia familiar o agresión sexual.",
+      "eligibility_rules": {
+        "residency_required": "Williamson County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at (800) 460-7233. For non-urgent needs call the office at (512) 255-1212.",
+      "how_to_apply_es": "Llame a la línea de ayuda de 24 horas al (800) 460-7233. Si no es urgente, llame a la oficina al (512) 255-1212.",
+      "apply_url": null,
+      "phone": "(800) 460-7233",
+      "address": "1011 Gattis School Rd, Ste 110",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Hotline 24/7. Crisis chat: Mon-Thu 12-4 PM and Mon-Fri 5-10 PM.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://hopealliancetx.org/contact/",
+      "confidence": "high",
+      "notes": "Shelter location is confidential. The contact form is not checked daily - use the hotline for urgent needs.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "starry-counseling",
+      "name": "STARRY Free Family Counseling",
+      "organization": "STARRY",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free counseling for kids and families, including individual, group, and family counseling and parenting classes.",
+      "description_es": "Consejería gratis para niños y familias: consejería individual, en grupo y familiar, y clases para padres.",
+      "eligibility_summary_en": "For children ages 6-17 and their families. Insurance and income are not a barrier.",
+      "eligibility_summary_es": "Para niños de 6 a 17 años y sus familias. El seguro médico y el dinero no son un problema.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "min_age": 6,
+        "max_age": 17
+      },
+      "documents_needed": [],
+      "how_to_apply": "Register through STARRY's client portal or call the nearest office.",
+      "how_to_apply_es": "Regístrese en el portal de clientes de STARRY o llame a la oficina más cercana.",
+      "apply_url": null,
+      "phone": "(512) 388-8290",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://starry.org/services/counseling/",
+      "confidence": "medium",
+      "notes": "Program details confirmed on STARRY's site. The phone number comes from the Round Rock ISD community resource list; STARRY's counseling page does not show a Williamson County phone.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "round-rock-police-victim-assistance",
+      "name": "Round Rock Police Victim Assistance",
+      "organization": "Round Rock Police Department",
+      "categories": [
+        "legal",
+        "mental_health"
+      ],
+      "description_en": "Helps crime victims with crisis support, court accompaniment, information about their rights, case updates, and referrals for housing, medical care, food, and money.",
+      "description_es": "Ayuda a víctimas de delitos con apoyo en crisis, acompañamiento en la corte, información sobre sus derechos, noticias sobre su caso y referidos para vivienda, atención médica, comida y dinero.",
+      "eligibility_summary_en": "For victims of crimes such as assault, sexual assault, kidnapping, or robbery, and close relatives of victims who died.",
+      "eligibility_summary_es": "Para víctimas de delitos como agresión, agresión sexual, secuestro o robo, y familiares cercanos de víctimas que murieron.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Victim Assistance Coordinator at (512) 341-3124.",
+      "how_to_apply_es": "Llame a la coordinadora de Asistencia a Víctimas al (512) 341-3124.",
+      "apply_url": null,
+      "phone": "(512) 341-3124",
+      "address": "2701 North Mays Street",
+      "city": "Round Rock",
+      "zip": "78665",
+      "hours": "Staff on call 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.roundrocktexas.gov/city-departments/police/divisions/victim-assistance-2/",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "georgetown-housing-authority-section-8",
+      "name": "Georgetown Housing Authority (Section 8 and Public Housing)",
+      "organization": "Georgetown Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Runs the Section 8 Housing Choice Voucher program and affordable apartments (Stonehaven and Shady Oaks) in Georgetown, with services for older and disabled residents.",
+      "description_es": "Maneja el programa de vales de vivienda Sección 8 y apartamentos económicos (Stonehaven y Shady Oaks) en Georgetown, con servicios para residentes mayores y con discapacidad.",
+      "eligibility_summary_en": "For low-income households; program rules apply.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos; se aplican las reglas del programa.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Copy of driver's license",
+        "Copy of Social Security card"
+      ],
+      "how_to_apply": "Fill out and print the GHA housing application from the website and mail or fax it with copies of your driver's license and Social Security card to PO Box 60, Georgetown, TX 78626 (fax (512) 869-3475). Call the Section 8 office at (512) 869-6918 with questions.",
+      "how_to_apply_es": "Llene e imprima la solicitud de vivienda de GHA en la página web y envíela por correo o fax con copias de su licencia de manejar y su tarjeta del Seguro Social a PO Box 60, Georgetown, TX 78626 (fax (512) 869-3475). Si tiene preguntas, llame a la oficina de Sección 8 al (512) 869-6918.",
+      "apply_url": "https://www.georgetownha.org/application.htm",
+      "phone": "(512) 869-6918",
+      "address": "501 E. Janis Dr.",
+      "city": "Georgetown",
+      "zip": "78628",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.georgetownha.org/contact.htm",
+      "confidence": "high",
+      "notes": "Stonehaven Apartments: 210 W 18th St, (512) 863-5565. Shady Oaks Apartments: 501 E. Janis Dr., (512) 863-2522. Applications must be renewed every 3 months. Waitlist position is given only in writing, not by phone.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "taylor-housing-authority",
+      "name": "Taylor Housing Authority (Section 8)",
+      "organization": "Taylor Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Runs the Section 8 Housing Choice Voucher program for about 250 families in Taylor.",
+      "description_es": "Maneja el programa de vales de vivienda Sección 8 para unas 250 familias en Taylor.",
+      "eligibility_summary_en": "For low-income households. The Section 8 waitlist is currently closed.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos. La lista de espera de Sección 8 está cerrada ahora.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Watch the website for waitlist openings, which happen every few years.",
+      "how_to_apply_es": "Revise la página web para saber cuándo abren la lista de espera; esto pasa cada pocos años.",
+      "apply_url": null,
+      "phone": "(512) 352-3231",
+      "address": "311 E. 7th St.",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.taylorha.org/",
+      "confidence": "high",
+      "notes": "Waitlist CLOSED as of 2026-09-26. No longer offers public housing (since Dec 23, 2025). No emergency housing available. Other phone: (512) 365-5464.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "allen-r-baca-center",
+      "name": "Allen R. Baca Center for Senior and Community Activities",
+      "organization": "City of Round Rock Parks and Recreation",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Senior center with low-cost lunches for people 60+ (through OWBC), fitness, classes, social clubs, and day trips.",
+      "description_es": "Centro para personas mayores con almuerzos a bajo costo para mayores de 60 años (por medio de OWBC), ejercicio, clases, clubes y paseos de un día.",
+      "eligibility_summary_en": "The center focuses on adults 50+. The OWBC lunch program is for seniors 60+ and needs separate sign-up with OWBC.",
+      "eligibility_summary_es": "El centro es principalmente para adultos de 50 años o más. El almuerzo de OWBC es para personas de 60 años o más y requiere inscribirse aparte con OWBC.",
+      "eligibility_rules": {
+        "min_age": 50,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call (512) 218-5499. For lunch, sign up with OWBC and come Mon-Fri at noon.",
+      "how_to_apply_es": "Vaya al centro o llame al (512) 218-5499. Para el almuerzo, inscríbase con OWBC y venga de lunes a viernes al mediodía.",
+      "apply_url": null,
+      "phone": "(512) 218-5499",
+      "address": "301 W. Bagdad Avenue, Building 2",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Office Mon-Fri 7:30 AM-5:30 PM. Lunch Mon-Fri 12-12:30 PM.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Lunch: suggested $3 donation. Membership fees vary (for example, $60/year for 50+ with weight room).",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.roundrocktexas.gov/city-departments/parks-and-recreation/facilities/allen-r-baca-center/",
+      "confidence": "high",
+      "notes": "Email: bacacustomerservice@roundrocktexas.gov.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-veteran-services",
+      "name": "Williamson County Veteran Services Office",
+      "organization": "Williamson County",
+      "categories": [
+        "cash_assistance",
+        "healthcare",
+        "legal"
+      ],
+      "description_en": "Helps veterans and families apply for VA, Texas, and county benefits. It also offers one-time emergency financial help through a Texas Veterans Commission grant.",
+      "description_es": "Ayuda a veteranos y sus familias a pedir beneficios del VA, de Texas y del condado. También da ayuda de emergencia con dinero, una sola vez, con fondos de la Comisión de Veteranos de Texas.",
+      "eligibility_summary_en": "For veterans, current and surviving spouses, and dependent children who live in Williamson County.",
+      "eligibility_summary_es": "Para veteranos, esposos o esposas (actuales o viudos) e hijos dependientes que viven en el condado de Williamson.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "residency_required": "Williamson County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 943-1900 to make an appointment. Ask about emergency financial help when you call.",
+      "how_to_apply_es": "Llame al (512) 943-1900 para hacer una cita. Pregunte por la ayuda de emergencia cuando llame.",
+      "apply_url": null,
+      "phone": "(512) 943-1900",
+      "address": "100 Wilco Way",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": "Mon-Fri 8 AM-5 PM, by appointment only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wilcotx.gov/785/Veteran-Services",
+      "confidence": "high",
+      "notes": "Emergency financial help is funded by a Texas Veterans Commission grant.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "carts-williamson-county",
+      "name": "CARTS Rural and Interurban Transit",
+      "organization": "Capital Area Rural Transportation System (CARTS)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Bus and on-demand rides in rural Williamson County and between towns. Seniors 60+, people with disabilities, and kids under 12 pay half fare.",
+      "description_es": "Autobuses y viajes a pedido en las áreas rurales del condado de Williamson y entre pueblos. Mayores de 60, personas con discapacidad y niños menores de 12 pagan la mitad.",
+      "eligibility_summary_en": "Open to the public. Half fare for registered CARTS customers, seniors 60+, people with disabilities, and children under 12. Seniors 60+ ride free on Country Bus service.",
+      "eligibility_summary_es": "Abierto a todos. Mitad de precio para clientes registrados de CARTS, mayores de 60 años, personas con discapacidad y niños menores de 12. Los mayores de 60 viajan gratis en el servicio Country Bus.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book online or call the Reservations Center at (512) 478-7433. Buy passes in the Token Transit app.",
+      "how_to_apply_es": "Reserve en línea o llame al Centro de Reservaciones al (512) 478-7433. Compre pases en la aplicación Token Transit.",
+      "apply_url": "https://www.ridecarts.com/",
+      "phone": "(512) 478-7433",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Zone 1 $2 (in town), Zone 2 $4 (same county), Zone 3 $6 (all day, multi-county); half price for reduced-fare riders",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.ridecarts.com/fares",
+      "confidence": "high",
+      "notes": "Main office: (512) 481-1011. Drivers do not carry cash and cannot make change. Serves non-urban parts of 10 counties including Williamson.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "round-rock-rides-on-demand",
+      "name": "Round Rock Rides On-Demand and ADA Paratransit",
+      "organization": "City of Round Rock Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "On-demand shared rides inside Round Rock city limits, plus curb-to-curb paratransit for people with disabilities who qualify.",
+      "description_es": "Viajes compartidos a pedido dentro de la ciudad de Round Rock, además de transporte de puerta a puerta (paratránsito) para personas con discapacidad que califican.",
+      "eligibility_summary_en": "Anyone can ride. Reduced fare for seniors 65+, eligible paratransit riders, and active-duty military. Paratransit needs an application and assessment.",
+      "eligibility_summary_es": "Cualquiera puede viajar. Tarifa reducida para mayores de 65, personas que califican para paratránsito y militares activos. Para paratránsito necesita una solicitud y una evaluación.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book in the app, at book.roundrock.rideco.com, or call (512) 312-2124 (Mon-Fri 6:30 AM-7:30 PM, Sat 8:30 AM-5:30 PM). For paratransit, fill out the online application; you will also need an in-person interview.",
+      "how_to_apply_es": "Reserve en la aplicación, en book.roundrock.rideco.com, o llame al (512) 312-2124 (lunes a viernes 6:30 AM a 7:30 PM, sábado 8:30 AM a 5:30 PM). Para paratránsito, llene la solicitud en línea; también tendrá una entrevista en persona.",
+      "apply_url": "https://book.roundrock.rideco.com",
+      "phone": "(512) 312-2124",
+      "address": null,
+      "city": "Round Rock",
+      "zip": null,
+      "hours": "Mon-Fri 6 AM-8 PM; Sat 8 AM-6 PM; closed Sunday",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$4 one-way; $2 reduced fare; paratransit $2 per trip",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.roundrocktexas.gov/city-departments/transportation/public-transportation/",
+      "confidence": "high",
+      "notes": "Book 30 minutes to 7 days ahead. Paratransit decisions are made within 21 days; personal care attendants ride free. CapMetro routes 50, 152, and 980 also serve Round Rock.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gogeo-paratransit-georgetown",
+      "name": "GoGeo Paratransit (Georgetown)",
+      "organization": "City of Georgetown / CARTS",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Curb-to-curb rides for people with disabilities who live in Georgetown city limits.",
+      "description_es": "Viajes de puerta a puerta para personas con discapacidad que viven dentro de la ciudad de Georgetown.",
+      "eligibility_summary_en": "For qualified people with disabilities living in Georgetown city limits.",
+      "eligibility_summary_es": "Para personas con discapacidad que califican y viven dentro de la ciudad de Georgetown.",
+      "eligibility_rules": {
+        "disability": true,
+        "residency_required": "Georgetown city limits"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Reserve at least 24 hours ahead by phone at (512) 478-7433 or online.",
+      "how_to_apply_es": "Reserve por lo menos 24 horas antes, por teléfono al (512) 478-7433 o en línea.",
+      "apply_url": null,
+      "phone": "(512) 478-7433",
+      "address": null,
+      "city": "Georgetown",
+      "zip": null,
+      "hours": "Mon-Fri 7 AM-7 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$2 per trip each way",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://georgetowntexas.gov/transit",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "capmetro-equifare-reduced-fare",
+      "name": "CapMetro Equifare and Reduced Fare",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower bus and train fares for low-income riders (Equifare), and reduced fares for seniors, Medicare card holders, riders with disabilities, and military.",
+      "description_es": "Pasajes más baratos de autobús y tren para personas de bajos ingresos (Equifare), y tarifas reducidas para mayores, personas con tarjeta de Medicare, personas con discapacidad y militares.",
+      "eligibility_summary_en": "Equifare: household income below 200% of the Federal Poverty Level, or enrolled in a social services program. Reduced Fare: age 65+, Medicare card, disability, or military ID.",
+      "eligibility_summary_es": "Equifare: ingresos del hogar menores al 200% del nivel federal de pobreza, o estar inscrito en un programa de servicios sociales. Tarifa reducida: 65 años o más, tarjeta de Medicare, discapacidad o identificación militar.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Proof such as a Medicaid card, EBT card, Social Security award letter, recent pay stub, or tax return"
+      ],
+      "how_to_apply": "Apply online in about 15 minutes, or get a paper form at the Transit Store, 1705 Guadalupe St., Austin. Approval takes 4-6 business days.",
+      "how_to_apply_es": "Aplique en línea en unos 15 minutos, o pida un formulario en papel en la Transit Store, 1705 Guadalupe St., Austin. La aprobación tarda de 4 a 6 días hábiles.",
+      "apply_url": "https://app.capmetro.org/Equifare",
+      "phone": "(512) 474-1200",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Equifare local: $1 ride / $33 month. Reduced local: $0.60 ride / $20.60 month",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://www.capmetro.org/fare/general-fares-overview/equifare",
+      "confidence": "high",
+      "notes": "Must use a CapMetro Reloadable Fare Card or the Umo app. Approved riders stay enrolled for 24 months. Email: Equifare@capmetro.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-williamson-round-rock",
+      "name": "Workforce Solutions of Williamson (Round Rock)",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, training, and child care scholarships for working families.",
+      "description_es": "Ayuda gratis para buscar trabajo, capacitación y becas para cuidado infantil para familias que trabajan.",
+      "eligibility_summary_en": "Job services are open to anyone. Child care help has income and work/school rules.",
+      "eligibility_summary_es": "Los servicios de empleo son para todos. La ayuda para cuidado infantil tiene reglas de ingresos y de trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call (512) 244-2207.",
+      "how_to_apply_es": "Vaya al centro o llame al (512) 244-2207.",
+      "apply_url": null,
+      "phone": "(512) 244-2207",
+      "address": "575 Round Rock West Drive, Building H, Suite 240",
+      "city": "Round Rock",
+      "zip": "78681",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Main regional line: (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-taylor",
+      "name": "Workforce Solutions of Taylor",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, training, and child care help in eastern Williamson County.",
+      "description_es": "Ayuda gratis para buscar trabajo, capacitación y ayuda con el cuidado infantil en el este del condado de Williamson.",
+      "eligibility_summary_en": "Open to job seekers. Child care help has income and work/school rules.",
+      "eligibility_summary_es": "Para personas que buscan trabajo. La ayuda para cuidado infantil tiene reglas de ingresos y de trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call (512) 580-4274.",
+      "how_to_apply_es": "Vaya al centro o llame al (512) 580-4274.",
+      "apply_url": null,
+      "phone": "(512) 580-4274",
+      "address": "111 W 3rd St",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Main regional line: (844) 344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-riogrande-legal-aid-williamson",
+      "name": "Texas RioGrande Legal Aid (TRLA)",
+      "organization": "Texas RioGrande Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, such as housing, family, and benefits problems.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos, como problemas de vivienda, familia o beneficios.",
+      "eligibility_summary_en": "For low-income people in TRLA's 68-county service area, which includes Williamson and Travis counties.",
+      "eligibility_summary_es": "Para personas de bajos ingresos en los 68 condados que atiende TRLA, incluyendo Williamson y Travis.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line at (833) 329-8752 (toll-free) or (956) 996-8752, weekdays 9 AM-5 PM Central.",
+      "how_to_apply_es": "Llame a la línea de admisión al (833) 329-8752 (gratis) o al (956) 996-8752, de lunes a viernes, 9 AM a 5 PM (hora del centro).",
+      "apply_url": null,
+      "phone": "(833) 329-8752",
+      "address": "4920 North I-35",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Intake phone: weekdays 9 AM-5 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson",
+        "Travis",
+        "Hays",
+        "Bastrop",
+        "Burnet",
+        "Caldwell"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Austin office listed; intake is by phone.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "round-rock-public-library",
+      "name": "Round Rock Public Library - Free Computers, Wi-Fi, and Laptops",
+      "organization": "City of Round Rock",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free public computers and Wi-Fi, laptop lending inside the library, and low-cost printing.",
+      "description_es": "Computadoras y Wi-Fi gratis, préstamo de laptops para usar dentro de la biblioteca e impresiones a bajo costo.",
+      "eligibility_summary_en": "Open to everyone. Library card holders and guests can use computers. Borrowing a laptop needs a library card in good standing and a Texas ID.",
+      "eligibility_summary_es": "Abierto a todos. Las personas con tarjeta de la biblioteca y los visitantes pueden usar las computadoras. Para pedir una laptop necesita tarjeta de la biblioteca al día y una identificación de Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the library. Ask at the desk for a guest pass or a library card.",
+      "how_to_apply_es": "Vaya a la biblioteca. Pida en el mostrador un pase de visitante o una tarjeta de la biblioteca.",
+      "apply_url": null,
+      "phone": "(512) 218-7000",
+      "address": "200 E. Liberty Ave.",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Mon-Thu 9 AM-9 PM; Fri-Sat 9 AM-6 PM; Sun 1-6 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free (printing $0.20 per page black-and-white)",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.roundrocktexas.gov/city-departments/library-home/how-do-i/internet-access/",
+      "confidence": "high",
+      "notes": "Computer sessions are 2 hours (30 minutes on the youth floor). Laptops lend for 4 hours, first come first served.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "georgetown-public-library",
+      "name": "Georgetown Public Library - Free Computers and Wi-Fi",
+      "organization": "City of Georgetown",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free public computers and Wi-Fi, study rooms, and digital resources.",
+      "description_es": "Computadoras y Wi-Fi gratis, salas de estudio y recursos digitales.",
+      "eligibility_summary_en": "Open to everyone.",
+      "eligibility_summary_es": "Abierto a todos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the library, call (512) 930-3551, or text (512) 686-7247.",
+      "how_to_apply_es": "Vaya a la biblioteca, llame al (512) 930-3551 o envíe un texto al (512) 686-7247.",
+      "apply_url": null,
+      "phone": "(512) 930-3551",
+      "address": "402 W. Eighth St.",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": "Mon-Thu 9 AM-8 PM; Fri 9 AM-6 PM; Sat 9 AM-5 PM; Sun 12-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://georgetowntexas.gov/library",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": [
+    {
+      "id": "st-vincent-de-paul-round-rock",
+      "reason": "Could not confirm on an official St. Vincent de Paul or St. William parish page (sites returned 403). The only source (Round Rock ISD resource list) gives the same phone (512) 255-2330 to a different organization (Round Rock Seventh Day Adventist Church) at the same address, so the contact number is unreliable."
+    }
+  ]
+}

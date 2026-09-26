@@ -1,0 +1,1519 @@
+{
+  "scope": "West Texas (Midland, Ector, Tom Green, Taylor counties) - basic needs",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "west-texas-food-bank",
+      "name": "West Texas Food Bank - Partner Pantries and Mobile Distributions",
+      "organization": "West Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank gives free food through more than 100 partner pantries and weekly mobile food distributions across 19 West Texas counties, including Midland and Ector.",
+      "eligibility_summary_en": "For people and families in the food bank's service area who need food. Call to find the partner pantry or mobile distribution closest to you.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Odessa or Midland office, or check the monthly mobile distribution schedule on the website, to find a pantry or mobile distribution near you. After hours, dial 2-1-1.",
+      "apply_url": "https://wtxfoodbank.org/help/",
+      "phone": "(432) 580-6333",
+      "address": "411 South Pagewood Avenue",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://wtxfoodbank.org/help/",
+      "confidence": "high",
+      "notes": "Midland location: 1601 Westcliff Drive, Midland, TX 79703, (432) 697-4003. The food bank ended in-house pantry distributions at its own buildings starting January 1, 2026; send clients to partner agencies and mobile distributions instead. Serves 19 counties total."
+    },
+    {
+      "id": "west-texas-food-bank-senior-box-csfp",
+      "name": "Senior Box Program (CSFP)",
+      "organization": "West Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Income-eligible seniors can get a free box of food each month to help stretch their groceries.",
+      "eligibility_summary_en": "For low-income seniors age 60 and older in the food bank's 19-county service area, including Midland and Ector counties.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the food bank in Odessa or Midland to ask about signing up for a senior box.",
+      "apply_url": null,
+      "phone": "(432) 580-6333",
+      "address": "411 South Pagewood Avenue",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://wtxfoodbank.org/senior-programs/",
+      "confidence": "high",
+      "notes": "USDA Commodity Supplemental Food Program. Midland office: (432) 697-4003. The website does not list exact income limits or documents; ask when calling."
+    },
+    {
+      "id": "san-angelo-food-bank",
+      "name": "San Angelo Food Bank - Recurring Food Distributions",
+      "organization": "San Antonio Food Bank (San Angelo Food Bank branch)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The San Angelo Food Bank hands out free food at regular distributions in Tom Green and nearby counties. In San Angelo, distributions are held at Immanuel Baptist Church and at San Angelo Stadium.",
+      "eligibility_summary_en": "For people and families in Tom Green, Irion, Sterling, Concho, and Coke counties who need food.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Go to a scheduled distribution. In San Angelo: Immanuel Baptist Church (90 E 14th Street) from 10 AM to 11 AM on one listed date each month, or San Angelo Stadium (Johnson St. side) from 11 AM to 1 PM. Check the website for current dates.",
+      "apply_url": "https://safoodbank.org/sanangelo",
+      "phone": null,
+      "address": "90 E 14th Street",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Immanuel Baptist Church: 10 AM - 11 AM on listed dates (Sept 17, Oct 15, Nov 19, Dec 17, 2026). San Angelo Stadium: 11 AM - 1 PM on listed dates (Sept 30, Oct 28, Nov 26, Dec 23, 2026).",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://safoodbank.org/sanangelo",
+      "confidence": "high",
+      "notes": "The former Concho Valley Regional Food Bank website (cvfoodbank.org) now redirects to the San Antonio Food Bank. More distributions are listed at safoodbank.org/freshtrak. Address shown is the Immanuel Baptist Church distribution site, not an office."
+    },
+    {
+      "id": "san-angelo-food-bank-benefits-assistance",
+      "name": "Benefits Assistance (SNAP and other benefits application help)",
+      "organization": "San Antonio Food Bank (San Angelo Food Bank branch)",
+      "categories": [
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "Staff can help you apply for benefits like SNAP food benefits over the phone.",
+      "eligibility_summary_en": "For people in the Concho Valley (Tom Green, Irion, Sterling, Concho, and Coke counties) who want help applying for benefits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the benefits assistance line during open hours.",
+      "apply_url": null,
+      "phone": "(888) 835-1575",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday - Friday, 8 AM - 6 PM, and Saturday, 9 AM - 3 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://safoodbank.org/sanangelo",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "food-bank-of-west-central-texas-drive-thru-pantry",
+      "name": "Drive-Thru Pantry",
+      "organization": "Food Bank of West Central Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "You can drive up to the food bank in Abilene and get free food three times a month.",
+      "eligibility_summary_en": "For people in the food bank's service area who need food. The food bank serves Taylor County and eight nearby counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Drive to the food bank at the scheduled times. Call ahead if you have questions about what to bring.",
+      "apply_url": "https://www.fbwct.org/drive-thru-pantry",
+      "phone": "(325) 695-6311",
+      "address": "5505 N. 1st St.",
+      "city": "Abilene",
+      "zip": "79603",
+      "hours": "1st Thursday 9-10:30 AM; 2nd Saturday 9-10:30 AM; 3rd Monday 4:30-6 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.fbwct.org/drive-thru-pantry",
+      "confidence": "high",
+      "notes": "Eligibility and document requirements are not listed on the website; call or email info@fbwct.org."
+    },
+    {
+      "id": "food-bank-of-west-central-texas-find-food",
+      "name": "Food Pantry Locator, Mobile Pantries, and SNAP Help",
+      "organization": "Food Bank of West Central Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank has a map of local food pantries, mobile food pantries, and meal sites, and it can help you apply for SNAP food benefits.",
+      "eligibility_summary_en": "For people in Callahan, Coleman, Comanche, Eastland, Fisher, Nolan, Runnels, Stephens, and Taylor counties who need food.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the online map or download the Taylor County pantry schedule to find food near you. Call the food bank for help applying for SNAP.",
+      "apply_url": "https://www.fbwct.org/find-help/find-food",
+      "phone": "(325) 695-6311",
+      "address": "5505 N. 1st St.",
+      "city": "Abilene",
+      "zip": "79603",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.fbwct.org/find-help/find-food",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "rust-street-ministries-san-angelo",
+      "name": "Rust Street Ministries Food and Clothing Help",
+      "organization": "Rust Street Ministries",
+      "categories": [
+        "food"
+      ],
+      "description_en": "This ministry in San Angelo gives out groceries and clothing, and can refer you to other agencies for more help.",
+      "eligibility_summary_en": "For people in San Angelo who need food or clothing.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit during open hours for groceries. Clothing is by appointment only; call first.",
+      "apply_url": null,
+      "phone": "(325) 486-1004",
+      "address": "803 Rust Street",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Monday - Thursday 9:00 a.m. to 1:00 p.m., Friday 9:00 a.m. to noon",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "http://ruststreetministries.org/",
+      "confidence": "high",
+      "notes": "Site says current operations are limited to clothing (by appointment only) and groceries due to increased demand."
+    },
+    {
+      "id": "midland-soup-kitchen-ministry",
+      "name": "Midland Soup Kitchen Ministry Daily Meals",
+      "organization": "Midland Soup Kitchen Ministry",
+      "categories": [
+        "food"
+      ],
+      "description_en": "This ministry serves free home-cooked meals every day in Midland and has a free clothing table.",
+      "eligibility_summary_en": "For anyone in Midland who needs a meal.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Contact the ministry by email or social media to confirm meal times and location.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://www.midlandsoupkitchen.org/",
+      "confidence": "high",
+      "notes": "Website did not list an address, phone, or meal times. Contact: info@midlandsoupkitchen.org."
+    },
+    {
+      "id": "cvcaa-ceap-utility-assistance",
+      "name": "Comprehensive Energy Assistance Program (CEAP) Utility Assistance",
+      "organization": "Concho Valley Community Action Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "This program helps low-income households pay electric, gas, and propane bills. It also teaches ways to save energy.",
+      "eligibility_summary_en": "For households in Tom Green and 10 other Concho Valley counties with income under the limit (2026: $23,940 for 1 person, $32,460 for 2, $40,980 for 3, $49,500 for 4; add $8,520 for each extra person).",
+      "eligibility_rules": {
+        "residency_required": "Resident of Coke, Concho, Crockett, Irion, Kimble, Menard, Reagan, Schleicher, Sterling, Sutton, or Tom Green County"
+      },
+      "documents_needed": [
+        "Completed application",
+        "Required documentation listed on the agency's forms page"
+      ],
+      "how_to_apply": "Get the application and document list from the agency's forms page, then turn it in with your documents. Inside San Angelo city limits you must apply during application windows (25 in-person applications taken each day); outside the city you can apply any time during business hours.",
+      "apply_url": "https://www.cvcaa.org/what_we_do/forms.php",
+      "phone": "(325) 653-2411",
+      "address": "133 W Concho Ave Suite 301",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Mon - Thur 8:00 a.m. to 4:30 p.m.; closed to the public Fri - Sun",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.cvcaa.org/what_we_do/utility_assistance.php",
+      "confidence": "high",
+      "notes": "Processing takes 60-90 days before a pledge is made to the utility account, so this is not for same-day shutoff emergencies. Toll free: 1-877-41-CVCAA. The CEAP provider for Tom Green County."
+    },
+    {
+      "id": "cvcaa-tenant-based-rental-assistance",
+      "name": "Tenant-Based Rental Assistance (TBRA)",
+      "organization": "Concho Valley Community Action Agency",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "This program helps pay rent for up to 24 months and can help with a security deposit while you work toward being self-sufficient.",
+      "eligibility_summary_en": "For households with income at or below 80% of Area Median Income who live in Tom Green or another Concho Valley county outside San Angelo city limits, have some income, are not behind on past rent, and agree to a self-sufficiency plan.",
+      "eligibility_rules": {
+        "residency_required": "Concho Valley county resident living OUTSIDE San Angelo city limits"
+      },
+      "documents_needed": [
+        "Application documents (submit by email, phone, mail, or fax)"
+      ],
+      "how_to_apply": "Contact the agency by phone or email, or mail/fax documents to the office.",
+      "apply_url": "https://www.cvcaa.org/what_we_do/housing_assistance/index.php",
+      "phone": "(325) 653-2411",
+      "address": "133 W Concho Ave Suite 301",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Mon - Thur 8:00 a.m. to 4:30 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.cvcaa.org/what_we_do/housing_assistance/index.php",
+      "confidence": "high",
+      "notes": "Not available to people living inside San Angelo city limits. Income limit charts by county are on the page (current as of June 1, 2026)."
+    },
+    {
+      "id": "cvcaa-free-tax-assistance-vita",
+      "name": "Free Tax Assistance (VITA)",
+      "organization": "Concho Valley Community Action Agency",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "IRS-certified volunteers prepare and e-file your taxes for free, so you can get your refund and tax credits.",
+      "eligibility_summary_en": "For low- and moderate-income individuals and families.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Completed IRS intake form",
+        "Valid picture ID",
+        "Social Security cards for everyone on the return",
+        "W-2s and 1099s",
+        "Form 1095-A if you have Marketplace insurance",
+        "Last year's tax return if available"
+      ],
+      "how_to_apply": "Call to make an appointment. Married couples filing jointly must both come.",
+      "apply_url": null,
+      "phone": "(325) 653-2411",
+      "address": "133 W. Concho Ave Suite 301",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "January 15 through April 15 each year, by appointment",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.cvcaa.org/what_we_do/free_tax_assistance.php",
+      "confidence": "high",
+      "notes": "Seasonal program; appointments required."
+    },
+    {
+      "id": "permiacare",
+      "name": "PermiaCare Behavioral Health and IDD Services (Local Mental Health Authority)",
+      "organization": "PermiaCare",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "PermiaCare gives mental health, substance use, intellectual and developmental disability (IDD), HIV, and early childhood intervention services. It runs a 24-hour crisis line.",
+      "eligibility_summary_en": "For people in Midland, Ector, and six other West Texas counties who need mental health, substance use, or disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour line at 1-844-420-3964 for crisis help or to start behavioral health services. For IDD services in Midland call (432) 570-3385.",
+      "apply_url": null,
+      "phone": "(844) 420-3964",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Crisis line open 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://www.permiacare.org/",
+      "confidence": "high",
+      "notes": "Local Mental Health Authority for Midland, Ector, Brewster, Pecos, Culberson, Hudspeth, Jeff Davis, and Presidio counties. IDD: (432) 570-3385 (Midland), (432) 580-2646 (other counties), 1-844-420-3966 toll-free. In a life-threatening emergency call 911; 988 is also available."
+    },
+    {
+      "id": "betty-hardwick-center",
+      "name": "Betty Hardwick Center (Local Mental Health and IDD Authority)",
+      "organization": "Betty Hardwick Center",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "The Betty Hardwick Center gives mental health care for adults and children, substance use treatment, disability (IDD) services, early childhood intervention, and veteran services, plus a 24-hour crisis line.",
+      "eligibility_summary_en": "For people in Taylor, Callahan, Jones, Shackelford, and Stephens counties who need mental health, substance use, or disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main office to ask about services, or call the 24-hour crisis line for crisis help, information, and referrals.",
+      "apply_url": null,
+      "phone": "(325) 690-5100",
+      "address": "2616 South Clack",
+      "city": "Abilene",
+      "zip": "79606",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.bettyhardwick.org/",
+      "confidence": "high",
+      "notes": "24-hour crisis hotline: (800) 758-3344. For emergencies call 911."
+    },
+    {
+      "id": "mhmr-concho-valley",
+      "name": "MHMR Concho Valley (Local Mental Health Authority)",
+      "organization": "MHMR Concho Valley",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "MHMR Concho Valley gives crisis services, mental health care, substance use treatment, disability (IDD) services, veteran services, and housing and job help.",
+      "eligibility_summary_en": "For people in San Angelo and the Concho Valley who need mental health, substance use, or disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number during business hours to start services, or call the crisis line any time.",
+      "apply_url": null,
+      "phone": "(325) 658-7750",
+      "address": "1501 W. Beauregard",
+      "city": "San Angelo",
+      "zip": "76901",
+      "hours": "8:00 AM - 12:00 PM, 1:00 PM - 5:00 PM (crisis line 24/7)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://mhmrcv.org/",
+      "confidence": "high",
+      "notes": "Crisis line: (800) 375-8965 or (325) 653-5933. Other main number: (833) 406-0857. The City of San Angelo says its HOME program temporary tenant-based rental assistance is provided through MHMR."
+    },
+    {
+      "id": "workforce-solutions-permian-basin",
+      "name": "Workforce Solutions Permian Basin - Midland and Odessa Workforce Centers",
+      "organization": "Permian Basin Workforce Development Board",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Workforce centers help you look for a job, go to job fairs, and get training. They also run the child care assistance program for the area.",
+      "eligibility_summary_en": "For job seekers in the Permian Basin, including Midland and Ector counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the Midland or Odessa workforce center.",
+      "apply_url": "https://workforcepb.org/locations/",
+      "phone": "(432) 219-8301",
+      "address": "3600 N. Garfield, Midland College Technology Center Room 138",
+      "city": "Midland",
+      "zip": "79705",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://workforcepb.org/locations/",
+      "confidence": "high",
+      "notes": "Odessa center: 2626 JBS Parkway, Bldg. D, Odessa, TX 79761, (432) 367-3332. Toll free 1-800-248-6451. Hours not listed online; call first."
+    },
+    {
+      "id": "workforce-solutions-permian-basin-child-care",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Permian Basin Workforce Development Board",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "This program helps working families, students, and people in training pay for child care.",
+      "eligibility_summary_en": "For families in the Permian Basin with children under 13 (under 19 if disabled) who work, go to school, or train at least 25 hours a week (50 combined for two parents). Income must be at or below 85% of State Median Income (family of 4: $95,403 a year).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 12,
+        "residency_required": "Permian Basin workforce area resident (includes Midland and Ector counties)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Create an account in TX3C at childcare.texas.gov and apply online. Call Child Care Services with questions.",
+      "apply_url": "https://childcare.texas.gov",
+      "phone": "(432) 367-3332",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday - Friday, 8:00 a.m. - 5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://workforcepb.org/child-care/child-care-eligibility/",
+      "confidence": "high",
+      "notes": "Waitlist in effect since July 7, 2026; waits may be 3 to 6 months. Income limits shown are effective October 1, 2026. Job-search child care is available temporarily (must find work within 90 days). max_age 12 applies unless the child has a disability (then under 19)."
+    },
+    {
+      "id": "workforce-solutions-concho-valley",
+      "name": "Workforce Solutions of the Concho Valley - San Angelo Workforce Center",
+      "organization": "Workforce Solutions of the Concho Valley",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "The workforce center helps with job search, resumes, skills tests, job training, GED and adult education, vocational rehabilitation, and veteran job services.",
+      "eligibility_summary_en": "For job seekers in the 13-county Concho Valley region, including Tom Green County. Veterans get priority of service.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the San Angelo workforce center. You can also search jobs on WorkInTexas.com.",
+      "apply_url": "https://www.cvworkforce.org/",
+      "phone": "(325) 653-2321",
+      "address": "202 Henry O. Flipper Street",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://cvworkforce.org/about/concho-valley-workforce-development-board/contact.html",
+      "confidence": "high",
+      "notes": "Toll free: (800) 996-7589. Also runs TANF Choices and SNAP E&T employment programs. Hours not listed on the contact page."
+    },
+    {
+      "id": "workforce-solutions-concho-valley-child-care",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Workforce Solutions of the Concho Valley",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "This program helps eligible families pay for child care so parents can work, look for work, or go to school.",
+      "eligibility_summary_en": "For families in Tom Green and 12 other Concho Valley counties. Single parents must work or study at least 25 hours a week (50 combined for two parents). Gross monthly income limits: $3,988 (1), $5,216 (2), $6,443 (3), $7,670 (4), $8,897 (5).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Resident of Tom Green, Concho, Coke, Irion, Kimble, Mason, McCulloch, Menard, Reagan, Schleicher, Sterling, Sutton, or Crockett County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through cvworkforce.org or childcare.texas.gov, or call.",
+      "apply_url": "https://childcare.texas.gov",
+      "phone": "(325) 653-2321",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.cvworkforce.org/child-care",
+      "confidence": "high",
+      "notes": "Waiting list in effect; delays may be 6+ weeks. Family assets cannot exceed $1 million. Child must be a U.S. citizen or have legal immigration status. Toll free (800) 996-7589."
+    },
+    {
+      "id": "workforce-solutions-west-central-texas",
+      "name": "Workforce Solutions of West Central Texas - Abilene Workforce Center",
+      "organization": "Workforce Solutions of West Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "The workforce center helps with job placement, hiring events, career pathways, and skill-building workshops.",
+      "eligibility_summary_en": "For job seekers in West Central Texas, including Taylor County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the Abilene workforce center.",
+      "apply_url": "https://www.wfswct.org/",
+      "phone": "(325) 795-4200",
+      "address": "500 Chestnut, Suite 1100",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": "Monday - Friday, 8:00am - 5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.wfswct.org/locations",
+      "confidence": "high",
+      "notes": "Toll free (800) 457-5633. Relay: (800) 735-2989 (TTY) / 711 (Voice). Language assistance and accessibility accommodations are free."
+    },
+    {
+      "id": "workforce-solutions-west-central-texas-child-care",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Workforce Solutions of West Central Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "This program helps eligible families pay for child care while they work, go to school, train, or look for a job.",
+      "eligibility_summary_en": "For families in West Central Texas, including Taylor County, who meet federal, state, and local guidelines.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start your application online at childcare.twc.texas.gov/find or call Child Care Services.",
+      "apply_url": "https://childcare.twc.texas.gov/find",
+      "phone": "(325) 795-4200",
+      "address": "500 Chestnut, Suite 1100",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.wfswct.org/31/Child-Care",
+      "confidence": "high",
+      "notes": "Income limits and waitlist status not shown on the page; call to ask."
+    },
+    {
+      "id": "ez-rider-reduced-fare",
+      "name": "EZ-Rider Bus Reduced Fares",
+      "organization": "Midland-Odessa Urban Transit District (EZ-Rider)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "EZ-Rider buses in Midland and Odessa cost $0.60 for seniors, people with disabilities, veterans, and active-duty military, instead of $1.25. Children 5 and under ride free.",
+      "eligibility_summary_en": "Seniors 60 and older, people with disabilities, and veterans or active-duty military can get the reduced fare. Youth 6-18 pay $1.00.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Valid ID",
+        "Medicare card (for senior/disability half fare)"
+      ],
+      "how_to_apply": "Show valid ID (and a Medicare card for the senior/disability half fare) when you pay your fare.",
+      "apply_url": "https://www.ez-rider.org/fares",
+      "phone": "(432) 561-9990",
+      "address": "10300 Younger Rd",
+      "city": "Midland",
+      "zip": "79706",
+      "hours": "Monday-Friday 6:15am-7:10pm; Saturday 8:15am-4:15pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$0.60 reduced fare; Senior/Disabled monthly pass $19.00",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://www.ez-rider.org/fares",
+      "confidence": "high",
+      "notes": "Commuter service between Midland and Odessa uses the same fare levels. All-day pass $3.00. No Sunday service."
+    },
+    {
+      "id": "ez-rider-paratransit",
+      "name": "EZ-Rider ADA Paratransit",
+      "organization": "Midland-Odessa Urban Transit District (EZ-Rider)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door rides in the Midland-Odessa area for people with disabilities who cannot use the regular bus. Certified riders also ride the regular bus free.",
+      "eligibility_summary_en": "For people with disabilities who cannot use regular bus routes, based on ADA rules. You must apply and be certified.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Paratransit application",
+        "Verification from a medical professional"
+      ],
+      "how_to_apply": "Fill out the EZ-Rider paratransit application, have a medical professional verify it, and wait for EZ-Rider to certify you. Call for an application.",
+      "apply_url": "https://www.ez-rider.org/paratransit",
+      "phone": "(432) 561-9990",
+      "address": "10300 Younger Rd",
+      "city": "Midland",
+      "zip": "79706",
+      "hours": "Monday-Friday 6:15am-7:10pm; Saturday 8:15am-4:15pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$2.50 per one-way trip within 3/4 mile of a fixed route; $5.00 beyond that",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland",
+        "Ector"
+      ],
+      "source_url": "https://www.ez-rider.org/paratransit",
+      "confidence": "high",
+      "notes": "No service Sundays or major holidays. Mobility training is available for new riders."
+    },
+    {
+      "id": "concho-valley-transit-reduced-fare",
+      "name": "Concho Valley Transit Reduced Fares",
+      "organization": "Concho Valley Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "San Angelo city buses offer lower fares for seniors, students, military, people with disabilities, and Medicare card holders. Children under 6 ride free with a paying adult.",
+      "eligibility_summary_en": "Seniors 65 and older, students, military members, people with a disability, or people with Medicare can get reduced fares with proper ID.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proper documentation or ID (senior, student, military, disability, or Medicare card)"
+      ],
+      "how_to_apply": "Show your ID or documentation when you board.",
+      "apply_url": "https://cvtd.org/fixed-routes/",
+      "phone": "(877) 947-8729",
+      "address": "510 N Chadbourne St",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Monday-Friday 6:30 AM-7:30 PM; Saturday 7:30 AM-6:30 PM; Sunday closed",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Reduced fare (call for current amount)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://cvtd.org/fixed-routes/",
+      "confidence": "high",
+      "notes": "Exact fare amounts were not readable on the page. Riders must be 12 or older to ride alone. CVT also runs rural routes across the Concho Valley."
+    },
+    {
+      "id": "concho-valley-transit-paratransit",
+      "name": "Concho Valley Transit ADA Para Transit",
+      "organization": "Concho Valley Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared-ride, curb-to-curb service in wheelchair-accessible vans for people with disabilities. It runs the same days and hours as the city buses.",
+      "eligibility_summary_en": "For people with disabilities who qualify through an ADA application. Approval can take up to 21 business days and is not guaranteed.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "ADA ParaTransit Application (English or Spanish, official CVT form only)"
+      ],
+      "how_to_apply": "Call customer service or email cvtd.inquiries@cvcog.org to request the ADA application, or download it from the website, then return it.",
+      "apply_url": "https://cvtd.org/para-transit/",
+      "phone": "(877) 947-8729",
+      "address": "510 N Chadbourne St",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Mon-Fri 6:30am-7:30pm, Sat 7:30am-6:30pm (Closed Sundays)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Fare per trip (call for amount)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://cvtd.org/para-transit/",
+      "confidence": "high",
+      "notes": "Wheelchairs up to 32 inches wide and 800 lbs combined weight. Drivers do not enter buildings."
+    },
+    {
+      "id": "citylink-abilene-paratransit",
+      "name": "CityLink ADA Paratransit",
+      "organization": "City of Abilene - CityLink Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Rides for people in Abilene whose disability keeps them from using the regular city bus.",
+      "eligibility_summary_en": "For people whose physical or mental disability prevents them from using the fixed-route bus, based on federal ADA rules.",
+      "eligibility_rules": {
+        "disability": true,
+        "residency_required": "Trips within Abilene city limits"
+      },
+      "documents_needed": [
+        "Client Application",
+        "Medical Professional Questionnaire"
+      ],
+      "how_to_apply": "Apply online with the client application and medical questionnaire, visit CityLink at 1189 S 2nd Street, or call (325) 676-6287, Option 2.",
+      "apply_url": "https://www.abilenetx.gov/FormCenter/CityLink-17/CityLink-Paratransit-Service-Client-Appl-152",
+      "phone": "(325) 676-6287",
+      "address": "1189 S 2nd Street",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": "Service: Monday-Friday 6:15 a.m.-5:45 p.m.; Saturday 7:15 a.m.-5:45 p.m. Booking: Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$2.50 one-way in ADA area ($25 for 10 tickets); $3.75 one-way in extended city area ($75 for 20 tickets)",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.abilenetx.gov/468/ADA-Paratransit",
+      "confidence": "high",
+      "notes": "No Sunday or holiday service. CityLink announced a fee increase beginning October 1, 2026, so fares may change; confirm by phone. Fixed-route line: (325) 676-6609."
+    },
+    {
+      "id": "abilene-hope-haven",
+      "name": "Abilene Hope Haven Shelter and Hope Housing",
+      "organization": "Abilene Hope Haven",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Abilene Hope Haven gives shelter and housing support to people experiencing homelessness and helps them find housing.",
+      "eligibility_summary_en": "For people experiencing homelessness in Abilene.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the shelter to ask about space and intake.",
+      "apply_url": null,
+      "phone": "(325) 677-4673",
+      "address": "801 S. Treadaway Blvd.",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://abilenehopehaven.org/",
+      "confidence": "high",
+      "notes": "Second phone: (325) 677-4674. Hours and intake rules not listed online."
+    },
+    {
+      "id": "family-promise-of-midland",
+      "name": "Family Promise of Midland Shelter, Eviction Prevention, and Transitional Housing",
+      "organization": "Family Promise of Midland",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Family Promise helps families with children who are homeless or about to lose housing. It offers shelter, outreach, eviction prevention, transitional housing, job training, and counseling.",
+      "eligibility_summary_en": "For families with children in Midland who are homeless or at risk of eviction.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Family Promise of Midland to ask for help.",
+      "apply_url": null,
+      "phone": "(432) 218-8231",
+      "address": "2908 W Ohio Ave",
+      "city": "Midland",
+      "zip": "79701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://fpmidland.org/",
+      "confidence": "high",
+      "notes": "Programs include Families Forward Transitional Housing."
+    },
+    {
+      "id": "noah-project-abilene",
+      "name": "Noah Project Domestic Violence Shelter and Services",
+      "organization": "Noah Project",
+      "categories": [
+        "housing",
+        "legal"
+      ],
+      "description_en": "Noah Project gives emergency shelter and support to survivors of domestic violence, sexual assault, dating violence, and human trafficking.",
+      "eligibility_summary_en": "For people affected by domestic violence, sexual assault, dating violence, or human trafficking in Abilene and nine other West Texas counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline for help or shelter.",
+      "apply_url": null,
+      "phone": "(325) 676-7107",
+      "address": "5802 Texas Ave.",
+      "city": "Abilene",
+      "zip": "79605",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://noahproject.org/",
+      "confidence": "high",
+      "notes": "Toll-free hotline: 1-800-444-3551. Crisis email: crisishelp@noahproject.org. Serves 10 counties (not all named on the homepage). In immediate danger, call 911."
+    },
+    {
+      "id": "salvation-army-odessa",
+      "name": "The Salvation Army Odessa Corps Social Services",
+      "organization": "The Salvation Army",
+      "categories": [
+        "food",
+        "housing"
+      ],
+      "description_en": "The Salvation Army in Odessa offers help for people in need, including food assistance. Call to ask what help is available now.",
+      "eligibility_summary_en": "For people in need in Odessa.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Odessa Corps to ask about current services.",
+      "apply_url": null,
+      "phone": "(432) 332-0738",
+      "address": "810 E. 11th Street",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Ector"
+      ],
+      "source_url": "https://southernusa.salvationarmy.org/odessa/",
+      "confidence": "high",
+      "notes": "Specific services and hours were not listed on the page; confirm by phone."
+    },
+    {
+      "id": "salvation-army-midland",
+      "name": "The Salvation Army Midland Corps",
+      "organization": "The Salvation Army",
+      "categories": [
+        "food",
+        "housing"
+      ],
+      "description_en": "The Salvation Army in Midland helps people in need. Call to ask what services are available now.",
+      "eligibility_summary_en": "For people in need in Midland.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Midland Corps during open hours.",
+      "apply_url": null,
+      "phone": "(432) 683-3614",
+      "address": "3500 Park Ln",
+      "city": "Midland",
+      "zip": null,
+      "hours": "Monday, Tuesday, Thursday, and Friday: 9:00 AM-12:00 PM; 1:00 PM-3:30 PM (Closed Wednesday)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://www.salvationarmyusa.org/tx/midland/park-ln-corps/",
+      "confidence": "high",
+      "notes": "Specific services did not load on the page; confirm by phone. Admin office: 600 E Wall St."
+    },
+    {
+      "id": "salvation-army-abilene",
+      "name": "The Salvation Army Abilene Corps",
+      "organization": "The Salvation Army",
+      "categories": [
+        "food",
+        "housing"
+      ],
+      "description_en": "The Salvation Army in Abilene helps people in need. Call to ask what services are available now.",
+      "eligibility_summary_en": "For people in need in Abilene.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit during open hours.",
+      "apply_url": null,
+      "phone": "(325) 677-1408",
+      "address": "1726 Butternut St",
+      "city": "Abilene",
+      "zip": null,
+      "hours": "Monday-Friday: 9:00 AM-5:00 PM (closed 12:00 PM-1:00 PM); Saturday-Sunday: Closed",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.salvationarmyusa.org/tx/abilene/butternut-st-corps/",
+      "confidence": "high",
+      "notes": "Specific services did not load on the page; confirm by phone."
+    },
+    {
+      "id": "salvation-army-san-angelo-lodge",
+      "name": "The Salvation Army San Angelo Lodge (Shelter)",
+      "organization": "The Salvation Army",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "The Salvation Army Lodge in San Angelo offers shelter for people who need a place to stay.",
+      "eligibility_summary_en": "For people in San Angelo who need shelter.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Lodge to ask about space and intake rules.",
+      "apply_url": null,
+      "phone": "(325) 227-4679",
+      "address": "122 W 2nd St",
+      "city": "San Angelo",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.salvationarmyusa.org/tx/san-angelo/w-2nd-st/",
+      "confidence": "high",
+      "notes": "Hours and intake rules not listed online. San Angelo Corps (other services): 34 W 3rd St, (325) 655-6981."
+    },
+    {
+      "id": "city-of-odessa-rental-assistance",
+      "name": "City of Odessa Rental Assistance and Home Repair Programs",
+      "organization": "City of Odessa Community Development",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "The City of Odessa can pay a landlord directly for short-term rent help. It also has home repair and homebuyer help programs.",
+      "eligibility_summary_en": "For households in Odessa city limits with income at or below 80% of Area Median Income (HUD limits). Help is first-come, first-served and funding is limited.",
+      "eligibility_rules": {
+        "residency_required": "Property must be within Odessa city limits"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply through the city's Neighborly online portal with a valid email address. Incomplete applications slow things down.",
+      "apply_url": "https://www.odessa-tx.gov/1421/Community-Development",
+      "phone": "(432) 335-4820",
+      "address": "307 N. Lee Street",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": "Monday-Friday, 8:00 a.m. - 5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Ector"
+      ],
+      "source_url": "https://www.odessa-tx.gov/1421/Community-Development",
+      "confidence": "high",
+      "notes": "Applying does not guarantee assistance. CDBG home repair (emergency, minor, full rehab) also requires income at or below 80% AMI. Free lawn mowing help for homeowners 65+ or disabled."
+    },
+    {
+      "id": "city-of-midland-community-development",
+      "name": "City of Midland Home Repair and Homebuyer Assistance",
+      "organization": "City of Midland Community Development Office",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "The City of Midland offers minor home repair grants for homeowners, loans for bigger repairs, and help for first-time home buyers.",
+      "eligibility_summary_en": "For Midland homeowners who live in their home (repairs) and people buying a home. Call for income rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Community Development Office to ask about applying.",
+      "apply_url": null,
+      "phone": "(432) 685-7472",
+      "address": "300 N. Loraine, Room 410",
+      "city": "Midland",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://www.midlandtexas.gov/1234/Housing-Community-Development",
+      "confidence": "high",
+      "notes": "Mailing address: P.O. Box 1152, Midland, TX 79702. Staff: Program Coordinator (432) 685-7472; Community Development Manager (432) 685-7408. No rental assistance or housing vouchers are listed on the page."
+    },
+    {
+      "id": "city-of-abilene-neighborhood-services",
+      "name": "City of Abilene Neighborhood Services Housing Programs",
+      "organization": "City of Abilene Neighborhood Services Division",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "The City of Abilene helps first-time home buyers with up to $7,500 for down payment and closing costs, and helps homeowners with major and critical home repairs.",
+      "eligibility_summary_en": "For income-eligible City of Abilene residents. Homebuyers must live, work, or go to school in Abilene and buy inside city limits.",
+      "eligibility_rules": {
+        "residency_required": "City of Abilene resident"
+      },
+      "documents_needed": [
+        "Complete application with required documentation"
+      ],
+      "how_to_apply": "Submit a complete application with your documents to Neighborhood Services.",
+      "apply_url": "https://www.abilenetx.gov/459/Neighborhood-Services",
+      "phone": "(325) 437-4576",
+      "address": "555 Walnut Street, Suite 100",
+      "city": "Abilene",
+      "zip": "79601",
+      "hours": "Monday-Friday, 8 a.m. to 5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.abilenetx.gov/459/Neighborhood-Services",
+      "confidence": "high",
+      "notes": "Critical Repair Program applications were set to reopen later in the year; check status."
+    },
+    {
+      "id": "city-of-san-angelo-community-housing-support",
+      "name": "City of San Angelo Community and Housing Support",
+      "organization": "City of San Angelo Neighborhood & Family Services",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "The City of San Angelo helps low- to moderate-income homeowners with repairs and emergency repairs, helps first-time home buyers, and can replace heaters and water heaters for eligible Atmos gas customers.",
+      "eligibility_summary_en": "For low- to moderate-income San Angelo residents. Homebuyers must be approved by a participating lender.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Community Development Building to ask about applying.",
+      "apply_url": null,
+      "phone": "(325) 655-0824",
+      "address": "52 W. College Ave., Community Development Building",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Monday-Friday: 8 a.m.-noon, 1 p.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.sanangelo.gov/209/Community-Housing-Support",
+      "confidence": "high",
+      "notes": "The city says it no longer has funding to help with rent and utilities. Temporary tenant-based rental assistance under its HOME program is provided through MHMR Concho Valley."
+    },
+    {
+      "id": "abilene-taylor-county-wic",
+      "name": "WIC Clinic (Women, Infants & Children)",
+      "organization": "Abilene-Taylor County Public Health District",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy foods, nutrition education, and breastfeeding support to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "For pregnant, breastfeeding, and postpartum women, infants, and children under 5 who meet income guidelines.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply at texaswic.org or call the clinic.",
+      "apply_url": "https://texaswic.org",
+      "phone": "(325) 692-1680",
+      "address": "850 North 6th Street",
+      "city": "Abilene",
+      "zip": "79601",
+      "hours": "Monday - Friday 8 am to 6 pm (open during the lunch hour)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.abilenetx.gov/wic",
+      "confidence": "high",
+      "notes": "Email: wic@abilenetx.gov. Lactation consulting available."
+    },
+    {
+      "id": "san-angelo-wic",
+      "name": "WIC Clinic (Women, Infants & Children)",
+      "organization": "City of San Angelo Neighborhood & Family Services",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy foods, nutrition education, and breastfeeding support to pregnant women, new moms, and children up to age 5.",
+      "eligibility_summary_en": "For pregnant, postpartum, and breastfeeding women and children up to age five. People on Medicaid, SNAP, or TANF automatically qualify on income; others must meet income guidelines.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the main WIC office in San Angelo.",
+      "apply_url": null,
+      "phone": "(325) 657-4396",
+      "address": "52 W. College Ave., Community Development Building",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": "Monday-Thursday 7 a.m. to noon, 1 p.m. to 6 p.m.; first Saturday monthly 8 a.m. to noon by appointment",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://www.sanangelo.gov/574/Women-Infants-Children",
+      "confidence": "high",
+      "notes": "Serves San Angelo-Tom Green County and six surrounding counties, with satellites in Ballinger and Coleman. Breastfeeding support: (325) 655-4347; on-call (325) 234-0875."
+    },
+    {
+      "id": "midland-health-services-city",
+      "name": "City of Midland Health Services Clinic",
+      "organization": "City of Midland Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The city health department offers immunizations, STD/HIV testing and treatment, and tuberculosis testing.",
+      "eligibility_summary_en": "For Midland residents who need shots or testing. All services are by appointment.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call and press 3 to make an appointment, or request one through the patient portal.",
+      "apply_url": null,
+      "phone": "(432) 681-7613",
+      "address": "3303 W. Illinois, Space 22",
+      "city": "Midland",
+      "zip": "79703",
+      "hours": "Monday - Friday: 8:00 a.m. - 5:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies by service; call",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://www.midlandtexas.gov/232/Health-Services",
+      "confidence": "high",
+      "notes": "Appointment only. Email: MidlandHealth@MidlandTexas.gov."
+    },
+    {
+      "id": "ector-county-health-department",
+      "name": "Ector County Health Department Clinics",
+      "organization": "Ector County Health Department",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The county health department gives low-cost immunizations, walk-in STD/HIV and TB testing, and free cervical cancer screening for those who qualify.",
+      "eligibility_summary_en": "For Ector County residents. Pap smear clinic requires qualification.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during TB or STD/HIV clinic times, or call for an immunization or flu shot appointment.",
+      "apply_url": null,
+      "phone": "(432) 498-4141",
+      "address": "221 North Texas",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": "Closed 12 pm to 1 pm. TB testing Mon & Tue 8:30-11 am and 1-4 pm; STD/HIV Tue 1-3:30 pm, Wed 8:30-10:30 am; Pap clinic Thu 1-3 pm.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Immunization admin fee $13 (1 shot) or $26 (2+ shots) per child; accepts Medicaid and private insurance",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Ector"
+      ],
+      "source_url": "https://www.ectorcountytx.gov/274/Health-Department",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "mercy-health-care-center-abilene",
+      "name": "Mercy Health Care Center",
+      "organization": "Abilene-Taylor County Public Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "This public health clinic offers prenatal care, family planning, Healthy Texas Women services, and STD testing and treatment.",
+      "eligibility_summary_en": "Prenatal care is for people who meet financial criteria. Healthy Texas Women is for uninsured women ages 15-44 at or below 200% of the poverty level who are Texas residents and U.S. citizens or qualified immigrants.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "min_age": 15,
+        "max_age": 44,
+        "uninsured": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of citizenship",
+        "Proof of Texas residency"
+      ],
+      "how_to_apply": "Call the clinic to make an appointment.",
+      "apply_url": null,
+      "phone": "(325) 692-5600",
+      "address": "850 North 6th Street",
+      "city": "Abilene",
+      "zip": "79601",
+      "hours": "Monday - Friday 8:00 am - 12:00 pm, 1:00 pm - 5:00 pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "STD testing $25; other services based on financial criteria, Medicaid, or self-pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.abilenetx.gov/387/Mercy-Health-Care-Center",
+      "confidence": "high",
+      "notes": "Eligibility rules listed (income, age, uninsured) apply to the Healthy Texas Women program only; STD testing is open to the public."
+    },
+    {
+      "id": "presbyterian-medical-care-mission",
+      "name": "Presbyterian Medical Care Mission",
+      "organization": "Presbyterian Medical Care Mission",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "This ministry gives primary medical care, prescription help, and some specialist care to uninsured, low-income adults in Abilene.",
+      "eligibility_summary_en": "For low-income, uninsured adults ages 18-64. People with private insurance, Medicare, or Medicaid do not qualify.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "max_age": 64,
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to ask about becoming a patient.",
+      "apply_url": null,
+      "phone": "(325) 672-5601",
+      "address": "1857 Pine Street",
+      "city": "Abilene",
+      "zip": "79601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://pmcm.org/",
+      "confidence": "high",
+      "notes": "Email: contact@pmcm.org. Hours not listed online."
+    },
+    {
+      "id": "taylor-county-general-assistance",
+      "name": "Taylor County General Assistance and Indigent Health Care",
+      "organization": "Taylor County Social Services",
+      "categories": [
+        "healthcare",
+        "cash_assistance"
+      ],
+      "description_en": "Taylor County helps eligible residents with short-term prescriptions (up to $300), eye exams and glasses, and applying to drug company help programs. It also runs an indigent health care program.",
+      "eligibility_summary_en": "For Taylor County residents who meet income, resource, and household rules. Vision care requires income at or below 65% of the poverty level; Medicaid recipients do not qualify for vision care.",
+      "eligibility_rules": {
+        "residency_required": "Taylor County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Download the General Assistance application from the county website or call the office.",
+      "apply_url": "https://www.taylorcounty.texas.gov/180/General-Assistance-Program",
+      "phone": "(325) 674-1341",
+      "address": "400 Oak Street Ste 202",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": "Monday-Thursday 8:00 a.m.-12:00 p.m., 1:00 p.m.-5:00 p.m.; Friday 8:00 a.m.-12:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://www.taylorcounty.texas.gov/180/General-Assistance-Program",
+      "confidence": "high",
+      "notes": "Does NOT cover rent or utilities. Acute prescriptions exclude anti-depressants and psychiatric medications. A separate dental assistance program serves people at or below 300% FPL. The Social Services page lists 301 Oak Street, Suite 200 as its address; call to confirm location."
+    },
+    {
+      "id": "legal-aid-of-northwest-texas-midland",
+      "name": "Legal Aid of NorthWest Texas - Midland Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction and housing, family and domestic violence, debt, custody, and wills.",
+      "eligibility_summary_en": "For low-income individuals and families with civil (non-criminal) legal problems.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the statewide intake line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(432) 686-0647",
+      "address": "10 Desta Dr., Ste. 675E",
+      "city": "Midland",
+      "zip": "79705",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll free: (800) 926-5630. Intake line: 1-888-529-5277. Income limits not listed on the homepage."
+    },
+    {
+      "id": "legal-aid-of-northwest-texas-odessa",
+      "name": "Legal Aid of NorthWest Texas - Odessa Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction and housing, family and domestic violence, debt, custody, and wills.",
+      "eligibility_summary_en": "For low-income individuals and families with civil (non-criminal) legal problems.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the statewide intake line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(432) 332-1207",
+      "address": "620 North Grant Ave., Ste. 410",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Ector"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll free: (800) 955-1207. Intake line: 1-888-529-5277. Income limits not listed on the homepage."
+    },
+    {
+      "id": "legal-aid-of-northwest-texas-san-angelo",
+      "name": "Legal Aid of NorthWest Texas - San Angelo Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction and housing, family and domestic violence, debt, custody, and wills.",
+      "eligibility_summary_en": "For low-income individuals and families with civil (non-criminal) legal problems.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the statewide intake line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(325) 653-6982",
+      "address": "40 West Twohig Ave., Ste. 202",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tom Green"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Intake line: 1-888-529-5277. Income limits not listed on the homepage."
+    },
+    {
+      "id": "legal-aid-of-northwest-texas-abilene",
+      "name": "Legal Aid of NorthWest Texas - Abilene Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction and housing, family and domestic violence, debt, custody, and wills.",
+      "eligibility_summary_en": "For low-income individuals and families with civil (non-criminal) legal problems.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the statewide intake line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(325) 677-8591",
+      "address": "500 Chestnut St., Ste. 901",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll free: (800) 933-8591. Intake line: 1-888-529-5277. Income limits not listed on the homepage."
+    }
+  ]
+}

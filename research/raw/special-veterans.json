@@ -1,0 +1,1749 @@
+{
+  "scope": "Texas veterans: TVC, VA medical centers & Vet Centers, Texas Veterans Network, SSVF housing, veteran employment",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "texas-veterans-commission-claims",
+      "name": "Veterans Benefits Claims Help",
+      "organization": "Texas Veterans Commission",
+      "categories": [
+        "cash_assistance",
+        "legal"
+      ],
+      "description_en": "Free help from the state to file VA disability claims and appeals. They also help family members get survivor benefits.",
+      "eligibility_summary_en": "Texas veterans and their dependents or survivors.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID",
+        "Medical records related to your claim"
+      ],
+      "how_to_apply": "Call the Texas Veterans Commission to find a claims counselor near you.",
+      "apply_url": null,
+      "phone": "(800) 252-8387",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://veterans.portal.texas.gov/agencies/",
+      "confidence": "medium",
+      "notes": "Texas Veterans Portal also lists (512) 463-6564 for TVC. The tvc.texas.gov site blocked automated checks, so details were confirmed through the official Texas Veterans Portal (veterans.portal.texas.gov/disabilities/ and /agencies/). 1-800-252-VETS is also listed as the Veterans Land Board call line."
+    },
+    {
+      "id": "tvc-veterans-employment-services",
+      "name": "Veterans Employment Services",
+      "organization": "Texas Veterans Commission",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Job help for veterans, such as job search support and connecting with employers who want to hire veterans.",
+      "eligibility_summary_en": "Veterans looking for work in Texas.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service"
+      ],
+      "how_to_apply": "Visit your local Texas Workforce Solutions office and ask for veteran employment services, or register on WorkInTexas.com.",
+      "apply_url": "https://www.workintexas.com",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://veterans.portal.texas.gov/employment/",
+      "confidence": "medium",
+      "notes": "Listed on the official Texas Veterans Portal; the TVC page (tvc.texas.gov/employment/) could not be read directly."
+    },
+    {
+      "id": "tvc-fund-for-veterans-assistance",
+      "name": "Fund for Veterans' Assistance (FVA) Grant Programs",
+      "organization": "Texas Veterans Commission",
+      "categories": [
+        "housing",
+        "mental_health",
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "A state fund that gives grants to local groups that help veterans. Grants pay for things like therapy, help to avoid homelessness, and meals for older or disabled veterans.",
+      "eligibility_summary_en": "Texas veterans and their families. Each local grantee sets its own rules.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "The fund does not give money directly to people. Call 2-1-1 or the Texas Veterans Commission to find an FVA-funded group near you.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://txapps.texas.gov/tolapp/fva/home.do",
+      "confidence": "medium",
+      "notes": "Source page describes what FVA funds (therapy, housing help, hot meals). A current list of grantees was not accessible this session."
+    },
+    {
+      "id": "military-veteran-peer-network",
+      "name": "Military Veteran Peer Network (MVPN)",
+      "organization": "Texas Veterans Commission, Veterans Mental Health Department",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Trained peer coordinators, who are veterans or family members themselves, offer support and connect people to mental health help. They work in local mental health centers across Texas.",
+      "eligibility_summary_en": "Any service member, veteran, or family member in Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Contact your local mental health authority and ask for the Military Veteran Peer Network coordinator.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://veterans.portal.texas.gov/health/",
+      "confidence": "medium",
+      "notes": "Program page veteransmentalhealth.texas.gov blocked automated checks; confirmed via the official Texas Veterans Portal."
+    },
+    {
+      "id": "texas-veterans-network",
+      "name": "Texas Veterans Network (TVN)",
+      "organization": "Combined Arms (with Texas Workforce Commission)",
+      "categories": [
+        "employment",
+        "housing",
+        "mental_health",
+        "healthcare",
+        "legal",
+        "cash_assistance"
+      ],
+      "description_en": "A statewide network of over 300 groups that help veterans. You ask for help once and they connect you to the right services, usually within 72 hours.",
+      "eligibility_summary_en": "Service members, veterans, military family members, Gold Star families, and caregivers in Texas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Sign up online on the Combined Arms portal or call to request help.",
+      "apply_url": "https://veteranportal.combinedarms.us/sign-up",
+      "phone": "(844) 489-8387",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://combinedarms.us/tvn",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "twc-texas-veterans-leadership-program",
+      "name": "Texas Veterans Leadership Program (TVLP)",
+      "organization": "Texas Workforce Commission",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A resource and referral program that helps returning veterans with jobs, training, and other needs.",
+      "eligibility_summary_en": "Veterans returning from service, especially those who served in Iraq and Afghanistan.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or email the TVLP office (tvlp@twc.texas.gov).",
+      "apply_url": null,
+      "phone": "(512) 466-7867",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/veterans",
+      "confidence": "high",
+      "notes": "TWC general line: (800) 628-5115. Texas Veterans Portal describes TVLP as serving returning veterans of Iraq and Afghanistan."
+    },
+    {
+      "id": "veterans-crisis-line",
+      "name": "Veterans Crisis Line",
+      "organization": "U.S. Department of Veterans Affairs",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private crisis support by phone, text, or chat, any time of day or night.",
+      "eligibility_summary_en": "Veterans, service members, National Guard and Reserve members, and the people who support them. You do not need to be enrolled in VA care.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Dial 988 then press 1, text 838255, or chat online.",
+      "apply_url": "https://www.veteranscrisisline.net/get-help-now/chat/",
+      "phone": "988 (press 1)",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7, 365 days a year",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.veteranscrisisline.net/",
+      "confidence": "high",
+      "notes": "Text: 838255. Call 911 in an emergency."
+    },
+    {
+      "id": "va-national-call-center-homeless-veterans",
+      "name": "National Call Center for Homeless Veterans",
+      "organization": "U.S. Department of Veterans Affairs",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Trained VA counselors answer calls and connect veterans who are homeless or about to lose housing to local help.",
+      "eligibility_summary_en": "Veterans who are homeless or at risk of homelessness, and their family, friends, and service providers.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the free hotline any time.",
+      "apply_url": null,
+      "phone": "(877) 424-3838",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/homeless/nationalcallcenter.asp",
+      "confidence": "high",
+      "notes": "Also written 1-877-4AID-VET."
+    },
+    {
+      "id": "vlb-veterans-housing-assistance-program",
+      "name": "Veterans Housing Assistance Program (VHAP) Home Loans",
+      "organization": "Texas General Land Office - Veterans Land Board",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Low-interest home loans with little or no down payment to help Texas veterans and military members buy a home.",
+      "eligibility_summary_en": "Texas residents age 18+ who are veterans (at least 90 active duty days, honorable/general/medical discharge), active duty, Texas National Guard, or qualifying reservists. The home must be your main home in Texas.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "veteran_only": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Certificate of Eligibility from the VLB",
+        "Discharge papers (DD-214)"
+      ],
+      "how_to_apply": "Get a VLB Certificate of Eligibility, then apply through a VLB-participating lender.",
+      "apply_url": "https://www.glo.texas.gov/veterans/home-loans",
+      "phone": "(800) 252-8387",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday - Friday 7:30am - 5:30pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Loan (must be repaid)",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.glo.texas.gov/veterans/home-loans",
+      "confidence": "high",
+      "notes": "Loans up to $832,750 per source; discounted rate for 30%+ service-connected disability. VLB does not refinance. Phone/hours from glo.texas.gov/veterans/contact-us/contact-veterans-land-board; email VLBinfo@glo.texas.gov."
+    },
+    {
+      "id": "texas-state-veterans-homes",
+      "name": "Texas State Veterans Homes",
+      "organization": "Texas General Land Office - Veterans Land Board",
+      "categories": [
+        "healthcare",
+        "housing"
+      ],
+      "description_en": "Affordable long-term nursing home care for veterans, their spouses, and Gold Star parents.",
+      "eligibility_summary_en": "Qualified veterans, spouses, and Gold Star parents who meet medical, financial, and service rules. Veterans with a 70% or higher service-connected disability can generally live there for free.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Fill out the admission application on the Veterans Land Board website or call the VLB.",
+      "apply_url": "https://www.glo.texas.gov/veterans/texas-state-veterans-homes",
+      "phone": "(800) 252-8387",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; VA per diem helps; generally free for veterans rated 70%+ service-connected",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.glo.texas.gov/veterans/texas-state-veterans-homes",
+      "confidence": "high",
+      "notes": "Phone is the VLB main line from the VLB contact page."
+    },
+    {
+      "id": "texas-lawyers-for-texas-veterans",
+      "name": "Texas Lawyers for Texas Veterans (TLTV) Legal Clinics",
+      "organization": "State Bar of Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal advice clinics for veterans held around Texas with volunteer lawyers.",
+      "eligibility_summary_en": "Veterans and their families who cannot afford a lawyer.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Check the TLTV Legal Clinic Calendar on the State Bar website for a clinic near you.",
+      "apply_url": "https://www.texasbar.com/AM/Template.cfm?Section=Texas_Lawyers_for_Texas_Veterans",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Texas_Lawyers_for_Texas_Veterans",
+      "confidence": "high",
+      "notes": "Civil (not criminal) legal help. Houston Bar Association holds weekly clinics at the Houston VA hospital."
+    },
+    {
+      "id": "va-veteran-readiness-employment",
+      "name": "Veteran Readiness and Employment (VR&E, Chapter 31)",
+      "organization": "U.S. Department of Veterans Affairs",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Helps veterans with service-connected disabilities get job training or education, find a new job, or start a business.",
+      "eligibility_summary_en": "Service members and veterans with a service-connected disability that limits their ability to work.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at VA.gov.",
+      "apply_url": "https://www.va.gov/careers-employment/vocational-rehabilitation/",
+      "phone": "(800) 827-1000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/careers-employment/vocational-rehabilitation/",
+      "confidence": "high",
+      "notes": "Phone is the VA benefits hotline."
+    },
+    {
+      "id": "va-houston-regional-benefit-office",
+      "name": "Houston VA Regional Benefit Office",
+      "organization": "U.S. Department of Veterans Affairs, Veterans Benefits Administration",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "In-person help with VA benefits like disability pay, pensions, education benefits, life insurance, and home loans.",
+      "eligibility_summary_en": "Veterans, service members, and their families.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current photo ID",
+        "DD-214 or discharge papers",
+        "Medical records (for claims)",
+        "Social Security number",
+        "Direct deposit information"
+      ],
+      "how_to_apply": "Visit the office (appointments preferred through VERA) or call the VA benefits hotline.",
+      "apply_url": null,
+      "phone": "(800) 827-1000",
+      "address": "6900 Almeda Road",
+      "city": "Houston",
+      "zip": "77030",
+      "hours": "Mon-Fri 8:00 a.m. to 3:30 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/houston-va-regional-benefit-office/",
+      "confidence": "high",
+      "notes": "Phone is the national VA benefits hotline. Some services are walk-in; appointments preferred."
+    },
+    {
+      "id": "va-waco-regional-benefit-office",
+      "name": "Waco VA Regional Benefit Office",
+      "organization": "U.S. Department of Veterans Affairs, Veterans Benefits Administration",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "In-person help with VA benefits like disability pay, pensions, education benefits, life insurance, and home loans.",
+      "eligibility_summary_en": "Veterans, service members, and their families.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current photo ID",
+        "DD-214 or discharge papers",
+        "Medical records (for claims)",
+        "Social Security number",
+        "Direct deposit information"
+      ],
+      "how_to_apply": "Visit the office (appointments preferred through VERA) or call the VA benefits hotline.",
+      "apply_url": null,
+      "phone": "(800) 827-1000",
+      "address": "701 Clay Avenue, One Veterans Plaza",
+      "city": "Waco",
+      "zip": "76799",
+      "hours": "Mon-Fri 8:30 a.m. to 4:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.va.gov/waco-va-regional-benefit-office/",
+      "confidence": "high",
+      "notes": "Phone is the national VA benefits hotline. Some services are walk-in; appointments preferred."
+    },
+    {
+      "id": "va-olin-e-teague-veterans-center-temple-va-medical-center",
+      "name": "Olin E. Teague Veterans' Center (Temple VA Medical Center)",
+      "organization": "U.S. Department of Veterans Affairs - VA Central Texas Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(800) 423-2111",
+      "address": "1901 Veterans Memorial Drive",
+      "city": "Temple",
+      "zip": "76504",
+      "hours": "Open 24/7 (hours vary by clinic/service)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.va.gov/central-texas-health-care/locations/olin-e-teague-veterans-center/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212. Mental health line: (254) 778-4811."
+    },
+    {
+      "id": "va-dallas-va-medical-center",
+      "name": "Dallas VA Medical Center",
+      "organization": "U.S. Department of Veterans Affairs - VA North Texas Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(214) 742-8387",
+      "address": "4500 South Lancaster Road",
+      "city": "Dallas",
+      "zip": "75216",
+      "hours": "Open 24/7 (hours vary by clinic/service)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.va.gov/north-texas-health-care/locations/dallas-va-medical-center/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212. Mental health line: (214) 857-4279."
+    },
+    {
+      "id": "va-audie-l-murphy-memorial-veterans-hospital",
+      "name": "Audie L. Murphy Memorial Veterans' Hospital",
+      "organization": "U.S. Department of Veterans Affairs - VA South Texas Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(210) 617-5300",
+      "address": "7400 Merton Minter Boulevard",
+      "city": "San Antonio",
+      "zip": "78229",
+      "hours": "Open 24/7 (hours vary by clinic/service)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.va.gov/south-texas-health-care/locations/audie-l-murphy-memorial-veterans-hospital/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212."
+    },
+    {
+      "id": "va-michael-e-debakey-va-medical-center",
+      "name": "Michael E. DeBakey VA Medical Center",
+      "organization": "U.S. Department of Veterans Affairs - VA Houston Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(713) 791-1414",
+      "address": "2002 Holcombe Boulevard",
+      "city": "Houston",
+      "zip": "77030",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.va.gov/houston-health-care/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 363-1063. Source page lists a free legal clinic for veterans and family members."
+    },
+    {
+      "id": "va-thomas-e-creek-va-medical-center",
+      "name": "Thomas E. Creek VA Medical Center",
+      "organization": "U.S. Department of Veterans Affairs - VA Amarillo Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(806) 355-9703",
+      "address": "6010 Amarillo Boulevard, West",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter"
+      ],
+      "source_url": "https://www.va.gov/amarillo-health-care/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212."
+    },
+    {
+      "id": "va-george-h-obrien-jr-va-medical-center",
+      "name": "George H. O'Brien, Jr. VA Medical Center",
+      "organization": "U.S. Department of Veterans Affairs - VA West Texas Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(432) 263-7361",
+      "address": "300 Veterans Boulevard",
+      "city": "Big Spring",
+      "zip": "79720",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Howard"
+      ],
+      "source_url": "https://www.va.gov/west-texas-health-care/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212."
+    },
+    {
+      "id": "va-el-paso-va-clinic",
+      "name": "El Paso VA Clinic",
+      "organization": "U.S. Department of Veterans Affairs - VA El Paso Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(915) 564-6100",
+      "address": "5001 North Piedras Street",
+      "city": "El Paso",
+      "zip": "79930",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.va.gov/el-paso-health-care/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212. Mental health line: (915) 564-6159."
+    },
+    {
+      "id": "va-harlingen-va-clinic",
+      "name": "Harlingen VA Clinic",
+      "organization": "U.S. Department of Veterans Affairs - VA Texas Valley Coastal Bend Health Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "VA health care for veterans, including primary care, specialty care, and mental health care.",
+      "eligibility_summary_en": "Veterans enrolled in (or eligible for) VA health care.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or discharge papers",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply for VA health care online at VA.gov or call the facility.",
+      "apply_url": "https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/",
+      "phone": "(956) 291-9000",
+      "address": "2601 Veterans Drive",
+      "city": "Harlingen",
+      "zip": "78550",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or low copay based on eligibility",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.va.gov/texas-valley-health-care/",
+      "confidence": "high",
+      "notes": "Serves veterans from the surrounding region; any enrolled veteran may use it. VA health connect line: (833) 284-7212. Mental health line: (855) 864-0516."
+    },
+    {
+      "id": "austin-vet-center",
+      "name": "Austin Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(512) 416-1314",
+      "address": "1524 South IH 35, Suite 100",
+      "city": "Austin",
+      "zip": "78704",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.va.gov/austin-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "dallas-vet-center",
+      "name": "Dallas Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(214) 361-5896",
+      "address": "8610 Greenville Avenue, Suite 125",
+      "city": "Dallas",
+      "zip": "75243",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.va.gov/dallas-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "fort-worth-vet-center",
+      "name": "Fort Worth Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(817) 921-9095",
+      "address": "6620 Hawks Creek Avenue",
+      "city": "Westworth Village",
+      "zip": "76114",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.va.gov/fort-worth-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "houston-west-vet-center",
+      "name": "Houston West Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(713) 682-2288",
+      "address": "701 North Post Oak Road, Suite 102",
+      "city": "Houston",
+      "zip": "77024",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.va.gov/houston-west-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "san-antonio-northeast-vet-center",
+      "name": "San Antonio Northeast Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(210) 650-0422",
+      "address": "9504 IH 35 North, Suite 214",
+      "city": "San Antonio",
+      "zip": "78233",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.va.gov/san-antonio-northeast-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "el-paso-vet-center",
+      "name": "El Paso Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(915) 772-0013",
+      "address": "1155 Westmoreland Drive, Suite 121",
+      "city": "El Paso",
+      "zip": "79925",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.va.gov/el-paso-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "corpus-christi-vet-center",
+      "name": "Corpus Christi Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(361) 854-9961",
+      "address": "4646 Corona Drive, Suite 250",
+      "city": "Corpus Christi",
+      "zip": "78411",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.va.gov/corpus-christi-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "killeen-heights-vet-center",
+      "name": "Killeen Heights Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(254) 953-7100",
+      "address": "302 Millers Crossing, Suite 4",
+      "city": "Harker Heights",
+      "zip": "76548",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.va.gov/killeen-heights-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "lubbock-vet-center",
+      "name": "Lubbock Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(806) 792-9782",
+      "address": "5107 82nd Street, Suite 100",
+      "city": "Lubbock",
+      "zip": "79424",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.va.gov/lubbock-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "amarillo-vet-center",
+      "name": "Amarillo Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(806) 354-9779",
+      "address": "3414 Olsen Boulevard, Suite E",
+      "city": "Amarillo",
+      "zip": "79109",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Potter"
+      ],
+      "source_url": "https://www.va.gov/amarillo-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "midland-vet-center",
+      "name": "Midland Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(432) 697-8222",
+      "address": "4001 W. Illinois",
+      "city": "Midland",
+      "zip": "79703",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Midland"
+      ],
+      "source_url": "https://www.va.gov/midland-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "mcallen-vet-center",
+      "name": "McAllen Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(956) 631-2147",
+      "address": "2108 South M Street, MedPoint Plaza, Unit 2",
+      "city": "McAllen",
+      "zip": "78503",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.va.gov/mcallen-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "laredo-vet-center",
+      "name": "Laredo Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(956) 723-4680",
+      "address": "6999 McPherson Road, Suite 102",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.va.gov/laredo-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "beaumont-vet-center",
+      "name": "Beaumont Vet Center",
+      "organization": "U.S. Department of Veterans Affairs - Vet Centers (Readjustment Counseling)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free, private counseling for eligible veterans, service members, and families, including help after combat, military sexual trauma, and grief.",
+      "eligibility_summary_en": "Eligible veterans, service members (including National Guard and Reserve), and their families. Call to check if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Vet Center to set up a visit.",
+      "apply_url": null,
+      "phone": "(409) 347-0124",
+      "address": "1390 West Cardinal Drive",
+      "city": "Beaumont",
+      "zip": "77705",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.va.gov/beaumont-vet-center/",
+      "confidence": "high",
+      "notes": "Vet Center Call Center: (877) 927-8387 (vetcenter.va.gov). Serves the surrounding region, not only the listed county. Hours not captured; call first."
+    },
+    {
+      "id": "families-in-crisis-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "Families in Crisis, Inc.",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(254) 634-1184 ext. 115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Alternate intake phone: 254-634-1184 x116. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 12-TX-071)."
+    },
+    {
+      "id": "front-steps-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "Front Steps, Inc.",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(512) 915-4852",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Alternate intake phone: (512) 375-0594. Intake list comment also references frontsteps.org and 512-696-1484. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 18-TX-404)."
+    },
+    {
+      "id": "salvation-army-houston-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "The Salvation Army (Greater Houston)",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(713) 223-8889",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend",
+        "Harris",
+        "Montgomery"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Intake email: TexHouVeterans@uss.salvationarmy.org. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 19-TX-140)."
+    },
+    {
+      "id": "us-vets-houston-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "United States Veterans Initiative (U.S.VETS)",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(346) 262-3755",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Fort Bend",
+        "Harris",
+        "Montgomery"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Alternate intake phone: (832) 557-7492. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 19-TX-288)."
+    },
+    {
+      "id": "bakerripley-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "BakerRipley",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(832) 799-2714",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Brazos",
+        "Fort Bend",
+        "Harris",
+        "Montgomery",
+        "Waller"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Intake email: vetsinfo@bakerripley.org. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 19-TX-290)."
+    },
+    {
+      "id": "caritas-of-austin-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "Caritas of Austin",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(512) 735-2019",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bastrop",
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Alternate intake phone: (512) 774-4980. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 20-TX-072)."
+    },
+    {
+      "id": "west-central-texas-regional-foundation-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "West Central Texas Regional Foundation",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(800) 928-2262",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brown",
+        "Callahan",
+        "Coke",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "Fisher",
+        "Haskell",
+        "Howard",
+        "Jones",
+        "Kent",
+        "Knox",
+        "McCulloch",
+        "Mills",
+        "Mitchell",
+        "Nolan",
+        "Runnels",
+        "San Saba",
+        "Scurry",
+        "Shackelford",
+        "Stephens",
+        "Stonewall",
+        "Taylor",
+        "Throckmorton",
+        "Tom Green"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 20-TX-141)."
+    },
+    {
+      "id": "family-endeavors-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "Family Endeavors, Inc.",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(210) 469-9664",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Aransas",
+        "Atascosa",
+        "Austin",
+        "Bandera",
+        "Bee",
+        "Bell",
+        "Bexar",
+        "Blanco",
+        "Bosque",
+        "Bowie",
+        "Brazoria",
+        "Brazos",
+        "Brooks",
+        "Burnet",
+        "Caldwell",
+        "Calhoun",
+        "Cameron",
+        "Camp",
+        "Cass",
+        "Chambers",
+        "Collin",
+        "Colorado",
+        "Comal",
+        "Concho",
+        "Dallas",
+        "DeWitt",
+        "Dimmit",
+        "Duval",
+        "Edwards",
+        "El Paso",
+        "Ellis",
+        "Erath",
+        "Falls",
+        "Fannin",
+        "Fayette",
+        "Franklin",
+        "Freestone",
+        "Frio",
+        "Galveston",
+        "Gillespie",
+        "Goliad",
+        "Gonzales",
+        "Grayson",
+        "Gregg",
+        "Guadalupe",
+        "Hamilton",
+        "Hardin",
+        "Harrison",
+        "Hays",
+        "Henderson",
+        "Hidalgo",
+        "Hill",
+        "Hood",
+        "Houston",
+        "Hunt",
+        "Jack",
+        "Jackson",
+        "Jasper",
+        "Jefferson",
+        "Jim Hogg",
+        "Jim Wells",
+        "Johnson",
+        "Karnes",
+        "Kendall",
+        "Kenedy",
+        "Kerr",
+        "Kimble",
+        "Kinney",
+        "Kleberg",
+        "La Salle",
+        "Lamar",
+        "Lampasas",
+        "Lavaca",
+        "Lee",
+        "Liberty",
+        "Limestone",
+        "Live Oak",
+        "Llano",
+        "Marion",
+        "Mason",
+        "Matagorda",
+        "Maverick",
+        "McCulloch",
+        "McLennan",
+        "McMullen",
+        "Medina",
+        "Menard",
+        "Montague",
+        "Morris",
+        "Nacogdoches",
+        "Navarro",
+        "Newton",
+        "Nueces",
+        "Orange",
+        "Palo Pinto",
+        "Panola",
+        "Parker",
+        "Polk",
+        "Real",
+        "Red River",
+        "Refugio",
+        "Rusk",
+        "Sabine",
+        "San Augustine",
+        "San Jacinto",
+        "San Patricio",
+        "Schleicher",
+        "Shelby",
+        "Smith",
+        "Starr",
+        "Sutton",
+        "Tarrant",
+        "Titus",
+        "Trinity",
+        "Tyler",
+        "Upshur",
+        "Uvalde",
+        "Val Verde",
+        "Victoria",
+        "Waller",
+        "Washington",
+        "Webb",
+        "Wharton",
+        "Willacy",
+        "Wilson",
+        "Wise",
+        "Wood",
+        "Zapata",
+        "Zavala"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Intake email: SSVF-SA@endeavors.org. Covers a very large multi-region area. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 21-TX-074)."
+    },
+    {
+      "id": "agif-nvop-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "American GI Forum National Veterans Outreach Program, Inc.",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(210) 223-4088",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bexar",
+        "Collin",
+        "Comal",
+        "Dallas",
+        "El Paso",
+        "Guadalupe",
+        "Medina",
+        "Tarrant",
+        "Wilson"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "Alternate intake phone: (210) 354-4892. Intake email: Intake@agif-nvop.org. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 21-TX-292)."
+    },
+    {
+      "id": "recovery-resource-council-ssvf",
+      "name": "Supportive Services for Veteran Families (SSVF)",
+      "organization": "Recovery Resource Council",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Helps veteran families who are homeless or about to lose their home. Services can include case management, help finding housing, and short-term help with costs like rent or deposits.",
+      "eligibility_summary_en": "Low-income veteran households who are homeless or at risk of homelessness in the counties served.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or proof of service",
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call the SSVF intake line to be screened.",
+      "apply_url": null,
+      "phone": "(817) 413-3921",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Armstrong",
+        "Bailey",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Cochran",
+        "Collin",
+        "Collingsworth",
+        "Crosby",
+        "Dallam",
+        "Dallas",
+        "Deaf Smith",
+        "Denton",
+        "Dickens",
+        "Donley",
+        "Floyd",
+        "Garza",
+        "Gray",
+        "Hale",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hockley",
+        "Hutchinson",
+        "King",
+        "Lamb",
+        "Lipscomb",
+        "Lubbock",
+        "Lynn",
+        "Moore",
+        "Motley",
+        "Ochiltree",
+        "Oldham",
+        "Palo Pinto",
+        "Parker",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Tarrant",
+        "Terry",
+        "Wheeler",
+        "Wichita",
+        "Wise",
+        "Yoakum"
+      ],
+      "source_url": "https://department.va.gov/homeless/wp-content/uploads/sites/72/2026/03/SSVF_Provider_Intake_List_FY26.xlsx",
+      "confidence": "high",
+      "notes": "(817) 413-3921 is the dedicated SSVF intake and screening line; agency main number is (817) 332-6329. Intake email: ssvfmail@recoverycouncil.org. Grantee listed on the VA FY2026 SSVF Provider Intake List (grant 22-TX-075)."
+    }
+  ]
+}

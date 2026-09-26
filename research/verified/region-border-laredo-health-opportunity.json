@@ -1,0 +1,1348 @@
+{
+  "scope": "Laredo and border (Webb, Maverick, Val Verde, Zapata counties) - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "gateway-chc-laredo-clinics",
+      "name": "Gateway Community Health Center - Laredo Clinics",
+      "organization": "Gateway Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center with several clinics in Laredo. It offers care for kids and adults, women's health, dental care, behavioral health, a pharmacy, lab, X-rays, and health education. It accepts all patients, with or without insurance.",
+      "description_es": "Un centro de salud comunitario con varias clínicas en Laredo. Ofrece atención para niños y adultos, salud de la mujer, atención dental, salud mental, farmacia, laboratorio, rayos X y educación sobre la salud. Atiende a todos los pacientes, tengan o no seguro médico.",
+      "eligibility_summary_en": "Open to everyone, no matter your insurance or ability to pay. People with income at or below 200% of the federal poverty level can get a sliding fee discount if they show proof of income.",
+      "eligibility_summary_es": "Abierto para todos, sin importar si tiene seguro o si puede pagar. Las personas con ingresos iguales o menores al 200% del nivel federal de pobreza pueden recibir un descuento según sus ingresos si muestran comprobante de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current photo ID",
+        "Insurance card (if you have one)",
+        "Proof of income (only if you want the sliding fee discount)"
+      ],
+      "how_to_apply": "Register online through the new patient registration portal, or visit a clinic. Call (956) 795-8100 with registration questions or to make an appointment.",
+      "how_to_apply_es": "Regístrese por internet en el portal para pacientes nuevos o vaya a una clínica. Llame al (956) 795-8100 si tiene preguntas sobre el registro o para hacer una cita.",
+      "apply_url": "https://gatewaychc.com/become-a-patient/",
+      "phone": "(956) 795-8100",
+      "address": "1515 Pappas St.",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": "Laredo Central Clinic: Medical and dental Mon-Fri 8:00 am - 5:00 pm; Pharmacy Mon-Fri 8:30 am - 7:00 pm; Lab Mon-Fri 7:00 am - 5:00 pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale (discounts for income at or below 200% FPL); Medicaid accepted",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://gatewaychc.com/laredo-central-clinic/",
+      "confidence": "high",
+      "notes": "Address and hours are for the Laredo Central Clinic. Other Laredo sites: North Clinic 208 Shiloh Dr. Suite 1 (78045); South Clinic 2007 S. Zapata Hwy. (78046); West Clinic 1702 Lafayette St. (78041); Dr. Emanuel Martinez Clinic 7210 McPherson Rd. Ste. 108; GCHC Dr. Garza Clinic 6801 McPherson Rd. Ste. 336; Laredo College South Clinic 5500 S. Zapata Hwy. (78046). Also helps with Medicaid eligibility. Sliding fee questions: (956) 523-3619. After hours, (956) 795-8100 reaches an answering service that contacts the on-call provider. Also runs a Hebbronville clinic (Jim Hogg County).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gateway-chc-sliding-fee-discount",
+      "name": "Sliding Fee Discount Program",
+      "organization": "Gateway Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Lowers the cost of clinic visits based on your family size and income. Lower income means a bigger discount.",
+      "description_es": "Baja el costo de sus consultas en la clínica según el tamaño de su familia y sus ingresos. Mientras menos gane, más grande es el descuento.",
+      "eligibility_summary_en": "Individuals and families with yearly income at or below 200% of the federal poverty guidelines. You must show proof of income.",
+      "eligibility_summary_es": "Personas y familias con ingresos anuales iguales o menores al 200% de las guías federales de pobreza. Tiene que mostrar comprobante de ingresos.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Proof of income"
+      ],
+      "how_to_apply": "Pre-register online or talk to a registration and eligibility representative at any Gateway clinic during business hours. Call (956) 523-3619 for more information.",
+      "how_to_apply_es": "Regístrese antes por internet o hable con un representante de registro y elegibilidad en cualquier clínica de Gateway en horario de oficina. Llame al (956) 523-3619 para más información.",
+      "apply_url": "https://mycw215.ecwcloud.com/portal26250/jsp/jspnew/preRegistration_new.jsp",
+      "phone": "(956) 523-3619",
+      "address": null,
+      "city": "Laredo",
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://gatewaychc.com/sliding-fee-discount/",
+      "confidence": "high",
+      "notes": "Applies at all Gateway clinic locations, including Laredo and Zapata. Without income proof the discount is not applied.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gateway-chc-zapata-clinic",
+      "name": "Gateway Community Health Center - Zapata Clinic",
+      "organization": "Gateway Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center clinic in Zapata. It offers adult and child primary care, women's health and prenatal care, family planning, lab and X-rays, a pharmacy, dental care, nutrition, and behavioral health.",
+      "description_es": "Una clínica de salud comunitaria en Zapata. Ofrece atención médica para adultos y niños, salud de la mujer y cuidado prenatal, planificación familiar, laboratorio y rayos X, farmacia, atención dental, nutrición y salud mental.",
+      "eligibility_summary_en": "Open to everyone, no matter your insurance or ability to pay. People with income at or below 200% of the federal poverty level can get a discount with proof of income.",
+      "eligibility_summary_es": "Abierto para todos, sin importar si tiene seguro o si puede pagar. Las personas con ingresos iguales o menores al 200% del nivel federal de pobreza pueden recibir un descuento si muestran comprobante de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current photo ID",
+        "Insurance card (if you have one)",
+        "Proof of income (only if you want the sliding fee discount)"
+      ],
+      "how_to_apply": "Register online through the new patient registration portal, or call (956) 795-8100 to make an appointment.",
+      "how_to_apply_es": "Regístrese por internet en el portal para pacientes nuevos o llame al (956) 795-8100 para hacer una cita.",
+      "apply_url": "https://gatewaychc.com/become-a-patient/",
+      "phone": "(956) 795-8100",
+      "address": "210 N. Rathmell Ave.",
+      "city": "Zapata",
+      "zip": "78076",
+      "hours": "Medical, dental, and pharmacy: Mon-Fri 8:00 am - 5:00 pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Zapata"
+      ],
+      "source_url": "https://gatewaychc.com/zapata-clinic/",
+      "confidence": "high",
+      "notes": "Phone is Gateway's main number, as listed on the Zapata clinic page. Pharmacy orders are delivered the next day. Not an emergency clinic; for emergencies call 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gateway-chc-urgent-care",
+      "name": "Gateway Urgent Care Clinic (After Hours)",
+      "organization": "Gateway Community Health Center",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Evening and Saturday walk-in care for sickness or injuries that are not emergencies. It also has women's and children's clinics. Medicaid Texas Health Steps checkups are available by appointment.",
+      "description_es": "Atención sin cita en las tardes y los sábados para enfermedades o heridas que no son emergencias. También tiene clínicas para mujeres y niños. Los chequeos de Texas Health Steps (Medicaid) son con cita.",
+      "eligibility_summary_en": "Open to the public for urgent, non-emergency care. For emergencies, call 911.",
+      "eligibility_summary_es": "Abierto al público para atención urgente que no es emergencia. Si es una emergencia, llame al 911.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during open hours. Texas Health Steps exams need an appointment.",
+      "how_to_apply_es": "Llegue sin cita durante el horario de atención. Los chequeos de Texas Health Steps necesitan cita.",
+      "apply_url": null,
+      "phone": "(956) 795-8100",
+      "address": "1515 Pappas St.",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": "Mon-Fri 6:00 pm - 9:00 pm; Sat 9:00 am - 12:00 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale available; Medicaid accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://gatewaychc.com/urgent-care-clinic/",
+      "confidence": "high",
+      "notes": "Not an emergency clinic. The clinic does not see some problems, such as chest pain in people over 30, deep cuts, trouble breathing, overdoses, dog bites, car accident injuries, pregnancy-related problems, or babies under 6 months. It does not refill medicines or follow up on long-term conditions like diabetes. When clinics are closed, calling (956) 795-8100 reaches an after-hours answering service that contacts the on-call provider.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gateway-chc-behavioral-health",
+      "name": "Gateway Behavioral Health Services",
+      "organization": "Gateway Community Health Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Counseling for depression, anxiety, grief, relationships, and stress. There are also weekly group sessions on topics like anxiety, pain, and parenting.",
+      "description_es": "Consejería para la depresión, la ansiedad, el duelo, las relaciones y el estrés. También hay grupos cada semana sobre temas como la ansiedad, el dolor, la depresión, las relaciones sanas y la crianza de los hijos.",
+      "eligibility_summary_en": "Individuals, children, families, and couples who want mental health support.",
+      "eligibility_summary_es": "Personas, niños, familias y parejas que quieren apoyo para su salud mental.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Register online or call the behavioral health department at (956) 523-3670. Staff will contact you to set up an appointment. Call directly if your need is urgent.",
+      "how_to_apply_es": "Regístrese por internet o llame al departamento de salud mental al (956) 523-3670. El personal le llamará para hacer una cita. Si su caso es urgente, llame directamente.",
+      "apply_url": "https://mycw215.ecwcloud.com/portal26250/jsp/jspnew/preRegistration_new.jsp",
+      "phone": "(956) 523-3670",
+      "address": null,
+      "city": "Laredo",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale available",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://gatewaychc.com/behavioral-health/",
+      "confidence": "high",
+      "notes": "Not a crisis service. For a mental health crisis, use the Border Region Behavioral Health Center 24-hour line 1-800-643-1102 or 988.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "border-region-behavioral-health-laredo",
+      "name": "Border Region Behavioral Health Center (Local Mental Health Authority)",
+      "organization": "Border Region Behavioral Health Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Webb, Zapata, Jim Hogg, and Starr counties. It serves adults with serious mental illness, children ages 3-17, and people with intellectual and developmental disabilities.",
+      "description_es": "El centro público de salud mental para los condados de Webb, Zapata, Jim Hogg y Starr. Atiende a adultos con enfermedades mentales graves, a niños de 3 a 17 años y a personas con discapacidades intelectuales y del desarrollo.",
+      "eligibility_summary_en": "Adults 18+ with serious mental illness such as schizophrenia, bipolar disorder, or severe depression; children 3-17 with a mental illness diagnosis; and people with intellectual or developmental disabilities.",
+      "eligibility_summary_es": "Adultos de 18 años o más con enfermedades mentales graves, como esquizofrenia, trastorno bipolar o depresión severa; niños de 3 a 17 años con un diagnóstico de enfermedad mental; y personas con discapacidades intelectuales o del desarrollo.",
+      "eligibility_rules": {
+        "residency_required": "Webb, Zapata, Jim Hogg, or Starr County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Laredo center to ask for services. For the YES Waiver for children, call the YES inquiry line (844) 503-6182.",
+      "how_to_apply_es": "Llame o visite el centro en Laredo para pedir servicios. Para el programa YES Waiver para niños, llame a la línea de información al (844) 503-6182.",
+      "apply_url": null,
+      "phone": "(956) 794-3000",
+      "address": "1500 Pappas Street",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.borderregion.org/service_locations.htm",
+      "confidence": "high",
+      "notes": "Laredo location page lists phone (956) 794-3060 and TTY (956) 794-3293. Toll-free main line 1-833-463-0258. First Episode Psychosis program: (956) 794-3178. Also serves Jim Hogg and Starr counties (outside this scope).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "border-region-behavioral-health-crisis-line",
+      "name": "Border Region 24-Hour Crisis Hotline",
+      "organization": "Border Region Behavioral Health Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24-hour phone line for anyone having a mental health crisis. It can connect callers to crisis help and local mental health services.",
+      "description_es": "Una línea telefónica abierta las 24 horas para cualquier persona en una crisis de salud mental. Le puede conectar con ayuda en crisis y con servicios locales de salud mental.",
+      "eligibility_summary_en": "Anyone in Webb, Zapata, Jim Hogg, or Starr County who is in a mental health crisis, or worried about someone who is.",
+      "eligibility_summary_es": "Cualquier persona en los condados de Webb, Zapata, Jim Hogg o Starr que esté pasando por una crisis de salud mental, o que esté preocupada por alguien.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis hotline any time, day or night. In a life-threatening emergency, call 911.",
+      "how_to_apply_es": "Llame a la línea de crisis a cualquier hora, de día o de noche. Si su vida está en peligro, llame al 911.",
+      "apply_url": null,
+      "phone": "(800) 643-1102",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.borderregion.org/",
+      "confidence": "high",
+      "notes": "Callers can also call or text 988 (national line).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "border-region-crisis-stabilization-unit",
+      "name": "Crisis Stabilization Unit (CSU)",
+      "organization": "Border Region Behavioral Health Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 16-bed unit in Laredo where adults in a mental health crisis can stay from a few hours up to 14 days. It offers psychiatric evaluation, medicine, counseling, 24-hour monitoring, and discharge planning.",
+      "description_es": "Una unidad de 16 camas en Laredo donde adultos en crisis de salud mental pueden quedarse desde unas horas hasta 14 días. Ofrece evaluación psiquiátrica, medicamentos, consejería, vigilancia las 24 horas y un plan para la salida.",
+      "eligibility_summary_en": "Adults 18 and older in a mental health crisis from Webb, Zapata, Jim Hogg, or Starr County.",
+      "eligibility_summary_es": "Adultos de 18 años o más en crisis de salud mental que viven en los condados de Webb, Zapata, Jim Hogg o Starr.",
+      "eligibility_rules": {
+        "min_age": 18
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call the 24-hour crisis hotline at 1-800-643-1102 to be assessed.",
+      "how_to_apply_es": "En una crisis, llame a la línea de crisis de 24 horas al 1-800-643-1102 para que le hagan una evaluación.",
+      "apply_url": null,
+      "phone": "(956) 794-3410",
+      "address": "1500 Pappas St.",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.borderregion.org/csu.htm",
+      "confidence": "high",
+      "notes": null,
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "border-region-behavioral-health-zapata",
+      "name": "Border Region Behavioral Health Center - Zapata Clinic",
+      "organization": "Border Region Behavioral Health Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A local clinic in Zapata with mental health care for adults and children, plus services for people with intellectual and developmental disabilities.",
+      "description_es": "Una clínica local en Zapata con atención de salud mental para adultos y niños, además de servicios para personas con discapacidades intelectuales y del desarrollo.",
+      "eligibility_summary_en": "Zapata County residents with serious mental illness, children with a mental illness diagnosis, and people with intellectual or developmental disabilities.",
+      "eligibility_summary_es": "Personas que viven en el condado de Zapata con enfermedades mentales graves, niños con un diagnóstico de enfermedad mental y personas con discapacidades intelectuales o del desarrollo.",
+      "eligibility_rules": {
+        "residency_required": "Zapata County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Zapata office to ask about services.",
+      "how_to_apply_es": "Llame o visite la oficina de Zapata para preguntar por los servicios.",
+      "apply_url": null,
+      "phone": "(956) 765-9664",
+      "address": "101 US Hwy. 83",
+      "city": "Zapata",
+      "zip": "78076",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Zapata"
+      ],
+      "source_url": "https://www.borderregion.org/services_zapata.htm",
+      "confidence": "high",
+      "notes": "TTY (956) 765-9700. 24-hour crisis line 1-800-643-1102. Hours are Border Region's regular hours for all its county locations.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "camino-real-community-services-maverick",
+      "name": "Camino Real Community Services - Maverick County Clinics",
+      "organization": "Camino Real Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Maverick County. It offers mental health care for adults and children, substance use help, and services for people with intellectual and developmental disabilities.",
+      "description_es": "El centro público de salud mental para el condado de Maverick. Ofrece atención de salud mental para adultos y niños, ayuda para el uso de sustancias y servicios para personas con discapacidades intelectuales y del desarrollo.",
+      "eligibility_summary_en": "Residents of Maverick County and the other counties Camino Real serves who need mental health, substance use, or disability services.",
+      "eligibility_summary_es": "Personas que viven en el condado de Maverick y en los otros condados que atiende Camino Real y que necesitan servicios de salud mental, uso de sustancias o discapacidad.",
+      "eligibility_rules": {
+        "residency_required": "Maverick County resident (for Eagle Pass clinics)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Eagle Pass clinic or the main office to ask for services. In a crisis, call the 24/7 crisis hotline at 1-800-543-5750 or 988.",
+      "how_to_apply_es": "Llame a la clínica de Eagle Pass o a la oficina principal para pedir servicios. En una crisis, llame a la línea de crisis 24/7 al 1-800-543-5750 o al 988.",
+      "apply_url": null,
+      "phone": "(830) 773-5696",
+      "address": "757 E. Rio Grande St.",
+      "city": "Eagle Pass",
+      "zip": "78852",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Maverick"
+      ],
+      "source_url": "https://www.caminorealcs.org/service-locations",
+      "confidence": "high",
+      "notes": "Adult MH clinic: 757 E. Rio Grande St. (MH 830-773-5696; IDD 830-752-6000). Children & adolescent MH clinic and IDD admin: 2644 Encino Park Dr., Eagle Pass, (830) 498-2030. Adult Wrap MH clinic: 1934 Del Rio Blvd. Ste. E, (830) 319-9106. Main office (Lytle): (210) 357-0300, toll-free 1-800-491-5201. 24/7 crisis hotline: 1-800-543-5750. Has a charity care policy.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-val-verde",
+      "name": "Hill Country MHDD Centers - Val Verde County Mental Health",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Val Verde County, with an office in Del Rio. It offers mental health, substance use, crisis, and intellectual and developmental disability services.",
+      "description_es": "El centro público de salud mental para el condado de Val Verde, con una oficina en Del Rio. Ofrece servicios de salud mental, uso de sustancias, crisis y discapacidades intelectuales y del desarrollo.",
+      "eligibility_summary_en": "Residents of Val Verde County and the other counties Hill Country MHDD serves who need mental health or disability services.",
+      "eligibility_summary_es": "Personas que viven en el condado de Val Verde y en los otros condados que atiende Hill Country MHDD y que necesitan servicios de salud mental o de discapacidad.",
+      "eligibility_rules": {
+        "residency_required": "Val Verde County resident (for Del Rio office)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Del Rio office to ask for services. An intake packet (English or Spanish) and a document checklist are on the Hill Country MHDD Get Help page. In a crisis, call the 24-hour crisis hotline at 1-877-466-0660 or 988.",
+      "how_to_apply_es": "Llame a la oficina de Del Rio para pedir servicios. En la página \"Get Help\" de Hill Country MHDD hay un paquete de ingreso (en inglés o español) y una lista de documentos. En una crisis, llame a la línea de crisis de 24 horas al 1-877-466-0660 o al 988.",
+      "apply_url": null,
+      "phone": "(830) 774-8702",
+      "address": "1927 N Bedell",
+      "city": "Del Rio",
+      "zip": "78840",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Val Verde"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Val Verde County LIDDA (intellectual/developmental disability services) is at the same address: (830) 775-2610. Crisis hotline 1-877-466-0660 (24/7). Main office in Kerrville: (830) 792-3300, toll-free (833) 426-4332. Offers mobile crisis outreach and veteran services.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-crisis-line",
+      "name": "Hill Country MHDD 24-Hour Crisis Hotline",
+      "organization": "Hill Country Mental Health & Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24/7 crisis phone line for people having a mental health emergency in Val Verde County and other Hill Country counties. It can send a mobile crisis team to help in person.",
+      "description_es": "Una línea de crisis abierta las 24 horas, los 7 días de la semana, para personas con una emergencia de salud mental en el condado de Val Verde y otros condados de Hill Country. Puede enviar un equipo de crisis para ayudar en persona.",
+      "eligibility_summary_en": "Anyone in a mental health crisis in the Hill Country MHDD service area, including Val Verde County.",
+      "eligibility_summary_es": "Cualquier persona en crisis de salud mental en el área que atiende Hill Country MHDD, incluido el condado de Val Verde.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis hotline. In a life-threatening emergency, call 911.",
+      "how_to_apply_es": "Llame a la línea de crisis. Si su vida está en peligro, llame al 911.",
+      "apply_url": null,
+      "phone": "(877) 466-0660",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Val Verde"
+      ],
+      "source_url": "https://hillcountry.org/mobile-crisis-outreach-team-mcot/",
+      "confidence": "high",
+      "notes": "Also serves Kinney, Edwards, Uvalde, Real and other Hill Country counties outside this scope. 988 is also available.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "camino-real-crisis-line",
+      "name": "Camino Real 24/7 Crisis Hotline",
+      "organization": "Camino Real Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24/7 phone line for people having a mental health emergency in Maverick County and other Camino Real counties.",
+      "description_es": "Una línea telefónica abierta las 24 horas, los 7 días de la semana, para personas con una emergencia de salud mental en el condado de Maverick y otros condados de Camino Real.",
+      "eligibility_summary_en": "Anyone in a mental health crisis in the Camino Real service area, including Maverick County.",
+      "eligibility_summary_es": "Cualquier persona en crisis de salud mental en el área que atiende Camino Real, incluido el condado de Maverick.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the hotline any time. In a life-threatening emergency, call 911.",
+      "how_to_apply_es": "Llame a la línea a cualquier hora. Si su vida está en peligro, llame al 911.",
+      "apply_url": null,
+      "phone": "(800) 543-5750",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Maverick"
+      ],
+      "source_url": "https://www.caminorealcs.org/",
+      "confidence": "high",
+      "notes": "Camino Real also serves Atascosa, Dimmit, Frio, Karnes, La Salle, McMullen, Wilson, and Zavala counties. 988 is also available.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "scan-inc-laredo",
+      "name": "SCAN, Inc. Behavioral Health and Substance Use Services",
+      "organization": "Serving Children and Adults in Need (SCAN), Inc.",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A Laredo nonprofit that offers prevention, counseling, and treatment for mental health and substance use problems.",
+      "description_es": "Una organización sin fines de lucro en Laredo que ofrece prevención, consejería y tratamiento para problemas de salud mental y de uso de drogas o alcohol.",
+      "eligibility_summary_en": "Serves people regardless of insurance or ability to pay. Fees are on a sliding scale based on income and family size.",
+      "eligibility_summary_es": "Atiende a las personas sin importar si tienen seguro o si pueden pagar. El costo es según sus ingresos y el tamaño de su familia.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call SCAN or ask a provider to send a referral using the referral form on SCAN's website.",
+      "how_to_apply_es": "Llame a SCAN o pida a un proveedor que le envíe una referencia con el formulario que está en la página web de SCAN.",
+      "apply_url": null,
+      "phone": "(956) 724-3177",
+      "address": "1605 Saldana Ave",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.scan-inc.org/",
+      "confidence": "medium",
+      "notes": "Phone is from a SCAN website page; address is the main office shown on SCAN's office-locations map. Second office: 1702 Hendricks Ave, Laredo, TX 78040. Hours not posted. Helps clients with Medicaid, Medicare, and CHIP questions. Call to confirm services before referring.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-indigent-health-care-program",
+      "name": "Webb County Indigent Health Care Program (CIHCP)",
+      "organization": "Webb County Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps very low-income Webb County residents with no health insurance pay for doctor visits, hospital care, tests, and medicine through pre-approved vouchers.",
+      "description_es": "Ayuda a personas del condado de Webb con ingresos muy bajos y sin seguro médico a pagar consultas con doctores, atención en el hospital, exámenes y medicinas, por medio de vales aprobados antes.",
+      "eligibility_summary_en": "Webb County residents without health insurance whose income is at or below 30% of the federal poverty level. Resources other than a home can't be over $2,000 ($3,000 if an elderly or disabled person lives in the home).",
+      "eligibility_summary_es": "Personas que viven en el condado de Webb, sin seguro médico, con ingresos iguales o menores al 30% del nivel federal de pobreza. Sus bienes, sin contar su casa, no pueden pasar de $2,000 ($3,000 si en la casa vive una persona mayor o con discapacidad).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 30,
+        "uninsured": true,
+        "residency_required": "Webb County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact Webb County Health Services at (956) 523-4747 or visit 1620 Santa Ursula to apply.",
+      "how_to_apply_es": "Comuníquese con los Servicios de Salud del Condado de Webb al (956) 523-4747 o vaya a 1620 Santa Ursula para solicitar.",
+      "apply_url": null,
+      "phone": "(956) 523-4747",
+      "address": "1620 Santa Ursula",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8 AM - 5 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/519/Indigent-Health-Care-Program",
+      "confidence": "high",
+      "notes": "The program page lists the Webb County Courthouse (1000 Houston St., (956) 523-4000) as contact; the Health Services department at 1620 Santa Ursula, (956) 523-4747, runs the program (https://www.webbcountytx.gov/297/Health-Services). Covers specialists, ER/hospital care, imaging, labs, and medications for conditions like diabetes and high blood pressure.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-emergency-medication-assistance",
+      "name": "Webb County Emergency Medication Assistance Program",
+      "organization": "Webb County Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for emergency prescriptions like antibiotics, antifungals, and pain medicine, often after a hospital or emergency clinic visit.",
+      "description_es": "Ayuda a pagar medicinas de emergencia como antibióticos, antihongos y medicinas para el dolor, muchas veces después de salir del hospital o de una clínica de emergencia.",
+      "eligibility_summary_en": "Webb County residents with no other medical coverage who meet program income and resource limits.",
+      "eligibility_summary_es": "Personas que viven en el condado de Webb, sin ningún otro seguro médico, que cumplen con los límites de ingresos y bienes del programa.",
+      "eligibility_rules": {
+        "uninsured": true,
+        "residency_required": "Webb County resident"
+      },
+      "documents_needed": [
+        "Prescription"
+      ],
+      "how_to_apply": "Go to the Webb County Health Services office during intake hours or call.",
+      "how_to_apply_es": "Vaya a la oficina de Servicios de Salud del Condado de Webb en el horario de atención o llame.",
+      "apply_url": null,
+      "phone": "(956) 523-4747",
+      "address": "1620 Santa Ursula Ave.",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8-11 am and 1-3 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/518/Emergency-Medication-Assistance-Program",
+      "confidence": "high",
+      "notes": "People needing ongoing maintenance medicines (diabetes, blood pressure) are referred to the Indigent Health Care Program or the Pharmaceutical Assistance Program.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-pharmaceutical-assistance-program",
+      "name": "Webb County Pharmaceutical Assistance Program",
+      "organization": "Webb County Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County staff help you apply to drug company programs that give long-term medicines for conditions like diabetes and asthma for free or at low cost.",
+      "description_es": "El personal del condado le ayuda a solicitar programas de las compañías farmacéuticas que dan medicinas de uso diario para enfermedades de largo plazo, como la diabetes y el asma, gratis o a bajo costo.",
+      "eligibility_summary_en": "Webb County residents with no public or private insurance and a valid prescription from a U.S. doctor. Each drug company sets its own rules. Most require U.S. residency and have income limits between 250% and 400% of the federal poverty level.",
+      "eligibility_summary_es": "Personas que viven en el condado de Webb sin seguro médico público ni privado y con una receta válida de un doctor de EE. UU. Cada compañía pone sus propias reglas. La mayoría pide residencia en EE. UU. y tiene límites de ingresos entre el 250% y el 400% del nivel federal de pobreza.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 400,
+        "uninsured": true,
+        "residency_required": "Webb County resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Valid prescription from a U.S. licensed doctor",
+        "Social Security number (for some programs)"
+      ],
+      "how_to_apply": "Visit Webb County Health Services during intake hours. Staff will check eligibility, fill out the application, get the doctor's signature, and send it in.",
+      "how_to_apply_es": "Vaya a los Servicios de Salud del Condado de Webb en el horario de atención. El personal revisará si califica, llenará la solicitud, conseguirá la firma del doctor y la enviará.",
+      "apply_url": null,
+      "phone": "(956) 523-4747",
+      "address": "1620 Santa Ursula Ave.",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8-11 am and 1-3 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free or reduced-cost medicines",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/521/Pharmaceutical-Assistance-Program",
+      "confidence": "high",
+      "notes": "Income limits vary by drug company (most fall between 250% and 400% FPL); the drug company makes the final decision, not the county. If an application is denied, county staff can ask for reconsideration.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-medical-assistance-program",
+      "name": "Webb County Medical Assistance Program",
+      "organization": "Webb County Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for doctor visits, exams, minor surgeries, and medicine, such as care for broken bones or follow-up after a hospital stay.",
+      "description_es": "Ayuda a pagar consultas con el doctor, exámenes, cirugías menores y medicinas, por ejemplo para huesos rotos o para una consulta después de salir del hospital.",
+      "eligibility_summary_en": "Webb County residents who do not qualify for the Indigent Health Care Program and have no Medicare, Medicaid, or private insurance, and who meet program income and resource limits.",
+      "eligibility_summary_es": "Personas que viven en el condado de Webb, que no califican para el Programa de Salud para Indigentes y que no tienen Medicare, Medicaid ni seguro privado, y que cumplen con los límites de ingresos y bienes del programa.",
+      "eligibility_rules": {
+        "uninsured": true,
+        "residency_required": "Webb County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact Webb County Health Services at (956) 523-4747 or visit 1620 Santa Ursula to apply.",
+      "how_to_apply_es": "Comuníquese con los Servicios de Salud del Condado de Webb al (956) 523-4747 o vaya a 1620 Santa Ursula para solicitar.",
+      "apply_url": null,
+      "phone": "(956) 523-4747",
+      "address": "1620 Santa Ursula",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8 AM - 5 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Clients may need to pay back part or all of the cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/520/Medical-Assistance-Program",
+      "confidence": "high",
+      "notes": "The program page lists the Webb County Courthouse (956) 523-4000 as contact; Health Services at (956) 523-4747 runs county medical programs. Clients may be asked to repay some or all costs.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-bruni-public-health-facility",
+      "name": "Bruni Public Health Facility",
+      "organization": "Webb County Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A public health clinic in Bruni that brings basic health care closer to rural Webb County. It offers rapid tests for COVID, flu, and strep, and has an OnMed CareStation for virtual care.",
+      "description_es": "Una clínica de salud pública en Bruni que acerca la atención médica básica a las zonas rurales del condado de Webb. Ofrece pruebas rápidas de COVID, gripe y estreptococo, y tiene una estación OnMed para consultas virtuales.",
+      "eligibility_summary_en": "Low-income Webb County residents in the rural Quad City area: Bruni, Mirando City, and Oilton.",
+      "eligibility_summary_es": "Personas de bajos ingresos del condado de Webb que viven en el área rural de Bruni, Mirando City y Oilton.",
+      "eligibility_rules": {
+        "residency_required": "Bruni, Mirando City, or Oilton area (Webb County)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit during open hours.",
+      "how_to_apply_es": "Llame o visite en el horario de atención.",
+      "apply_url": null,
+      "phone": "(956) 523-5030",
+      "address": "219 N Avenue B",
+      "city": "Bruni",
+      "zip": "78344",
+      "hours": "Mon-Fri 8 am - 5 pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/282/Bruni-Public-Health-Facility",
+      "confidence": "medium",
+      "notes": "Walk-in policy and full service list not stated on the county page; call ahead.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-head-start",
+      "name": "Webb County Head Start",
+      "organization": "Webb County",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning for young children, with health, dental, vision, and nutrition services and support for families.",
+      "description_es": "Educación temprana gratis para niños pequeños, con servicios de salud, dental, visión y nutrición, y apoyo para las familias.",
+      "eligibility_summary_en": "Low-income children and their families in the Laredo area, Rio Bravo, and LISD/UISD districts. The application page says children 2 months to 5 years old (Early Head Start and Head Start).",
+      "eligibility_summary_es": "Niños de familias de bajos ingresos y sus familias en el área de Laredo, Rio Bravo y los distritos LISD/UISD. La página de solicitud dice que es para niños de 2 meses a 5 años (Early Head Start y Head Start).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "max_age": 5,
+        "residency_required": "Webb County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the online application (English or Spanish) on the Webb County website, or call or visit the Head Start office.",
+      "how_to_apply_es": "Llene la solicitud por internet (en inglés o español) en la página web del Condado de Webb, o llame o visite la oficina de Head Start.",
+      "apply_url": "https://www.webbcountytx.gov/502/Childs-Online-Application",
+      "phone": "(956) 795-1515",
+      "address": "5904 West Drive, Units 6 and 7",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": "Mon-Fri 8 am - 5 pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/296/Head-Start",
+      "confidence": "high",
+      "notes": "Main page says ages 1-5; application page says 2 months to 5 years (Early Head Start + Head Start). Required-document list is posted as an image/PDF on the county site (page /509).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wsst-child-care-services",
+      "name": "Child Care Services (Child Care Subsidy)",
+      "organization": "Workforce Solutions for South Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps working families, students, and job seekers pay for child care. Parents choose their own child care provider.",
+      "description_es": "Ayuda a pagar el cuidado de niños a familias que trabajan, estudian o buscan trabajo. Los padres escogen su propio proveedor de cuidado infantil.",
+      "eligibility_summary_en": "Families in Webb, Zapata, or Jim Hogg County with a child under 13 (or under 19 with a disability) and household income below 85% of state median income. Single parents must work, go to school, or train at least 25 hours a week (50 combined hours for two-parent families). Parents looking for work may qualify for up to 3 months.",
+      "eligibility_summary_es": "Familias de los condados de Webb, Zapata o Jim Hogg con un niño menor de 13 años (o menor de 19 con discapacidad) y con ingresos del hogar menores al 85% del ingreso medio del estado. Si es padre o madre solo, debe trabajar, estudiar o capacitarse al menos 25 horas por semana (50 horas entre los dos padres). Los padres que buscan trabajo pueden calificar por hasta 3 meses.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Webb, Zapata, or Jim Hogg County resident"
+      },
+      "documents_needed": [
+        "Proof of U.S. citizenship or legal immigrant status (birth certificate or alien registration card)",
+        "Proof of income",
+        "Proof of residency in Jim Hogg, Webb, or Zapata County",
+        "Proof of work, training, or school"
+      ],
+      "how_to_apply": "Create an account on the TX3C Parent Portal and apply online. Call or text the Child Care Services office with questions.",
+      "how_to_apply_es": "Cree una cuenta en el portal para padres TX3C y haga su solicitud por internet. Si tiene preguntas, llame o mande un mensaje de texto a la oficina de Cuidado Infantil.",
+      "apply_url": "https://southtexasworkforce.org/child-care/parents/",
+      "phone": "(956) 794-1500",
+      "address": "1406 Jacaman Rd., Suite A",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent co-pay based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://southtexasworkforce.org/child-care/parents/",
+      "confidence": "high",
+      "notes": "There is currently a waitlist; families are pulled about every 10-12 months (as of Sept 2026, processing families who applied in August 2025). Text line: (956) 634-7851. Main line (956) 794-6500. Income limit is 85% of State Median Income (not FPL). School programs must lead to a diploma, GED, or undergraduate degree with a 2.0+ GPA. Family assets must be under $1,000,000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wsst-laredo-workforce-center",
+      "name": "Workforce Solutions for South Texas - Laredo Center",
+      "organization": "Workforce Solutions for South Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "The local workforce center for Laredo. It helps with job searches, resumes, interview skills, job fairs, unemployment questions, and paid job training.",
+      "description_es": "El centro de empleo de Laredo. Ayuda a buscar trabajo, hacer su currículum, prepararse para entrevistas, ir a ferias de empleo, con preguntas sobre el desempleo y con capacitación para el trabajo.",
+      "eligibility_summary_en": "Job seekers in Webb, Zapata, and Jim Hogg counties. Veterans get priority service.",
+      "eligibility_summary_es": "Personas que buscan trabajo en los condados de Webb, Zapata y Jim Hogg. Los veteranos reciben servicio con prioridad.",
+      "eligibility_rules": {
+        "residency_required": "Webb, Zapata, or Jim Hogg County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit the Laredo office or call the main line. Job listings are on WorkInTexas.com.",
+      "how_to_apply_es": "Visite la oficina de Laredo o llame a la línea principal. Puede ver ofertas de trabajo en WorkInTexas.com.",
+      "apply_url": "https://southtexasworkforce.org/job-seekers/find-a-job/",
+      "phone": "(956) 794-6500",
+      "address": "1406 Jacaman Rd., Suite A",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.southtexasworkforce.org/",
+      "confidence": "high",
+      "notes": "Offers services for veterans and people with disabilities. Auxiliary aids available on request; Relay Texas 711. Hours and walk-in policy not listed on site. Jim Hogg County service: (361) 231-7071.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wsst-zapata-workforce-office",
+      "name": "Workforce Solutions for South Texas - Zapata Office",
+      "organization": "Workforce Solutions for South Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "The Zapata workforce office helps people find jobs, get job training, and connect to workforce services.",
+      "description_es": "La oficina de empleo de Zapata le ayuda a encontrar trabajo, recibir capacitación y conectarse con servicios de empleo.",
+      "eligibility_summary_en": "Job seekers in Zapata County and nearby areas.",
+      "eligibility_summary_es": "Personas que buscan trabajo en el condado de Zapata y áreas cercanas.",
+      "eligibility_rules": {
+        "residency_required": "Zapata County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit the Zapata office or call the main line.",
+      "how_to_apply_es": "Visite la oficina de Zapata o llame a la línea principal.",
+      "apply_url": null,
+      "phone": "(956) 794-6500",
+      "address": "605 US HWY 83, Suite B",
+      "city": "Zapata",
+      "zip": "78076",
+      "hours": null,
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Zapata"
+      ],
+      "source_url": "https://www.southtexasworkforce.org/",
+      "confidence": "medium",
+      "notes": "Phone is the board's main line; no separate Zapata phone was listed. Hours not listed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wsst-career-training-wioa",
+      "name": "Career Training (WIOA) and Adult Education",
+      "organization": "Workforce Solutions for South Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays for training at approved schools for jobs in demand, plus workshops on resumes, interviews, and money management. Adult education helps people 16+ get a GED or improve skills.",
+      "description_es": "Paga capacitación en escuelas aprobadas para trabajos con mucha demanda, y ofrece talleres sobre currículum, entrevistas y manejo del dinero. La educación para adultos ayuda a personas de 16 años o más a sacar su GED o mejorar sus habilidades.",
+      "eligibility_summary_en": "Job seekers in Webb, Zapata, and Jim Hogg counties who qualify for WIOA training. Adult education is for people 16 and older without a high school diploma or GED.",
+      "eligibility_summary_es": "Personas que buscan trabajo en los condados de Webb, Zapata y Jim Hogg y que califican para capacitación WIOA. La educación para adultos es para personas de 16 años o más sin diploma de preparatoria o GED.",
+      "eligibility_rules": {
+        "residency_required": "Webb, Zapata, or Jim Hogg County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit a Workforce Solutions for South Texas office to see if you qualify for training.",
+      "how_to_apply_es": "Llame o visite una oficina de Workforce Solutions for South Texas para saber si califica para capacitación.",
+      "apply_url": "https://southtexasworkforce.org/job-seekers/career-training/",
+      "phone": "(956) 794-6500",
+      "address": "1406 Jacaman Rd., Suite A",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible participants",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://southtexasworkforce.org/job-seekers/career-training/",
+      "confidence": "high",
+      "notes": "Training must be with a TWC Eligible Training Provider.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wsst-youth-corner",
+      "name": "Youth Corner (WIOA Youth Program)",
+      "organization": "Workforce Solutions for South Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help for young people, including tutoring, GED prep, paid work experience (up to $4,800), job training, mentoring, and money skills.",
+      "description_es": "Ayuda gratis para jóvenes: tutorías, preparación para el GED, experiencia de trabajo pagada (hasta $4,800), capacitación para el trabajo, mentores y clases sobre el manejo del dinero.",
+      "eligibility_summary_en": "Youth ages 16-24 who are allowed to work in the U.S. and meet program rules, such as high school or college seniors, young parents, homeless youth, dropouts, low-income youth, foster youth, veterans, or unemployed youth.",
+      "eligibility_summary_es": "Jóvenes de 16 a 24 años que tienen permiso para trabajar en EE. UU. y cumplen las reglas del programa, por ejemplo estudiantes en su último año de preparatoria o universidad, padres jóvenes, jóvenes sin hogar, jóvenes que dejaron la escuela, de bajos ingresos, en cuidado de crianza (foster), veteranos o sin trabajo.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 24,
+        "residency_required": "Webb, Zapata, or Jim Hogg County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Pre-register online (in-school or out-of-school form) or text YOUTH to (956) 634-7202. Staff reply within 24-48 business hours.",
+      "how_to_apply_es": "Regístrese por internet (formulario para jóvenes en la escuela o fuera de la escuela) o mande un mensaje de texto con la palabra YOUTH al (956) 634-7202. El personal le contestará en 24 a 48 horas hábiles.",
+      "apply_url": "https://southtexasworkforce.org/job-seekers/youth/",
+      "phone": "(956) 794-6500",
+      "address": "1406 Jacaman Rd., Suite A",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://southtexasworkforce.org/job-seekers/youth/",
+      "confidence": "high",
+      "notes": "Text line for youth: (956) 634-7202.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wfsmrg-eagle-pass-career-center",
+      "name": "Workforce Solutions Middle Rio Grande - Eagle Pass Career Center",
+      "organization": "Workforce Solutions Middle Rio Grande",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "The workforce center for Maverick County. It helps with job searches and training, and takes child care assistance paperwork.",
+      "description_es": "El centro de empleo para el condado de Maverick. Ayuda a buscar trabajo y capacitación, y recibe los papeles para la ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Job seekers and families in Maverick County and the Middle Rio Grande region.",
+      "eligibility_summary_es": "Personas que buscan trabajo y familias en el condado de Maverick y la región del Middle Rio Grande.",
+      "eligibility_rules": {
+        "residency_required": "Maverick County (Middle Rio Grande region)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the Eagle Pass center.",
+      "how_to_apply_es": "Visite o llame al centro de Eagle Pass.",
+      "apply_url": null,
+      "phone": "(830) 773-1191",
+      "address": "1200 Ferry St",
+      "city": "Eagle Pass",
+      "zip": "78852",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Maverick"
+      ],
+      "source_url": "https://www.wfsmrg.org/workplaces",
+      "confidence": "high",
+      "notes": "Board main line (830) 591-0141, customer.referral@wfsmrg.org. TTY via Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wfsmrg-del-rio-career-center",
+      "name": "Workforce Solutions Middle Rio Grande - Del Rio Career Center",
+      "organization": "Workforce Solutions Middle Rio Grande",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "The workforce center for Val Verde County. It helps with job searches and training, and takes child care assistance paperwork.",
+      "description_es": "El centro de empleo para el condado de Val Verde. Ayuda a buscar trabajo y capacitación, y recibe los papeles para la ayuda con el cuidado de niños.",
+      "eligibility_summary_en": "Job seekers and families in Val Verde County and the Middle Rio Grande region.",
+      "eligibility_summary_es": "Personas que buscan trabajo y familias en el condado de Val Verde y la región del Middle Rio Grande.",
+      "eligibility_rules": {
+        "residency_required": "Val Verde County (Middle Rio Grande region)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the Del Rio center.",
+      "how_to_apply_es": "Visite o llame al centro de Del Rio.",
+      "apply_url": null,
+      "phone": "(830) 774-4741",
+      "address": "1601 Veterans Blvd. Ste. 1",
+      "city": "Del Rio",
+      "zip": "78840",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Val Verde"
+      ],
+      "source_url": "https://www.wfsmrg.org/workplaces",
+      "confidence": "high",
+      "notes": "Board main line (830) 591-0141, customer.referral@wfsmrg.org. TTY via Relay Texas 711.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wfsmrg-child-care-services",
+      "name": "Child Care Services (Child Care Subsidy)",
+      "organization": "Workforce Solutions Middle Rio Grande",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps working families and parents in school or training pay for child care. Parents choose their own licensed provider or an eligible relative.",
+      "description_es": "Ayuda a pagar el cuidado de niños a familias que trabajan o a padres que estudian o se capacitan. Los padres escogen su propio proveedor con licencia o un familiar que califique.",
+      "eligibility_summary_en": "Families in the 9-county Middle Rio Grande region (including Maverick and Val Verde) who meet income rules and work, go to school, or train at least 25 hours a week (single parent) or 50 hours (two parents).",
+      "eligibility_summary_es": "Familias de la región del Middle Rio Grande (9 condados, incluidos Maverick y Val Verde) que cumplen con las reglas de ingresos y que trabajan, estudian o se capacitan al menos 25 horas por semana (padre o madre solo) o 50 horas (dos padres).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Middle Rio Grande region (includes Maverick and Val Verde counties)"
+      },
+      "documents_needed": [
+        "Proof of income (cash-paid workers need an Employment/Income Verification Form from the employer)"
+      ],
+      "how_to_apply": "Apply online through the Texas child care application, or turn in forms by fax or in person at the Eagle Pass or Del Rio center.",
+      "how_to_apply_es": "Solicite por internet con la solicitud de cuidado infantil de Texas, o entregue los formularios por fax o en persona en el centro de Eagle Pass o de Del Rio.",
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(830) 591-0141",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent co-pay based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Maverick",
+        "Val Verde"
+      ],
+      "source_url": "https://www.wfsmrg.org/community-resources",
+      "confidence": "medium",
+      "notes": "Eagle Pass (830) 773-1191; Del Rio (830) 774-4741. Child Care Services line: 1-800-888-9436. If a parent loses a job, report within 14 days; care can continue up to 3 months while job searching. Fee reductions may be available for unexpected expenses. The region covers Dimmit, Edwards, Kinney, La Salle, Maverick, Real, Uvalde, Val Verde, and Zavala counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-laredo-office",
+      "name": "Texas RioGrande Legal Aid - Laredo Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including housing and tenant problems, family law, public benefits, employment, education, taxes, and wills.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de vivienda y de inquilinos, derecho familiar, beneficios públicos, empleo, educación, impuestos y testamentos.",
+      "eligibility_summary_en": "Low-income residents of TRLA's 68-county service area. TRLA decides eligibility when you call.",
+      "eligibility_summary_es": "Personas de bajos ingresos que viven en los 68 condados que atiende TRLA. TRLA decide si usted califica cuando llama.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line on weekdays to apply. For family law, call on Tuesdays or Thursdays during hotline hours.",
+      "how_to_apply_es": "Llame a la línea de solicitud de lunes a viernes. Para casos de derecho familiar, llame solo los martes o jueves en el horario de la línea.",
+      "apply_url": "https://www.trla.org/help",
+      "phone": "(956) 996-8752",
+      "address": "1702 Convent Ave.",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Intake by phone Mon-Fri 9:00 a.m. - 5:00 p.m. CT",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Toll-free (833) 329-8752. Homepage lists intake 8am-5pm, offices page says 9am-5pm. Denials can be appealed in writing within 10 days to appeal@trla.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-eagle-pass-office",
+      "name": "Texas RioGrande Legal Aid - Eagle Pass Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including housing and tenant problems, family law, public benefits, employment, and wills.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de vivienda y de inquilinos, derecho familiar, beneficios públicos, empleo y testamentos.",
+      "eligibility_summary_en": "Low-income residents of TRLA's service area. TRLA decides eligibility when you call.",
+      "eligibility_summary_es": "Personas de bajos ingresos que viven en el área que atiende TRLA. TRLA decide si usted califica cuando llama.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line on weekdays to apply. For family law, call on Tuesdays or Thursdays during hotline hours.",
+      "how_to_apply_es": "Llame a la línea de solicitud de lunes a viernes. Para casos de derecho familiar, llame solo los martes o jueves en el horario de la línea.",
+      "apply_url": "https://www.trla.org/help",
+      "phone": "(956) 996-8752",
+      "address": "466 Jefferson Street, Suite A",
+      "city": "Eagle Pass",
+      "zip": "78852",
+      "hours": "Intake by phone Mon-Fri 9:00 a.m. - 5:00 p.m. CT",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Maverick"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Toll-free (833) 329-8752.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-del-rio-office",
+      "name": "Texas RioGrande Legal Aid - Del Rio Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including housing and tenant problems, family law, public benefits, employment, and wills.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de vivienda y de inquilinos, derecho familiar, beneficios públicos, empleo y testamentos.",
+      "eligibility_summary_en": "Low-income residents of TRLA's service area. TRLA decides eligibility when you call.",
+      "eligibility_summary_es": "Personas de bajos ingresos que viven en el área que atiende TRLA. TRLA decide si usted califica cuando llama.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line on weekdays to apply. For family law, call on Tuesdays or Thursdays during hotline hours.",
+      "how_to_apply_es": "Llame a la línea de solicitud de lunes a viernes. Para casos de derecho familiar, llame solo los martes o jueves en el horario de la línea.",
+      "apply_url": "https://www.trla.org/help",
+      "phone": "(956) 996-8752",
+      "address": "902 E. 11th St.",
+      "city": "Del Rio",
+      "zip": "78840",
+      "hours": "Intake by phone Mon-Fri 9:00 a.m. - 5:00 p.m. CT",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Val Verde"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Toll-free (833) 329-8752.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-public-defender",
+      "name": "Webb County Public Defender's Office",
+      "organization": "Webb County",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free criminal defense lawyers for people who cannot afford one, in adult and juvenile courts. They also offer immigration consultation and a mental health social worker.",
+      "description_es": "Abogados de defensa criminal gratis para personas que no pueden pagar uno, en cortes de adultos y de menores. También ofrecen consulta de inmigración y una trabajadora social de salud mental.",
+      "eligibility_summary_en": "People charged with a crime in Webb County district or county courts who are found unable to afford a lawyer, including specialty court participants.",
+      "eligibility_summary_es": "Personas acusadas de un delito en las cortes de distrito o del condado de Webb a quienes la corte declara que no pueden pagar un abogado, incluidas las personas en cortes especializadas.",
+      "eligibility_rules": {
+        "residency_required": "Criminal case in Webb County courts"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Ask the court for an appointed lawyer, or call the Public Defender's Office.",
+      "how_to_apply_es": "Pida a la corte un abogado asignado, o llame a la Oficina del Defensor Público.",
+      "apply_url": null,
+      "phone": "(956) 523-4101",
+      "address": "1110 Washington St., Suite 102",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8 a.m. - 5 p.m. (closed noon-1 p.m.)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible clients",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/311/Public-Defender",
+      "confidence": "high",
+      "notes": "Criminal cases only; for civil issues (eviction, family, benefits) refer to TRLA. Satellite office at 1802 Victoria.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-veterans-service-office",
+      "name": "Webb County Veterans Service Office",
+      "organization": "Webb County",
+      "categories": [
+        "legal",
+        "transportation",
+        "healthcare"
+      ],
+      "description_en": "Helps veterans and their families file VA claims and appeals, get military records, and apply for benefits like pensions, education, and health care. Offers rides to medical appointments within 200 miles.",
+      "description_es": "Ayuda a veteranos y sus familias a presentar reclamos y apelaciones ante el VA, conseguir sus récords militares y solicitar beneficios como pensiones, educación y atención médica. Ofrece transporte a citas médicas en Laredo y hasta 200 millas.",
+      "eligibility_summary_en": "Veterans and their dependents in Webb County.",
+      "eligibility_summary_es": "Veteranos y sus dependientes en el condado de Webb.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "residency_required": "Webb County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the office.",
+      "how_to_apply_es": "Llame o visite la oficina.",
+      "apply_url": null,
+      "phone": "(956) 523-4399",
+      "address": "1110 Victoria St., Suite 108",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8 a.m. - 5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/324/Veterans-Service",
+      "confidence": "high",
+      "notes": "Also does home visits to check benefit eligibility.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-community-action-agency",
+      "name": "Webb County Community Action Agency - Social Services and Utility Assistance",
+      "organization": "Webb County Community Action Agency",
+      "categories": [
+        "utilities",
+        "food"
+      ],
+      "description_en": "Helps Webb County residents with social services and help paying electric bills through the Comprehensive Energy Assistance Program (CEAP). It also runs Meals on Wheels for seniors and people with disabilities.",
+      "description_es": "Ayuda a personas del condado de Webb con servicios sociales y con el pago de la luz por medio del Programa de Asistencia Integral de Energía (CEAP). También tiene el programa Meals on Wheels para personas mayores y personas con discapacidad.",
+      "eligibility_summary_en": "Low-income Webb County residents for energy bill help. Meals on Wheels is for residents 65 and older and people with disabilities.",
+      "eligibility_summary_es": "Personas de bajos ingresos del condado de Webb para la ayuda con la luz. Meals on Wheels es para personas de 65 años o más y personas con discapacidad.",
+      "eligibility_rules": {
+        "residency_required": "Webb County resident"
+      },
+      "documents_needed": [
+        "Proof of U.S. citizenship or legal residency for all household members",
+        "ID for all household members (Texas ID or driver license for adults; immunization or school record for children)",
+        "Proof of income for the past 30 days for all household members (no bank statements)",
+        "Current benefit award letters (SNAP, TANF, child support, SSI, Social Security, VA, etc.)",
+        "Your 3 most recent electric bills and a 12-month billing history"
+      ],
+      "how_to_apply": "Call or visit the main office. Energy assistance applications are handed out on set dates at the main office and community centers (Larga Vista, Fernando Salinas, Rio Bravo, Lilia Perez), and must be returned where you picked them up. Documents can be emailed to your caseworker.",
+      "how_to_apply_es": "Llame o visite la oficina principal. Las solicitudes de ayuda con la luz se entregan en fechas fijas en la oficina principal y en los centros comunitarios (Larga Vista, Fernando Salinas, Rio Bravo, Lilia Perez), y se deben regresar en el mismo lugar donde las recogió. Puede mandar sus documentos por correo electrónico a su trabajador de caso.",
+      "apply_url": null,
+      "phone": "(956) 523-4222",
+      "address": "111 Camino Nuevo Road (Hwy 359), Building B",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": "Mon-Fri 8 am - 5 pm",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.webbcountytx.gov/287/Community-Action-Agency",
+      "confidence": "medium",
+      "notes": "The county page lists ZIP 78040 in the contact box and 78043 in the office list for the same street address. Energy assistance applications are limited (the posted checklist said 80 per center) and given out on set dates; call for the next dates. Caseworker email: caawaronpoverty@webbcountytx.gov. Meals on Wheels: (956) 523-4222 or (956) 523-5078. Self-Help Center: 8116 TX-Hwy. 359, (956) 523-4760. El Aguila Rural Transit: 4801 Daugherty St., (956) 722-6100.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

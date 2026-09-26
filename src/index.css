@@ -8,23 +8,23 @@
     --foreground: 217 33% 17%;       /* #1E293B */
     --card: 0 0% 100%;
     --card-foreground: 217 33% 17%;
-    --primary: 175 77% 26%;          /* #0F766E */
+    --primary: 175 77% 26%;          /* #0F766E teal (help) */
     --primary-foreground: 0 0% 100%;
     --primary-soft: 168 60% 94%;
-    --accent: 38 92% 50%;            /* #F59E0B */
-    --accent-foreground: 217 33% 17%;
-    --accent-soft: 45 100% 94%;
+    --accent: 17 88% 40%;            /* #C2410C coral-orange (action) */
+    --accent-foreground: 0 0% 100%;
+    --accent-soft: 34 100% 92%;      /* #FFEDD5 */
     --muted: 60 10% 93%;
     --muted-foreground: 215 19% 35%;
     --danger: 0 72% 42%;
     --danger-foreground: 0 0% 100%;
     --danger-soft: 0 86% 96%;
-    --success: 152 69% 29%;
-    --success-soft: 145 60% 93%;
+    --success: 142 72% 29%;          /* #15803D */
+    --success-soft: 141 60% 93%;
     --border: 60 7% 86%;
-    --input: 60 7% 80%;
+    --input: 60 7% 78%;
     --ring: 175 77% 26%;
-    --radius: 0.875rem;
+    --radius: 1rem;                  /* 16px cards */
   }
 
   .dark {
@@ -35,42 +35,37 @@
     --primary: 172 60% 45%;
     --primary-foreground: 222 30% 9%;
     --primary-soft: 175 40% 16%;
-    --accent: 40 95% 58%;
+    --accent: 20 90% 62%;
     --accent-foreground: 222 30% 9%;
-    --accent-soft: 38 50% 16%;
+    --accent-soft: 20 45% 17%;
     --muted: 222 20% 18%;
     --muted-foreground: 215 18% 72%;
     --danger: 0 80% 66%;
     --danger-foreground: 222 30% 9%;
     --danger-soft: 0 40% 18%;
-    --success: 150 55% 55%;
-    --success-soft: 150 30% 16%;
+    --success: 142 55% 52%;
+    --success-soft: 142 30% 16%;
     --border: 222 16% 24%;
-    --input: 222 16% 30%;
+    --input: 222 16% 32%;
     --ring: 172 60% 45%;
   }
 
   * {
     @apply border-border;
   }
-
   html {
     -webkit-text-size-adjust: 100%;
-    scroll-behavior: smooth;
   }
-
   body {
     @apply bg-background text-foreground antialiased;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.55;
   }
-
   :focus-visible {
     outline: 3px solid hsl(var(--ring));
     outline-offset: 2px;
-    border-radius: 6px;
+    border-radius: 8px;
   }
-
   @media (prefers-reduced-motion: reduce) {
     *,
     *::before,
@@ -84,9 +79,6 @@
 }
 
 @layer components {
-  .container-page {
-    @apply mx-auto w-full max-w-5xl px-4 sm:px-6;
-  }
   .skeleton {
     background: linear-gradient(90deg, hsl(var(--muted)) 0px, hsl(var(--card)) 80px, hsl(var(--muted)) 160px);
     background-size: 800px 100%;
@@ -95,12 +87,44 @@
   .sr-only-focusable:not(:focus) {
     @apply sr-only;
   }
+  .scroll-thin {
+    scrollbar-width: thin;
+  }
 }
 
-/* Leaflet map container inherits rounded corners */
+/* Loop ring: two arcs that rotate together and close into one ring with a check. */
+.loop-arc {
+  transform-origin: 50% 50%;
+  transition: transform 900ms cubic-bezier(0.65, 0, 0.35, 1), stroke-dasharray 900ms cubic-bezier(0.65, 0, 0.35, 1);
+}
+.loop-check {
+  stroke-dasharray: 40;
+  stroke-dashoffset: 40;
+  transition: stroke-dashoffset 350ms ease-out 700ms;
+}
+.loop-closed .loop-check {
+  stroke-dashoffset: 0;
+}
+
+/* Map: live feed lines draw in */
+.draw-line {
+  stroke-dasharray: 8 6;
+  animation: dash 1.2s linear infinite;
+}
+@keyframes dash {
+  to {
+    stroke-dashoffset: -28;
+  }
+}
+
 .leaflet-container {
-  @apply rounded-xl;
   font: inherit;
+  background: hsl(var(--muted));
+}
+.leaflet-popup-content {
+  margin: 10px 12px;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
 @media print {
@@ -110,7 +134,6 @@
   body {
     background: #fff !important;
     color: #000 !important;
-    font-size: 12pt;
   }
   .no-print {
     display: none !important;
@@ -118,13 +141,13 @@
   .print-only {
     display: block !important;
   }
-  a[href^='http']::after {
-    content: ' (' attr(href) ')';
-    font-size: 9pt;
-    word-break: break-all;
-  }
-  .print-break-avoid {
-    break-inside: avoid;
+  .print-plain {
+    box-shadow: none !important;
+    border: 0 !important;
+    max-width: none !important;
+    width: auto !important;
+    height: auto !important;
+    overflow: visible !important;
   }
 }
 .print-only {

@@ -9,7 +9,7 @@ export default class ErrorBoundary extends Component {
   }
 
   componentDidCatch(error, info) {
-    console.error('BenefitBridge crashed:', error, info);
+    console.error('Loop crashed:', error, info);
   }
 
   render() {

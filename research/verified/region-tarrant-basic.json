@@ -1,0 +1,1314 @@
+{
+  "scope": "Tarrant County (Fort Worth, Arlington) - food, housing, utilities, cash_assistance, transportation (plus local LMHA, WIC, workforce, legal, clinics)",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "tarrant-area-food-bank",
+      "name": "Tarrant Area Food Bank - Find Food",
+      "organization": "Tarrant Area Food Bank (TAFB)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank sends food to a large network of local food pantries. Use its Find Food map to find a pantry near you. It also has senior food boxes, home delivery, mobile food buses, and help applying for SNAP.",
+      "description_es": "El banco de comida reparte alimentos a muchas despensas de comida de la zona. Use el mapa \"Find Food\" para encontrar una despensa cerca de usted. También tiene cajas de comida para personas mayores, entrega a domicilio, autobuses móviles de comida y ayuda para solicitar SNAP (estampillas de comida).",
+      "eligibility_summary_en": "For people in Fort Worth and the North Texas area who need food. Each pantry sets its own rules, so call ahead.",
+      "eligibility_summary_es": "Para personas en Fort Worth y el norte de Texas que necesitan comida. Cada despensa tiene sus propias reglas, así que llame antes de ir.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food map on the TAFB website to find a pantry, then call the pantry to confirm hours. To get help with a SNAP application, book an appointment with a TAFB Community Resource Specialist.",
+      "how_to_apply_es": "Use el mapa \"Find Food\" en la página web del TAFB para encontrar una despensa y luego llame para confirmar el horario. Para recibir ayuda con su solicitud de SNAP, haga una cita con un especialista de recursos comunitarios del TAFB.",
+      "apply_url": "https://tafb.org/find-food/",
+      "phone": "(817) 857-7100",
+      "address": "2600 Cullen Street",
+      "city": "Fort Worth",
+      "zip": "76107",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://tafb.org/find-food/",
+      "confidence": "high",
+      "notes": "TAFB says it serves 13 counties in North Texas, with other sites in Denton and Weatherford. The main office is a distribution center. Send people to partner pantries using the Find Food map.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "arlington-charities-food-pantry",
+      "name": "Arlington Charities Food Pantry",
+      "organization": "Arlington Charities",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A food pantry that gives groceries to people in need in Arlington. It also has a mobile Market Truck, home grocery delivery, help for unhoused neighbors, and a pantry at TCC Southeast.",
+      "description_es": "Una despensa que da comida a personas que la necesitan en Arlington. También tiene un camión de mercado móvil (Market Truck), entrega de comida a domicilio, ayuda para personas sin hogar y una despensa en TCC Southeast.",
+      "eligibility_summary_en": "For people who live in Arlington zip codes 76001, 76002, 76005, 76006, and 76010-76019, the Tarrant County part of Grand Prairie (75050-75052, 75054), and Kennedale (76060).",
+      "eligibility_summary_es": "Para personas que viven en los códigos postales de Arlington 76001, 76002, 76005, 76006 y del 76010 al 76019, en la parte de Grand Prairie que está en el condado de Tarrant (75050-75052 y 75054) y en Kennedale (76060).",
+      "eligibility_rules": {
+        "residency_required": "Arlington zip codes 76001, 76002, 76005, 76006, 76010-76019; Grand Prairie (Tarrant County part) 75050-75052, 75054; or Kennedale 76060"
+      },
+      "documents_needed": [],
+      "how_to_apply": "First-time clients should read the First-time Client information on the website or call during open hours. Returning clients can order ahead online.",
+      "how_to_apply_es": "Si es su primera vez, lea la información para clientes nuevos (First-time Client) en la página web o llame durante el horario de atención. Si ya es cliente, puede hacer su pedido por internet.",
+      "apply_url": "https://www.arlingtoncharities.org/",
+      "phone": "(817) 275-1511",
+      "address": "811 Secretary Drive",
+      "city": "Arlington",
+      "zip": "76015",
+      "hours": "Mon-Thu 8:30 a.m.-1:30 p.m.; Fri 8:30-11:30 a.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.arlingtoncharities.org/",
+      "confidence": "high",
+      "notes": "Only certain zip codes are served. The home delivery program is for people who cannot come to the pantry.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "mission-arlington-emergency-assistance",
+      "name": "Mission Arlington Emergency Assistance",
+      "organization": "Mission Arlington / Mission Metroplex",
+      "categories": [
+        "food",
+        "housing",
+        "utilities",
+        "transportation"
+      ],
+      "description_en": "Free groceries for several days, clothing and shoes, furniture, and household items. It can also help pay part of your rent or a utility bill, help with prescriptions, give limited gas vouchers for job interviews, lend medical equipment, and help with ID.",
+      "description_es": "Comida gratis para varios días, ropa y zapatos, muebles y artículos para el hogar. También puede ayudarle a pagar parte de su renta o un recibo de luz, agua o gas, ayudar con medicinas, dar vales de gasolina limitados para ir a entrevistas de trabajo, prestar equipo médico y ayudar con identificaciones.",
+      "eligibility_summary_en": "For people and families in crisis in the Arlington area. Help depends on what is available.",
+      "eligibility_summary_es": "Para personas y familias en crisis en la zona de Arlington. La ayuda depende de lo que haya disponible.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Mission Arlington office during open hours or call (817) 277-6620.",
+      "how_to_apply_es": "Vaya a la oficina de Mission Arlington durante el horario de atención o llame al (817) 277-6620.",
+      "apply_url": "https://missionarlington.org/emergency-assistance/",
+      "phone": "(817) 277-6620",
+      "address": "210 W. South St.",
+      "city": "Arlington",
+      "zip": null,
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.; Sat 9:00 a.m.-2:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://missionarlington.org/emergency-assistance/",
+      "confidence": "high",
+      "notes": "Address is from the official Find Us/Directions page (downtown Arlington, at Oak St. and South St.); the zip code was not listed. Rent help covers only part of the rent. Help depends on what is available.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "meals-on-wheels-tarrant-county",
+      "name": "Meals On Wheels Home-Delivered Meals",
+      "organization": "Meals On Wheels of Tarrant County",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Meals delivered to the homes of people who need them. It also offers case management, nutrition counseling, pet meals, and help for veterans.",
+      "description_es": "Comidas llevadas a la casa de las personas que las necesitan. También ofrece manejo de casos, consejos de nutrición, comida para mascotas y ayuda para veteranos.",
+      "eligibility_summary_en": "For people in Tarrant County who are homebound (even for a short time), cannot make healthy meals on their own, and have no one to help regularly. It does not depend on age or income.",
+      "eligibility_summary_es": "Para personas en el condado de Tarrant que no pueden salir de su casa (aunque sea por poco tiempo), no pueden preparar comidas sanas por sí mismas y no tienen a nadie que les ayude con regularidad. No depende de la edad ni de los ingresos.",
+      "eligibility_rules": {
+        "residency_required": "Tarrant County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the contact form on the website or call (817) 336-0912. A caseworker will contact you and set up a home visit.",
+      "how_to_apply_es": "Llene el formulario de contacto en la página web o llame al (817) 336-0912. Un trabajador social se comunicará con usted y hará una cita para visitarle en casa.",
+      "apply_url": "https://www.mealsonwheels.org/",
+      "phone": "(817) 336-0912",
+      "address": null,
+      "city": "Fort Worth",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free; voluntary contributions welcome but not required",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.mealsonwheels.org/",
+      "confidence": "high",
+      "notes": "Eligibility page says services are based only on need, not age or income, and no one is approved or denied based on ability to contribute. Home page says a caseworker contacts you within 3-5 business days; eligibility page says a home visit is scheduled within 2 working days of application.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-worth-cap-ceap-utility-assistance",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Utility Assistance",
+      "organization": "City of Fort Worth Community Action Partners (CAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric, gas, and propane bills. It also offers HVAC repair, some home health and safety repairs, and case management. This is the local CEAP provider for Tarrant County.",
+      "description_es": "Ayuda a pagar recibos de luz, gas y gas propano. También ofrece reparación de aire acondicionado y calefacción, algunas reparaciones de salud y seguridad en la casa, y manejo de casos. Es el programa CEAP local para el condado de Tarrant.",
+      "eligibility_summary_en": "For Tarrant County residents who meet income limits. If you need utility help, you must be the account holder or an authorized user on the account.",
+      "eligibility_summary_es": "Para residentes del condado de Tarrant que cumplen con los límites de ingresos. Si necesita ayuda con un recibo, usted debe ser el titular de la cuenta o una persona autorizada en ella.",
+      "eligibility_rules": {
+        "residency_required": "Tarrant County resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income",
+        "Proof of residency",
+        "Current utility bill",
+        "Proof of expenses"
+      ],
+      "how_to_apply": "Apply online when the application opens at 9 a.m. on every other Friday through September. You can also book an in-person appointment; walk-ins are not accepted. Call (817) 392-2276 for help.",
+      "how_to_apply_es": "Solicite por internet cuando se abra la solicitud, a las 9 a.m., cada dos viernes hasta septiembre. También puede hacer una cita en persona; no se atiende sin cita. Llame al (817) 392-2276 si necesita ayuda.",
+      "apply_url": "https://www.fortworthtexas.gov/departments/neighborhoods/cap",
+      "phone": "(817) 392-2276",
+      "address": "100 Fort Worth Trail (City Hall)",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.fortworthtexas.gov/departments/neighborhoods/cap",
+      "confidence": "high",
+      "notes": "As of September 2026, CAP listed Emergency Rental Assistance (funds used up), Water Utility Payment Assistance, and Beat the Heat (2026 season over) as unavailable. Online applications open every other Friday at 9 a.m. through September and may close quickly when full, so check the page for the next date. The full list of required documents is in a checklist on the page. Phone wait times may be long.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-worth-cap-veterans-assistance",
+      "name": "CAP Veterans Assistance",
+      "organization": "City of Fort Worth Community Action Partners (CAP)",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Helps veterans pay rent, mortgage, and utility bills, and helps with heating and cooling (HVAC) repairs. Veterans who live in Fort Worth may also get home changes like wheelchair ramps and grab bars.",
+      "description_es": "Ayuda a los veteranos a pagar la renta, la hipoteca y los recibos de servicios, y ayuda con reparaciones de aire acondicionado y calefacción. Los veteranos que viven en Fort Worth también pueden recibir cambios en su casa, como rampas para silla de ruedas y barras de apoyo.",
+      "eligibility_summary_en": "For veterans who live in Tarrant County. Home changes are only for veterans who live in Fort Worth.",
+      "eligibility_summary_es": "Para veteranos que viven en el condado de Tarrant. Los cambios en la casa son solo para veteranos que viven en Fort Worth.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "residency_required": "Tarrant County resident (home modifications: Fort Worth only)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income",
+        "Proof of residency",
+        "Proof of expenses"
+      ],
+      "how_to_apply": "Apply through the CAP online application or book an in-person appointment. Call (817) 392-2276 with questions.",
+      "how_to_apply_es": "Solicite con la solicitud de CAP por internet o haga una cita en persona. Llame al (817) 392-2276 si tiene preguntas.",
+      "apply_url": "https://www.fortworthtexas.gov/departments/neighborhoods/cap",
+      "phone": "(817) 392-2276",
+      "address": "100 Fort Worth Trail (City Hall)",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.fortworthtexas.gov/departments/neighborhoods/cap",
+      "confidence": "high",
+      "notes": "The page does not say whether proof of veteran status is needed; ask CAP.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "center-for-transforming-lives-rent-utility-assistance",
+      "name": "Rent and Utility Assistance (Tarrant County Community Outreach Fund)",
+      "organization": "Center for Transforming Lives",
+      "categories": [
+        "housing",
+        "utilities",
+        "cash_assistance"
+      ],
+      "description_en": "Short-term help paying rent or utility bills for Tarrant County residents. Tarrant County moved its rent and utility help to this nonprofit on November 1, 2025.",
+      "description_es": "Ayuda por poco tiempo para pagar la renta o los recibos de servicios para residentes del condado de Tarrant. El condado de Tarrant pasó su ayuda de renta y servicios a esta organización sin fines de lucro el 1 de noviembre de 2025.",
+      "eligibility_summary_en": "For Tarrant County residents age 18 or older (or emancipated minors) who are U.S. citizens or lawful permanent residents, meet income limits, and have no available savings or assets. For example, the limit is $23,475 a year for 1 person and $48,225 a year for 4 people. If you are able to work, you must work at least 20 hours a week or be in work training, unless you have a disability or care for a child under 5 or a person with a disability. You must also apply for SNAP.",
+      "eligibility_summary_es": "Para residentes del condado de Tarrant de 18 años o más (o menores emancipados) que son ciudadanos de EE. UU. o residentes permanentes legales, cumplen con los límites de ingresos y no tienen ahorros ni bienes disponibles. Por ejemplo, el límite es $23,475 al año para 1 persona y $48,225 al año para 4 personas. Si puede trabajar, debe trabajar al menos 20 horas por semana o estar en un programa de capacitación, a menos que tenga una discapacidad o cuide a un niño menor de 5 años o a una persona con discapacidad. También debe solicitar SNAP.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "residency_required": "Tarrant County resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card",
+        "Lease agreement (for rent help)",
+        "Utility bill (for utility help)",
+        "Proof of income",
+        "Proof of disability (if applicable)",
+        "Documents for dependents (if applicable)"
+      ],
+      "how_to_apply": "Check the Get Help page for application dates, or call (817) 607-8137 or email info@transforminglives.org. Processing can take several weeks.",
+      "how_to_apply_es": "Revise la página Get Help para ver las fechas de solicitud, o llame al (817) 607-8137 o escriba a info@transforminglives.org. El trámite puede tardar varias semanas.",
+      "apply_url": "https://transforminglives.org/get-help",
+      "phone": "(817) 607-8137",
+      "address": "3001 S. Riverside Drive",
+      "city": "Fort Worth",
+      "zip": "76119",
+      "hours": "Mon-Fri 8:30 a.m.-4:30 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://transforminglives.org/Rental-and-Utility-Assistance",
+      "confidence": "medium",
+      "notes": "As of September 2026 the program page said all available funds had been given out and new funding begins in October; check before referring. Not for emergencies, because processing takes weeks. Tarrant County Human Services lists (817) 607-8137 and Mon-Fri 8:30 a.m.-4:30 p.m. for this program; the Center's main line is (817) 332-6191.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "presbyterian-night-shelter",
+      "name": "Presbyterian Night Shelter Emergency Shelter",
+      "organization": "Presbyterian Night Shelter of Tarrant County",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "An emergency shelter that gives people without a home an overnight bed. It also has residential programs, and the separate True Worth Place day center offers case management and housing help.",
+      "description_es": "Un albergue de emergencia que da una cama para pasar la noche a personas sin hogar. También tiene programas residenciales, y el centro de día True Worth Place ofrece manejo de casos y ayuda para encontrar vivienda.",
+      "eligibility_summary_en": "For anyone without a home, including people with barriers such as a criminal history.",
+      "eligibility_summary_es": "Para cualquier persona sin hogar, incluso personas con obstáculos como antecedentes penales.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Check in at 2:00 p.m. Men go to the Karl Travis Men's Center, 2400 Cypress St. Women go to True Worth Place, 1513 E. Presidio St. Women with children must be prescreened first: call (817) 632-7429. Bring ID if you have it and no more than two small bags.",
+      "how_to_apply_es": "El registro es a las 2:00 p.m. Los hombres van al Karl Travis Men's Center, 2400 Cypress St. Las mujeres van a True Worth Place, 1513 E. Presidio St. Las mujeres con niños deben pasar primero por una evaluación: llame al (817) 632-7429. Traiga identificación si la tiene y no más de dos bolsas pequeñas.",
+      "apply_url": "https://www.journeyhome.org/get-help-now",
+      "phone": "(817) 632-7400",
+      "address": "2400 Cypress St",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": "Emergency shelter open 24/7; daily check-in at 2:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.journeyhome.org/",
+      "confidence": "high",
+      "notes": "Intake details are from the official Get Help Now page. Main line (817) 632-7400. Its website is journeyhome.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "true-worth-place-day-shelter",
+      "name": "True Worth Place Day Shelter",
+      "organization": "Presbyterian Night Shelter of Tarrant County",
+      "categories": [
+        "housing",
+        "food",
+        "employment"
+      ],
+      "description_en": "A day shelter for people experiencing homelessness. It has showers, laundry, lunch, a mailing address, phone and computer use, storage, case management, and job and education programs.",
+      "description_es": "Un albergue de día para personas sin hogar. Tiene regaderas, lavandería, almuerzo, una dirección para recibir correo, uso de teléfono y computadora, lugar para guardar cosas, manejo de casos y programas de trabajo y educación.",
+      "eligibility_summary_en": "For people experiencing homelessness, including people staying at night shelters or living on the street.",
+      "eligibility_summary_es": "Para personas sin hogar, incluso quienes duermen en albergues de noche o en la calle.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in during open hours or call (817) 289-7474.",
+      "how_to_apply_es": "Llegue sin cita durante el horario de atención o llame al (817) 289-7474.",
+      "apply_url": null,
+      "phone": "(817) 289-7474",
+      "address": "1513 E Presidio St",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": "7 days a week, 7:00 a.m.-3:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://trueworthplace.org/",
+      "confidence": "high",
+      "notes": "Daytime only. For an overnight bed, go to Presbyterian Night Shelter, or call the homeless helpline at (817) 996-8800.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "union-gospel-mission-tarrant-county",
+      "name": "Union Gospel Mission Shelter and Welcome Center",
+      "organization": "Union Gospel Mission of Tarrant County",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Overnight shelter for men and women, daily breakfast and dinner, showers and clothing, chapel, and case management to help people move into housing. The Welcome Center is the place to start. It is a Christian ministry.",
+      "description_es": "Albergue para pasar la noche para hombres y mujeres, desayuno y cena todos los días, regaderas y ropa, capilla y manejo de casos para ayudar a las personas a conseguir vivienda. El Centro de Bienvenida (Welcome Center) es el lugar para empezar. Es un ministerio cristiano.",
+      "eligibility_summary_en": "For people experiencing homelessness in Tarrant County.",
+      "eligibility_summary_es": "Para personas sin hogar en el condado de Tarrant.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "Valid ID",
+        "Proof of a TB test from the past year (for shelter)"
+      ],
+      "how_to_apply": "Go to the Welcome Center at 1350 E. Lancaster Ave., call (817) 779-4977, or email welcomecenterintake@ugm-tc.org. You can also fill out the intake kiosk application online.",
+      "how_to_apply_es": "Vaya al Centro de Bienvenida en 1350 E. Lancaster Ave., llame al (817) 779-4977 o escriba a welcomecenterintake@ugm-tc.org. También puede llenar la solicitud de ingreso por internet.",
+      "apply_url": "https://ugm-tc.org/welcome-center/",
+      "phone": "(817) 779-4977",
+      "address": "1350 East Lancaster Avenue (Welcome Center)",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": "Welcome Center Mon-Fri 8:30 a.m.-5:30 p.m. (intake 8:30 a.m.-4:00 p.m.)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://ugm-tc.org/welcome-center/",
+      "confidence": "high",
+      "notes": "Men's shelter (100 beds, 1331 E. Lancaster) check-in 2 p.m. and 6 p.m. daily; women's shelter (38 beds, 1321 E. Lancaster) check-in 1:15 p.m. daily. Meals: breakfast 5:30-6:00 a.m., dinner 4:30-5:00 p.m. Main office line: (817) 339-2553.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "arlington-life-shelter",
+      "name": "Arlington Life Shelter",
+      "organization": "Arlington Life Shelter",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "An emergency shelter and program for people and families experiencing homelessness. It helps people work toward living on their own.",
+      "description_es": "Un albergue de emergencia y programa para personas y familias sin hogar. Ayuda a las personas a avanzar para poder vivir por su cuenta.",
+      "eligibility_summary_en": "For people and families experiencing homelessness. People convicted of a crime against a person in the past 2 years, or of any crime against a child or an older adult, cannot stay.",
+      "eligibility_summary_es": "Para personas y familias sin hogar. No pueden quedarse las personas condenadas por un delito contra otra persona en los últimos 2 años, ni por cualquier delito contra un niño o una persona mayor.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "Two forms of ID, one with a photo (for example, a driver's license, state ID, military ID, passport, student ID, or TB card)"
+      ],
+      "how_to_apply": "Come during intake hours, 2:00-4:00 p.m. Monday through Friday. Call first to check if a bed is open, because beds are first come, first served.",
+      "how_to_apply_es": "Venga durante el horario de registro, de 2:00 a 4:00 p.m., de lunes a viernes. Llame antes para saber si hay una cama libre, porque se dan por orden de llegada.",
+      "apply_url": "https://arlingtonlifeshelter.org/how-we-help/entrance-requirements.html",
+      "phone": "(817) 548-9885 ext. 3301",
+      "address": "325 W. Division Street",
+      "city": "Arlington",
+      "zip": "76011",
+      "hours": "Intake Mon-Fri 2:00-4:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://arlingtonlifeshelter.org/how-we-help/entrance-requirements.html",
+      "confidence": "high",
+      "notes": "Guests may be given random breath and drug tests.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "salvation-army-arlington",
+      "name": "Salvation Army Arlington - Family Shelter and Food Pantry",
+      "organization": "The Salvation Army of North Texas",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "A year-round shelter where families experiencing homelessness can stay together, plus a weekly food pantry and case management. In extreme weather it opens a cooling station and an overnight warming shelter.",
+      "description_es": "Un albergue abierto todo el año donde las familias sin hogar pueden quedarse juntas, además de una despensa de comida semanal y manejo de casos. Cuando el clima es extremo, abre un centro para refrescarse y un albergue nocturno para el frío.",
+      "eligibility_summary_en": "The shelter is for families experiencing homelessness. The food pantry is open to the community.",
+      "eligibility_summary_es": "El albergue es para familias sin hogar. La despensa de comida está abierta a la comunidad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (817) 860-1836 or visit in person. Call Monday-Friday to book a case management appointment.",
+      "how_to_apply_es": "Llame al (817) 860-1836 o vaya en persona. Llame de lunes a viernes para hacer una cita de manejo de casos.",
+      "apply_url": null,
+      "phone": "(817) 860-1836",
+      "address": "712 W. Abram St.",
+      "city": "Arlington",
+      "zip": "76013",
+      "hours": "Food pantry Thursdays 11 a.m.-3 p.m.; case management Mon-Fri by appointment",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://salvationarmyntx.org/north-texas/arlington/",
+      "confidence": "high",
+      "notes": "The cooling station opens Mon-Fri 9 a.m.-4 p.m. when the heat index reaches 100 degrees or more. The warming shelter opens on nights below 40 degrees for 4 hours in a row. The page heading shows zip 76063, but the address section shows 76013, which is used here.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tarrant-homeless-helpline-coordinated-entry",
+      "name": "Homeless Helpline / Coordinated Entry",
+      "organization": "Partnership Home (formerly Tarrant County Homeless Coalition)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "The main phone line for people who are homeless or about to lose housing. Staff check what you need and connect you to shelter, street outreach, or housing programs.",
+      "description_es": "La línea telefónica principal para personas sin hogar o a punto de perder su vivienda. El personal revisa lo que usted necesita y le conecta con albergues, equipos de ayuda en la calle o programas de vivienda.",
+      "eligibility_summary_en": "For people in Tarrant County who are homeless or in a housing crisis.",
+      "eligibility_summary_es": "Para personas en el condado de Tarrant que están sin hogar o en una crisis de vivienda.",
+      "eligibility_rules": {
+        "residency_required": "Tarrant County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (817) 996-8800 during open hours. Partnership Home's website also has an online housing crisis screening.",
+      "how_to_apply_es": "Llame al (817) 996-8800 durante el horario de atención. La página web de Partnership Home también tiene una evaluación por internet para crisis de vivienda.",
+      "apply_url": "https://partnershiphome.org/help/",
+      "phone": "(817) 996-8800",
+      "address": null,
+      "city": "Fort Worth",
+      "zip": null,
+      "hours": "Mon-Fri 8 a.m.-8 p.m.; Sat 10 a.m.-2 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://mhmrtarrant.org/homeless-services/",
+      "confidence": "high",
+      "notes": "The phone number and hours come from the MHMR Tarrant homeless services page (listed as the Tarrant County Homeless Coalition Helpline), and True Worth Place also lists this number. Partnership Home's own help page did not show a phone number but offers an online housing crisis screening.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "the-archway-domestic-violence-shelter",
+      "name": "The Archway (formerly SafeHaven of Tarrant County) - Domestic Violence Services",
+      "organization": "The Archway",
+      "categories": [
+        "housing",
+        "legal"
+      ],
+      "description_en": "A 24/7 hotline, emergency shelter, housing help, safety planning, services for children, and legal help for people hurt by a partner.",
+      "description_es": "Una línea de ayuda las 24 horas, albergue de emergencia, ayuda con vivienda, plan de seguridad, servicios para niños y ayuda legal para personas lastimadas por su pareja.",
+      "eligibility_summary_en": "For survivors of domestic or partner violence and their children, mainly in Tarrant County.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica o de pareja y sus hijos, principalmente en el condado de Tarrant.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 hotline at 1-877-701-7233.",
+      "how_to_apply_es": "Llame a la línea de ayuda, abierta las 24 horas, al 1-877-701-7233.",
+      "apply_url": "https://thearchwaytx.org/",
+      "phone": "(877) 701-7233",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://thearchwaytx.org/",
+      "confidence": "high",
+      "notes": "The shelter address is not shared publicly. The office is at 1010 N. Center Street, Arlington, TX 76011, phone (817) 535-6462. The Archway was formerly SafeHaven of Tarrant County.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-worth-housing-solutions",
+      "name": "Fort Worth Housing Solutions (Public Housing Authority)",
+      "organization": "Fort Worth Housing Solutions",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Fort Worth's housing authority. It runs Housing Choice Vouchers (Section 8), project-based vouchers, homeless housing programs, affordable apartments, and homebuying help.",
+      "description_es": "La autoridad de vivienda de Fort Worth. Maneja los vales de vivienda (Sección 8), vales basados en proyectos, programas de vivienda para personas sin hogar, apartamentos económicos y ayuda para comprar casa.",
+      "eligibility_summary_en": "For low-income households. Each program and waitlist has its own rules.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos. Cada programa y lista de espera tiene sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Check the website for waitlists that are open and apply through the online applicant portal. Call (817) 333-3400 with questions.",
+      "how_to_apply_es": "Revise la página web para ver qué listas de espera están abiertas y solicite en el portal de solicitantes por internet. Llame al (817) 333-3400 si tiene preguntas.",
+      "apply_url": "https://www.fwhs.org/",
+      "phone": "(817) 333-3400",
+      "address": "1407 Texas St.",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": "Mon-Thu 8 a.m.-5 p.m.; closed Fridays",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.fwhs.org/",
+      "confidence": "high",
+      "notes": "In September 2026 the home page showed an open project-based voucher waitlist at Sedona Village Senior Living. Check the site for other open waitlists. Hearing-impaired callers can use Texas Relay 7-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "arlington-housing-authority-hcv",
+      "name": "Housing Choice Voucher Program (Section 8) - Arlington",
+      "organization": "Arlington Housing Authority (City of Arlington)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps pay rent in private housing for low-income people, older adults, and people with disabilities in Arlington.",
+      "description_es": "Ayuda a pagar la renta en viviendas privadas para personas de bajos ingresos, personas mayores y personas con discapacidad en Arlington.",
+      "eligibility_summary_en": "Household income must be at or below 50% of the area median income. People who live or work in Arlington get preference. People with a felony, sex offender registration, or meth-related history are not eligible.",
+      "eligibility_summary_es": "Los ingresos del hogar deben ser iguales o menores al 50% del ingreso medio de la zona. Las personas que viven o trabajan en Arlington tienen preferencia. No califican las personas con un delito grave (felonía), registro como agresor sexual o antecedentes relacionados con metanfetamina.",
+      "eligibility_rules": {
+        "residency_required": "Live or work in Arlington (preference)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online only when the waitlist opens. The waitlist is closed now. People already on the list can check their status at assistancecheck.com.",
+      "how_to_apply_es": "Solo se puede solicitar por internet cuando la lista de espera se abre. Ahora la lista está cerrada. Las personas que ya están en la lista pueden revisar su estado en assistancecheck.com.",
+      "apply_url": "https://www.arlingtontx.gov/City-Services/Housing/Housing-Choice-Voucher-Program",
+      "phone": "(817) 275-3351",
+      "address": "101 W. Abram St.",
+      "city": "Arlington",
+      "zip": "76010",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.arlingtontx.gov/City-Services/Housing/Housing-Choice-Voucher-Program",
+      "confidence": "medium",
+      "notes": "As of September 2026 the waitlist is CLOSED. The city warns people not to give personal information to any website or social media page saying the list is open. Address and phone are from the official HCV page; the Homeless Services office is at 501 W. Sanford St., Suite 20.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "arlington-homeless-services-eviction-prevention",
+      "name": "Arlington Homeless Services (Eviction Prevention, Rapid Re-Housing, TBRA)",
+      "organization": "Arlington Housing Authority (City of Arlington)",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Arlington programs that help people avoid eviction and help homeless people find housing. Programs include eviction prevention, rapid re-housing, supportive housing, up to 2 years of rent and utility help, and services for young adults ages 18-24.",
+      "description_es": "Programas de Arlington que ayudan a evitar el desalojo y ayudan a personas sin hogar a encontrar vivienda. Incluyen prevención de desalojo, realojamiento rápido, vivienda con apoyo, hasta 2 años de ayuda con renta y servicios, y servicios para jóvenes de 18 a 24 años.",
+      "eligibility_summary_en": "For Arlington residents with low income (at or below 50% of the area median income for most programs; up to 60% for rent help, TBRA). Eviction prevention requires an eviction or utility shut-off notice. Other programs are for people who are homeless.",
+      "eligibility_summary_es": "Para residentes de Arlington con bajos ingresos (iguales o menores al 50% del ingreso medio de la zona en la mayoría de los programas; hasta 60% para la ayuda de renta TBRA). La prevención de desalojo pide un aviso de desalojo o de corte de servicios. Los otros programas son para personas sin hogar.",
+      "eligibility_rules": {
+        "residency_required": "Arlington resident"
+      },
+      "documents_needed": [
+        "Eviction notice or utility disconnect notice (for some programs)"
+      ],
+      "how_to_apply": "Call (817) 276-6713 or email homelessassistance@arlingtonhousing.us. Eviction prevention applications are taken only on set days, with a limited number each day.",
+      "how_to_apply_es": "Llame al (817) 276-6713 o escriba a homelessassistance@arlingtonhousing.us. Las solicitudes de prevención de desalojo se reciben solo en días fijos y con un número limitado cada día.",
+      "apply_url": "https://www.arlingtontx.gov/City-Services/Housing/Homeless-Services",
+      "phone": "(817) 276-6713",
+      "address": "501 W. Sanford Street, Suite 20",
+      "city": "Arlington",
+      "zip": "76011",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.arlingtontx.gov/City-Services/Housing/Homeless-Services",
+      "confidence": "high",
+      "notes": "The page listed HHSP eviction prevention intake on Tuesday, Sept. 22 and Oct. 6, 8-11 a.m., at 501 W. Sanford St., Suite 20, with only 50 applications each day. Check the page for current dates.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tarrant-county-housing-assistance-office",
+      "name": "Tarrant County Housing Assistance Office (Housing Choice Vouchers)",
+      "organization": "Tarrant County",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "The county housing authority. It runs Housing Choice Vouchers (Section 8) and special voucher programs that help low-income families pay rent.",
+      "description_es": "La autoridad de vivienda del condado. Maneja los vales de vivienda (Sección 8) y programas especiales de vales que ayudan a familias de bajos ingresos a pagar la renta.",
+      "eligibility_summary_en": "For extremely low, very low, and low-income families in Tarrant County.",
+      "eligibility_summary_es": "Para familias de ingresos extremadamente bajos, muy bajos y bajos en el condado de Tarrant.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Assistance Connect portal or in person when applications are open. Applicants can check waitlist status online.",
+      "how_to_apply_es": "Solicite por internet en el portal Assistance Connect o en persona cuando las solicitudes estén abiertas. Puede revisar el estado de la lista de espera por internet.",
+      "apply_url": "https://www.tarrantcountytx.gov/en/housing-assistance-office.html",
+      "phone": "(817) 531-7640",
+      "address": "2100 Circle Drive, Suite 200",
+      "city": "Fort Worth",
+      "zip": "76119",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.tarrantcountytx.gov/en/housing-assistance-office.html",
+      "confidence": "high",
+      "notes": "The line for current participants is (817) 531-7641, and TDD is (888) 444-2122. The office is on the Tarrant County Resource Connection campus. Official pages did not say whether the waitlist is open.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trinity-metro-reduced-fare",
+      "name": "Trinity Metro Reduced Fare",
+      "organization": "Trinity Metro",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower bus and train fares for older adults, people with disabilities, Medicare card holders, youth, and veterans. You get a reduced fare photo ID card at Fort Worth Central Station.",
+      "description_es": "Pasajes más baratos de autobús y tren para personas mayores, personas con discapacidad, personas con tarjeta de Medicare, jóvenes y veteranos. La tarjeta con foto para tarifa reducida se saca en la estación Fort Worth Central Station.",
+      "eligibility_summary_en": "For seniors 65 and older, people with disabilities, Medicare card holders, youth ages 5-19, and veterans (local tickets only).",
+      "eligibility_summary_es": "Para personas de 65 años o más, personas con discapacidad, personas con tarjeta de Medicare, jóvenes de 5 a 19 años y veteranos (solo boletos locales).",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (Texas ID or driver's license)",
+        "Proof of age (seniors)",
+        "Medicare card, Social Security award letter, or VA award letter (disability)",
+        "Proof of veteran status (veterans)"
+      ],
+      "how_to_apply": "Bring your documents to the Trinity Metro kiosk at Fort Worth Central Station to get a reduced fare photo ID card.",
+      "how_to_apply_es": "Lleve sus documentos al quiosco de Trinity Metro en Fort Worth Central Station para sacar su tarjeta con foto de tarifa reducida.",
+      "apply_url": "https://ridetrinitymetro.org/tickets/",
+      "phone": "(817) 215-8600",
+      "address": "1001 Jones Street (Fort Worth Central Station)",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Photo ID card $2 (replacement $10); youth one-way fare $1",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://ridetrinitymetro.org/tickets/",
+      "confidence": "high",
+      "notes": "Cards for seniors are good for life. Other cards last 6 months, 1 year, or 2 years. Children 4 and under ride free. Central Station hours were not listed on the official page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trinity-metro-on-demand-paratransit",
+      "name": "Trinity Metro On-Demand Paratransit (ACCESS)",
+      "organization": "Trinity Metro",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Van rides for people whose disability keeps them from riding the regular bus. You book rides ahead of time.",
+      "description_es": "Viajes en camioneta para personas que, por una discapacidad, no pueden usar el autobús normal. Los viajes se reservan con anticipación.",
+      "eligibility_summary_en": "For people with a verified disability that keeps them from using regular buses. You must apply and be approved; approval lasts up to 2 years.",
+      "eligibility_summary_es": "Para personas con una discapacidad comprobada que les impide usar el autobús normal. Debe solicitar y ser aprobado; la aprobación dura hasta 2 años.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Completed paratransit application (a doctor or agency may need to fill in part of it)"
+      ],
+      "how_to_apply": "Download the application, fill it out, and turn it in. Approval can take up to 21 days. After you are approved, book rides by calling (817) 215-8600.",
+      "how_to_apply_es": "Descargue la solicitud, llénela y entréguela. La aprobación puede tardar hasta 21 días. Cuando lo aprueben, reserve sus viajes llamando al (817) 215-8600.",
+      "apply_url": "https://ridetrinitymetro.org/rider-services/access/",
+      "phone": "(817) 215-8600",
+      "address": null,
+      "city": "Fort Worth",
+      "zip": null,
+      "hours": "Reservations 8 a.m.-5 p.m., up to 7 days ahead. Rides from 4:20 a.m. Mon-Sat (6 a.m. Sun) until 11:15 p.m. daily.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$4 one-way; 10-ride book $40; personal care attendant rides free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://ridetrinitymetro.org/rider-services/access/",
+      "confidence": "high",
+      "notes": "Serves Fort Worth and River Oaks only. Book by 5 p.m. the day before your ride. To appeal a decision, call (817) 215-8929.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "arlington-handitran",
+      "name": "Handitran",
+      "organization": "City of Arlington",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door rides in Arlington for older adults and people with disabilities.",
+      "description_es": "Viajes de puerta a puerta en Arlington para personas mayores y personas con discapacidad.",
+      "eligibility_summary_en": "For people 65 or older, or people with a disability. If you are under 65, a doctor must confirm your disability.",
+      "eligibility_summary_es": "Para personas de 65 años o más, o personas con discapacidad. Si tiene menos de 65 años, un médico debe confirmar su discapacidad.",
+      "eligibility_rules": {
+        "senior": true,
+        "disability": true
+      },
+      "documents_needed": [
+        "Proof of age (65+)",
+        "Doctor certification of disability (under 65)"
+      ],
+      "how_to_apply": "Fill out the Handitran Service Application online and pay a one-time $10 fee. Processing takes up to 3 weeks. Then call (817) 275-3704 to schedule rides.",
+      "how_to_apply_es": "Llene la solicitud de Handitran por internet y pague una cuota única de $10. El trámite tarda hasta 3 semanas. Luego llame al (817) 275-3704 para programar sus viajes.",
+      "apply_url": "https://www.arlingtontx.gov/City-Services/Transportation-Streets-Traffic/Handitran",
+      "phone": "(817) 459-5390",
+      "address": "1101 W. Main Street",
+      "city": "Arlington",
+      "zip": "76013",
+      "hours": "Rides Mon-Fri 7 a.m.-10 p.m., Sat 8 a.m.-9 p.m.; office Mon-Fri 8 a.m.-4:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$3 per one-way trip; one care attendant rides free; $10 one-time application fee",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.arlingtontx.gov/City-Services/Transportation-Streets-Traffic/Handitran",
+      "confidence": "high",
+      "notes": "Serves Arlington and up to 1.5 miles past the city limits. One end of every trip must be inside Arlington. The scheduling line is (817) 275-3704.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "arlington-on-demand",
+      "name": "Arlington On-Demand Rideshare",
+      "organization": "City of Arlington",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Low-cost shared rides anywhere in Arlington, to the CentrePort TRE train station, and to the Eastchase Parkway area of Fort Worth. Book with an app or by phone.",
+      "description_es": "Viajes compartidos de bajo costo por todo Arlington, a la estación de tren TRE CentrePort y a la zona de Eastchase Parkway en Fort Worth. Se reservan con una aplicación o por teléfono.",
+      "eligibility_summary_en": "Open to anyone.",
+      "eligibility_summary_es": "Abierto para todos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book a ride in the Arlington Transportation app or call (817) 784-7382. Pay with a credit card or a prepaid card; prepaid cards can be bought with cash at dollar stores or grocery stores.",
+      "how_to_apply_es": "Reserve un viaje con la aplicación Arlington Transportation o llame al (817) 784-7382. Pague con tarjeta de crédito o tarjeta prepagada; las tarjetas prepagadas se pueden comprar con efectivo en tiendas de dólar o supermercados.",
+      "apply_url": "https://www.arlingtontx.gov/City-Services/Transportation-Streets-Traffic/Arlington-On-Demand",
+      "phone": "(817) 784-7382",
+      "address": null,
+      "city": "Arlington",
+      "zip": null,
+      "hours": "Mon-Fri 6 a.m.-9 p.m.; Sat 9 a.m.-9 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$3-$8 per trip based on distance; $3 flat to CentrePort",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.arlingtontx.gov/City-Services/Transportation-Streets-Traffic/Arlington-On-Demand",
+      "confidence": "high",
+      "notes": "The page did not list senior, disability, or low-income discounts. Ride credit bundles save money (for example, $25 buys $30 in credit) and work on both On-Demand and Handitran.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-tarrant-county",
+      "name": "Workforce Solutions for Tarrant County",
+      "organization": "Workforce Solutions for Tarrant County",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, including job listings, computers, resume and interview help, job fairs, and training scholarships. It also runs job programs for people on TANF or SNAP.",
+      "description_es": "Ayuda gratis para encontrar trabajo: ofertas de empleo, computadoras, ayuda con el currículum y las entrevistas, ferias de empleo y becas de capacitación. También tiene programas de trabajo para personas con TANF o SNAP.",
+      "eligibility_summary_en": "Open to job seekers in Tarrant County. Training and TANF/SNAP job programs have their own rules.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo en el condado de Tarrant. Los programas de capacitación y de TANF/SNAP tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit a workforce center or call (817) 413-4000. Use the locations map on the website to find the nearest center.",
+      "how_to_apply_es": "Visite un centro de empleo o llame al (817) 413-4000. Use el mapa de ubicaciones en la página web para encontrar el centro más cercano.",
+      "apply_url": "https://workforcesolutions.net/workforce-center-locations/",
+      "phone": "(817) 413-4000",
+      "address": "1400 Circle Drive, Suite 100 (Resource Connection center)",
+      "city": "Fort Worth",
+      "zip": "76119",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://workforcesolutions.net/",
+      "confidence": "high",
+      "notes": "Centers include Arlington, Central, Resource Connection, and Mid-Cities. The Resource Connection center address comes from the Tarrant County Resource Connection directory. TDD/TTY: 1-800-735-2989.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tarrant-county-child-care-services",
+      "name": "Child Care Services (Child Care Scholarships) - Tarrant County",
+      "organization": "Child Care Associates for Workforce Solutions for Tarrant County",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low-income families pay for child care so parents can work, go to school, or get job training.",
+      "description_es": "Ayuda a familias de bajos ingresos a pagar el cuidado de niños para que los padres puedan trabajar, estudiar o capacitarse.",
+      "eligibility_summary_en": "For Texas families with a child under 13 (or under 19 with a disability) who meet income limits and work, go to school, train, or look for a job. The child must be a U.S. citizen or have legal immigration status. Families pay part of the cost based on income.",
+      "eligibility_summary_es": "Para familias de Texas con un niño menor de 13 años (o menor de 19 con discapacidad) que cumplen con los límites de ingresos y trabajan, estudian, se capacitan o buscan trabajo. El niño debe ser ciudadano de EE. UU. o tener estatus migratorio legal. Las familias pagan una parte del costo según sus ingresos.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Texas Child Care Connection (TX3C) system. Call Child Care Associates at (817) 831-0374 with questions.",
+      "how_to_apply_es": "Solicite por internet en el sistema Texas Child Care Connection (TX3C). Llame a Child Care Associates al (817) 831-0374 si tiene preguntas.",
+      "apply_url": "https://childcare.twc.texas.gov/find/register?mode=signup",
+      "phone": "(817) 831-0374",
+      "address": "500 Grapevine Hwy, Suite 400",
+      "city": "Hurst",
+      "zip": "76054",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://tarrantcountyccms.org/",
+      "confidence": "high",
+      "notes": "Tarrant County has a waitlist. In September 2026 CCMS said it was working on applications from February 2024 and pulls families about every two weeks. Some priority groups are served sooner.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tarrant-county-wic",
+      "name": "Tarrant County WIC",
+      "organization": "Tarrant County Public Health",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help, and breastfeeding support to pregnant women, new mothers, babies, and young children.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y apoyo para dar pecho a mujeres embarazadas, mamás recientes, bebés y niños pequeños.",
+      "eligibility_summary_en": "For pregnant, breastfeeding, and postpartum women, and children under 5, who meet income rules.",
+      "eligibility_summary_es": "Para mujeres embarazadas, que dan pecho o que tuvieron un bebé recientemente, y niños menores de 5 años, que cumplen con las reglas de ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Identification",
+        "Proof of current address",
+        "Proof of household income"
+      ],
+      "how_to_apply": "Call (817) 321-5400 to make an appointment at a WIC clinic near you.",
+      "how_to_apply_es": "Llame al (817) 321-5400 para hacer una cita en una clínica de WIC cerca de usted.",
+      "apply_url": "https://www.tarrantcountytx.gov/en/public-health/family-health-services/wic-program/how-do-i-become-a-wic-client-.html",
+      "phone": "(817) 321-5400",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Call center Mon-Fri 8 a.m.-6 p.m.; clinics Mon-Fri 9 a.m.-1 p.m. and 2-6 p.m., plus one Saturday a month at most clinics",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.tarrantcountytx.gov/en/public-health/family-health-services/wic-program/wic-locations.html",
+      "confidence": "high",
+      "notes": "Clinics: Arkansas (2596 E. Arkansas Ln, Arlington 76014), Bagsby-Williams (3212 Miller Ave, Fort Worth 76119), Eastside (1100 Bridgewood Dr #116, Fort Worth 76112), Euless (417 W. Euless Blvd, Euless 76040), Green Oaks (2001 S.E. Green Oaks Blvd, Arlington 76018), Haltom City (4113 Denton Hwy 76117), Lake Worth (3800 Adam Grubb, Fort Worth 76135), Resource Connection (2500 Circle Dr Ste 400, Fort Worth 76119), Southside (1101 S. Main St, Fort Worth 76104), Southwest (6551 Granbury Rd, Fort Worth 76133), White Settlement (1638 S. Cherry Ln, Fort Worth 76108). WIC is no longer offered at the Watauga center. The 'pregnant' key was left out because WIC also serves women who are not pregnant.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "mhmr-tarrant-crisis-line",
+      "name": "MHMR Tarrant Crisis Line and Mental Health Services (Local Mental Health Authority)",
+      "organization": "My Health My Resources (MHMR) of Tarrant County",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24/7 crisis line you can call or text for a mental health or substance use emergency. MHMR also provides ongoing mental health, addiction, disability, and child services, plus mobile crisis teams.",
+      "description_es": "Una línea de crisis abierta las 24 horas, a la que puede llamar o mandar mensaje de texto en una emergencia de salud mental o de uso de sustancias. MHMR también ofrece servicios continuos de salud mental, adicciones, discapacidad y para niños, además de equipos móviles de crisis.",
+      "eligibility_summary_en": "For children, teens, and adults in Tarrant County.",
+      "eligibility_summary_es": "Para niños, adolescentes y adultos en el condado de Tarrant.",
+      "eligibility_rules": {
+        "residency_required": "Tarrant County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call or text 1-800-866-2465 at any time. For non-crisis services, call (817) 335-3022.",
+      "how_to_apply_es": "En una crisis, llame o mande mensaje al 1-800-866-2465 a cualquier hora. Para servicios que no son de crisis, llame al (817) 335-3022.",
+      "apply_url": "https://mhmrtarrant.org/crisis-services/",
+      "phone": "(800) 866-2465",
+      "address": null,
+      "city": "Fort Worth",
+      "zip": null,
+      "hours": "Crisis line 24/7, 365 days a year",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://mhmrtarrant.org/crisis-services/",
+      "confidence": "high",
+      "notes": "TTY-TDD: (817) 569-4488. Call 911 if someone is in immediate danger. MHMR also runs Liberty House, a 30-bed transitional home for homeless male veterans (admission through the VA).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "jps-connection",
+      "name": "JPS Connection (Health Care Financial Assistance)",
+      "organization": "JPS Health Network (Tarrant County Hospital District)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Tarrant County program that lowers the cost of care at JPS hospitals and clinics, with low co-pays for visits and medicines.",
+      "description_es": "Un programa del condado de Tarrant que baja el costo de la atención en los hospitales y clínicas de JPS, con copagos bajos para consultas y medicinas.",
+      "eligibility_summary_en": "For uninsured Tarrant County residents with income up to 250% of the federal poverty level. People with Medicare or other insurance under 250% may get extra coverage. If you qualify for Affordable Care Act coverage, you must enroll in that first.",
+      "eligibility_summary_es": "Para residentes del condado de Tarrant sin seguro médico con ingresos de hasta 250% del nivel federal de pobreza. Las personas con Medicare u otro seguro y con ingresos menores al 250% pueden recibir cobertura adicional. Si califica para un seguro de la Ley de Cuidado de Salud a Bajo Precio (ACA), primero debe inscribirse en ese seguro.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 250,
+        "residency_required": "Tarrant County resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Birth certificates for dependent children",
+        "Proof of income (pay stubs, award letters, bank statements)",
+        "Agency award letters (SNAP, TANF, housing, Medicaid/CHIP, SSI, etc.)",
+        "Shelter letter or homeless verification (if homeless)",
+        "Signed Membership Responsibility Form",
+        "IRS Form 4506-C"
+      ],
+      "how_to_apply": "Fill out the application and turn it in with your documents. Apply online (you need a JPS medical record number), by email to enroll@jpshealth.org, by fax to (817) 702-3834, by mail, or in person at an enrollment center.",
+      "how_to_apply_es": "Llene la solicitud y entréguela con sus documentos. Puede solicitar por internet (necesita un número de expediente médico de JPS), por correo electrónico a enroll@jpshealth.org, por fax al (817) 702-3834, por correo o en persona en un centro de inscripción.",
+      "apply_url": "https://ola.veritysource.com/jps",
+      "phone": "(817) 702-1001",
+      "address": "101 W. Allen Ave (JPS Enrollment & Eligibility Center)",
+      "city": "Fort Worth",
+      "zip": "76110",
+      "hours": "Enrollment center Mon-Fri 8 a.m.-6 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese",
+        "Arabic"
+      ],
+      "cost": "Low co-pays",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.jpshealthnet.org/financial-resources/jps-connection",
+      "confidence": "high",
+      "notes": "There are five levels: Connection 1 (homeless, under 21% FPL), Connection 2 (under 100%), Connection 3 (101-250%), and supplements to Medicare or other insurance (under 250%). Enrollment center hours are from the JPS eligibility-enrollment page; other enrollment sites include the JPS hospital admissions office and several health centers. Main JPS line: (817) 702-3431.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "north-texas-area-community-health-centers",
+      "name": "North Texas Area Community Health Centers (FQHC)",
+      "organization": "North Texas Area Community Health Centers, Inc.",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health clinics with primary care for adults and children, women's health, pregnancy support, behavioral health, pharmacy, and vision care. Care is offered to everyone, with payment options for people without insurance.",
+      "description_es": "Clínicas de salud comunitarias con atención médica para adultos y niños, salud de la mujer, apoyo durante el embarazo, salud mental, farmacia y cuidado de los ojos. Atienden a todos, con opciones de pago para personas sin seguro.",
+      "eligibility_summary_en": "Open to everyone, including people without insurance.",
+      "eligibility_summary_es": "Abierto para todos, incluso personas sin seguro médico.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (817) 625-4254 to make an appointment or to ask for a financial assessment.",
+      "how_to_apply_es": "Llame al (817) 625-4254 para hacer una cita o pedir una evaluación financiera.",
+      "apply_url": "https://www.ntachc.org/",
+      "phone": "(817) 625-4254",
+      "address": "2332 Beverly Hills Dr",
+      "city": "Fort Worth",
+      "zip": "76114",
+      "hours": "Beverly Hills: Mon-Thu 7:20 a.m.-7:00 p.m., Fri 7:20 a.m.-6:30 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale and payment options for uninsured patients; financial assessment available",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.ntachc.org/",
+      "confidence": "high",
+      "notes": "Other sites: 2909 Mitchell Blvd, Fort Worth 76105 (Mon-Fri 7:40 a.m.-5:00 p.m.) and 1001 N. Waldrop Dr. Suite 708, Arlington 76012 (Mon-Fri 7:20 a.m.-5:20 p.m.; moved there August 1, 2025).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legal-aid-northwest-texas-fort-worth",
+      "name": "Legal Aid of NorthWest Texas - Fort Worth Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including landlord-tenant problems, family law and custody, public benefits, consumer and job problems, expunctions, wills, and driver license restoration.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos: problemas con el dueño de la vivienda, asuntos de familia y custodia, beneficios públicos, problemas de consumo y de trabajo, limpieza de antecedentes, testamentos y recuperación de la licencia de manejar.",
+      "eligibility_summary_en": "For low-income people in Tarrant, Erath, Hood, Johnson, Palo Pinto, Parker, and Somervell counties who meet basic eligibility rules.",
+      "eligibility_summary_es": "Para personas de bajos ingresos en los condados de Tarrant, Erath, Hood, Johnson, Palo Pinto, Parker y Somervell que cumplen con las reglas básicas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (817) 336-3943, ext. 3, during intake hours, call the Legal Aid Line at 1-888-529-5277, or apply online.",
+      "how_to_apply_es": "Llame al (817) 336-3943, extensión 3, durante el horario de admisión, llame a la línea Legal Aid Line al 1-888-529-5277 o solicite por internet.",
+      "apply_url": "https://legalaidtx.org/get-help/how-to-apply/",
+      "phone": "(817) 336-3943",
+      "address": "600 East Weatherford St.",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": "Phone intake Mon-Wed 8:30-11 a.m. and 1:30-4 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://legalaidtx.org/locations/fort-worth/",
+      "confidence": "high",
+      "notes": "Office hours Mon-Fri 8 a.m.-5 p.m.; phone intake is only Mon-Wed. Landlord-tenant hotline: (855) 548-8457. Toll-free: (800) 955-3959. Disaster help: (817) 339-5391.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "united-way-tarrant-211",
+      "name": "2-1-1 Help Line (Tarrant County)",
+      "organization": "United Way of Tarrant County",
+      "categories": [
+        "food",
+        "housing",
+        "utilities",
+        "cash_assistance"
+      ],
+      "description_en": "A free 24/7 phone line that connects you to local help for food, housing, bills, child care, crisis counseling, and more.",
+      "description_es": "Una línea telefónica gratis, abierta las 24 horas, que le conecta con ayuda local para comida, vivienda, recibos, cuidado de niños, consejería en crisis y más.",
+      "eligibility_summary_en": "Anyone can call.",
+      "eligibility_summary_es": "Cualquier persona puede llamar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Dial 2-1-1 from any phone.",
+      "how_to_apply_es": "Marque 2-1-1 desde cualquier teléfono.",
+      "apply_url": null,
+      "phone": "2-1-1",
+      "address": "201 N. Rupert St., Suite 107",
+      "city": "Fort Worth",
+      "zip": "76107",
+      "hours": "24/7, 365 days a year",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.unitedwaytarrant.org/what-we-do/programs-we-run/2-1-1",
+      "confidence": "high",
+      "notes": "United Way of Tarrant County runs the local 2-1-1 line. You do not have to give your name. The address is United Way's office, not a walk-in help center; there is also an Arlington office at 401 W. Sanford St., Suite 2600. For aging and disability help, call the Area Agency on Aging at (817) 258-8125.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "united-way-tarrant-free-tax-prep",
+      "name": "Free Tax Preparation (VITA)",
+      "organization": "United Way of Tarrant County",
+      "categories": [
+        "cash_assistance"
+      ],
+      "description_en": "Free help filing your taxes so you can get your full refund and tax credits.",
+      "description_es": "Ayuda gratis para preparar su declaración de impuestos, para que reciba su reembolso completo y sus créditos fiscales.",
+      "eligibility_summary_en": "For households earning $69,000 or less.",
+      "eligibility_summary_es": "Para hogares que ganan $69,000 o menos al año.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Book an appointment online through United Way's tax preparation page or call (817) 461-3936. You can also dial 2-1-1 for help finding free tax assistance.",
+      "how_to_apply_es": "Haga una cita por internet en la página de preparación de impuestos de United Way o llame al (817) 461-3936. También puede marcar 2-1-1 para encontrar ayuda gratis con sus impuestos.",
+      "apply_url": "https://www.unitedwaytarrant.org/get-help/tax-preparation",
+      "phone": "(817) 461-3936",
+      "address": "2020 S. Cooper St. (FC Shadow Brook VITA Community Tax Center)",
+      "city": "Arlington",
+      "zip": "76013",
+      "hours": "May 4 through October 15, by appointment only",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.unitedwaytarrant.org/get-help/tax-preparation",
+      "confidence": "high",
+      "notes": "Hours and site are for the current off-season site; more sites usually open during tax season. United Way main line: (817) 258-8000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "area-agency-on-aging-tarrant-county",
+      "name": "Area Agency on Aging of Tarrant County",
+      "organization": "United Way of Tarrant County",
+      "categories": [
+        "food",
+        "housing"
+      ],
+      "description_en": "Help for older adults, people with disabilities, and caregivers. Services include free home changes like ramps and grab bars, meals, Medicare and benefits counseling, caregiver support, and nursing home advocacy.",
+      "description_es": "Ayuda para personas mayores, personas con discapacidad y quienes las cuidan. Ofrece cambios gratis en la casa, como rampas y barras de apoyo, comidas, consejería sobre Medicare y beneficios, apoyo para cuidadores y defensa de residentes de asilos de ancianos.",
+      "eligibility_summary_en": "For older adults, people with disabilities, and their caregivers in Tarrant County.",
+      "eligibility_summary_es": "Para personas mayores, personas con discapacidad y sus cuidadores en el condado de Tarrant.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (817) 258-8125. For meals, call 2-1-1.",
+      "how_to_apply_es": "Llame al (817) 258-8125. Para comidas, llame al 2-1-1.",
+      "apply_url": "https://www.unitedwaytarrant.org/get-help/aging-disability-and-caregivers",
+      "phone": "(817) 258-8125",
+      "address": null,
+      "city": "Fort Worth",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.unitedwaytarrant.org/get-help/aging-disability-and-caregivers",
+      "confidence": "high",
+      "notes": "The page did not state an age limit. Ombudsman (nursing home advocacy) line: (817) 258-8102. Dementia care help is offered through the REACH program.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "catholic-charities-fort-worth",
+      "name": "Catholic Charities Fort Worth Services",
+      "organization": "Catholic Charities Diocese of Fort Worth",
+      "categories": [
+        "transportation",
+        "healthcare",
+        "legal"
+      ],
+      "description_en": "Help with rides, low-cost dental care, financial coaching, case management, pregnancy and parenting support, and immigration and refugee services.",
+      "description_es": "Ayuda con transporte, cuidado dental de bajo costo, orientación financiera, manejo de casos, apoyo durante el embarazo y la crianza, y servicios de inmigración y para refugiados.",
+      "eligibility_summary_en": "Open to people of all faiths; you do not need to be Catholic. Each service has its own rules.",
+      "eligibility_summary_es": "Abierto para personas de todas las religiones; no necesita ser católico. Cada servicio tiene sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (817) 534-0814 or use the Get Help page to reach the service you need.",
+      "how_to_apply_es": "Llame al (817) 534-0814 o use la página Get Help para comunicarse con el servicio que necesita.",
+      "apply_url": "https://catholiccharitiesfortworth.org/help/",
+      "phone": "(817) 534-0814",
+      "address": "249 W Thornhill Dr.",
+      "city": "Fort Worth",
+      "zip": "76115",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies by service; dental is low-cost",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://catholiccharitiesfortworth.org/help/",
+      "confidence": "high",
+      "notes": "Serves the 28-county Diocese of Fort Worth. The official Get Help page did not list rent or utility help, so confirm by phone. Pregnancy support hotline: 1-800-545-5935.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tarrant-county-resource-connection",
+      "name": "Tarrant County Resource Connection",
+      "organization": "Tarrant County",
+      "categories": [
+        "employment",
+        "housing",
+        "healthcare"
+      ],
+      "description_en": "A large campus in Fort Worth where many health, job, education, and human service agencies share one location, including the county housing office, Workforce Solutions, and WIC.",
+      "description_es": "Un campus grande en Fort Worth donde muchas agencias de salud, empleo, educación y servicios sociales están en un solo lugar, incluso la oficina de vivienda del condado, Workforce Solutions y WIC.",
+      "eligibility_summary_en": "For Tarrant County residents. Each agency on campus has its own rules.",
+      "eligibility_summary_es": "Para residentes del condado de Tarrant. Cada agencia del campus tiene sus propias reglas.",
+      "eligibility_rules": {
+        "residency_required": "Tarrant County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit the campus or call (817) 531-7600. Use the online directory to find the agency you need.",
+      "how_to_apply_es": "Visite el campus o llame al (817) 531-7600. Use el directorio por internet para encontrar la agencia que necesita.",
+      "apply_url": "https://www.tarrantcountytx.gov/en/resource-connection.html",
+      "phone": "(817) 531-7600",
+      "address": "1100 Circle Dr.",
+      "city": "Fort Worth",
+      "zip": "76119",
+      "hours": "Mon-Fri 8 a.m.-4:30 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to visit",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.tarrantcountytx.gov/en/resource-connection.html",
+      "confidence": "high",
+      "notes": "The campus is north of I-20, near TCC South Campus, and can be reached by public transit.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

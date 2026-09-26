@@ -1,0 +1,1309 @@
+{
+  "scope": "Greater Houston suburbs (Fort Bend, Montgomery, Brazoria, Galveston counties) - basic needs",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "fort-bend-county-social-services-utility-assistance",
+      "name": "Utility Assistance",
+      "organization": "Fort Bend County Social Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Fort Bend County Social Services can help pay a utility bill when you have a shut-off notice or a bill you must pay. Case workers also help connect you to other benefits.",
+      "description_es": "Servicios Sociales del Condado de Fort Bend puede ayudarle a pagar una factura de luz, gas o agua si tiene un aviso de corte o una factura que debe pagar.",
+      "eligibility_summary_en": "For Fort Bend County residents who meet program guidelines. Anyone 18+ who is not working and not in school must show they are registered with Workforce Solutions/Texas Workforce Commission or have proof of disability.",
+      "eligibility_summary_es": "Para residentes del Condado de Fort Bend que cumplan con las reglas del programa. Toda persona de 18 años o más que no trabaje ni estudie debe mostrar que está registrada en Workforce Solutions/Comisión de la Fuerza Laboral de Texas o tener prueba de discapacidad.",
+      "eligibility_rules": {
+        "residency_required": "Fort Bend County resident"
+      },
+      "documents_needed": [
+        "Social Security card, driver license, or ID for head of household and spouse (metal Social Security cards not accepted)",
+        "Current month's pay stubs (1 if paid monthly, 2 if every two weeks, 4 if weekly)",
+        "Proof of unemployment registration with Workforce Solutions/TWC or proof of disability for adults 18+ not in school",
+        "Termination (shut-off) notice or bill requiring payment",
+        "Receipts for expenses paid in the last 30 days"
+      ],
+      "how_to_apply": "Call the Rosenberg office (281) 238-3502 or the Missouri City office (281) 403-8050 to set up an appointment. Appointments are required.",
+      "how_to_apply_es": "Llame a la oficina de Rosenberg al (281) 238-3502 o a la oficina de Missouri City al (281) 403-8050 para hacer una cita. Se necesita cita.",
+      "apply_url": null,
+      "phone": "(281) 238-3502",
+      "address": "4520 Reading Rd., Suite A-900",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.fortbendcountytx.gov/government/departments/social-services/services/utility-assistance",
+      "confidence": "high",
+      "notes": "Second office: 307 Texas Parkway, Suite 235, Missouri City, TX 77459, (281) 403-8050, Mon-Fri 8am-5pm (closed 12-1pm). Email: SocialServicesInbox@fortbendcountytx.gov. The county does not pay utility deposits, rental deposits, or bills transferred from another address. Contact details verified on the Social Services Contact Us page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "combined-community-action-ceap-fort-bend",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Fort Bend County",
+      "organization": "Combined Community Action, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric, gas, or propane bills. There is also crisis help when your power is off or about to be shut off.",
+      "description_es": "Ayuda a familias de bajos ingresos a pagar la luz, el gas o el propano. También hay ayuda de emergencia si le cortaron la luz o se la van a cortar.",
+      "eligibility_summary_en": "For low-income households in Fort Bend County (the agency also serves other nearby counties). Priority is given to people over 60, people with disabilities, and homes with children under 5.",
+      "eligibility_summary_es": "Para familias de bajos ingresos en el Condado de Fort Bend (la agencia también atiende otros condados). Tienen prioridad las personas mayores de 60 años, personas con discapacidad y hogares con niños menores de 5 años.",
+      "eligibility_rules": {
+        "residency_required": "Fort Bend County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Use the online application linked on ccaction.com (English and Spanish), or call the Stafford office. Call first to ask whether Fort Bend applications are open.",
+      "how_to_apply_es": "Use la solicitud en línea en ccaction.com (en inglés y español) o llame a la oficina de Stafford. Llame primero para preguntar si están aceptando solicitudes de Fort Bend.",
+      "apply_url": "https://www.ccaction.com/",
+      "phone": "(346) 515-1500",
+      "address": "12300 Parc Crest Dr",
+      "city": "Stafford",
+      "zip": "77477",
+      "hours": "Monday-Thursday 8am-5pm, Friday 8am-3pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.ccaction.com/",
+      "confidence": "medium",
+      "notes": "Stafford office (Fort Bend County) confirmed on ccaction.com with hours Mon-Thu 8am-5pm, Fri 8am-3pm; email info@ccaction.com. The homepage does not say whether Fort Bend applications are currently open; earlier research indicated intake was limited to high-priority applicants (60+, disabled, children under 5). Confirm by phone.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-utility-assistance-brazoria-galveston",
+      "name": "Utility Assistance Program (CEAP)",
+      "organization": "BakerRipley",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric, gas, or propane bills for low-income households. It does not pay water bills.",
+      "description_es": "Ayuda a familias de bajos ingresos a pagar la luz, el gas o el propano. No paga facturas de agua.",
+      "eligibility_summary_en": "For households in Harris, Brazoria, or Galveston County with income at or below the program limit (for 2026: $23,940 for 1 person, $32,460 for 2, $40,980 for 3, $49,500 for 4). One application per household per calendar year.",
+      "eligibility_summary_es": "Para hogares en los condados de Harris, Brazoria o Galveston con ingresos iguales o menores al límite del programa (en 2026: $23,940 para 1 persona, $32,460 para 2, $40,980 para 3, $49,500 para 4). Una solicitud por hogar cada año.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Brazoria, Galveston, or Harris County resident"
+      },
+      "documents_needed": [
+        "Social Security card for all household members",
+        "Proof of income from the last 30 days for all household members 18+",
+        "Photo ID (state ID, passport, or matricula consular)",
+        "Proof of citizenship or legal residency (U.S. passport, birth certificate, naturalization certificate, or permanent resident card)",
+        "Current electric, gas, or propane bill"
+      ],
+      "how_to_apply": "Apply online through the BakerRipley portal when applications are open, or call the Utility Assistance Hotline for an in-person appointment.",
+      "how_to_apply_es": "Solicite en línea en el portal de BakerRipley cuando esté abierto, o llame a la línea de ayuda de servicios públicos para pedir una cita en persona.",
+      "apply_url": "https://bakerripley.org/programs-and-services/utility-assistance/",
+      "phone": "(713) 590-2327",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese",
+        "Chinese",
+        "Pashto",
+        "Persian"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://bakerripley.org/programs-and-services/utility-assistance/",
+      "confidence": "high",
+      "notes": "As of Sept 26, 2026 the page said applications were closed and expected to reopen November 9, with in-person appointments starting October 27. Income limits effective Jan 26, 2026 (5 people $58,020; 6 people $66,540). Does not pay water bills. Funding is limited.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bvcap-utility-assistance-montgomery",
+      "name": "Utility Assistance Bill Pay Program (CEAP)",
+      "organization": "Brazos Valley Community Action Programs (BVCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps eligible households pay electric, natural gas, or propane bills.",
+      "description_es": "Ayuda a familias que califican a pagar la luz, el gas natural o el propano.",
+      "eligibility_summary_en": "For low-income households in Montgomery County and other Brazos Valley counties who meet state and federal program rules. You must reapply each year.",
+      "eligibility_summary_es": "Para familias de bajos ingresos en el Condado de Montgomery y otros condados del Valle de Brazos que cumplan las reglas estatales y federales. Hay que volver a solicitar cada año.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Signed application",
+        "Proof of citizenship",
+        "Photo ID for household members over 18",
+        "Proof of income for adults (or Income Declaration form)",
+        "Copy of utility bill(s)",
+        "Utility provider release form if required"
+      ],
+      "how_to_apply": "Apply through the BVCAP online portal, or call to set up an in-person or phone appointment. Applications are by appointment only and reset every January 1.",
+      "how_to_apply_es": "Solicite por el portal en línea de BVCAP, o llame para hacer una cita en persona o por teléfono. Solo se atiende con cita, y las solicitudes empiezan de nuevo cada 1 de enero.",
+      "apply_url": "https://capbv.org/programs/utility-assistance/",
+      "phone": "(979) 595-2850",
+      "address": "4001 E 29th St., Suite 175",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://capbv.org/programs/utility-assistance/",
+      "confidence": "high",
+      "notes": "Serves 10 counties including Montgomery. Main office is in Bryan; no separate Montgomery County office listed. Montgomery fax (936) 856-7069; email bvcapcontact@bvcog.org. Hours not listed. Phone corrected to (979) 595-2850 per official page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gccac-rental-utility-assistance",
+      "name": "Rental and Utility Assistance",
+      "organization": "Greater Coastal Community Action Council (Galveston County Community Action Council)",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Case managers help pay electric, gas, water bills, and rent for families in financial hardship when funds are available.",
+      "description_es": "Los trabajadores sociales ayudan a pagar la luz, el gas, el agua y la renta a familias con problemas de dinero, cuando hay fondos disponibles.",
+      "eligibility_summary_en": "For residents of Brazoria, Fort Bend, Galveston, or Wharton County facing financial hardship. Proof of income is required.",
+      "eligibility_summary_es": "Para residentes de los condados de Brazoria, Fort Bend, Galveston o Wharton que pasan por dificultades económicas. Se necesita prueba de ingresos.",
+      "eligibility_rules": {
+        "residency_required": "Brazoria, Fort Bend, Galveston, or Wharton County resident"
+      },
+      "documents_needed": [
+        "Proof of income"
+      ],
+      "how_to_apply": "Call or email the case managers to ask about help and current funding.",
+      "how_to_apply_es": "Llame o mande un correo a los trabajadores sociales para preguntar por la ayuda y los fondos disponibles.",
+      "apply_url": null,
+      "phone": "(409) 765-7878",
+      "address": "4700 Broadway, Suite C-113",
+      "city": "Galveston",
+      "zip": "77551",
+      "hours": "Case managers available Monday-Thursday 9:00am-3:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Fort Bend",
+        "Galveston"
+      ],
+      "source_url": "https://www.gccac.org/advocacy-groups-programs-and-campaigns/rental-and-utility-assistance",
+      "confidence": "high",
+      "notes": "Help depends on available funding. Email clientsupport@gccac.org. Also serves Wharton County (outside this region file). GCCAC is no longer the CEAP provider: Galveston/Brazoria CEAP goes through BakerRipley, Fort Bend CEAP through Combined Community Action.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "montgomery-county-food-bank",
+      "name": "Montgomery County Food Bank",
+      "organization": "Montgomery County Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank supplies more than 90 partner pantries, drive-thru mobile markets, senior deliveries, and school pantries across Montgomery County. Use their Find Food Map to find food near you.",
+      "description_es": "El banco de comida surte a más de 90 despensas asociadas, mercados móviles en auto, entregas para personas mayores y despensas escolares en todo el Condado de Montgomery. Use su mapa para encontrar comida cerca de usted.",
+      "eligibility_summary_en": "For Montgomery County residents who need food. Each partner pantry may have its own rules.",
+      "eligibility_summary_es": "Para residentes del Condado de Montgomery que necesitan comida. Cada despensa puede tener sus propias reglas.",
+      "eligibility_rules": {
+        "residency_required": "Montgomery County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food Map on mcfoodbank.org to find a partner pantry or mobile market, or call the food bank. Food is not handed out at the warehouse.",
+      "how_to_apply_es": "Use el mapa \"Find Food\" en mcfoodbank.org para encontrar una despensa o mercado móvil, o llame al banco de comida. No se reparte comida en el almacén.",
+      "apply_url": "https://mcfoodbank.org/find-a-food-pantry-partner-agencies-conroe-tx/",
+      "phone": "(936) 271-8800",
+      "address": "1 Food for Life Way",
+      "city": "Conroe",
+      "zip": "77385",
+      "hours": "Office: Monday-Thursday 8am-5pm, Friday 8am-4pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://mcfoodbank.org/find-a-food-pantry-partner-agencies-conroe-tx/",
+      "confidence": "high",
+      "notes": "Mobile markets are drive-thru and serve 150-250 families each. People without transportation can have someone pick up food for them at mobile markets. Food is not handed out at the warehouse. Call ahead to confirm times.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "galveston-county-food-bank",
+      "name": "Galveston County Food Bank On-Site Pantry and Mobile Distributions",
+      "organization": "Galveston County Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free groceries at the on-site pantry in Texas City and at mobile food truck stops around the county. They also offer food packs for kids in summer and help for homebound people.",
+      "description_es": "Comida gratis en la despensa de Texas City y en camiones de comida que visitan distintos lugares del condado. También ofrecen paquetes de comida para niños en el verano y ayuda para personas que no pueden salir de casa.",
+      "eligibility_summary_en": "The on-site pantry is for households that meet TEFAP income guidelines. No ID or documents are needed at mobile distributions.",
+      "eligibility_summary_es": "La despensa en el lugar es para hogares que cumplen con los límites de ingresos de TEFAP. En las distribuciones móviles no se pide identificación ni documentos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the on-site pantry during open hours, or check the mobile calendar on the website for drive-thru distribution sites. Call ahead to confirm hours.",
+      "how_to_apply_es": "Visite la despensa en su horario, o revise el calendario móvil en la página web para ver los lugares de distribución en auto. Llame antes para confirmar el horario.",
+      "apply_url": "https://www.galvestoncountyfoodbank.org/find-help/",
+      "phone": "(409) 945-4232",
+      "address": "624 4th Ave N",
+      "city": "Texas City",
+      "zip": "77590",
+      "hours": "On-site pantry: Tuesday-Thursday 9am-3pm, Friday 9am-2pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://www.galvestoncountyfoodbank.org/find-help/",
+      "confidence": "high",
+      "notes": "Programs include Kidz Pacz (summer food for kids), Homebound Nutritional Outreach, Children's Nutritional Outreach, mobile food trucks, and social services help. Admin office hours Mon-Fri 8am-4pm (624 4th Ave N or 213 6th Street N, Texas City). Someone picking up food for another person needs a proxy letter (English and Spanish versions available).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "brazoria-county-dream-center",
+      "name": "Dream Pantry and Crisis Resources",
+      "organization": "Brazoria County Dream Center (BCDC)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A food pantry in Clute that also delivers food to seniors, sends food home with kids (KidFuel), and offers crisis resources and a technology center.",
+      "description_es": "Una despensa de comida en Clute que también lleva comida a personas mayores, manda comida a casa con los niños (KidFuel) y ofrece recursos para crisis y un centro de computadoras.",
+      "eligibility_summary_en": "For Brazoria County families who need food and support.",
+      "eligibility_summary_es": "Para familias del Condado de Brazoria que necesitan comida y apoyo.",
+      "eligibility_rules": {
+        "residency_required": "Brazoria County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit or call the Dream Center during office hours to ask about the pantry and other programs.",
+      "how_to_apply_es": "Visite o llame al Dream Center en horario de oficina para preguntar por la despensa y otros programas.",
+      "apply_url": "https://www.bcdreamcenter.org/",
+      "phone": "(979) 388-0280",
+      "address": "794 Brazosport Blvd. S",
+      "city": "Clute",
+      "zip": "77531",
+      "hours": "Monday-Thursday 8:30am-5:00pm (closed 12:30-1:30pm for lunch)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Brazoria"
+      ],
+      "source_url": "https://www.bcdreamcenter.org/",
+      "confidence": "high",
+      "notes": "Email info@bcdreamcenter.org. Some directories list the address as 792 Brazosport Blvd S; the official site says 794. Pantry-specific hours may differ from office hours; call ahead.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "brazosport-cares-food-pantry",
+      "name": "Brazosport Cares Food Pantry",
+      "organization": "Brazosport Cares",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free food pantry with locations in Freeport and Sweeny for people in the Brazosport area of Brazoria County.",
+      "description_es": "Despensa de comida gratis con lugares en Freeport y Sweeny para personas del área de Brazosport en el Condado de Brazoria.",
+      "eligibility_summary_en": "For residents of the Brazosport area of Brazoria County.",
+      "eligibility_summary_es": "Para residentes del área de Brazosport en el Condado de Brazoria.",
+      "eligibility_rules": {
+        "residency_required": "Brazosport area, Brazoria County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Go to the Freeport or Sweeny pantry during distribution hours, or call the main office with questions.",
+      "how_to_apply_es": "Vaya a la despensa de Freeport o de Sweeny en su horario de reparto, o llame a la oficina principal si tiene preguntas.",
+      "apply_url": "https://www.brazosportcares.org/",
+      "phone": "(979) 239-1225",
+      "address": "923 N. Ave F",
+      "city": "Freeport",
+      "zip": "77541",
+      "hours": "Freeport pantry: Tuesdays & Thursdays 9am-11:30am; 2nd & 4th Thursday 4pm-6pm. Office: Monday-Thursday 9am-4pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Brazoria"
+      ],
+      "source_url": "https://www.brazosportcares.org/who-we-serve",
+      "confidence": "high",
+      "notes": "Main office: 916 North Gulf Blvd, Freeport, TX 77541. Sweeny pantry: 111 W. Third St., Sweeny, TX 77480, (979) 205-1021, Tuesdays 9:30am-12pm & 2pm-5pm, Wednesdays 9:30am-12pm. Eligibility details and required documents were not listed; call ahead.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-bend-seniors-meals-on-wheels",
+      "name": "Meals on Wheels and Senior Centers",
+      "organization": "Fort Bend Seniors Meals on Wheels",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers free meals to homebound seniors: one hot meal Monday-Wednesday, and on Thursday one hot meal plus 3 frozen meals for Friday-Sunday. Also serves a hot lunch at 6 senior centers in Fort Bend and Waller counties.",
+      "description_es": "Lleva comidas gratis a personas mayores que no pueden salir de casa: una comida caliente de lunes a miércoles, y el jueves una comida caliente más 3 comidas congeladas para el fin de semana. También sirve almuerzo caliente en 6 centros para personas mayores.",
+      "eligibility_summary_en": "For people age 60 or older in Fort Bend or Waller County. There is no income limit. Home delivery is for seniors who are homebound and cannot safely cook.",
+      "eligibility_summary_es": "Para personas de 60 años o más en los condados de Fort Bend o Waller. No hay límite de ingresos. La entrega a domicilio es para personas que no pueden salir de casa ni cocinar solas con seguridad.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true,
+        "residency_required": "Fort Bend or Waller County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "For home-delivered meals, call or fill out the Client Referral form on fortbendseniors.org. To join a senior center, call the Senior Center Coordinator at (281) 633-7058 to register.",
+      "how_to_apply_es": "Para comidas a domicilio, llame o llene el formulario de referencia en fortbendseniors.org. Para ir a un centro, llame a la coordinadora al (281) 633-7058 para registrarse.",
+      "apply_url": "https://fortbendseniors.org/programs-services/",
+      "phone": "(281) 633-7049",
+      "address": "1330 Band Road",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": "Office: Monday-Friday 8am-5pm; senior centers Monday-Friday 9am-12:30pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://fortbendseniors.org/programs-services/",
+      "confidence": "high",
+      "notes": "Senior centers require registration. Mailing address: P.O. Box 1488, Rosenberg, TX 77471.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "katy-christian-ministries-food-pantry",
+      "name": "Katy Food Center (Food Pantry)",
+      "organization": "Katy Christian Ministries",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free groceries through a car food line for registered clients in the Katy area, including parts of Fort Bend County.",
+      "description_es": "Comida gratis por una fila en auto para clientes registrados en el área de Katy, incluyendo partes del Condado de Fort Bend.",
+      "eligibility_summary_en": "For people who live in KCM's service ZIP codes (77084 KISD only, 77094, 77406, 77407, 77423, 77441, 77449, 77450, 77464, 77476, 77485, 77493, 77494) and complete a Social Services assessment.",
+      "eligibility_summary_es": "Para personas que viven en los códigos postales que atiende KCM (77084 solo KISD, 77094, 77406, 77407, 77423, 77441, 77449, 77450, 77464, 77476, 77485, 77493, 77494) y que completen una evaluación de Servicios Sociales.",
+      "eligibility_rules": {
+        "residency_required": "Resident of a Katy-area ZIP code served by KCM"
+      },
+      "documents_needed": [
+        "Completed application",
+        "Copies of documents listed on the KCM application"
+      ],
+      "how_to_apply": "Pick up or download an application, then return it in person to the Social Services office with copies of your documents. An appointment will be scheduled. After you register, use the car food line.",
+      "how_to_apply_es": "Recoja o descargue una solicitud, y llévela en persona a Servicios Sociales con copias de sus documentos. Le darán una cita. Después de registrarse, use la fila de comida en auto.",
+      "apply_url": "https://ktcm.org/foodpantry/",
+      "phone": "(281) 391-3730",
+      "address": "3506 Porter Road",
+      "city": "Katy",
+      "zip": "77493",
+      "hours": "Car food line: Monday-Thursday 8:30am-12pm (registered clients only)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://ktcm.org/contact/",
+      "confidence": "high",
+      "notes": "Also serves Harris and Waller County ZIPs. Visits are limited for people outside the service area. Main line (281) 391-5261.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "katy-christian-ministries-financial-assistance",
+      "name": "Social Services Financial Assistance (Rent, Mortgage, Utilities)",
+      "organization": "Katy Christian Ministries",
+      "categories": [
+        "housing",
+        "utilities",
+        "food"
+      ],
+      "description_en": "Case managers can help with rent, mortgage, and utility bills when grant money is available, and help people apply for SNAP, Medicaid, CHIP, and other benefits.",
+      "description_es": "Los trabajadores sociales pueden ayudar con la renta, la hipoteca y los servicios públicos cuando hay fondos, y ayudan a solicitar SNAP, Medicaid, CHIP y otros beneficios.",
+      "eligibility_summary_en": "For people living in KCM's Katy-area service ZIP codes (77084 KISD only, 77094, 77406, 77407, 77423, 77441, 77449, 77450, 77464, 77476, 77493, 77494) who pass a Social Services assessment.",
+      "eligibility_summary_es": "Para personas que viven en los códigos postales del área de Katy que atiende KCM (77084 solo KISD, 77094, 77406, 77407, 77423, 77441, 77449, 77450, 77464, 77476, 77493, 77494) y que pasen una evaluación de Servicios Sociales.",
+      "eligibility_rules": {
+        "residency_required": "Resident of a Katy-area ZIP code served by KCM"
+      },
+      "documents_needed": [
+        "Completed Financial Assistance application",
+        "Copies of documents listed on the application"
+      ],
+      "how_to_apply": "Download the application, bring it back in person with copies of your documents, then schedule an appointment. No walk-in financial assistance.",
+      "how_to_apply_es": "Descargue la solicitud, llévela en persona con copias de sus documentos y haga una cita. No se da ayuda económica sin cita.",
+      "apply_url": "https://ktcm.org/social-services/",
+      "phone": "(281) 391-9623",
+      "address": "3506 Porter Road",
+      "city": "Katy",
+      "zip": "77493",
+      "hours": "Monday-Thursday 9am-11:45am and 1pm-4:15pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://ktcm.org/social-services/",
+      "confidence": "high",
+      "notes": "Financial help only when grant funds are available. Also offers free mental health counseling ((281) 391-5261 ext. 209) and veterans help (Help-A-Hero, (281) 712-8314). KCM 24/7 domestic violence hotline: (281) 391-4357; sexual assault hotline: (281) 693-7273.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "interfaith-of-the-woodlands-food-pantry",
+      "name": "Food Pantry",
+      "organization": "Interfaith of The Woodlands",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Offers a food pantry, weekend food backpacks for kids during the school year, grocery delivery for homebound seniors, mobile pantry market days, and community gardens.",
+      "description_es": "Ofrece una despensa de comida, mochilas con comida para niños los fines de semana durante el año escolar, entrega de víveres a personas mayores que no pueden salir de casa, mercados móviles y huertos comunitarios.",
+      "eligibility_summary_en": "For individuals and families facing food insecurity in The Woodlands area.",
+      "eligibility_summary_es": "Para personas y familias que no tienen suficiente comida en el área de The Woodlands.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Interfaith of The Woodlands or visit the office to ask for help.",
+      "how_to_apply_es": "Llame a Interfaith of The Woodlands o visite la oficina para pedir ayuda.",
+      "apply_url": "https://woodlandsinterfaith.org/programs-services/food-pantry/",
+      "phone": "(281) 367-1230",
+      "address": "4242 Interfaith Way",
+      "city": "The Woodlands",
+      "zip": "77381",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://woodlandsinterfaith.org/programs-services/food-pantry/",
+      "confidence": "medium",
+      "notes": "Programs: Nutrition Every Weekend (kids' backpacks), Seniors Eating Well (grocery delivery), On The Go Market Days (mobile pantry), Veggie Village. Hours, exact service-area ZIP codes, and required documents were not listed; call first.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-assistance-center-montgomery-county",
+      "name": "Basic Needs Crisis Help and Client Choice Food Pantry",
+      "organization": "Community Assistance Center (CAC)",
+      "categories": [
+        "food",
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Helps Montgomery County neighbors with a client-choice food pantry, basic needs crisis help, utility assistance, clothing vouchers, and permanent supportive housing.",
+      "description_es": "Ayuda a vecinos del Condado de Montgomery con una despensa donde usted escoge su comida, ayuda en crisis para necesidades básicas, ayuda con servicios públicos, vales de ropa y vivienda de apoyo permanente.",
+      "eligibility_summary_en": "For Montgomery County residents in need. Rules vary by program; call to ask.",
+      "eligibility_summary_es": "Para residentes del Condado de Montgomery que necesitan ayuda. Las reglas cambian según el programa; llame para preguntar.",
+      "eligibility_rules": {
+        "residency_required": "Montgomery County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the appointment line at (936) 539-9211 or use the appointments page on the CAC website.",
+      "how_to_apply_es": "Llame a la línea de citas al (936) 539-9211 o use la página de citas en la página web de CAC.",
+      "apply_url": "https://cac-mctx.org/",
+      "phone": "(936) 539-9211",
+      "address": "1022 McCall Ave",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://cac-mctx.org/",
+      "confidence": "medium",
+      "notes": "Business line (936) 539-1096; email info@cac-mctx.org. Eligibility and hours were not listed on the official site; call first.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-bend-womens-center",
+      "name": "Emergency Shelter and 24-Hour Crisis Hotline",
+      "organization": "Fort Bend Women's Center",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Free, confidential emergency shelter, a 24-hour hotline, counseling, and legal advocacy for survivors of domestic violence and sexual assault and their children.",
+      "description_es": "Refugio de emergencia gratis y confidencial, línea de ayuda las 24 horas, consejería y apoyo legal para sobrevivientes de violencia doméstica y agresión sexual, y sus hijos.",
+      "eligibility_summary_en": "For survivors of domestic violence or sexual assault of any gender, and their children. No one is turned away.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica o agresión sexual de cualquier género, y sus hijos. No se rechaza a nadie.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at (281) 342-4357 for help or shelter.",
+      "how_to_apply_es": "Llame a la línea de ayuda de 24 horas al (281) 342-4357 para pedir ayuda o refugio.",
+      "apply_url": null,
+      "phone": "(281) 342-4357",
+      "address": "501 East Hwy 90A",
+      "city": "Richmond",
+      "zip": "77406",
+      "hours": "Hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.fbwc.org/",
+      "confidence": "high",
+      "notes": "Address is the office (P.O. Box 183, Richmond, TX 77406); the shelter location is confidential. Office line (281) 344-5750; crisis email help@fbwc.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "montgomery-county-womens-center",
+      "name": "Domestic Violence and Sexual Assault Shelter and Hotline",
+      "organization": "Montgomery County Women's Center",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "24-hour hotline, emergency shelter, counseling, advocacy, legal services, and transitional housing for survivors of domestic violence and sexual assault.",
+      "description_es": "Línea de ayuda las 24 horas, refugio de emergencia, consejería, apoyo, servicios legales y vivienda de transición para sobrevivientes de violencia doméstica y agresión sexual.",
+      "eligibility_summary_en": "For survivors of domestic violence or sexual assault in Montgomery County.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica o agresión sexual en el Condado de Montgomery.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at (936) 441-7273.",
+      "how_to_apply_es": "Llame a la línea de ayuda de 24 horas al (936) 441-7273.",
+      "apply_url": null,
+      "phone": "(936) 441-7273",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Hotline 24 hours",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Not stated (contact provider)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.mcwctx.org/",
+      "confidence": "medium",
+      "notes": "24-hour hotline, shelter, counseling and support groups, advocacy, legal services, and transitional housing (Reaching Pines) confirmed on mcwctx.org. Office address and cost were not shown on the official homepage; call the hotline.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "galveston-housing-authority",
+      "name": "Public Housing and Housing Choice Vouchers",
+      "organization": "Galveston Housing Authority (GHA)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Runs public housing and Housing Choice Vouchers (Section 8) that help low-income families pay rent in Galveston.",
+      "description_es": "Maneja vivienda pública y vales de vivienda (Sección 8) que ayudan a familias de bajos ingresos a pagar la renta en Galveston.",
+      "eligibility_summary_en": "For low-income households; waiting lists open only at certain times. The public housing list was listed as open for elderly applicants only.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos; las listas de espera solo se abren en ciertas fechas. La lista de vivienda pública estaba abierta solo para personas mayores.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the GHA portal when a waiting list is open. You can sign up to be notified when lists open.",
+      "how_to_apply_es": "Solicite en línea por el portal de GHA cuando una lista de espera esté abierta. Puede inscribirse para recibir aviso cuando se abran las listas.",
+      "apply_url": "https://ghatx.myhousing.com/",
+      "phone": "(409) 765-1900",
+      "address": null,
+      "city": "Galveston",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Rent based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://www.ghatx.org/",
+      "confidence": "medium",
+      "notes": "As of Sept 26, 2026 the site said the Public Housing waiting list opened Aug 5, 2026 (9am-4pm daily) and remains open for elderly applicants only. You can sign up on the site to be notified when waiting lists open. Keep your email and phone updated in the Applicant Portal. Housing Choice Voucher list status was not shown.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "conroe-connection-half-fare",
+      "name": "Conroe Connection Half-Fare Transit Card",
+      "organization": "City of Conroe Transit (Conroe Connection)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Seniors, Medicare card holders, people with disabilities, and students can ride Conroe Connection city buses for half price ($0.50 instead of $1.00). The first card is free.",
+      "description_es": "Personas mayores, personas con Medicare, personas con discapacidad y estudiantes pueden viajar en los autobuses de Conroe Connection a mitad de precio ($0.50 en vez de $1.00). La primera tarjeta es gratis.",
+      "eligibility_summary_en": "For seniors 65+, Medicare card holders, certified ADA paratransit riders, people with disabilities who get SSDI, SSI, or VA benefits, and students ages 13-18.",
+      "eligibility_summary_es": "Para personas de 65 años o más, personas con tarjeta de Medicare, usuarios certificados de paratránsito ADA, personas con discapacidad que reciben SSDI, SSI o beneficios de VA, y estudiantes de 13 a 18 años.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Completed Half-Fare application (short or long form, English or Spanish)",
+        "Government-issued photo ID (or school ID for students)",
+        "Medicare card (if using Medicare to qualify)",
+        "Social Security or VA papers showing disability (if using disability to qualify)"
+      ],
+      "how_to_apply": "Bring the completed form and your ID to the Conroe Transportation Department. Show your card, student ID, Texas ID, or paratransit ID every time you board.",
+      "how_to_apply_es": "Lleve el formulario lleno y su identificación al Departamento de Transporte de Conroe. Muestre su tarjeta o identificación cada vez que suba al autobús.",
+      "apply_url": "https://www.cityofconroe.org/services/transit/transit_fares.php",
+      "phone": "(936) 522-3532",
+      "address": "202 Avenue A",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": "Monday-Thursday 7:30am-5:30pm; Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "First card free; replacement $5. Half fare $0.50 one-way",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.cityofconroe.org/services/transit/transit_fares.php",
+      "confidence": "high",
+      "notes": "Starting Sept 2, 2026, in-person transit services moved temporarily to 202 Avenue A, Conroe (the application form still lists an older address). City main line (936) 522-3000. Replacement card $5. CityRides Commuter (Route 291) discounted fare $4 one-way.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "conroe-connection-ada-paratransit",
+      "name": "Conroe Connection ADA Paratransit",
+      "organization": "City of Conroe Transit (Conroe Connection)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared rides for people with disabilities who cannot use the regular city bus, within 3/4 mile of Conroe bus routes. Fare is $2.00 one-way.",
+      "description_es": "Viajes compartidos para personas con discapacidad que no pueden usar el autobús regular, a menos de 3/4 de milla de las rutas de Conroe. Cuesta $2.00 por viaje.",
+      "eligibility_summary_en": "For people whose disability keeps them from using the fixed-route bus. A health care professional must certify the application.",
+      "eligibility_summary_es": "Para personas que por su discapacidad no pueden usar el autobús de ruta fija. Un profesional de salud debe firmar la solicitud.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "ADA paratransit application with health care professional certification"
+      ],
+      "how_to_apply": "Email the completed ADA application to Transit@cityofconroe.org. Once approved, book rides from 7 days ahead up to the day before.",
+      "how_to_apply_es": "Mande la solicitud ADA llena por correo electrónico a Transit@cityofconroe.org. Cuando la aprueben, reserve sus viajes desde 7 días antes hasta el día anterior.",
+      "apply_url": "https://www.cityofconroe.org/services/transit/paratransit.php",
+      "phone": "(936) 522-3532",
+      "address": "202 Avenue A",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": "Office: Monday-Thursday 7:30am-5:30pm; Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "$2.00 one-way; companions pay the same fare; personal care attendants ride free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.cityofconroe.org/services/transit/paratransit.php",
+      "confidence": "high",
+      "notes": "Both pickup and drop-off must be within 3/4 mile of Conroe fixed routes. Decisions are sent in writing. Office temporarily at 202 Avenue A starting Sept 2, 2026. City main line (936) 522-3000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-bend-transit-demand-response",
+      "name": "Fort Bend Transit Demand Response Service",
+      "organization": "Fort Bend County Public Transportation",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Curb-to-curb shared rides anywhere in Fort Bend County for work, shopping, medical appointments, or other trips. Open to the general public, seniors, and people with disabilities.",
+      "description_es": "Viajes compartidos de acera a acera en todo el Condado de Fort Bend para ir al trabajo, de compras, a citas médicas u otros lugares. Abierto a todo el público, personas mayores y personas con discapacidad.",
+      "eligibility_summary_en": "Open to the public for trips within Fort Bend County. Children 13 and younger must ride with someone 18 or older.",
+      "eligibility_summary_es": "Abierto al público para viajes dentro del Condado de Fort Bend. Los niños de 13 años o menos deben ir con alguien de 18 años o más.",
+      "eligibility_rules": {
+        "residency_required": "Trips within Fort Bend County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 866-751-TRIP (8747), Monday-Friday 8am-4pm, to book a ride 1 to 10 business days ahead.",
+      "how_to_apply_es": "Llame al 866-751-TRIP (8747), de lunes a viernes de 8am a 4pm, para reservar un viaje de 1 a 10 días hábiles antes.",
+      "apply_url": "https://www.fortbendcountytx.gov/government/departments/public-transportation/services/demand-response-service",
+      "phone": "(281) 633-7433",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Reservations Monday-Friday 8:00am-4:00pm; service Monday-Friday, last pickup 5:00pm; no service on county holidays",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fare not stated on source; ask when booking",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.fortbendcountytx.gov/government/departments/public-transportation/services/demand-response-service",
+      "confidence": "high",
+      "notes": "Also 281-633-RIDE (7433). Curb-to-curb; people with disabilities can ask for hand-to-hand service. Cancel before 4pm the business day before. Six no-shows or late cancels in 90 days leads to a 30-day suspension. Fares were not shown on this page; ask when booking.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gulf-coast-transit-district-microtransit",
+      "name": "Connect Transit Micro-Transit",
+      "organization": "Gulf Coast Transit District (GCTD)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "On-demand shared rides in Brazoria and Galveston counties, booked by app or phone. Seniors, students, and people with disabilities pay $0.50 in-zone.",
+      "description_es": "Viajes compartidos a pedido en los condados de Brazoria y Galveston, que se reservan por aplicación o por teléfono. Personas mayores, estudiantes y personas con discapacidad pagan $0.50 dentro de su zona.",
+      "eligibility_summary_en": "Open to the public in GCTD service zones in Brazoria and Galveston counties. Reduced fare for seniors, students, and people with disabilities.",
+      "eligibility_summary_es": "Abierto al público en las zonas de servicio de GCTD en los condados de Brazoria y Galveston. Tarifa reducida para personas mayores, estudiantes y personas con discapacidad.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Download the free 'Gulf Coast Transit District' app or call the scheduling team to book a trip. Trips outside your zone need 48 hours' notice.",
+      "how_to_apply_es": "Descargue la aplicación gratis \"Gulf Coast Transit District\" o llame para reservar. Los viajes fuera de su zona necesitan 48 horas de aviso.",
+      "apply_url": "https://www.gulfcoasttransitdistrict.com/microtansit",
+      "phone": "(800) 266-2320",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Saturday 6am-8pm; closed Sunday",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$1.00 in-zone; $0.50 seniors/students/disabled; children 6 and under free; outside zone $2.00 first 10 miles + $0.25/mile",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.gulfcoasttransitdistrict.com/microtansit",
+      "confidence": "high",
+      "notes": "Drivers do not carry change. Veterans door-to-door service to Michael E. DeBakey VA Hospital ($3.50 one-way, Mon-Fri 6am-6pm, book 48 hours ahead). Park & Ride from Texas City ($2.00) and League City ($4.00), Mon-Fri 4:50am-8:20pm. Email customerservice@gulfcoasttransitdistrict.com. Street address not confirmed on this page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "brazos-transit-district-montgomery-demand-response",
+      "name": "Brazos Transit District Demand & Response (Montgomery County)",
+      "organization": "Brazos Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared curb-to-curb rides for anyone in rural parts of Montgomery County outside the urban area, plus a free Town Center Trolley in The Woodlands.",
+      "description_es": "Viajes compartidos de acera a acera en las partes rurales del Condado de Montgomery, y un tranvía gratis (Town Center Trolley) en The Woodlands.",
+      "eligibility_summary_en": "Demand & Response rides are only for trips outside the urbanized area of Montgomery County. An application is required.",
+      "eligibility_summary_es": "Los viajes a pedido son solo para viajes fuera del área urbana del Condado de Montgomery. Se necesita llenar una solicitud.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Fill out the Demand & Response application from btd.org, then book online or call customer service at ext. 7008.",
+      "how_to_apply_es": "Llene la solicitud de Demand & Response en btd.org y luego reserve en línea o llame a servicio al cliente, extensión 7008.",
+      "apply_url": "https://www.btd.org/montgomery-county/",
+      "phone": "(979) 778-0607",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "General public $3.50 one-way within county; $4.00 crossing 1 county; Town Center Trolley free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.btd.org/montgomery-county/",
+      "confidence": "high",
+      "notes": "Customer service (979) 778-0607 ext. 7008. Language help, large print, or braille: (800) 272-0039. Town Center Trolley (free): Mon-Thu 11am-9pm, Fri-Sat 10am-10pm, Sun 11am-6pm; info (281) 210-3800. Drivers do not make change. Senior/disabled Demand & Response rates not listed online; call.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tri-county-behavioral-healthcare-crisis",
+      "name": "Crisis Services and Psychiatric Emergency Treatment Center",
+      "organization": "Tri-County Behavioral Healthcare",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The local mental health authority for Montgomery County. Offers a 24/7 crisis line and a walk-in crisis center open 24 hours a day in Conroe.",
+      "description_es": "La autoridad local de salud mental del Condado de Montgomery. Tiene una línea de crisis las 24 horas y un centro de crisis en Conroe abierto día y noche, sin cita.",
+      "eligibility_summary_en": "For people in Montgomery, Liberty, and Walker counties having a mental health crisis.",
+      "eligibility_summary_es": "Para personas en los condados de Montgomery, Liberty y Walker que están pasando por una crisis de salud mental.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 crisis line or walk in to the Psychiatric Emergency Treatment Center.",
+      "how_to_apply_es": "Llame a la línea de crisis de 24 horas o vaya sin cita al Centro de Tratamiento de Emergencia Psiquiátrica.",
+      "apply_url": null,
+      "phone": "(800) 659-6994",
+      "address": "706 FM 2854",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": "24 hours a day, 365 days a year",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale for people without insurance; co-pays as low as $0",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://tcbhc.org/services/crisis-services/",
+      "confidence": "high",
+      "notes": "Psychiatric Emergency Treatment Center (PETC) direct line (936) 538-1102. FM 2854 is also called Old Montgomery Road/Metcalf Street. Call or text 988 for the Suicide & Crisis Lifeline.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texana-center-fort-bend",
+      "name": "Mental Health, Crisis, and IDD Services",
+      "organization": "Texana Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The local mental health authority for Fort Bend County. Offers a 24/7 crisis hotline, adult and youth mental health care, autism and developmental disability services, and Early Childhood Intervention.",
+      "description_es": "La autoridad local de salud mental del Condado de Fort Bend. Ofrece una línea de crisis las 24 horas, atención de salud mental para adultos y jóvenes, servicios para autismo y discapacidades del desarrollo, e Intervención Temprana (ECI).",
+      "eligibility_summary_en": "For residents of Fort Bend, Austin, Colorado, Matagorda, Waller, and Wharton counties.",
+      "eligibility_summary_es": "Para residentes de los condados de Fort Bend, Austin, Colorado, Matagorda, Waller y Wharton.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number to get services, or the 24/7 crisis hotline in an emergency.",
+      "how_to_apply_es": "Llame al número principal para pedir servicios, o a la línea de crisis de 24 horas en una emergencia.",
+      "apply_url": null,
+      "phone": "(281) 239-1300",
+      "address": "2330 Graeber Road",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Not stated (contact provider)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.texanacenter.com/",
+      "confidence": "high",
+      "notes": "24/7 Mental Health Crisis Hotline: (800) 633-5686. Call or text 988 for the Suicide & Crisis Lifeline.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "gulf-coast-center-mental-health",
+      "name": "Mental Health Services",
+      "organization": "Gulf Coast Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The local mental health authority for Galveston and Brazoria counties. Offers a 24-hour crisis hotline and same-day or next-day mental health visits for adults and youth.",
+      "description_es": "La autoridad local de salud mental de los condados de Galveston y Brazoria. Tiene una línea de crisis las 24 horas y consultas de salud mental el mismo día o el siguiente para adultos y jóvenes.",
+      "eligibility_summary_en": "For residents of Galveston and Brazoria counties. Youth services are for ages 3-17.",
+      "eligibility_summary_es": "Para residentes de los condados de Galveston y Brazoria. Los servicios para jóvenes son para edades de 3 a 17 años.",
+      "eligibility_rules": {
+        "residency_required": "Galveston or Brazoria County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in Monday-Friday for same-day/next-day intake (adults 8-10:15am and 12:30-2:45pm) or call the appointment line.",
+      "how_to_apply_es": "Vaya sin cita de lunes a viernes para una consulta el mismo día o el siguiente (adultos de 8 a 10:15am y de 12:30 a 2:45pm), o llame a la línea de citas.",
+      "apply_url": null,
+      "phone": "(800) 643-0967",
+      "address": "7510 FM 1765",
+      "city": "Texas City",
+      "zip": "77591",
+      "hours": "Walk-in intake Monday-Friday: adults 8:00-10:15am and 12:30-2:45pm; youth 8:00-9:45am and 12:30-2:15pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "See provider fee schedule",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Galveston",
+        "Brazoria"
+      ],
+      "source_url": "https://gulfcoastcenter.org/mentalhealth/",
+      "confidence": "high",
+      "notes": "24-Hour Crisis Hotline: (866) 729-3848. Other adult clinics: 4700 Broadway #100, Galveston 77550; 101 Brennen Ln, Alvin 77511; 101 Tigner Rd, Angleton 77515. Youth clinics: 3201 FM 2004, Texas City 77591; 101 Tigner Rd, Angleton.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-family-health-center",
+      "name": "Lone Star Family Health Center",
+      "organization": "Lone Star Family Health Center",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A federally qualified health center with family medicine, OB-GYN, dental, behavioral health, pharmacy, lab, and X-ray. Offers a sliding fee discount.",
+      "description_es": "Un centro de salud comunitario con medicina familiar, ginecología y obstetricia, dental, salud mental, farmacia, laboratorio y rayos X. Ofrece descuentos según sus ingresos.",
+      "eligibility_summary_en": "Open to everyone in the greater Conroe area; fees can be lowered based on income through the sliding fee program.",
+      "eligibility_summary_es": "Abierto a todos en el área de Conroe; el costo puede bajar según sus ingresos con el programa de descuento.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment at one of the sites in Conroe, Grangerland, Magnolia, Spring, Willis, or Huntsville.",
+      "how_to_apply_es": "Llame para hacer una cita en uno de los centros en Conroe, Grangerland, Magnolia, Spring, Willis o Huntsville.",
+      "apply_url": null,
+      "phone": "(936) 539-4004",
+      "address": null,
+      "city": "Conroe",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.lonestarfamily.org/",
+      "confidence": "high",
+      "notes": "Six sites (Conroe, Grangerland, Huntsville, Magnolia, Spring, Willis); street addresses not on homepage. After hours, call the same number. 'Hablamos Español.'",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "montgomery-county-public-health-clinic",
+      "name": "Public Health Clinic",
+      "organization": "Montgomery County Public Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Provides childhood and adult shots, TB testing and treatment, HIV testing, and STD testing and treatment.",
+      "description_es": "Ofrece vacunas para niños y adultos, pruebas y tratamiento de tuberculosis, pruebas de VIH, y pruebas y tratamiento de enfermedades de transmisión sexual.",
+      "eligibility_summary_en": "For Montgomery County residents.",
+      "eligibility_summary_es": "Para residentes del Condado de Montgomery.",
+      "eligibility_rules": {
+        "residency_required": "Montgomery County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the clinic during business hours.",
+      "how_to_apply_es": "Llame o visite la clínica en horario de oficina.",
+      "apply_url": null,
+      "phone": "(936) 523-5020",
+      "address": "1300 South Loop 336 West",
+      "city": "Conroe",
+      "zip": "77304",
+      "hours": "Monday-Friday 8am-5pm (closed 12-1pm)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Not stated (contact provider)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.mcphd-tx.org/",
+      "confidence": "high",
+      "notes": "The site refers residents needing health care help to the county Indigent Care / Health Care Assistance Program (HCAP).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-legal-aid-houston-suburbs",
+      "name": "Free Civil Legal Aid",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free lawyers for low-income people with civil problems such as evictions, housing, and public benefits.",
+      "description_es": "Abogados gratis para personas de bajos ingresos con problemas civiles, como desalojos, vivienda y beneficios públicos.",
+      "eligibility_summary_en": "For low-income people who meet financial and legal status rules. Civil cases only (not criminal).",
+      "eligibility_summary_es": "Para personas de bajos ingresos que cumplan las reglas de ingresos y estatus legal. Solo casos civiles (no penales).",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online 24/7 or call the toll-free intake line.",
+      "how_to_apply_es": "Solicite en línea a cualquier hora o llame a la línea gratuita.",
+      "apply_url": "https://lslaoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend",
+        "Montgomery",
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "confidence": "high",
+      "notes": "The Conroe, Galveston, and Richmond offices have closed, but LSLA still serves those counties by phone and online. The Clute office serves Brazoria County. Main office: 1415 Fannin St, Houston, (713) 652-0077.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-conroe",
+      "name": "Workforce Solutions Conroe Career Office",
+      "organization": "Workforce Solutions (Gulf Coast Workforce Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, job training scholarships, and child care financial aid for working parents and people in school or training.",
+      "description_es": "Ayuda gratis para buscar trabajo, becas para capacitación laboral y ayuda para pagar el cuidado de niños para padres que trabajan o estudian.",
+      "eligibility_summary_en": "Job search help is open to anyone. Child care aid and training have their own income and work/school rules.",
+      "eligibility_summary_es": "La ayuda para buscar trabajo es para todos. La ayuda para cuidado de niños y la capacitación tienen sus propias reglas de ingresos, trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office or call. You can also call the main line 1-888-469-JOBS (5627).",
+      "how_to_apply_es": "Visite la oficina o llame. También puede llamar a la línea principal 1-888-469-JOBS (5627).",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(936) 441-0037",
+      "address": "Interstate 45 N #2218",
+      "city": "Conroe",
+      "zip": "77301",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Main line 1-888-469-5627. Workforce Solutions serves the whole 13-county Gulf Coast region; any office can help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rosenberg",
+      "name": "Workforce Solutions Rosenberg Career Office",
+      "organization": "Workforce Solutions (Gulf Coast Workforce Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, job training scholarships, and child care financial aid for working parents and people in school or training.",
+      "description_es": "Ayuda gratis para buscar trabajo, becas para capacitación laboral y ayuda para pagar el cuidado de niños para padres que trabajan o estudian.",
+      "eligibility_summary_en": "Job search help is open to anyone. Child care aid and training have their own income and work/school rules.",
+      "eligibility_summary_es": "La ayuda para buscar trabajo es para todos. La ayuda para cuidado de niños y la capacitación tienen sus propias reglas de ingresos, trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office or call. You can also call the main line 1-888-469-JOBS (5627).",
+      "how_to_apply_es": "Visite la oficina o llame. También puede llamar a la línea principal 1-888-469-JOBS (5627).",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(281) 344-0279",
+      "address": "28000 SW Freeway Suite D",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Main line 1-888-469-5627. Workforce Solutions serves the whole 13-county Gulf Coast region; any office can help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-katy",
+      "name": "Workforce Solutions Katy Career Office",
+      "organization": "Workforce Solutions (Gulf Coast Workforce Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, job training scholarships, and child care financial aid for working parents and people in school or training.",
+      "description_es": "Ayuda gratis para buscar trabajo, becas para capacitación laboral y ayuda para pagar el cuidado de niños para padres que trabajan o estudian.",
+      "eligibility_summary_en": "Job search help is open to anyone. Child care aid and training have their own income and work/school rules.",
+      "eligibility_summary_es": "La ayuda para buscar trabajo es para todos. La ayuda para cuidado de niños y la capacitación tienen sus propias reglas de ingresos, trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office or call. You can also call the main line 1-888-469-JOBS (5627).",
+      "how_to_apply_es": "Visite la oficina o llame. También puede llamar a la línea principal 1-888-469-JOBS (5627).",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(281) 644-1030",
+      "address": "24025 Katy Freeway Suite D1",
+      "city": "Katy",
+      "zip": "77494",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Main line 1-888-469-5627. Workforce Solutions serves the whole 13-county Gulf Coast region; any office can help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-texas-city",
+      "name": "Workforce Solutions Texas City Career Office",
+      "organization": "Workforce Solutions (Gulf Coast Workforce Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, job training scholarships, and child care financial aid for working parents and people in school or training.",
+      "description_es": "Ayuda gratis para buscar trabajo, becas para capacitación laboral y ayuda para pagar el cuidado de niños para padres que trabajan o estudian.",
+      "eligibility_summary_en": "Job search help is open to anyone. Child care aid and training have their own income and work/school rules.",
+      "eligibility_summary_es": "La ayuda para buscar trabajo es para todos. La ayuda para cuidado de niños y la capacitación tienen sus propias reglas de ingresos, trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office or call. You can also call the main line 1-888-469-JOBS (5627).",
+      "how_to_apply_es": "Visite la oficina o llame. También puede llamar a la línea principal 1-888-469-JOBS (5627).",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(409) 949-9055",
+      "address": "10000 Emmett F. Lowry Expressway Suite 1260",
+      "city": "Texas City",
+      "zip": "77591",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Main line 1-888-469-5627. Workforce Solutions serves the whole 13-county Gulf Coast region; any office can help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lake-jackson",
+      "name": "Workforce Solutions Lake Jackson Career Office",
+      "organization": "Workforce Solutions (Gulf Coast Workforce Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, job training scholarships, and child care financial aid for working parents and people in school or training.",
+      "description_es": "Ayuda gratis para buscar trabajo, becas para capacitación laboral y ayuda para pagar el cuidado de niños para padres que trabajan o estudian.",
+      "eligibility_summary_en": "Job search help is open to anyone. Child care aid and training have their own income and work/school rules.",
+      "eligibility_summary_es": "La ayuda para buscar trabajo es para todos. La ayuda para cuidado de niños y la capacitación tienen sus propias reglas de ingresos, trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office or call. You can also call the main line 1-888-469-JOBS (5627).",
+      "how_to_apply_es": "Visite la oficina o llame. También puede llamar a la línea principal 1-888-469-JOBS (5627).",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(979) 297-6400",
+      "address": "206 Highway 332 W",
+      "city": "Lake Jackson",
+      "zip": "77566",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Main line 1-888-469-5627. Workforce Solutions serves the whole 13-county Gulf Coast region; any office can help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-pearland",
+      "name": "Workforce Solutions Pearland Career Office",
+      "organization": "Workforce Solutions (Gulf Coast Workforce Board)",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, job training scholarships, and child care financial aid for working parents and people in school or training.",
+      "description_es": "Ayuda gratis para buscar trabajo, becas para capacitación laboral y ayuda para pagar el cuidado de niños para padres que trabajan o estudian.",
+      "eligibility_summary_en": "Job search help is open to anyone. Child care aid and training have their own income and work/school rules.",
+      "eligibility_summary_es": "La ayuda para buscar trabajo es para todos. La ayuda para cuidado de niños y la capacitación tienen sus propias reglas de ingresos, trabajo o estudio.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the office or call. You can also call the main line 1-888-469-JOBS (5627).",
+      "how_to_apply_es": "Visite la oficina o llame. También puede llamar a la línea principal 1-888-469-JOBS (5627).",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(832) 409-0049",
+      "address": "5730 W. Broadway Ste 122",
+      "city": "Pearland",
+      "zip": "77581",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazoria"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Main line 1-888-469-5627. Workforce Solutions serves the whole 13-county Gulf Coast region; any office can help.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,1905 @@
+{
+  "scope": "food",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "texas-snap",
+      "name": "SNAP Food Benefits (Supplemental Nutrition Assistance Program)",
+      "organization": "Texas Health and Human Services Commission (HHSC)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "SNAP gives money each month on a Lone Star Card to buy food at grocery stores and other approved stores.",
+      "eligibility_summary_en": "For Texas households with low income. The monthly gross income limit shown by HHSC is $2,152 for 1 person and $4,421 for a family of 4 (add $757 per extra person).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 165,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income",
+        "Proof of address"
+      ],
+      "how_to_apply": "Apply online at YourTexasBenefits.com, or call 2-1-1 (option 2) for help or a paper application. You can also apply at a local HHS benefits office.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/food/snap-food-benefits",
+      "confidence": "high",
+      "notes": "HHSC income table: $2,152/month for 1 person, $4,421 for 4, $7,446 for 8 (about 165% FPL; table may update Oct 1 for the new federal fiscal year). Since April 1, 2026 (SB 379), SNAP cannot buy candy or sweetened drinks with 5g+ added sugar or any artificial sweetener. Adults 18-64 without dependents under 14 face a 3-month time limit unless they work/train 80 hrs/month or are exempt. Language/disability help line: (877) 541-7905. Food banks can help people apply."
+    },
+    {
+      "id": "texas-snap-tsap",
+      "name": "Texas Simplified Application Project (TSAP) for SNAP",
+      "organization": "Texas Health and Human Services Commission (HHSC)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A simpler way for older adults and people with disabilities to get SNAP food benefits, with benefits approved for 3 years at a time.",
+      "eligibility_summary_en": "All household members must be 60 or older or receive disability payments, and no one in the home has job income.",
+      "eligibility_rules": {
+        "senior": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Proof of income (award letters, pension statements)",
+        "Recent bank statements",
+        "Medical bills or pharmacy statements"
+      ],
+      "how_to_apply": "Apply online at YourTexasBenefits.com, in person at a local HHS office, or call 2-1-1 (option 2) to get an application by mail.",
+      "apply_url": "https://yourtexasbenefits.com/Apply/GettingStartedApp",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/food/snap-food-benefits/texas-simplified-application-project-tsap-snap-food-benefits",
+      "confidence": "high",
+      "notes": "Households on SNAP-CAP are not eligible for TSAP. Certification lasts 3 years instead of 6 months, and renewal interviews may be skipped."
+    },
+    {
+      "id": "texas-wic",
+      "name": "Texas WIC (Women, Infants and Children)",
+      "organization": "Texas Health and Human Services Commission - Texas WIC",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy foods, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and children under 5.",
+      "eligibility_summary_en": "For pregnant, breastfeeding, or postpartum women and children under 5 with household income at or below about 185% of poverty (for example $5,088/month for a family of 4). People on Medicaid, SNAP, or TANF already meet the income rule.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "child_under_5": true,
+        "pregnant": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Identification",
+        "Proof of address",
+        "Proof of income",
+        "Proof of Medicaid, SNAP or TANF (if you have it)"
+      ],
+      "how_to_apply": "Start online at mywic.us or call (800) 942-3678. Then go to a WIC appointment where staff check eligibility, and get your WIC card if approved.",
+      "apply_url": "https://www.texaswic.org/apply",
+      "phone": "(800) 942-3678",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.texaswic.org/apply",
+      "confidence": "high",
+      "notes": "Income table on texaswic.org: $2,461/month for 1 person up to $6,839 for 6 (185% FPL). A pregnant woman's household size counts expected babies. Find offices at https://office.texaswic.org/. 24/7 breastfeeding hotline and the myWIC app available."
+    },
+    {
+      "id": "texas-school-lunch-nslp",
+      "name": "National School Lunch Program (free and reduced-price school lunch)",
+      "organization": "Texas Department of Agriculture (TDA), Food and Nutrition Division",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Schools serve free or low-cost healthy lunches to children. In Texas, children who qualify for reduced-price meals now eat lunch and breakfast free through the 2026-27 school year.",
+      "eligibility_summary_en": "Children in households at or below 130% of poverty get free meals; up to 185% qualify for reduced-price (now free in Texas for 2025-26 and 2026-27). Children in homes on SNAP or TANF get free meals automatically.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [
+        "School meal application (household size and income)",
+        "SNAP or TANF case number if you have one"
+      ],
+      "how_to_apply": "Fill out a free and reduced-price meal application from your child's school or school district. Call 877-TEX-MEAL for help.",
+      "apply_url": null,
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/FandN-Resources/Income-Eligibility-Guidelines",
+      "confidence": "high",
+      "notes": "2026-27 limits (effective July 1, 2026 - June 30, 2027): family of 4 free $42,900/yr, reduced $61,050/yr. Texas Legislature funds free meals for reduced-price-eligible students for SY 2025-26 and 2026-27 (https://squaremeals.org/Programs/National-School-Lunch-Program/Reduced-Price-School-Meals-Now-Free). Some schools serve free meals to all students."
+    },
+    {
+      "id": "texas-school-breakfast-sbp",
+      "name": "School Breakfast Program",
+      "organization": "Texas Department of Agriculture (TDA), Food and Nutrition Division",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Schools serve free or low-cost breakfast to students. Schools with many low-income students must offer free breakfast to all children.",
+      "eligibility_summary_en": "Same income rules as school lunch (130% of poverty free, 185% reduced-price, which is free in Texas through 2026-27).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [
+        "School meal application (same as school lunch)"
+      ],
+      "how_to_apply": "Use the same free and reduced-price meal application from your child's school.",
+      "apply_url": null,
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/Programs/SchoolBreakfastProgram",
+      "confidence": "high",
+      "notes": "Texas law requires schools with 10% or more free/reduced-eligible students to offer breakfast; schools with 80%+ free/reduced participation must serve breakfast free to all."
+    },
+    {
+      "id": "texas-summer-meals-sfsp",
+      "name": "Summer Meal Programs (Summer Food Service Program and Seamless Summer Option)",
+      "organization": "Texas Department of Agriculture (TDA), Food and Nutrition Division",
+      "categories": [
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Free meals for kids and teens at summer meal sites when school is out. Some rural areas offer grab-and-go or home-delivered meals.",
+      "eligibility_summary_en": "Children and teens 18 and younger, plus eligible people with disabilities, can eat free at open sites.",
+      "eligibility_rules": {
+        "max_age": 18,
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Find a site on the Summer Meal Site Map or call or text 877-TEX-MEAL (877-839-6325).",
+      "apply_url": "https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map",
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/Programs/SummerMealPrograms",
+      "confidence": "high",
+      "notes": "Summer only. Non-congregate (grab-and-go, pickup, home delivery) service allowed at approved rural sites more than 2 miles from another site; TDA published a Summer 2026 non-congregate eligibility map. SUN Bucks/Summer EBT participation in Texas for 2026 could NOT be confirmed this session; do not promise it."
+    },
+    {
+      "id": "texas-tefap",
+      "name": "The Emergency Food Assistance Program (TEFAP)",
+      "organization": "Texas Department of Agriculture (TDA) with Texas food banks",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free USDA groceries and meals given out through food banks, food pantries, and soup kitchens.",
+      "eligibility_summary_en": "Households with total income at or below 185% of the federal poverty guidelines (July 1, 2026 - June 30, 2027 limits).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your local food bank or pantry to find a TEFAP distribution near you, or call 877-TEX-MEAL.",
+      "apply_url": "https://squaremeals.org/Resources/F-N-Public-Resources/Texas-Food-Banks",
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/FandN-Resources/Income-Eligibility-Guidelines",
+      "confidence": "high",
+      "notes": "Program page: https://squaremeals.org/Programs/TheEmergencyFoodAssistanceProgram. Food is given as groceries to take home or as meals eaten on site. Ask the local pantry what papers it needs."
+    },
+    {
+      "id": "texas-csfp-senior-food-box",
+      "name": "Commodity Supplemental Food Program (CSFP) Senior Food Boxes",
+      "organization": "Texas Department of Agriculture (TDA) with Texas food banks",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A free monthly box of healthy USDA foods for older adults, plus nutrition education.",
+      "eligibility_summary_en": "Adults 60 and older with household income at or below 130% of the federal poverty guidelines.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 130,
+        "min_age": 60,
+        "senior": true,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your local food bank to sign up for a monthly senior box. Call 877-TEX-MEAL for help.",
+      "apply_url": "https://squaremeals.org/Resources/F-N-Public-Resources/Texas-Food-Banks",
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/Programs/CommoditySupplementalFoodProgram",
+      "confidence": "high",
+      "notes": "130% FPL limit confirmed on TDA Income Eligibility Guidelines page (https://squaremeals.org/FandN-Resources/Income-Eligibility-Guidelines). Distributed through food banks and partner sites; waiting lists may exist."
+    },
+    {
+      "id": "texas-senior-farmers-market-sfmnp",
+      "name": "Senior Farmers' Market Nutrition Program (SFMNP)",
+      "organization": "Texas Department of Agriculture (TDA)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Vouchers older adults can use to buy fresh fruits, vegetables, and herbs from local farmers' markets.",
+      "eligibility_summary_en": "Adults 60 and older with household income at or below 185% of the federal poverty guidelines, in participating areas only.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 877-TEX-MEAL to find out if the program is offered in your area and who hands out vouchers.",
+      "apply_url": null,
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/Programs/Senior-Farmers-Market-Nutrition-Program",
+      "confidence": "high",
+      "notes": "Not a statewide program; participating counties not listed on the page. Seasonal. Voucher amount not stated on source. 185% limit from TDA income guidelines page."
+    },
+    {
+      "id": "texas-farmers-market-nutrition-fmnp",
+      "name": "Farmers' Market Nutrition Program (FMNP)",
+      "organization": "Texas Department of Agriculture (TDA)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Vouchers for low-income women and children to buy fresh fruits and vegetables at participating farmers' markets.",
+      "eligibility_summary_en": "For low-income women and children in participating areas only.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Ask your WIC clinic or call 877-TEX-MEAL to see if vouchers are available in your area.",
+      "apply_url": null,
+      "phone": "(877) 839-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [],
+      "source_url": "https://squaremeals.org/Programs/Farmers-Market-Nutrition-Program",
+      "confidence": "high",
+      "notes": "Not a statewide program; participating areas not listed on source. Benefit amount and season not stated."
+    },
+    {
+      "id": "texas-snap-ed",
+      "name": "Texas SNAP-Ed Nutrition Education",
+      "organization": "Texas Health and Human Services Commission (HHSC) and partner providers",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Free classes on food budgeting, food safety, healthy eating, and staying active.",
+      "eligibility_summary_en": "For people who get or may qualify for SNAP; check with a local provider.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "See the HHSC SNAP-Ed page for the list of providers (such as Texas A&M AgriLife Extension, Brighter Bites, Feeding Texas) and contact one near you.",
+      "apply_url": "https://www.hhs.texas.gov/services/food/snap-ed",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/food/snap-ed",
+      "confidence": "high",
+      "notes": "Education only; does not give food benefits."
+    },
+    {
+      "id": "feeding-texas-find-food-bank",
+      "name": "Feeding Texas - Find My Food Bank",
+      "organization": "Feeding Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Statewide network of 20 food banks covering all 254 Texas counties. Its website finds your local food bank by ZIP code or county.",
+      "eligibility_summary_en": "Anyone in Texas who needs food can use the finder; local pantries set their own rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Enter your ZIP code or county at feedingtexas.org/food-banks to find your food bank, then use its 'Find Food' tool.",
+      "apply_url": "https://www.feedingtexas.org/food-banks/",
+      "phone": "(512) 527-3613",
+      "address": "701 Tillery Street, Unit #12-254",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Phone is the Feeding Texas office, not a food hotline. Food banks also help people apply for SNAP (HHSC Texas Food Bank Network: https://www.hhs.texas.gov/services/food/texas-food-bank-network-providers)."
+    },
+    {
+      "id": "texas-area-agencies-on-aging-meals",
+      "name": "Area Agencies on Aging (meals and services for older adults)",
+      "organization": "Texas Health and Human Services Commission (HHSC)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Local Area Agencies on Aging connect older Texans to services, such as meals delivered at home or meals at senior centers.",
+      "eligibility_summary_en": "Mainly for older adults and their caregivers.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 800-252-9240 to reach your local Area Agency on Aging, or 855-YES-ADRC (855-937-2372) for Aging and Disability Resource Centers.",
+      "apply_url": null,
+      "phone": "(800) 252-9240",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/aging",
+      "confidence": "high",
+      "notes": "ADRC line: (855) 937-2372. Meal services not described in detail on source page; AAAs fund many local Meals on Wheels programs."
+    },
+    {
+      "id": "meals-on-wheels-texas-provider-search",
+      "name": "Meals on Wheels Texas - Find Your Local Provider",
+      "organization": "Meals on Wheels Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Statewide association of Meals on Wheels programs. Its search tool finds home-delivered and senior-center meal programs by ZIP code.",
+      "eligibility_summary_en": "Local programs mostly serve homebound seniors and adults with disabilities; rules vary by provider.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Search by ZIP code at mealsonwheelstexas.org/search-mow. If nothing shows up, try nearby ZIP codes or call 2-1-1.",
+      "apply_url": "https://www.mealsonwheelstexas.org/search-mow/",
+      "phone": "(844) 489-6325",
+      "address": "9901 Brodie Lane #160-262",
+      "city": "Austin",
+      "zip": "78748",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.mealsonwheelstexas.org/",
+      "confidence": "high",
+      "notes": "Phone is the association office (844-4TX-MEAL). Directory lists about 340 local providers; some entries appear outdated, so confirm with the provider."
+    },
+    {
+      "id": "brazos-valley-food-bank",
+      "name": "Brazos Valley Food Bank",
+      "organization": "Brazos Valley Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Brazos Valley Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.bvfb.org/",
+      "phone": "(979) 779-3663",
+      "address": "1501 Independence Ave",
+      "city": "Bryan",
+      "zip": "77803",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos",
+        "Burleson",
+        "Grimes",
+        "Madison",
+        "Robertson",
+        "Washington"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications. HHSC Texas Food Bank Network lists SNAP application help at (979) 779-3663 ext. 105."
+    },
+    {
+      "id": "central-texas-food-bank",
+      "name": "Central Texas Food Bank",
+      "organization": "Central Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Central Texas Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.centraltexasfoodbank.org/",
+      "phone": "(512) 282-2111",
+      "address": "6500 Metropolis Drive",
+      "city": "Austin",
+      "zip": "78744",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bastrop",
+        "Bell",
+        "Blanco",
+        "Burnet",
+        "Caldwell",
+        "Coryell",
+        "Falls",
+        "Fayette",
+        "Freestone",
+        "Gillespie",
+        "Hays",
+        "Lampasas",
+        "Lee",
+        "Limestone",
+        "Llano",
+        "McLennan",
+        "Milam",
+        "Mills",
+        "San Saba",
+        "Travis",
+        "Williamson"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "coastal-bend-food-bank",
+      "name": "Coastal Bend Food Bank",
+      "organization": "Coastal Bend Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Coastal Bend Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://coastalbendfoodbank.org/",
+      "phone": "(361) 887-6291",
+      "address": "826 Krill St.",
+      "city": "Corpus Christi",
+      "zip": "78408",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Aransas",
+        "Bee",
+        "Brooks",
+        "Duval",
+        "Jim Wells",
+        "Kenedy",
+        "Kleberg",
+        "Live Oak",
+        "McMullen",
+        "Nueces",
+        "San Patricio"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "east-texas-food-bank",
+      "name": "East Texas Food Bank",
+      "organization": "East Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "East Texas Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.easttexasfoodbank.org/",
+      "phone": "(903) 597-3663",
+      "address": "3201 Robertson Road",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Anderson",
+        "Angelina",
+        "Bowie",
+        "Camp",
+        "Cass",
+        "Cherokee",
+        "Franklin",
+        "Gregg",
+        "Harrison",
+        "Henderson",
+        "Houston",
+        "Leon",
+        "Marion",
+        "Morris",
+        "Nacogdoches",
+        "Panola",
+        "Rains",
+        "Red River",
+        "Rusk",
+        "San Augustine",
+        "Shelby",
+        "Smith",
+        "Titus",
+        "Upshur",
+        "Van Zandt",
+        "Wood"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "el-pasoans-fighting-hunger",
+      "name": "El Pasoans Fighting Hunger Food Bank",
+      "organization": "El Pasoans Fighting Hunger Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "El Pasoans Fighting Hunger Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://elpasoansfightinghunger.org/",
+      "phone": "(915) 298-0353",
+      "address": "9541 Plaza Circle",
+      "city": "El Paso",
+      "zip": "79927",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Culberson",
+        "El Paso",
+        "Hudspeth"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "food-bank-of-the-golden-crescent",
+      "name": "Food Bank of the Golden Crescent",
+      "organization": "Food Bank of the Golden Crescent",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Food Bank of the Golden Crescent gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.tfbgc.org/",
+      "phone": "(361) 578-0591",
+      "address": "801 South Laurent",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Calhoun",
+        "Colorado",
+        "DeWitt",
+        "Goliad",
+        "Gonzales",
+        "Jackson",
+        "Lavaca",
+        "Matagorda",
+        "Refugio",
+        "Victoria",
+        "Wharton"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "food-bank-of-the-rio-grande-valley",
+      "name": "Food Bank of the Rio Grande Valley",
+      "organization": "Food Bank of the Rio Grande Valley",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Food Bank of the Rio Grande Valley gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.foodbankrgv.com/",
+      "phone": "(956) 682-8101",
+      "address": "724 N. Cage Blvd.",
+      "city": "Pharr",
+      "zip": "78577",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron",
+        "Hidalgo",
+        "Willacy"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "food-bank-of-west-central-texas",
+      "name": "Food Bank of West Central Texas",
+      "organization": "Food Bank of West Central Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Food Bank of West Central Texas gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://fbwct.org/",
+      "phone": "(325) 695-6311",
+      "address": "5505 N. 1st St.",
+      "city": "Abilene",
+      "zip": "79603",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "Fisher",
+        "Jones",
+        "Mitchell",
+        "Nolan",
+        "Runnels",
+        "Shackelford",
+        "Stephens",
+        "Taylor"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "galveston-county-food-bank",
+      "name": "Galveston County Food Bank",
+      "organization": "Galveston County Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Galveston County Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.galvestoncountyfoodbank.org/",
+      "phone": "(409) 945-4232",
+      "address": "624 4th Avenue North",
+      "city": "Texas City",
+      "zip": "77590",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Galveston"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "high-plains-food-bank",
+      "name": "High Plains Food Bank",
+      "organization": "High Plains Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "High Plains Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.hpfb.org/",
+      "phone": "(806) 374-8562",
+      "address": "815 S. Ross St",
+      "city": "Amarillo",
+      "zip": "79120",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Armstrong",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Cottle",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hale",
+        "Hansford",
+        "Hardeman",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications. Hale County is listed under both High Plains and South Plains food banks."
+    },
+    {
+      "id": "houston-food-bank",
+      "name": "Houston Food Bank",
+      "organization": "Houston Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Houston Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.houstonfoodbank.org/",
+      "phone": "(713) 223-3700",
+      "address": "535 Portwall St",
+      "city": "Houston",
+      "zip": "77029",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Austin",
+        "Brazoria",
+        "Chambers",
+        "Fort Bend",
+        "Harris",
+        "Liberty",
+        "San Jacinto",
+        "Trinity",
+        "Walker",
+        "Waller"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications. HHSC Texas Food Bank Network lists SNAP application help at (832) 369-9390."
+    },
+    {
+      "id": "montgomery-county-food-bank",
+      "name": "Montgomery County Food Bank",
+      "organization": "Montgomery County Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Montgomery County Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.mcfoodbank.org/",
+      "phone": "(936) 271-8800",
+      "address": "1 Food For Life Way",
+      "city": null,
+      "zip": "77385",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Montgomery"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications. Feeding Texas lists the city as \"Harper's Landing, TX 77385\" (Conroe area)."
+    },
+    {
+      "id": "north-texas-food-bank",
+      "name": "North Texas Food Bank",
+      "organization": "North Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "North Texas Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://ntfb.org/",
+      "phone": "(214) 330-1396",
+      "address": "3677 Mapleshade Lane",
+      "city": "Plano",
+      "zip": "75075",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas",
+        "Collin",
+        "Fannin",
+        "Rockwall",
+        "Hunt",
+        "Grayson",
+        "Kaufman",
+        "Ellis",
+        "Navarro",
+        "Lamar",
+        "Delta",
+        "Hopkins"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications. HHSC Texas Food Bank Network lists SNAP application help at (214) 269-0906."
+    },
+    {
+      "id": "san-antonio-food-bank",
+      "name": "San Antonio Food Bank",
+      "organization": "San Antonio Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "San Antonio Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://safoodbank.org/",
+      "phone": "(210) 337-3663",
+      "address": "5200 Historic Old Hwy 90",
+      "city": "San Antonio",
+      "zip": "78227",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bandera",
+        "Bexar",
+        "Coke",
+        "Comal",
+        "Concho",
+        "Crockett",
+        "Edwards",
+        "Frio",
+        "Guadalupe",
+        "Irion",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "Kimble",
+        "La Salle",
+        "McCulloch",
+        "Mason",
+        "Medina",
+        "Menard",
+        "Reagan",
+        "Real",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green",
+        "Uvalde",
+        "Wilson",
+        "Zavala"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "south-plains-food-bank",
+      "name": "South Plains Food Bank",
+      "organization": "South Plains Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "South Plains Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.spfb.org/",
+      "phone": "(806) 763-3003",
+      "address": "5605 MLK Boulevard",
+      "city": "Lubbock",
+      "zip": "79404",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bailey",
+        "Cochran",
+        "Crosby",
+        "Dickens",
+        "Floyd",
+        "Gaines",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "Kent",
+        "King",
+        "Lamb",
+        "Lubbock",
+        "Lynn",
+        "Motley",
+        "Scurry",
+        "Stonewall",
+        "Terry",
+        "Yoakum"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications. HHSC Texas Food Bank Network lists SNAP application help at (806) 763-3003 ext. 26. Hale County is listed under both High Plains and South Plains food banks."
+    },
+    {
+      "id": "south-texas-food-bank",
+      "name": "South Texas Food Bank",
+      "organization": "South Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "South Texas Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.southtexasfoodbank.org/",
+      "phone": "(956) 726-3120",
+      "address": "2121 Jefferson St.",
+      "city": "Laredo",
+      "zip": "78040",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dimmit",
+        "Jim Hogg",
+        "Kinney",
+        "Maverick",
+        "Starr",
+        "Val Verde",
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "southeast-texas-food-bank",
+      "name": "Southeast Texas Food Bank",
+      "organization": "Southeast Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Southeast Texas Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://setxfoodbank.org/",
+      "phone": "(409) 839-8777",
+      "address": "3845 Martin Luther King Parkway",
+      "city": "Beaumont",
+      "zip": "77705",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hardin",
+        "Jasper",
+        "Jefferson",
+        "Newton",
+        "Orange",
+        "Polk",
+        "Sabine",
+        "Tyler"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "tarrant-area-food-bank",
+      "name": "Tarrant Area Food Bank",
+      "organization": "Tarrant Area Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Tarrant Area Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.tafb.org/",
+      "phone": "(817) 857-7100",
+      "address": "2600 Cullen",
+      "city": "Fort Worth",
+      "zip": "76107",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bosque",
+        "Cooke",
+        "Denton",
+        "Erath",
+        "Hamilton",
+        "Hill",
+        "Hood",
+        "Johnson",
+        "Palo Pinto",
+        "Parker",
+        "Somervell",
+        "Tarrant",
+        "Wise"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "west-texas-food-bank",
+      "name": "West Texas Food Bank",
+      "organization": "West Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "West Texas Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://wtxfoodbank.org/",
+      "phone": "(432) 580-6333",
+      "address": "411 S. Pagewood Ave.",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Andrews",
+        "Borden",
+        "Brewster",
+        "Crane",
+        "Dawson",
+        "Ector",
+        "Glasscock",
+        "Howard",
+        "Jeff Davis",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Pecos",
+        "Presidio",
+        "Reeves",
+        "Terrell",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "wichita-falls-area-food-bank",
+      "name": "Wichita Falls Area Food Bank",
+      "organization": "Wichita Falls Area Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Wichita Falls Area Food Bank gives out free food through partner food pantries, meal sites, and mobile food distributions, and can help you apply for SNAP.",
+      "eligibility_summary_en": "People in its service counties who need food. Each pantry may have its own rules; some federal programs (TEFAP, CSFP) have income limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the 'Find Food' tool on the food bank's website or call the food bank to find a pantry or distribution near you.",
+      "apply_url": "https://www.wfafb.org/",
+      "phone": "(940) 766-2322",
+      "address": "1230 Midwestern Parkway",
+      "city": "Wichita Falls",
+      "zip": "76307",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Archer",
+        "Baylor",
+        "Clay",
+        "Foard",
+        "Haskell",
+        "Jack",
+        "Knox",
+        "Montague",
+        "Throckmorton",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ],
+      "source_url": "https://www.feedingtexas.org/food-banks/",
+      "confidence": "high",
+      "notes": "Feeding Texas member food bank. Supplies local food pantries, meal programs, and mobile distributions in its counties; food banks distribute TEFAP and CSFP senior boxes and help with SNAP applications."
+    },
+    {
+      "id": "meals-on-wheels-central-texas",
+      "name": "Meals on Wheels Central Texas",
+      "organization": "Meals on Wheels Central Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mowctx.org/",
+      "phone": "(512) 476-6325",
+      "address": "3227 E 5th St",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis",
+        "Williamson",
+        "Bastrop",
+        "Hays"
+      ],
+      "source_url": "https://www.mowctx.org/",
+      "confidence": "medium",
+      "notes": "Home delivery in Travis, Williamson, Bastrop; congregate meals in Travis and Hays per the Meals on Wheels Texas directory (org site did not list counties). Request services at https://mowct.tfaforms.net/5018425."
+    },
+    {
+      "id": "meals-on-wheels-san-antonio",
+      "name": "Meals on Wheels San Antonio",
+      "organization": "Meals on Wheels San Antonio",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mowsatx.org/",
+      "phone": "(210) 735-5115",
+      "address": "2718 Danbury St.",
+      "city": "San Antonio",
+      "zip": "78217",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Atascosa",
+        "Frio"
+      ],
+      "source_url": "https://www.mowsatx.org/",
+      "confidence": "medium",
+      "notes": "Org site says Bexar and surrounding counties; Atascosa and Frio from the Meals on Wheels Texas directory."
+    },
+    {
+      "id": "meals-on-wheels-tarrant-county",
+      "name": "Meals on Wheels, Inc. of Tarrant County",
+      "organization": "Meals on Wheels, Inc. of Tarrant County",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://mealsonwheels.org/",
+      "phone": "(817) 336-0912",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://mealsonwheels.org/",
+      "confidence": "high",
+      "notes": "Request meals with the website contact form; a caseworker calls back in 3-5 business days."
+    },
+    {
+      "id": "im-houston-meals-on-wheels",
+      "name": "Meals on Wheels Greater Houston (Interfaith Ministries for Greater Houston)",
+      "organization": "Meals on Wheels Greater Houston (Interfaith Ministries for Greater Houston)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.imgh.org/meals-wheels-greater-houston/",
+      "phone": "(713) 533-4900",
+      "address": "3303 Main Street",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris",
+        "Galveston",
+        "Montgomery",
+        "Liberty"
+      ],
+      "source_url": "https://www.imgh.org/meals-wheels-greater-houston/",
+      "confidence": "high",
+      "notes": "Serves homebound seniors and adults with disabilities; describes itself as the largest Meals on Wheels provider in Texas."
+    },
+    {
+      "id": "vna-texas-meals-on-wheels-dallas",
+      "name": "VNA Texas Meals on Wheels (Dallas County)",
+      "organization": "VNA Texas Meals on Wheels (Dallas County)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.vnatexas.org/",
+      "phone": "(214) 689-0000",
+      "address": "1420 W. Mockingbird Lane, Suite 700",
+      "city": "Dallas",
+      "zip": "75247",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.vnatexas.org/",
+      "confidence": "high",
+      "notes": "Weekday hot meals for seniors who cannot cook due to illness, age, or disability. Email GETHELP@VNATEXAS.ORG. VNA site also lists partner programs for nearby counties."
+    },
+    {
+      "id": "fort-bend-seniors-meals-on-wheels",
+      "name": "Fort Bend Seniors Meals on Wheels",
+      "organization": "Fort Bend Seniors Meals on Wheels",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.fortbendseniors.org/",
+      "phone": "(281) 633-7049",
+      "address": "1330 Band Road",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Fort Bend",
+        "Waller"
+      ],
+      "source_url": "https://www.fortbendseniors.org/",
+      "confidence": "high",
+      "notes": "Free for eligible seniors; seven meals a week with wellness checks. Hours Mon-Fri 8 AM-5 PM. Client referral form on website."
+    },
+    {
+      "id": "meals-on-wheels-collin-county",
+      "name": "Meals on Wheels Collin County",
+      "organization": "Meals on Wheels Collin County",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mealsonwheelscc.org/",
+      "phone": "(972) 562-6996",
+      "address": "600 N Tennessee St",
+      "city": "McKinney",
+      "zip": "75069",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Collin"
+      ],
+      "source_url": "https://www.mealsonwheelscc.org/",
+      "confidence": "high",
+      "notes": "Also offers emergency meal boxes, weekend deliveries, and congregate meals. Apply online via 'Apply for Services'."
+    },
+    {
+      "id": "lubbock-meals-on-wheels",
+      "name": "Lubbock Meals on Wheels",
+      "organization": "Lubbock Meals on Wheels",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.lubbockmealsonwheels.org/",
+      "phone": "(806) 792-7971",
+      "address": "2304 34th St",
+      "city": "Lubbock",
+      "zip": "79411",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.lubbockmealsonwheels.org/",
+      "confidence": "high",
+      "notes": "Serves homebound, elderly, or disabled people in Lubbock."
+    },
+    {
+      "id": "meals-on-wheels-plus-abilene",
+      "name": "Meals on Wheels Plus",
+      "organization": "Meals on Wheels Plus",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mealsonwheelsplus.com/",
+      "phone": "(325) 672-5050",
+      "address": "717 North 10th St",
+      "city": "Abilene",
+      "zip": "79601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Taylor",
+        "Jones",
+        "Shackelford",
+        "Runnels"
+      ],
+      "source_url": "https://www.mealsonwheelsplus.com/",
+      "confidence": "medium",
+      "notes": "Counties from Meals on Wheels Texas directory; org site shows a delivery-area map. Also offers groceries and pet food help."
+    },
+    {
+      "id": "amarillo-meals-on-wheels",
+      "name": "Meals on Wheels of Amarillo",
+      "organization": "Meals on Wheels of Amarillo",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.amarillomealsonwheels.org/",
+      "phone": "(806) 374-1521",
+      "address": "7550 Outlook Dr",
+      "city": "Amarillo",
+      "zip": "79106",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Potter"
+      ],
+      "source_url": "https://www.amarillomealsonwheels.org/",
+      "confidence": "medium",
+      "notes": "Serves homebound elderly and severely disabled people in the Amarillo area; client application in English and Spanish. County from Meals on Wheels Texas directory; confirm coverage in Randall County by phone."
+    },
+    {
+      "id": "meals-on-wheels-texoma",
+      "name": "Meals on Wheels of Texoma",
+      "organization": "Meals on Wheels of Texoma",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mowot.org/",
+      "phone": "(903) 786-3351",
+      "address": "2626 Hilltop Drive",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cooke",
+        "Fannin",
+        "Grayson"
+      ],
+      "source_url": "https://www.mowot.org/",
+      "confidence": "medium",
+      "notes": "Counties from Meals on Wheels Texas directory. Toll-free (877) 900-3351."
+    },
+    {
+      "id": "meals-on-wheels-east-texas",
+      "name": "Meals on Wheels East Texas",
+      "organization": "Meals on Wheels East Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mealsonwheelsetx.org/",
+      "phone": "(903) 593-7385",
+      "address": "3001 Robertson Rd.",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": "Monday-Thursday, 9 a.m. to 4 p.m. (office)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg",
+        "Henderson",
+        "Smith",
+        "Van Zandt",
+        "Upshur",
+        "Wood"
+      ],
+      "source_url": "https://www.mealsonwheelsetx.org/",
+      "confidence": "medium",
+      "notes": "IMPORTANT: website says it is NOT accepting new clients at this time; refers people to HHS at (800) 458-9858, their health insurance, or 2-1-1. Counties from Meals on Wheels Texas directory."
+    },
+    {
+      "id": "meals-on-wheels-waco",
+      "name": "Meals on Wheels Waco",
+      "organization": "Meals on Wheels Waco",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://mowwaco.org/",
+      "phone": "(254) 752-0316",
+      "address": "501 W Waco Drive",
+      "city": "Waco",
+      "zip": "76707",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan",
+        "Falls",
+        "Hill"
+      ],
+      "source_url": "https://mowwaco.org/",
+      "confidence": "high",
+      "notes": "May have a waitlist."
+    },
+    {
+      "id": "senior-connect-kaufman-county",
+      "name": "Senior Connect (Meals on Wheels Kaufman County)",
+      "organization": "Senior Connect (Meals on Wheels Kaufman County)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true,
+        "min_age": 60
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.nohungrysenior.org/",
+      "phone": "(469) 376-6325",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Kaufman"
+      ],
+      "source_url": "https://www.nohungrysenior.org/",
+      "confidence": "high",
+      "notes": "For seniors 60+ unable to provide meals for themselves. Senior centers in Forney, Terrell, Kaufman, Kemp, and Mabank."
+    },
+    {
+      "id": "meals-on-wheels-odessa",
+      "name": "Meals on Wheels of Odessa",
+      "organization": "Meals on Wheels of Odessa",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers healthy meals to the homes of older adults and people who cannot easily cook or shop, with a friendly check-in from the driver.",
+      "eligibility_summary_en": "Homebound seniors and adults with disabilities in the service area. Call to ask about specific rules and wait times.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the program or use the sign-up form on its website. Staff will check if you qualify.",
+      "apply_url": "https://www.mowo.org/",
+      "phone": "(432) 333-6451",
+      "address": "1314 E 5th St",
+      "city": "Odessa",
+      "zip": "79761",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or low cost (varies by program)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Ector"
+      ],
+      "source_url": "https://www.mowo.org/",
+      "confidence": "high",
+      "notes": "Weekday noon meal for qualified low-income, frail, and handicapped people; intake required."
+    }
+  ]
+}

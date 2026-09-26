@@ -1,0 +1,2553 @@
+{
+  "scope": "utilities",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "aspermont-sbdc-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Aspermont Small Business Development Center, Inc.",
+      "organization": "Aspermont Small Business Development Center, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Haskell, Jones, Kent, Knox, Stonewall, Throckmorton County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(940) 989-3538",
+      "address": "9660 US Hwy 83 South",
+      "city": "Aspermont",
+      "zip": "79502",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Haskell",
+        "Jones",
+        "Kent",
+        "Knox",
+        "Stonewall",
+        "Throckmorton"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - BakerRipley",
+      "organization": "BakerRipley",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Harris, Brazoria, Galveston County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(713) 667-9400",
+      "address": "PO Box 271389",
+      "city": "Houston",
+      "zip": "77277",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris",
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Address listed by TDHCA is a mailing PO Box. Also a Reliant CARE agency partner. This agency also runs free home weatherization (WAP) for: Harris. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bexar-county-community-resources-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Bexar County Department of Community Resources",
+      "organization": "Bexar County Department of Community Resources",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Bexar County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(210) 335-3666",
+      "address": "233 N Pecos St, Suite 590",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Also takes CPS Energy REAP applications for Bexar County residents outside the City of San Antonio. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "brazos-valley-community-action-programs-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Brazos Valley Community Action Programs",
+      "organization": "Brazos Valley Community Action Programs",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Brazos, Burleson, Grimes, Leon, Madison, Montgomery, Robertson, Walker, Waller, Washington County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(979) 595-2800",
+      "address": "4001 E 29th Street, Suite 175",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos",
+        "Burleson",
+        "Grimes",
+        "Leon",
+        "Madison",
+        "Montgomery",
+        "Robertson",
+        "Walker",
+        "Waller",
+        "Washington"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Brazos, Burleson, Grimes, Leon, Madison, Montgomery, Robertson, Walker, Waller, Washington. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cornerstone-community-action-agency-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Cornerstone Community Action Agency (formerly CTO)",
+      "organization": "Cornerstone Community Action Agency (formerly CTO)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Brown, Callahan, Coleman, Comanche, Eastland, McCulloch, Runnels County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(325) 625-4167",
+      "address": "114 Needham",
+      "city": "Coleman",
+      "zip": "76834",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "McCulloch",
+        "Runnels"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "combined-community-action-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Combined Community Action, Inc.",
+      "organization": "Combined Community Action, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Austin, Bastrop, Colorado, Fayette, Fort Bend, Lee County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(979) 540-2980",
+      "address": "165 W Austin St",
+      "city": "Giddings",
+      "zip": "78942",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Austin",
+        "Bastrop",
+        "Colorado",
+        "Fayette",
+        "Fort Bend",
+        "Lee"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Austin, Bastrop, Blanco, Caldwell, Colorado, Fayette, Fort Bend, Hays, Lee. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "crossroads-community-action-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Crossroads Community Action",
+      "organization": "Crossroads Community Action",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Aransas, Calhoun, DeWitt, Goliad, Gonzales, Jackson, Lavaca, Refugio, Victoria County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(800) 695-0314",
+      "address": "4007 Halsey St (mailing: PO Box 3607)",
+      "city": "Victoria",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Aransas",
+        "Calhoun",
+        "DeWitt",
+        "Goliad",
+        "Gonzales",
+        "Jackson",
+        "Lavaca",
+        "Refugio",
+        "Victoria"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "TDHCA also lists (361) 578-0062 as a second number. Zip 77903 on the TDHCA list is for the PO Box. This agency also runs free home weatherization (WAP) for: Aransas, Bee, Brazoria, Calhoun, DeWitt, Goliad, Gonzales, Jackson, Lavaca, Live Oak, Matagorda, McMullen, Refugio, Victoria, Wharton. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-action-corporation-of-south-texas-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Community Action Corporation of South Texas",
+      "organization": "Community Action Corporation of South Texas",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Bee, Brooks, Cameron, Duval, Jim Wells, San Patricio, Willacy County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(361) 664-0145",
+      "address": "204 E 1st Street",
+      "city": "Alice",
+      "zip": "78333",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bee",
+        "Brooks",
+        "Cameron",
+        "Duval",
+        "Jim Wells",
+        "San Patricio",
+        "Willacy"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Brooks, Cameron, Duval, Hidalgo, Jim Hogg, Jim Wells, Kenedy, Kleberg, San Patricio, Starr, Webb, Willacy, Zapata. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-action-inc-central-texas-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Community Action Inc. of Central Texas",
+      "organization": "Community Action Inc. of Central Texas",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Blanco, Caldwell, Hays County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(512) 392-1161",
+      "address": "215 S Reimer Rd, Suite 130",
+      "city": "San Marcos",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Blanco",
+        "Caldwell",
+        "Hays"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Mailing address PO Box 748, San Marcos, TX 78667. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-council-south-central-texas-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Community Council of South Central Texas, Inc.",
+      "organization": "Community Council of South Central Texas, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Atascosa, Bandera, Brewster, Comal, Culberson, Dimmit, Edwards, Frio, Gillespie, Guadalupe, Hudspeth, Jeff Davis, Karnes, Kendall, Kerr, Kinney, La Salle, Live Oak, Maverick, McMullen, Medina, Presidio, Real, Uvalde, Val Verde, Wilson, Zavala County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(830) 303-4376",
+      "address": "801 N. State Hwy 123 Bypass",
+      "city": "Seguin",
+      "zip": "78155",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bandera",
+        "Brewster",
+        "Comal",
+        "Culberson",
+        "Dimmit",
+        "Edwards",
+        "Frio",
+        "Gillespie",
+        "Guadalupe",
+        "Hudspeth",
+        "Jeff Davis",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "Kinney",
+        "La Salle",
+        "Live Oak",
+        "Maverick",
+        "McMullen",
+        "Medina",
+        "Presidio",
+        "Real",
+        "Uvalde",
+        "Val Verde",
+        "Wilson",
+        "Zavala"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Large service area; local intake offices may exist in other towns - call first. This agency also runs free home weatherization (WAP) for: Brewster, Crane, Culberson, Dimmit, Edwards, Hudspeth, Jeff Davis, Kinney, La Salle, Maverick, Pecos, Presidio, Real, Terrell, Uvalde, Val Verde, Zavala. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "community-services-northeast-texas-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Community Services of Northeast Texas, Inc.",
+      "organization": "Community Services of Northeast Texas, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Bowie, Camp, Cass, Delta, Franklin, Hopkins, Lamar, Marion, Morris, Rains, Red River, Titus County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(903) 756-5596",
+      "address": "304 E Houston",
+      "city": "Linden",
+      "zip": "75563",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bowie",
+        "Camp",
+        "Cass",
+        "Delta",
+        "Franklin",
+        "Hopkins",
+        "Lamar",
+        "Marion",
+        "Morris",
+        "Rains",
+        "Red River",
+        "Titus"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "concho-valley-community-action-agency-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Concho Valley Community Action Agency",
+      "organization": "Concho Valley Community Action Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Coke, Concho, Crockett, Irion, Kimble, Menard, Reagan, Schleicher, Sterling, Sutton, Tom Green County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(325) 653-2411",
+      "address": "133 W. Concho Ave., Suite 301",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Coke",
+        "Concho",
+        "Crockett",
+        "Irion",
+        "Kimble",
+        "Menard",
+        "Reagan",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Coke, Coleman, Concho, Crockett, Irion, Kimble, McCulloch, Menard, Reagan, Runnels, Schleicher, Sterling, Sutton, Tom Green. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "dallas-county-hhs-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Dallas County Department of Health and Human Services",
+      "organization": "Dallas County Department of Health and Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Dallas County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(214) 819-1848",
+      "address": "2377 N Stemmons Fwy, Ste 600 L",
+      "city": "Dallas",
+      "zip": "75207",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Dallas. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "economic-action-committee-gulf-coast-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Economic Action Committee of the Gulf Coast",
+      "organization": "Economic Action Committee of the Gulf Coast",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Matagorda, Wharton County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(979) 245-6901",
+      "address": "904 Whitson Street",
+      "city": "Bay City",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Matagorda",
+        "Wharton"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Mailing address PO Box 1685, Bay City, TX 77404. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "economic-opportunities-advancement-corporation-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Economic Opportunities Advancement Corporation",
+      "organization": "Economic Opportunities Advancement Corporation",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Bosque, Ellis, Falls, Freestone, Hill, Limestone, McLennan, Navarro County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(254) 753-0331",
+      "address": "1800 N. Valley Mills Dr.",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bosque",
+        "Ellis",
+        "Falls",
+        "Freestone",
+        "Hill",
+        "Limestone",
+        "McLennan",
+        "Navarro"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Bosque, Ellis, Falls, Freestone, Hill, Johnson, Limestone, McLennan, Navarro. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "el-paso-community-action-project-bravo-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - El Paso Community Action, Project BRAVO",
+      "organization": "El Paso Community Action, Project BRAVO",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: El Paso County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(915) 562-4100",
+      "address": "2000 Texas Avenue",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Also a Texas Gas Service Share the Warmth agency and an El Paso Electric low-income rider verification agency. This agency also runs free home weatherization (WAP) for: El Paso. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "fort-worth-neighborhood-services-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - City of Fort Worth Neighborhood Services Department",
+      "organization": "City of Fort Worth Neighborhood Services Department",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Tarrant County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(817) 392-5790",
+      "address": "200 Texas Street Annex, 3rd Floor",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Tarrant. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "getcap-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Greater East Texas Community Action Program (GETCAP)",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Anderson, Angelina, Chambers, Cherokee, Gregg, Hardin, Henderson, Houston, Jefferson, Kaufman, Liberty, Nacogdoches, Orange, Polk, Rusk, San Jacinto, Smith, Trinity, Van Zandt, Wood County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(800) 621-5746",
+      "address": "116 W. Hospital",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Anderson",
+        "Angelina",
+        "Chambers",
+        "Cherokee",
+        "Gregg",
+        "Hardin",
+        "Henderson",
+        "Houston",
+        "Jefferson",
+        "Kaufman",
+        "Liberty",
+        "Nacogdoches",
+        "Orange",
+        "Polk",
+        "Rusk",
+        "San Jacinto",
+        "Smith",
+        "Trinity",
+        "Van Zandt",
+        "Wood"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "TDHCA also lists (936) 564-0302. This agency also runs free home weatherization (WAP) for: Anderson, Angelina, Chambers, Cherokee, Galveston, Gregg, Hardin, Harrison, Henderson, Houston, Jasper, Jefferson, Kaufman, Liberty, Nacogdoches, Newton, Orange, Panola, Polk, Rusk, Sabine, San Augustine, San Jacinto, Shelby, Smith, Trinity, Tyler, Upshur, Van Zandt, Wood. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hidalgo-county-community-services-agency-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Hidalgo County Community Services Agency",
+      "organization": "Hidalgo County Community Services Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Hidalgo County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(956) 383-6240",
+      "address": "2524 N. Closner",
+      "city": "Edinburg",
+      "zip": "78540",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Also a Texas Gas Service Share the Warmth agency for the Rio Grande Valley. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-community-action-association-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Hill Country Community Action Association, Inc.",
+      "organization": "Hill Country Community Action Association, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Bell, Coryell, Hamilton, Lampasas, Llano, Mason, Milam, Mills, San Saba County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(325) 372-5167",
+      "address": "2905 W Wallace Street",
+      "city": "San Saba",
+      "zip": "76877",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell",
+        "Hamilton",
+        "Lampasas",
+        "Llano",
+        "Mason",
+        "Milam",
+        "Mills",
+        "San Saba"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Bell, Burnet, Coryell, Erath, Hamilton, Lampasas, Llano, Mason, Milam, Mills, San Saba, Somervell, Williamson. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "kleberg-county-human-services-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Kleberg County Human Services",
+      "organization": "Kleberg County Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Kenedy, Kleberg County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(361) 595-8572",
+      "address": "1109 E Santa Gertrudis St",
+      "city": "Kingsville",
+      "zip": "78363",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Kenedy",
+        "Kleberg"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "city-of-lubbock-community-development-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - City of Lubbock Community Development Department",
+      "organization": "City of Lubbock Community Development Department",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Lubbock County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(806) 775-2296",
+      "address": "PO Box 2000",
+      "city": "Lubbock",
+      "zip": "79457",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Lubbock"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "TDHCA lists only a PO Box; call for the in-person intake location. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nueces-county-community-action-agency-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Nueces County Community Action Agency",
+      "organization": "Nueces County Community Action Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Nueces County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(361) 883-7201",
+      "address": "101 S Padre Island Drive",
+      "city": "Corpus Christi",
+      "zip": "78405",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nueces"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Nueces. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "panhandle-community-services-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Panhandle Community Services",
+      "organization": "Panhandle Community Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Armstrong, Briscoe, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, Wheeler County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(806) 372-2531",
+      "address": "139 SW 8th Avenue",
+      "city": "Amarillo",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Armstrong",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Mailing address PO Box 32150, Amarillo, TX 79120. This agency also runs free home weatherization (WAP) for: Armstrong, Briscoe, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, Wheeler. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "pecos-county-community-action-agency-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Pecos County Community Action Agency",
+      "organization": "Pecos County Community Action Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Crane, Pecos, Terrell County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(432) 336-7526",
+      "address": "100 S Jackson Street",
+      "city": "Fort Stockton",
+      "zip": "79735",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Crane",
+        "Pecos",
+        "Terrell"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "rolling-plains-management-corporation-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Rolling Plains Management Corporation",
+      "organization": "Rolling Plains Management Corporation",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Archer, Baylor, Clay, Cottle, Foard, Hardeman, Jack, Montague, Shackelford, Stephens, Taylor, Wichita, Wilbarger, Young County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(940) 684-1571",
+      "address": "118 North 1st Street",
+      "city": "Crowell",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Archer",
+        "Baylor",
+        "Clay",
+        "Cottle",
+        "Foard",
+        "Hardeman",
+        "Jack",
+        "Montague",
+        "Shackelford",
+        "Stephens",
+        "Taylor",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Mailing address PO Box 490. Large service area; call for the nearest intake office. This agency also runs free home weatherization (WAP) for: Archer, Baylor, Brown, Callahan, Clay, Comanche, Cottle, Eastland, Foard, Hardeman, Haskell, Hood, Jack, Jones, Kent, Knox, Montague, Palo Pinto, Parker, Shackelford, Stephens, Stonewall, Taylor, Throckmorton, Wichita, Wilbarger, Wise, Young. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "south-plains-community-action-association-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - South Plains Community Action Association, Inc.",
+      "organization": "South Plains Community Action Association, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Bailey, Cochran, Crosby, Dickens, Floyd, Garza, Hale, Hockley, King, Lamb, Lynn, Motley, Terry, Yoakum County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(806) 894-6104",
+      "address": "411 Austin Street",
+      "city": "Levelland",
+      "zip": "79336",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bailey",
+        "Cochran",
+        "Crosby",
+        "Dickens",
+        "Floyd",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "King",
+        "Lamb",
+        "Lynn",
+        "Motley",
+        "Terry",
+        "Yoakum"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Lubbock County CEAP is handled by the City of Lubbock, not this agency. This agency also runs free home weatherization (WAP) for: Bailey, Cochran, Crosby, Dickens, Floyd, Garza, Hale, Hockley, King, Lamb, Lubbock, Lynn, Motley, Terry, Yoakum. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "south-texas-development-council-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - South Texas Development Council",
+      "organization": "South Texas Development Council",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Jim Hogg, Starr, Zapata County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(956) 722-3995",
+      "address": "PO Box 2187",
+      "city": "Laredo",
+      "zip": "78044",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jim Hogg",
+        "Starr",
+        "Zapata"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "TDHCA lists only a PO Box; call for the in-person intake location. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texoma-council-of-governments-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Texoma Council of Governments",
+      "organization": "Texoma Council of Governments",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Collin, Cooke, Denton, Fannin, Grayson, Hunt, Rockwall County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(903) 893-2161",
+      "address": "1117 Gallagher Drive",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Collin",
+        "Cooke",
+        "Denton",
+        "Fannin",
+        "Grayson",
+        "Hunt",
+        "Rockwall"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "This agency also runs free home weatherization (WAP) for: Bowie, Camp, Cass, Collin, Cooke, Delta, Denton, Fannin, Franklin, Grayson, Hopkins, Hunt, Lamar, Marion, Morris, Rains, Red River, Rockwall, Titus. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-neighborhood-services-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Texas Neighborhood Services",
+      "organization": "Texas Neighborhood Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Erath, Hood, Johnson, Palo Pinto, Parker, Somervell, Wise County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(817) 598-5700",
+      "address": "522 Palo Pinto Street",
+      "city": "Weatherford",
+      "zip": "76086",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Erath",
+        "Hood",
+        "Johnson",
+        "Palo Pinto",
+        "Parker",
+        "Somervell",
+        "Wise"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-hhs-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Travis County Health & Human Services",
+      "organization": "Travis County Health & Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Travis County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(512) 854-7250",
+      "address": "5325 Airport Blvd.",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Travis County CEAP enrollment also qualifies a household for City of Austin utility bill discounts. Also a Texas Gas Service Share the Warmth agency. This agency also runs free home weatherization (WAP) for: Travis. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tri-county-community-action-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Tri-County Community Action, Inc.",
+      "organization": "Tri-County Community Action, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Harrison, Jasper, Newton, Panola, Sabine, San Augustine, Shelby, Tyler, Upshur County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(936) 598-6315",
+      "address": "214 Nacogdoches Street",
+      "city": "Center",
+      "zip": "75935",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harrison",
+        "Jasper",
+        "Newton",
+        "Panola",
+        "Sabine",
+        "San Augustine",
+        "Shelby",
+        "Tyler",
+        "Upshur"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Mailing address PO Drawer 1748. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "webb-county-community-action-agency-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Webb County Community Action Agency",
+      "organization": "Webb County Community Action Agency",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Webb County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(956) 523-4222",
+      "address": "111 Camino Nuevo Road, Building B",
+      "city": "Laredo",
+      "zip": "78043",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Webb"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "west-texas-opportunities-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - West Texas Opportunities, Inc.",
+      "organization": "West Texas Opportunities, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Andrews, Borden, Dawson, Ector, Fisher, Gaines, Glasscock, Howard, Loving, Martin, Midland, Mitchell, Nolan, Reeves, Scurry, Upton, Ward, Winkler County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(806) 872-8354",
+      "address": "603 North 4th Street",
+      "city": "Lamesa",
+      "zip": "79331",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Andrews",
+        "Borden",
+        "Dawson",
+        "Ector",
+        "Fisher",
+        "Gaines",
+        "Glasscock",
+        "Howard",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Mitchell",
+        "Nolan",
+        "Reeves",
+        "Scurry",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Mailing address PO Box 1308. This agency also runs free home weatherization (WAP) for: Andrews, Borden, Dawson, Ector, Fisher, Gaines, Glasscock, Howard, Loving, Martin, Midland, Mitchell, Nolan, Reeves, Scurry, Upton, Ward, Winkler. Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-burnet-county-opportunities-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Williamson-Burnet County Opportunities, Inc.",
+      "organization": "Williamson-Burnet County Opportunities, Inc.",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help in an energy emergency, like a shut-off notice.",
+      "description_es": "Ayuda a pagar las facturas de luz y gas de familias de bajos ingresos. También puede ayudar en una emergencia de energía, como cuando le llega un aviso de corte del servicio.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level who live in this agency's service counties.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza que viven en los condados que atiende esta agencia.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Resident of: Burnet, Williamson County (any of these counties)"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill",
+        "Proof of address"
+      ],
+      "how_to_apply": "Call the agency to ask how to apply and whether funds are available. They will tell you what forms and papers to bring or send.",
+      "how_to_apply_es": "Llame a la agencia para preguntar cómo solicitar y si todavía hay fondos disponibles. Ahí le dirán qué formularios y documentos debe llevar o enviar.",
+      "apply_url": null,
+      "phone": "(512) 763-1400",
+      "address": "604 High Tech Drive",
+      "city": "Georgetown",
+      "zip": "78625",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Burnet",
+        "Williamson"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "Funding is limited and may run out; call ahead. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "alamo-area-council-of-governments-wap",
+      "name": "Weatherization Assistance Program (WAP) - Alamo Area Council of Governments",
+      "organization": "Alamo Area Council of Governments",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Free home repairs that save energy, like insulation, sealing air leaks, and fixing or replacing heating and cooling systems.",
+      "description_es": "Reparaciones gratis en su casa para ahorrar energía, como aislamiento, sellar fugas de aire y arreglar o cambiar el sistema de calefacción y aire acondicionado.",
+      "eligibility_summary_en": "For low-income households in the listed counties. Limits are up to 200% of the federal poverty level for DOE-funded work and 150% for LIHEAP-funded work.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos en los condados de la lista. El límite es hasta el 200% del nivel federal de pobreza para trabajos pagados por el DOE y el 150% para trabajos pagados por LIHEAP.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Resident of Atascosa, Bandera, Bexar, Comal, Frio, Gillespie, Guadalupe, Karnes, Kendall, Kerr, Medina, or Wilson County"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill"
+      ],
+      "how_to_apply": "Call the agency to get on the weatherization list and ask what papers to bring.",
+      "how_to_apply_es": "Llame a la agencia para anotarse en la lista de espera del programa de mejoras para ahorrar energía (weatherization) y pregunte qué papeles debe llevar.",
+      "apply_url": null,
+      "phone": "(210) 362-5200",
+      "address": "2700 NE Loop 410, Ste. 101",
+      "city": "San Antonio",
+      "zip": "78217",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bandera",
+        "Bexar",
+        "Comal",
+        "Frio",
+        "Gillespie",
+        "Guadalupe",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "Medina",
+        "Wilson"
+      ],
+      "source_url": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/CA-SubRecip.pdf",
+      "confidence": "high",
+      "notes": "AACOG is a WAP (weatherization) provider only, not a CEAP bill-pay provider. There is often a waitlist. Counties from TDHCA Subrecipient Contact List updated 2/2/2026.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-ceap-statewide",
+      "name": "Comprehensive Energy Assistance Program (CEAP)",
+      "organization": "Texas Department of Housing and Community Affairs (TDHCA)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Texas program that helps low-income households pay electric and gas bills and handle energy emergencies. Local agencies run it in every county.",
+      "description_es": "Programa de Texas que ayuda a familias de bajos ingresos a pagar las facturas de luz y gas y a enfrentar emergencias de energía. En cada condado lo maneja una agencia local.",
+      "eligibility_summary_en": "For households with income at or below 150% of the federal poverty level. You apply through the local agency for your county.",
+      "eligibility_summary_es": "Para hogares con ingresos iguales o menores al 150% del nivel federal de pobreza. Usted solicita con la agencia local de su condado.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill"
+      ],
+      "how_to_apply": "Find the local CEAP agency for your county on TDHCA's Help for Texans page or by calling 2-1-1, then contact that agency to apply.",
+      "how_to_apply_es": "Busque la agencia de CEAP de su condado en la página Help for Texans de TDHCA o llamando al 2-1-1. Luego comuníquese con esa agencia para solicitar.",
+      "apply_url": "https://www.tdhca.texas.gov/help-for-texans",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.tdhca.texas.gov/comprehensive-energy-assistance-program-ceap",
+      "confidence": "high",
+      "notes": "Funded by federal LIHEAP. TDHCA pays local agencies, not individuals. 2026 income limit (150% FPIG) confirmed on TDHCA Community Affairs Income Guidelines page: https://www.tdhca.texas.gov/community-affairs-income-guidelines",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-weatherization-assistance-program",
+      "name": "Weatherization Assistance Program (WAP)",
+      "organization": "Texas Department of Housing and Community Affairs (TDHCA)",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Free home energy check and repairs like insulation, weather-stripping, duct work, and heating or cooling repair or replacement to lower energy bills.",
+      "description_es": "Revisión gratis del uso de energía en su casa y reparaciones como aislamiento, sellado de puertas y ventanas, arreglo de ductos y reparación o cambio del aire acondicionado o la calefacción, para bajar sus facturas.",
+      "eligibility_summary_en": "For low-income households. The limit is 200% of the federal poverty level for DOE-funded work and 150% for LIHEAP-funded work.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos. El límite es el 200% del nivel federal de pobreza para trabajos pagados por el DOE y el 150% para trabajos pagados por LIHEAP.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Texas resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill"
+      ],
+      "how_to_apply": "Contact the local weatherization agency for your county. Find it on TDHCA's Help for Texans page or by calling 2-1-1.",
+      "how_to_apply_es": "Comuníquese con la agencia local de weatherization (mejoras para ahorrar energía) de su condado. Puede encontrarla en la página Help for Texans de TDHCA o llamando al 2-1-1.",
+      "apply_url": "https://www.tdhca.texas.gov/help-for-texans",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.tdhca.texas.gov/weatherization-assistance-program",
+      "confidence": "high",
+      "notes": "Local subrecipients cover all 254 counties. Waitlists are common. Income limits: DOE-WAP 200% FPIG, LIHEAP-WAP 150% FPIG (TDHCA Community Affairs Income Guidelines page).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "liheap-federal",
+      "name": "Low Income Home Energy Assistance Program (LIHEAP)",
+      "organization": "U.S. Department of Health and Human Services (administered in Texas by TDHCA)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Federal money that helps low-income families pay heating and cooling bills. In Texas it is given out through CEAP and weatherization agencies.",
+      "description_es": "Dinero del gobierno federal que ayuda a familias de bajos ingresos a pagar la calefacción y el aire acondicionado. En Texas se entrega por medio de las agencias de CEAP y de weatherization.",
+      "eligibility_summary_en": "In Texas, households at or below 150% of the federal poverty level can get LIHEAP help through CEAP.",
+      "eligibility_summary_es": "En Texas, los hogares con ingresos iguales o menores al 150% del nivel federal de pobreza pueden recibir ayuda de LIHEAP por medio de CEAP.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income for all household members",
+        "Recent utility bill"
+      ],
+      "how_to_apply": "In Texas, apply through your county's CEAP agency. Find it on TDHCA's Help for Texans page or by calling 2-1-1.",
+      "how_to_apply_es": "En Texas, solicite con la agencia de CEAP de su condado. Puede encontrarla en la página Help for Texans de TDHCA o llamando al 2-1-1.",
+      "apply_url": "https://www.tdhca.texas.gov/help-for-texans",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.tdhca.texas.gov/comprehensive-energy-assistance-program-ceap",
+      "confidence": "high",
+      "notes": "Texas does not take LIHEAP applications directly; it flows through CEAP and LIHEAP-WAP local agencies. TDHCA posts the 2026 LIHEAP State Plan on the CEAP page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "tdhca-help-for-texans",
+      "name": "Help for Texans (local provider finder)",
+      "organization": "Texas Department of Housing and Community Affairs (TDHCA)",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "An online tool that lists local groups that help with utility bills, weatherization, rent, and more for your city or county.",
+      "description_es": "Una herramienta en internet que le muestra grupos locales que ayudan con las facturas de servicios, mejoras para ahorrar energía, la renta y más, según su ciudad o condado.",
+      "eligibility_summary_en": "Anyone in Texas can use it. Each program listed has its own rules.",
+      "eligibility_summary_es": "Cualquier persona en Texas la puede usar. Cada programa de la lista tiene sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Go to the website, pick the type of help you need, and enter your city or county to get a list of agencies.",
+      "how_to_apply_es": "Entre al sitio web, escoja el tipo de ayuda que necesita y escriba su ciudad o condado para ver una lista de agencias.",
+      "apply_url": "https://www.tdhca.texas.gov/help-for-texans",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.tdhca.texas.gov/help-for-texans",
+      "confidence": "high",
+      "notes": "TDHCA funds go to local providers, not individuals; providers may have limited funds.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "2-1-1-texas-utility-help",
+      "name": "2-1-1 Texas",
+      "organization": "Texas Health and Human Services Commission - 2-1-1 Texas",
+      "categories": [
+        "utilities",
+        "food",
+        "housing",
+        "healthcare"
+      ],
+      "description_en": "Free phone line and website that connects you to local help, including help paying electric, gas, water, phone and internet bills.",
+      "description_es": "Línea telefónica y sitio web gratis que le conecta con ayuda local, incluida ayuda para pagar la luz, el gas, el agua, el teléfono y el internet.",
+      "eligibility_summary_en": "Anyone in Texas can call or search.",
+      "eligibility_summary_es": "Cualquier persona en Texas puede llamar o buscar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Dial 2-1-1 or (877) 541-7905, or search the 211texas.org directory or chat online.",
+      "how_to_apply_es": "Marque 2-1-1 o (877) 541-7905, o busque en el directorio de 211texas.org o use el chat en línea.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.211texas.org/",
+      "confidence": "high",
+      "notes": "Alternate number (877) 541-7905. Live chat in English and Spanish on 211texas.org. Many utility company funds (Reliant CARE, TXU Energy Aid) refer callers to 2-1-1 to find a local agency.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lifeline-phone-internet-discount",
+      "name": "Lifeline phone and internet discount",
+      "organization": "Federal Communications Commission / Universal Service Administrative Company (USAC)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "A monthly discount of up to $9.25 on phone, internet, or bundled service. People on qualifying tribal lands can get up to $34.25.",
+      "description_es": "Un descuento mensual de hasta $9.25 en su servicio de teléfono, internet o paquete. Las personas que viven en tierras tribales que califican pueden recibir hasta $34.25.",
+      "eligibility_summary_en": "For people with income at or below 135% of the federal poverty guidelines, or who get SNAP, Medicaid, SSI, Federal Public Housing Assistance, or Veterans Pension or Survivors Benefit.",
+      "eligibility_summary_es": "Para personas con ingresos iguales o menores al 135% de las guías federales de pobreza, o que reciben SNAP, Medicaid, SSI, Asistencia Federal de Vivienda Pública, o Pensión para Veteranos o Beneficio para Sobrevivientes.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 135
+      },
+      "documents_needed": [
+        "Proof of program participation (like a SNAP or Medicaid letter) or proof of income",
+        "Photo ID"
+      ],
+      "how_to_apply": "Texas residents apply through the Texas Lifeline website (texaslifeline.org) or through a Lifeline phone or internet company.",
+      "how_to_apply_es": "En Texas, solicite en el sitio web de Texas Lifeline (texaslifeline.org) o por medio de una compañía de teléfono o internet que ofrezca Lifeline.",
+      "apply_url": "https://www.texaslifeline.org/",
+      "phone": "(800) 234-9473",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "7 days a week, 9:00 a.m. to 9:00 p.m. ET (Lifeline Support Center)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.lifelinesupport.org/how-to-qualify/",
+      "confidence": "high",
+      "notes": "Only one Lifeline discount per household. Survivors of domestic violence or human trafficking may qualify at up to 200% of the federal poverty guidelines. The (800) 234-9473 line is the national USAC Lifeline Support Center; in Texas, enrollment is done at texaslifeline.org and yearly recertification is handled by the State of Texas, not USAC. Being enrolled in Telephone Lifeline also qualifies City of Austin utility customers for the City of Austin utility bill discount. The Affordable Connectivity Program (ACP) has ended and is not included.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-utilities-bill-discount",
+      "name": "City of Austin Utility Bill Discount (Customer Assistance Program)",
+      "organization": "City of Austin Utilities / Austin Energy",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Discounts on City of Austin utility bills (electric, water and other city services), worth about $1,092 a year depending on services used.",
+      "description_es": "Descuentos en las facturas de servicios de la Ciudad de Austin (luz, agua y otros servicios de la ciudad). En promedio ahorran unos $1,092 al año, según los servicios que use.",
+      "eligibility_summary_en": "For City of Austin utility customers with household income below 200% of the federal poverty level or enrolled in Medicaid, SNAP, CHIP, Telephone Lifeline, Travis County CEAP, MAP, VASH, or SSI.",
+      "eligibility_summary_es": "Para clientes de servicios de la Ciudad de Austin con ingresos del hogar menores al 200% del nivel federal de pobreza, o que están inscritos en Medicaid, SNAP, CHIP, Lifeline telefónico, CEAP del Condado de Travis, MAP, VASH o SSI.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "City of Austin utility customer"
+      },
+      "documents_needed": [
+        "One letter proving current enrollment (for example Medicaid or SNAP Notice of Case Action, CHIP enrollment letter, or SSI award letter), or proof of income"
+      ],
+      "how_to_apply": "Apply online at the City of Austin discount program portal (English or Spanish). Enrollment is not automatic.",
+      "how_to_apply_es": "Solicite en línea en el portal del programa de descuentos de la Ciudad de Austin (en inglés o español). La inscripción no es automática.",
+      "apply_url": "https://www.cityofaustindiscountprogram.com/s/?language=en_US",
+      "phone": "(512) 494-9400",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Customer Care: Mon-Fri 7am-9pm, Sat 9am-1pm CST",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://coautilities.com/wps/wcm/connect/occ/coa/util/support/customer-assistance/utility-bill-discounts",
+      "confidence": "high",
+      "notes": "Eligibility questions: (855) 319-6630. Toll-free customer care (888) 340-6465. Spanish application: https://www.cityofaustindiscountprogram.com/s/?language=es. 200% FPL examples on the source page: 1 person $31,300; family of four $64,300. The application portal blocked automated checks, but it is the link given on the official City of Austin Utilities page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-energy-plus-1",
+      "name": "Financial Support Plus 1 (emergency utility bill help)",
+      "organization": "City of Austin Utilities / Austin Energy",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "One-time emergency money to help City of Austin utility customers who have a short-term problem paying their bill, such as job loss or illness.",
+      "description_es": "Dinero de emergencia, por una sola vez, para ayudar a clientes de servicios de la Ciudad de Austin que tienen un problema temporal para pagar su factura, como perder el trabajo o una enfermedad.",
+      "eligibility_summary_en": "For City of Austin residential utility customers facing a temporary hardship. Partner agencies screen and may have ZIP code or client rules.",
+      "eligibility_summary_es": "Para clientes residenciales de servicios de la Ciudad de Austin que pasan por una dificultad temporal. Las agencias asociadas hacen la evaluación y pueden tener reglas por código postal o pedir que ya sea su cliente.",
+      "eligibility_rules": {
+        "residency_required": "City of Austin utility customer"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Go to FinancialSupportPlus1.com to find a partner social service agency, then contact that agency to be screened.",
+      "how_to_apply_es": "Entre a FinancialSupportPlus1.com para encontrar una agencia de servicios sociales asociada y luego comuníquese con esa agencia para que le evalúen.",
+      "apply_url": "https://www.financialsupportplus1.com/",
+      "phone": "(512) 494-9400",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Customer Care: Mon-Fri 7am-9pm, Sat 9am-1pm CST",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://coautilities.com/wps/wcm/connect/occ/coa/util/support/customer-assistance/plus-1",
+      "confidence": "high",
+      "notes": "Problems reaching partner agencies: billhelp@austinenergy.com. Toll-free (888) 340-6465. The official page also links a PDF list of Plus 1 partner agencies. FinancialSupportPlus1.com blocked automated checks, but it is the link given on the official City of Austin Utilities page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-energy-weatherization-assistance",
+      "name": "Austin Energy Weatherization Assistance Program",
+      "organization": "Austin Energy",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Free home energy upgrades like attic insulation, duct repair and sealing, air sealing, solar screens, smoke and CO detectors, LED lights, and smart thermostats.",
+      "description_es": "Mejoras gratis en su casa para ahorrar energía, como aislamiento del ático, reparación y sellado de ductos, sellado de fugas de aire, mallas solares, detectores de humo y de monóxido de carbono, focos LED y termostatos inteligentes.",
+      "eligibility_summary_en": "For Austin Energy customers enrolled in the Customer Assistance Program or the Medically Vulnerable Registry, with income at or below 80% of median family income. Homeowners who live in the home can apply; renters need their landlord's permission.",
+      "eligibility_summary_es": "Para clientes de Austin Energy inscritos en el Programa de Asistencia al Cliente (CAP) o en el Registro de Personas Médicamente Vulnerables, con ingresos iguales o menores al 80% del ingreso familiar medio. Pueden solicitar los dueños que viven en la casa; si renta, necesita el permiso de su casero.",
+      "eligibility_rules": {
+        "residency_required": "Austin Energy customer; owner-occupied home, or renter with landlord permission"
+      },
+      "documents_needed": [
+        "Proof of home ownership",
+        "Proof of income"
+      ],
+      "how_to_apply": "Apply online with the Austin Energy weatherization form, or mail an application to Austin Energy, Weatherization Assistance Program, 4815 Mueller Blvd, Austin, TX 78723-3573.",
+      "how_to_apply_es": "Solicite en línea con el formulario de weatherization de Austin Energy (hay versión en español), o envíe la solicitud por correo a Austin Energy, Weatherization Assistance Program, 4815 Mueller Blvd, Austin, TX 78723-3573.",
+      "apply_url": "https://austinenergy.formstack.com/forms/weatherization_assistance_program_application_english",
+      "phone": "(512) 482-5346",
+      "address": "4815 Mueller Blvd",
+      "city": "Austin",
+      "zip": "78723",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://austinenergy.com/energy-efficiency/rebates-incentives/residential/home-improvements/weatherization",
+      "confidence": "high",
+      "notes": "Income limits (80% MFI) range from $68,500 for 1 person to $129,100 for 8 people. Home must be single-family to fourplex, under 2,500 sq ft, valued at $478,195 or less, and more than 10 years old. Waitlists are possible if funding runs out. Spanish application: https://austinenergy.formstack.com/forms/weatherization_assistance_program_application_spanish. Email AEWeatherization@austinenergy.com.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cps-energy-affordability-discount-program",
+      "name": "CPS Energy Affordability Discount Program",
+      "organization": "CPS Energy",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "A monthly discount on CPS Energy bills: about $13.48 off electric and $4.88 off gas, or $18.36 a month combined.",
+      "description_es": "Un descuento mensual en su factura de CPS Energy: unos $13.48 menos en la luz y $4.88 menos en el gas, o $18.36 al mes si tiene los dos.",
+      "eligibility_summary_en": "For CPS Energy customers with income at or below 150% of the federal poverty level who are 60 or older, disabled, use life-sustaining medical equipment, have children 18 or under, or spend over 10% of income on energy.",
+      "eligibility_summary_es": "Para clientes de CPS Energy con ingresos iguales o menores al 150% del nivel federal de pobreza que tienen 60 años o más, tienen una discapacidad, usan equipo médico para mantenerse con vida, tienen hijos o gastan más del 10% de sus ingresos en energía.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "CPS Energy customer"
+      },
+      "documents_needed": [
+        "Proof of household income"
+      ],
+      "how_to_apply": "Apply online with the CPS Energy discount form, in person at a CPS Energy Customer Service Center, or by phone. You must re-apply every year.",
+      "how_to_apply_es": "Solicite en línea con el formulario de descuento de CPS Energy, en persona en un Centro de Servicio al Cliente de CPS Energy, o por teléfono. Tiene que volver a solicitar cada año.",
+      "apply_url": "https://www.cpsenergy.com/en/forms/res-affordability-discount-form.html",
+      "phone": "(210) 353-2222",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.cpsenergy.com/content/corporate/en/my-home/customer-assist-programs/affordability-discounts.html",
+      "confidence": "high",
+      "notes": "Discount amounts in effect since Feb 2025. 2026 gross monthly income limits: 1 person under $1,995 up to 8 people under $6,965; add $710 per extra person. Enrollment lasts 12 months. The apply link redirects to CPS Energy's online form. CPS Energy service area is centered on Bexar County.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cps-energy-reap",
+      "name": "Residential Energy Assistance Partnership (REAP)",
+      "organization": "CPS Energy with City of San Antonio DHS and Bexar County Community Resources",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Up to $480 a year in help paying CPS Energy bills, given as a credit on your bill. You can apply up to twice a year.",
+      "description_es": "Hasta $480 al año de ayuda para pagar su factura de CPS Energy, que se aplica como crédito en su cuenta. Puede solicitar hasta dos veces al año.",
+      "eligibility_summary_en": "For San Antonio and Bexar County residents with income at or below 150% of the federal poverty level who are 60 or older, disabled, have children under 17, or need critical-care equipment.",
+      "eligibility_summary_es": "Para residentes de San Antonio y del Condado de Bexar con ingresos iguales o menores al 150% del nivel federal de pobreza que tienen 60 años o más, tienen una discapacidad, tienen hijos menores de 17 años o necesitan equipo médico de cuidado crítico.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "San Antonio or Bexar County resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income",
+        "CPS Energy bill"
+      ],
+      "how_to_apply": "City of San Antonio residents apply online or call (210) 207-8198. Bexar County residents outside the city call (210) 335-3666.",
+      "how_to_apply_es": "Si vive en la Ciudad de San Antonio, solicite en línea o llame al (210) 207-8198. Si vive en el Condado de Bexar fuera de la ciudad, llame al (210) 335-3666.",
+      "apply_url": "https://dhs.mendixcloud.com/p/Kinetech/GovTech/UtilityAssistance",
+      "phone": "(210) 207-8198",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "City of San Antonio line: Mon-Fri 7:45 a.m. - 4:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.cpsenergy.com/content/corporate/en/my-home/customer-assist-programs/reap.html",
+      "confidence": "high",
+      "notes": "Bexar County residents outside San Antonio: call (210) 335-3666 for an appointment or visit Bexar County Community Resources, 233 N. Pecos, San Antonio, TX 78207 (Mon-Fri 8 a.m. - 3 p.m.). CPS Energy Customer Engagement: (210) 353-4483. United Way Helpline: 2-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cps-energy-casa-verde",
+      "name": "Casa Verde Weatherization Program",
+      "organization": "CPS Energy",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Free or rebated energy-saving home improvements like attic and wall insulation, duct sealing, LED bulbs, solar screens, smart thermostats, and A/C tune-ups.",
+      "description_es": "Mejoras gratis o con reembolso para ahorrar energía en su casa, como aislamiento del ático y las paredes, sellado de ductos, focos LED, mallas solares, termostatos inteligentes y mantenimiento del aire acondicionado.",
+      "eligibility_summary_en": "For CPS Energy homeowners and renters whose household income is under the program limits, or who spend 10% or more of their income on energy, or who get need-based government help.",
+      "eligibility_summary_es": "Para dueños de casa e inquilinos con servicio de CPS Energy cuyos ingresos están por debajo de los límites del programa, o que gastan el 10% o más de sus ingresos en energía, o que reciben ayuda del gobierno basada en necesidad.",
+      "eligibility_rules": {
+        "residency_required": "CPS Energy customer (homeowner or renter)"
+      },
+      "documents_needed": [
+        "Proof of income"
+      ],
+      "how_to_apply": "Fill out the online Casa Verde application or call 210-353-CASA (2272).",
+      "how_to_apply_es": "Llene la solicitud de Casa Verde en línea o llame al 210-353-CASA (2272).",
+      "apply_url": "https://cpsenergy.sjc1.qualtrics.com/jfe/form/SV_b0X1VP4DlGGv65g",
+      "phone": "(210) 353-2272",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.cpsenergy.com/en/my-home/customer-assist-programs/casa-verde.html",
+      "confidence": "high",
+      "notes": "2026 gross monthly income limits: 1 person under $2,660; 8 people under $9,287; add $947 per extra person. The source page does not state a federal poverty level percentage.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "saws-uplift",
+      "name": "SAWS Uplift Affordability Programs",
+      "organization": "San Antonio Water System (SAWS)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "A group of 14 programs that help eligible customers pay their water bill and avoid shut-off.",
+      "description_es": "Un grupo de 14 programas que ayudan a clientes que califican a pagar su factura del agua y a evitar que les corten el servicio.",
+      "eligibility_summary_en": "For SAWS residential account holders who meet income rules and whose home value is $300,000 or less.",
+      "eligibility_summary_es": "Para titulares de cuentas residenciales de SAWS que cumplen con los requisitos de ingresos y cuya casa vale $300,000 o menos.",
+      "eligibility_rules": {
+        "residency_required": "SAWS residential account holder"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out one application on the Uplift website. SAWS matches you to the programs you qualify for.",
+      "how_to_apply_es": "Llene una sola solicitud en el sitio web de Uplift. SAWS le conecta con los programas para los que califica.",
+      "apply_url": "https://uplift.saws.org",
+      "phone": "(210) 704-7297",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 8 a.m. - 5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.saws.org/service/affordability-programs/",
+      "confidence": "high",
+      "notes": "Phone is listed as 210-704-SAWS; SAWS emergencies are answered 24/7. The Uplift website is available in English and Spanish. Exact income limits are not posted on the source page. Email uplift@saws.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "reliant-care",
+      "name": "Reliant CARE (Community Assistance by Reliant Energy)",
+      "organization": "Reliant Energy",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Help paying Reliant electric bills during a hardship, given out through local partner agencies. It may not cover your whole bill.",
+      "description_es": "Ayuda para pagar la factura de luz de Reliant cuando pasa por una dificultad económica. La entregan agencias locales asociadas. Puede que no cubra toda su factura.",
+      "eligibility_summary_en": "For Reliant customers in financial need. Each partner agency sets its own rules.",
+      "eligibility_summary_es": "Para clientes de Reliant que tienen necesidad económica. Cada agencia asociada pone sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Latest Reliant electric bill or disconnection notice",
+        "Proof of financial need as asked by the agency"
+      ],
+      "how_to_apply": "Call 2-1-1 or a CARE partner agency in your area (for example BakerRipley in the Houston area at (713) 667-9400) to ask about rules and appointments. Help can take up to 8 weeks.",
+      "how_to_apply_es": "Llame al 2-1-1 o a una agencia asociada de CARE en su área (por ejemplo, BakerRipley en el área de Houston al (713) 667-9400) para preguntar por los requisitos y las citas. La ayuda puede tardar hasta 8 semanas.",
+      "apply_url": "https://www.reliant.com/en/residential/help-support/information-center/reliant-care",
+      "phone": "(866) 222-7100",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.reliant.com/en/residential/help-support/information-center/reliant-care",
+      "confidence": "high",
+      "notes": "The phone listed is Reliant customer service (use it to get a copy of your bill or disconnection notice). The source page lists about 90 partner agencies across Texas, including BakerRipley (713) 667-9400 for Brazoria, Galveston and Harris counties, and Catholic Charities of Dallas (866) 233-7500 for Collin, Dallas, Ellis, Fannin, Grayson, Hunt, Kaufman, Navarro and Rockwall counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "txu-energy-aid",
+      "name": "TXU Energy Aid",
+      "organization": "TXU Energy",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Bill-payment help for TXU Energy customers in hardship, given through local social service agencies.",
+      "description_es": "Ayuda para pagar la factura de clientes de TXU Energy que pasan por una dificultad, entregada por medio de agencias locales de servicios sociales.",
+      "eligibility_summary_en": "For families having a financial hardship. Veterans injured in combat who cannot regulate body temperature may get special help.",
+      "eligibility_summary_es": "Para familias con dificultades económicas. Los veteranos heridos en combate que no pueden regular la temperatura de su cuerpo pueden recibir ayuda especial.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 2-1-1 or visit 211texas.org to find a local agency that gives out TXU Energy Aid.",
+      "how_to_apply_es": "Llame al 2-1-1 o visite 211texas.org para encontrar una agencia local que entregue la ayuda de TXU Energy Aid.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.txu.com/why-txu-energy/txu-energy-aid",
+      "confidence": "high",
+      "notes": "Program email: energyaid@txu.com. Veterans program: (800) 242-9113 or txuexec@txu.com. TXU says the program helps about 20,000 families a year.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-gas-service-share-the-warmth",
+      "name": "Share the Warmth",
+      "organization": "Texas Gas Service",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Help paying winter heating (natural gas) bills, paid for by customer donations and given out by local agencies.",
+      "description_es": "Ayuda para pagar la calefacción (gas natural) en invierno. Se paga con donaciones de los clientes y la entregan agencias locales.",
+      "eligibility_summary_en": "For people who pay their own home heating bill, live in a county served by Texas Gas Service, and have a financial emergency.",
+      "eligibility_summary_es": "Para personas que pagan su propia calefacción, viven en un condado donde da servicio Texas Gas Service y tienen una emergencia económica.",
+      "eligibility_rules": {
+        "residency_required": "Lives in a Texas Gas Service county"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply through a local agency: Austin area - Travis County Health & Human Services or 2-1-1; El Paso - Project BRAVO; Rio Grande Valley - Hidalgo County Community Services or Cameron and Willacy Counties Community Projects; other Texas Gas Service areas - Catholic Charities of Central Texas.",
+      "how_to_apply_es": "Solicite con una agencia local: área de Austin - Salud y Servicios Humanos del Condado de Travis o 2-1-1; El Paso - Project BRAVO; Valle del Río Grande - Hidalgo County Community Services o Cameron and Willacy Counties Community Projects; otras áreas de Texas Gas Service - Catholic Charities of Central Texas.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [],
+      "source_url": "https://www.texasgasservice.com/save-money/assistance-programs/share-the-warmth",
+      "confidence": "high",
+      "notes": "Texas Gas Service serves many Texas counties, including the Austin, El Paso and Rio Grande Valley areas; the full county list was not confirmed, so coverage_counties is empty. No income limit is posted. Agency phone numbers are not listed on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "el-paso-electric-texas-low-income-rider",
+      "name": "El Paso Electric Texas Low-Income Rider",
+      "organization": "El Paso Electric",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Waives the $13.71 monthly customer charge on your El Paso Electric bill, saving about $164.52 a year.",
+      "description_es": "Le quita el cargo mensual de cliente de $13.71 en su factura de El Paso Electric, un ahorro de unos $164.52 al año.",
+      "eligibility_summary_en": "For Texas El Paso Electric customers with the account in their name who have a Lone Star Card (SNAP) or income at or below 125% of the federal poverty level.",
+      "eligibility_summary_es": "Para clientes de El Paso Electric en Texas con la cuenta a su nombre que tienen la tarjeta Lone Star (SNAP) o ingresos iguales o menores al 125% del nivel federal de pobreza.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 125,
+        "residency_required": "El Paso Electric Texas customer"
+      },
+      "documents_needed": [
+        "Copy of SNAP (Food Stamp) eligibility form with name and account number, or income verification from a qualifying agency"
+      ],
+      "how_to_apply": "SNAP (Lone Star Card) households mail a copy of the Food Stamp eligibility form with name and account number to El Paso Electric, Attn: Customer Services, LIR, Loc. 143, P.O. Box 982, El Paso, TX 79960. Others can have income verified by El Paso County General Assistance ((915) 546-8150), Project BRAVO (El Paso County only), or El Paso Business Strong. You must renew every year.",
+      "how_to_apply_es": "Si tiene SNAP (tarjeta Lone Star), envíe por correo una copia de su forma de elegibilidad de estampillas de comida con su nombre y número de cuenta a El Paso Electric, Attn: Customer Services, LIR, Loc. 143, P.O. Box 982, El Paso, TX 79960. Si no, pida que revisen sus ingresos en El Paso County General Assistance ((915) 546-8150), Project BRAVO (solo Condado de El Paso) o El Paso Business Strong. Hay que renovar cada año.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.epelectric.com/customer-service/assistance-programs/texas-agencies-and-low-income-rider",
+      "confidence": "high",
+      "notes": "Serves El Paso Electric customers in Texas; coverage listed as El Paso County, but EPE's Texas service area may include nearby counties. EPE also runs the Bright Hearts Fund for past-due customers at risk of disconnection.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "el-paso-electric-bright-hearts-fund",
+      "name": "Bright Hearts Fund",
+      "organization": "El Paso Electric",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Donated money that helps El Paso Electric customers who are behind on their bill and at risk of being shut off.",
+      "description_es": "Dinero donado que ayuda a clientes de El Paso Electric que están atrasados en su factura y en riesgo de que les corten la luz.",
+      "eligibility_summary_en": "For El Paso Electric customers who are past due and at risk of disconnection.",
+      "eligibility_summary_es": "Para clientes de El Paso Electric que tienen pagos atrasados y están en riesgo de desconexión.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Contact El Paso Electric and ask about its assistance programs and payment arrangements.",
+      "how_to_apply_es": "Comuníquese con El Paso Electric y pregunte por sus programas de ayuda y arreglos de pago.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.epelectric.com/customer-service/assistance-programs",
+      "confidence": "medium",
+      "notes": "The source page says the fund serves customers across EPE's entire service region (Texas and New Mexico) but gives no eligibility details, application steps, or phone number. EPE also offers payment arrangements and a Budget Billing Plan.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "centerpoint-energy-texas-payment-help",
+      "name": "CenterPoint Energy payment extensions and payment arrangements (Texas)",
+      "organization": "CenterPoint Energy",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "CenterPoint customers can ask for a one-time due date extension of a few extra days, or split a bill into smaller payments. CenterPoint also points customers to CEAP and 2-1-1 for bill-pay help.",
+      "description_es": "Los clientes de CenterPoint pueden pedir una extensión de la fecha de pago, por una sola vez, para tener unos días más, o dividir la factura en pagos más pequeños. CenterPoint también le refiere a CEAP y al 2-1-1 para recibir ayuda con el pago.",
+      "eligibility_summary_en": "For CenterPoint Energy customers who need more time to pay. Fees and rules may vary.",
+      "eligibility_summary_es": "Para clientes de CenterPoint Energy que necesitan más tiempo para pagar. Los cargos y las reglas pueden variar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Sign in to CenterPoint My Account to request an extension or set up a payment arrangement. For bill-pay help, call 2-1-1 or your local CEAP agency.",
+      "how_to_apply_es": "Entre a su cuenta My Account de CenterPoint para pedir una extensión o hacer un arreglo de pagos. Para ayuda con el pago, llame al 2-1-1 o a la agencia de CEAP de su condado.",
+      "apply_url": "https://www.centerpointenergy.com/en-us/my-account/billing-payment/assistance-programs",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [],
+      "source_url": "https://www.centerpointenergy.com/en-us/my-account/billing-payment/assistance-programs",
+      "confidence": "high",
+      "notes": "CenterPoint's assistance page covers several states; the Texas-relevant items are payment extensions, payment arrangements, CEAP and 2-1-1. There is generally no fee for an extension. Houston electric customers pay their retail electric provider (e.g., Reliant), not CenterPoint. Exact Texas county list not confirmed, so coverage_counties is empty.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "oncor-critical-care-chronic-condition",
+      "name": "Critical Care / Chronic Condition customer status",
+      "organization": "Oncor Electric Delivery (under PUCT customer protection rules)",
+      "categories": [
+        "utilities",
+        "healthcare"
+      ],
+      "description_en": "A special status for homes where someone depends on electric medical equipment or has a serious condition. It can give extra notice and protections before shut-off, but does not guarantee power.",
+      "description_es": "Un estatus especial para hogares donde alguien depende de equipo médico eléctrico o tiene una condición de salud grave. Puede darle más aviso y protecciones antes de un corte, pero no garantiza que siempre tendrá luz.",
+      "eligibility_summary_en": "For residential customers with a household member who has a qualifying critical care or chronic medical condition, as defined by the Public Utility Commission of Texas.",
+      "eligibility_summary_es": "Para clientes residenciales con alguien en el hogar que tiene una condición médica crónica o de cuidado crítico que califica, según las reglas de la Comisión de Servicios Públicos de Texas (PUCT).",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "PUCT Application for Chronic Condition or Critical Care Residential Customer Status (signed by a doctor)"
+      ],
+      "how_to_apply": "Fill out the PUCT application on Oncor's page or contact your retail electric provider. Text REG to 66267 for MyOncor outage alerts.",
+      "how_to_apply_es": "Llene la solicitud de la PUCT que está en la página de Oncor o comuníquese con su proveedor de electricidad. Mande un mensaje de texto con la palabra REG al 66267 para recibir alertas de apagones de MyOncor.",
+      "apply_url": "https://www.oncor.com/content/oncorwww/us/en/home/about-us/regulatory/chronic-condition-critical-care-critical-load.html",
+      "phone": "(888) 313-6862",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 8 AM - 6 PM Central (general inquiries)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [],
+      "source_url": "https://www.oncor.com/content/oncorwww/us/en/home/about-us/regulatory/chronic-condition-critical-care-critical-load.html",
+      "confidence": "high",
+      "notes": "The status does not guarantee uninterrupted power; have a backup plan for medical equipment. Oncor is the wires company for much of North and West Texas; bill-pay help comes from your retail electric provider, CEAP, or 2-1-1. Oncor outage line: (888) 313-4747 (24/7). General inquiries email: contactcenter@oncor.com.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": [
+    {
+      "id": "texas-lifeline-enrollment",
+      "reason": "Duplicate of lifeline-phone-internet-discount: same Lifeline program, same apply URL (texaslifeline.org) and same eligibility; Texas enrollment details were merged into that record."
+    }
+  ]
+}

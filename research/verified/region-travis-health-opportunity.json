@@ -1,0 +1,1219 @@
+{
+  "scope": "Travis County (Austin, Pflugerville, Manor, Del Valle) - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "central-health-map",
+      "name": "MAP (Medical Access Program) and MAP Basic",
+      "organization": "Central Health (Travis County Healthcare District)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "MAP is local health coverage for Travis County. It covers primary care, prescriptions, specialty care, and hospital care.",
+      "eligibility_summary_en": "For uninsured Travis County residents with household income at or below 200% of the Federal Poverty Level (about $2,660 a month for one person). You cannot have Medicaid, Medicare, or private insurance.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "uninsured": true,
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of Travis County address (lease, utility bill, or mail postmarked in the last 30 days)",
+        "Picture ID for each adult (driver's license, state ID, foreign ID, or passport)",
+        "Proof of U.S. citizenship or residency status, if you have it (birth certificate, permanent resident card, or passport)",
+        "Proof of household income for the last 30 days (pay stubs, Social Security or retirement letter, unemployment letter)",
+        "Proof of household size (birth certificates or IDs for household members)",
+        "Any insurance card you have (Medicaid, Medicare, or private)"
+      ],
+      "how_to_apply": "Apply online at the Central Health application portal, or call 512-978-8130 and choose option 1 to apply by phone or set an in-person appointment. You can also mail an application to Medical Access Program, PO Box 300489, Austin, TX 78703.",
+      "apply_url": "https://ola.veritysource.com/austin",
+      "phone": "(512) 978-8130",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": "Monday - Friday 8 a.m. to 5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or low cost for eligible members",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.centralhealth.net/map/",
+      "confidence": "high",
+      "notes": "Interpreters are available by phone; ask for your language when you call. Eligibility is based on income from the last 30 days. MAP members get care at CommUnityCare and other partner clinics. Central Health main line: 512-978-8000.",
+      "description_es": "MAP es un programa local de cobertura de salud para el condado de Travis. Cubre atención primaria, medicinas, especialistas y atención en el hospital.",
+      "eligibility_summary_es": "Para personas sin seguro médico que viven en el condado de Travis y cuyo ingreso familiar es igual o menor al 200% del Nivel Federal de Pobreza (unos $2,660 al mes para una persona). No puede tener Medicaid, Medicare ni seguro privado.",
+      "how_to_apply_es": "Aplique en línea en el portal de Central Health, o llame al 512-978-8130 y oprima la opción 1 para aplicar por teléfono o hacer una cita en persona. También puede enviar su solicitud por correo a Medical Access Program, PO Box 300489, Austin, TX 78703.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communitycare-health-centers",
+      "name": "CommUnityCare Health Centers - Patient Navigation Center",
+      "organization": "CommUnityCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "CommUnityCare runs community health centers across Travis County. They offer primary care, children's care, women's health, dental, behavioral health, HIV care, lab, and pharmacy.",
+      "eligibility_summary_en": "Open to everyone, with or without insurance and regardless of ability to pay. Call to be screened for help paying your bill.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Patient Navigation Center at 512-978-9015 to make your first appointment, or book online through MyChart. Ask the financial screening team about payment help before your visit.",
+      "apply_url": "https://communitycaretx.org/for-patients/new-patients/",
+      "phone": "(512) 978-9015",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Accepts insurance; financial assistance for people who qualify",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://communitycaretx.org/for-patients/new-patients/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center network. Call agents are bilingual and translation services are available for other languages. Main clinic partner for Central Health MAP members.",
+      "description_es": "CommUnityCare tiene clínicas de salud en todo el condado de Travis. Ofrecen atención primaria, cuidado para niños, salud de la mujer, dentista, salud mental, atención del VIH, laboratorio y farmacia.",
+      "eligibility_summary_es": "Abierto para todos, con o sin seguro, y aunque no pueda pagar. Llame para ver si califica para ayuda con el pago.",
+      "how_to_apply_es": "Llame al Centro de Navegación de Pacientes al 512-978-9015 para hacer su primera cita, o haga su cita en línea por MyChart. Pregunte al equipo de evaluación financiera sobre ayuda con el pago antes de su visita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communitycare-del-valle-health-wellness-center",
+      "name": "CommUnityCare Del Valle Health & Wellness Center",
+      "organization": "CommUnityCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community clinic in Del Valle with family medicine, children's care, women's health, dental, behavioral health, lab, and a pharmacy.",
+      "eligibility_summary_en": "Open to everyone, with or without insurance. Payment help is available for people who qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic at 512-978-9760 to make an appointment, or call the Patient Navigation Center at 512-978-9015.",
+      "apply_url": null,
+      "phone": "(512) 978-9760",
+      "address": "7050 Elroy Rd.",
+      "city": "Del Valle",
+      "zip": "78617",
+      "hours": "Clinic: Monday - Friday 7:00 a.m. to 6:00 p.m. Pharmacy: Monday - Friday 8:00 a.m. to 6:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Accepts insurance; financial assistance for people who qualify",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://communitycaretx.org/del-valle/",
+      "confidence": "high",
+      "notes": "Pharmacy phone: 512-716-7070. Lab is open Tuesday and Thursday 8 a.m. - 5 p.m. (closed noon-1 p.m.).",
+      "description_es": "Una clínica comunitaria en Del Valle con medicina familiar, cuidado para niños, salud de la mujer, dentista, salud mental, laboratorio y farmacia.",
+      "eligibility_summary_es": "Abierto para todos, con o sin seguro. Hay ayuda con el pago para quienes califiquen.",
+      "how_to_apply_es": "Llame a la clínica al 512-978-9760 para hacer una cita, o llame al Centro de Navegación de Pacientes al 512-978-9015.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communitycare-manor-health-center",
+      "name": "CommUnityCare Manor Health Center",
+      "organization": "CommUnityCare Health Centers",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community clinic in Manor with family medicine for adults and children and women's health care.",
+      "eligibility_summary_en": "Open to everyone, with or without insurance. Payment help is available for people who qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-978-9780 to make an appointment.",
+      "apply_url": null,
+      "phone": "(512) 978-9780",
+      "address": "14008 Shadowglen, U.S. 290",
+      "city": "Manor",
+      "zip": "78653",
+      "hours": "Clinic: Monday, Tuesday, and Thursday 7:00 a.m. to 4:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Accepts insurance; financial assistance for people who qualify",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://communitycaretx.org/all-locations/manor-health-center/",
+      "confidence": "high",
+      "notes": "Clinic is open only Monday, Tuesday, and Thursday. For other CommUnityCare locations call 512-978-9015.",
+      "description_es": "Una clínica comunitaria en Manor con medicina familiar para adultos y niños, y salud de la mujer.",
+      "eligibility_summary_es": "Abierto para todos, con o sin seguro. Hay ayuda con el pago para quienes califiquen.",
+      "how_to_apply_es": "Llame al 512-978-9780 para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communitycare-pflugerville-health-center",
+      "name": "CommUnityCare Pflugerville Health Center",
+      "organization": "CommUnityCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community clinic in Pflugerville with family and internal medicine, pediatrics, women's health, counseling, and dental care.",
+      "eligibility_summary_en": "Open to everyone, with or without insurance. Payment help is available for people who qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-978-9840 for medical appointments or 512-359-9404 for dental.",
+      "apply_url": null,
+      "phone": "(512) 978-9840",
+      "address": "2700 W. Pecan St, Suite #450",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "hours": "Monday - Thursday 7:00 a.m. to 7:00 p.m.; Friday 7:00 a.m. to 5:00 p.m.; Saturday 8:00 a.m. to 12:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Accepts insurance; financial assistance for people who qualify",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://communitycaretx.org/all-locations/pflugerville-health-center/",
+      "confidence": "high",
+      "notes": "Dental line: 512-359-9404. Has evening and Saturday hours.",
+      "description_es": "Una clínica comunitaria en Pflugerville con medicina familiar y medicina interna, pediatría, salud de la mujer, consejería y dentista.",
+      "eligibility_summary_es": "Abierto para todos, con o sin seguro. Hay ayuda con el pago para quienes califiquen.",
+      "how_to_apply_es": "Llame al 512-978-9840 para citas médicas o al 512-359-9404 para el dentista.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communitycare-arch-homeless-clinic",
+      "name": "CommUnityCare Clinic at ARCH (Health Care for the Homeless)",
+      "organization": "CommUnityCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A clinic inside the ARCH shelter downtown for people experiencing homelessness. It offers primary care, behavioral health, case management, lab, vision care, and disease screening.",
+      "eligibility_summary_en": "Only for people experiencing homelessness.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in during clinic hours or call 512-978-9920 to make an appointment.",
+      "apply_url": null,
+      "phone": "(512) 978-9920",
+      "address": "500 E. Seventh St.",
+      "city": "Austin",
+      "zip": "78701",
+      "hours": "Monday - Friday 7:30 a.m. to 11:30 a.m., 12:30 p.m. to 4:30 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or low cost; financial assistance available",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://communitycaretx.org/all-locations/austin-resource-center-for-the-homeless-clinic/",
+      "confidence": "high",
+      "notes": "Closed for lunch 11:30 a.m. - 12:30 p.m. Offers TB, hepatitis, HIV, and STD screening and PrEP/PEP.",
+      "description_es": "Una clínica dentro del albergue ARCH en el centro de Austin para personas sin hogar. Ofrece atención primaria, salud mental, manejo de casos, laboratorio, cuidado de la vista y pruebas de enfermedades.",
+      "eligibility_summary_es": "Solo para personas que no tienen hogar.",
+      "how_to_apply_es": "Llegue sin cita durante el horario de la clínica o llame al 512-978-9920 para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "peoples-community-clinic",
+      "name": "People's Community Clinic",
+      "organization": "People's Community Clinic",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center offering care for children, teens, and adults, prenatal and family planning care, dental, pharmacy, lab, shots, and behavioral health.",
+      "eligibility_summary_en": "Open to people with or without insurance. Fees are lowered on a sliding scale based on household income and size, and no one is turned away for inability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card, if you have one (Medicaid, CHIP, Medicare, or private)",
+        "Proof of address showing your county",
+        "One recent pay stub or proof of income from the last 30 days (for the sliding scale)"
+      ],
+      "how_to_apply": "Call 512-478-4939 (option 1, then option 1) to make an appointment with a patient services representative.",
+      "apply_url": "https://www.austinpcc.org/patient-information/new-patient-information/",
+      "phone": "(512) 478-4939",
+      "address": "1101 Camino La Costa",
+      "city": "Austin",
+      "zip": "78752",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale; accepts Medicaid, CHIP, and Medicare",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austinpcc.org/patient-information/new-patient-information/",
+      "confidence": "high",
+      "notes": "Other sites: Women's Health at 1025 East 32nd Street, Suite 200, Austin 78705, and a Manor location off US 290 behind Manor New Tech High School. All phone representatives speak English and Spanish. Sliding-scale income proof must be updated every year.",
+      "description_es": "Un centro de salud comunitario con atención para niños, jóvenes y adultos, cuidado prenatal y planificación familiar, dentista, farmacia, laboratorio, vacunas y salud mental.",
+      "eligibility_summary_es": "Abierto para personas con o sin seguro. El costo baja según el ingreso y el tamaño de su familia (escala móvil), y nadie es rechazado por no poder pagar.",
+      "how_to_apply_es": "Llame al 512-478-4939 (oprima 1 y luego 1) para hacer una cita con un representante. Todos hablan inglés y español.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-travis",
+      "name": "Lone Star Circle of Care - Austin and Pflugerville Clinics",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center network with family medicine, pediatrics, OB/GYN, and behavioral health clinics in Austin and Pflugerville.",
+      "eligibility_summary_en": "Open to the public. Call to ask about insurance and payment help.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the central appointment line at 877-800-5722 to schedule at any clinic.",
+      "apply_url": "https://lonestarcares.org/locations/",
+      "phone": "(877) 800-5722",
+      "address": "1221 W. Ben White Blvd., Building B",
+      "city": "Austin",
+      "zip": "78704",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://lonestarcares.org/locations/",
+      "confidence": "medium",
+      "notes": "Travis County sites include Ben White (1221 W. Ben White Blvd., Building B), Stassney (730 W. Stassney, Ste 110), Northwest Austin (11111 Research Blvd.), Collinfield (8913 Collinfield Dr.), El Buen Samaritano (7000 Woodhue Dr., Bldg B), MoPac North (12201 Renfert Way), Oak Springs (3000 Oak Springs), Pediatrics at St. John (6937 N. I-35, 3rd floor), and Pflugerville (1501 W Pecan St, Ste 102). Hours, languages, and sliding-fee details are not on the locations page; ask when calling.",
+      "description_es": "Una red de centros de salud comunitarios con medicina familiar, pediatría, ginecología y obstetricia, y salud mental en Austin y Pflugerville.",
+      "eligibility_summary_es": "Abierto al público. Llame para preguntar sobre seguros y ayuda con el pago.",
+      "how_to_apply_es": "Llame a la línea central de citas al 877-800-5722 para hacer una cita en cualquier clínica.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "volunteer-healthcare-clinic",
+      "name": "Volunteer Healthcare Clinic",
+      "organization": "Volunteer Healthcare Clinic",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A free clinic run by volunteers. It offers primary care for short-term and long-term illnesses, lab tests, prescriptions, and some specialty care.",
+      "eligibility_summary_en": "For Travis County residents with no health coverage (no MAP, Medicaid, CHIP, Medicare, or private insurance) and household income at or below 200% of the Federal Poverty Level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "uninsured": true,
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of current Travis County address (utility bill, lease, etc.)"
+      ],
+      "how_to_apply": "Call 512-459-6002 and press 0 for eligibility and registration. All visits are by appointment for registered patients.",
+      "apply_url": null,
+      "phone": "(512) 459-6002",
+      "address": "4215 Medical Parkway",
+      "city": "Austin",
+      "zip": "78756",
+      "hours": "Daytime: Monday - Thursday 9:30 AM - 2:00 PM. Evening: Tuesday & Thursday 6:00 PM - 10:00 PM.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free; a $10 donation is appreciated but not required",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.volclinic.org/our-services.html",
+      "confidence": "high",
+      "notes": "Located at the corner of Medical Parkway and 43rd Street. The clinic's services page lists 512-459-6002 in three places and 512-459-2002 once for registration; 512-459-6002 is used here. Good option for uninsured people who do not qualify for other programs.",
+      "description_es": "Una clínica gratis atendida por voluntarios. Ofrece atención primaria para enfermedades de corto y largo plazo, pruebas de laboratorio, medicinas y algo de atención con especialistas.",
+      "eligibility_summary_es": "Para personas del condado de Travis sin ninguna cobertura de salud (sin MAP, Medicaid, CHIP, Medicare ni seguro privado) y con ingreso familiar igual o menor al 200% del Nivel Federal de Pobreza.",
+      "how_to_apply_es": "Llame al 512-459-6002 y oprima 0 para preguntar si califica y registrarse. Todas las visitas son con cita para pacientes registrados.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hope-medical-clinic-austin",
+      "name": "Hope Medical Clinic",
+      "organization": "Hope Medical Clinic",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A free clinic offering primary care, medicines, chronic disease care, and health education.",
+      "eligibility_summary_en": "For uninsured people in the Austin area, including resettled refugees.",
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Text 512-768-8609 to make an appointment. The scheduler replies within one business day.",
+      "apply_url": null,
+      "phone": "(512) 768-8609",
+      "address": "8101 Cameron Rd, #101",
+      "city": "Austin",
+      "zip": "78754",
+      "hours": "Tuesdays 10am-1:30pm; Wednesdays 6:30-8:30pm; 1st/3rd/5th Thursdays 11am-2pm; 2nd/4th Thursdays 2-5pm; 2nd Saturday 9:30am-12:30pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free; a $20 donation is requested if you are able",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.hopeclinicaustin.org/",
+      "confidence": "high",
+      "notes": "Appointments required. For questions that are not about appointments, text 512-766-9979. Email: guptexas@gmail.com.",
+      "description_es": "Una clínica gratis que ofrece atención primaria, medicinas, cuidado de enfermedades crónicas y educación sobre la salud.",
+      "eligibility_summary_es": "Para personas sin seguro médico en el área de Austin, incluyendo refugiados reubicados.",
+      "how_to_apply_es": "Mande un mensaje de texto al 512-768-8609 para hacer una cita. Le responden en un día hábil.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "el-buen-samaritano",
+      "name": "El Buen Samaritano",
+      "organization": "El Buen Samaritano",
+      "categories": [
+        "healthcare",
+        "food",
+        "housing",
+        "employment"
+      ],
+      "description_en": "A community center in South Austin offering vaccines and health services, adult education and job support, youth tutoring, food access, and rent and financial help.",
+      "eligibility_summary_en": "Serves families in the Austin area. Call to ask which services you qualify for.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-439-8900 or email hello@elbuen.org to ask which services you qualify for.",
+      "apply_url": null,
+      "phone": "(512) 439-8900",
+      "address": "7000 Woodhue Drive",
+      "city": "Austin",
+      "zip": "78745",
+      "hours": "Monday-Friday, 8AM-5PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://elbuen.org/",
+      "confidence": "medium",
+      "notes": "A Lone Star Circle of Care medical clinic operates at the same address (7000 Woodhue Dr., Building B; call 877-800-5722). Eligibility rules and languages are not stated on the website; call to confirm.",
+      "description_es": "Un centro comunitario en el sur de Austin que ofrece vacunas y servicios de salud, educación para adultos y apoyo para el empleo, tutoría para jóvenes, acceso a comida y ayuda con la renta y otros gastos.",
+      "eligibility_summary_es": "Sirve a familias del área de Austin. Llame para preguntar para qué servicios califica.",
+      "how_to_apply_es": "Llame al 512-439-8900 o escriba a hello@elbuen.org para preguntar para qué servicios califica.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-wic",
+      "name": "WIC (Women, Infants and Children) - Austin Public Health",
+      "organization": "Austin Public Health",
+      "categories": [
+        "food",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "WIC gives healthy foods, nutrition education, breastfeeding support, and referrals to pregnant women, new mothers, and young children.",
+      "eligibility_summary_en": "For pregnant women, breastfeeding women, women up to 6 months after giving birth, and children under 5 who meet income rules. If you get Medicaid, SNAP, or TANF, you automatically meet the income rule.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Start an application online at texaswic.org/apply, or call the Austin WIC scheduling center at 512-972-4942 for an appointment. You can also call Texas WIC at 800-942-3678.",
+      "apply_url": "https://www.texaswic.org/apply",
+      "phone": "(512) 972-4942",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": "Scheduling center: Monday - Thursday 7:30 a.m. - 4:30 p.m.; Fridays 7:30 a.m. - 1:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/health/wic-locations",
+      "confidence": "high",
+      "notes": "Travis County clinics include St. John (7500 Blessing Ave.), Northwest (8701 Research Blvd., Ste A), Montopolis (2901 Montopolis Dr., Ste 1300), Far South (405 W. Stassney), Dove Springs (5811 Palo Blanco Ln), Manor (14008 Shadow Glen Blvd, Ste 207), Pflugerville (15822 Foothill Farms Loop), Del Valle (3518 FM 973), and Rosewood-Zaragosa (2800 Webberville Rd., 1st, 2nd and 4th Tuesdays). The South Austin clinic (2508 Durwood St.) is closed for repairs. Oak Hill is served by the mobile unit on the 1st and 3rd Thursdays. Most clinics close 12:00-12:30 p.m. and on the 2nd Wednesday of each month. Also has clinics in Bastrop and Elgin.",
+      "description_es": "WIC da comida saludable, clases de nutrición, apoyo para dar pecho y referencias a otros servicios para mujeres embarazadas, mamás nuevas y niños pequeños.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho, mujeres hasta 6 meses después de dar a luz y niños menores de 5 años que cumplan con el límite de ingresos. Si recibe Medicaid, SNAP o TANF, cumple automáticamente con el límite de ingresos.",
+      "how_to_apply_es": "Empiece su solicitud en línea en texaswic.org/apply, o llame al centro de citas de WIC de Austin al 512-972-4942. También puede llamar a Texas WIC al 800-942-3678.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "integral-care",
+      "name": "Integral Care (Local Mental Health Authority for Travis County)",
+      "organization": "Integral Care",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Integral Care is the public mental health agency for Travis County. It offers crisis help, counseling, psychiatry, medicine management, and substance use treatment, plus services for intellectual and developmental disabilities.",
+      "eligibility_summary_en": "For anyone in Travis County affected by mental health conditions, substance use, or intellectual and developmental disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Travis County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 helpline at 512-472-4357 (512-472-HELP) for crisis support, appointments, or information about services.",
+      "apply_url": "https://integralcare.org/",
+      "phone": "(512) 472-4357",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": "Helpline open 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://integralcare.org/",
+      "confidence": "high",
+      "notes": "Toll free: 844-398-8252. TTY: 512-703-1395. The 512-472-HELP line is also the local crisis line. The website is available in Spanish and many other languages; confirm spoken-language help by phone.",
+      "description_es": "Integral Care es la agencia pública de salud mental del condado de Travis. Ofrece ayuda en crisis, consejería, psiquiatría, manejo de medicinas y tratamiento para el uso de sustancias, además de servicios para personas con discapacidades intelectuales y del desarrollo.",
+      "eligibility_summary_es": "Para cualquier persona en el condado de Travis afectada por problemas de salud mental, uso de sustancias o discapacidades intelectuales y del desarrollo.",
+      "how_to_apply_es": "Llame a la línea de ayuda, abierta las 24 horas, al 512-472-4357 (512-472-HELP) para apoyo en crisis, citas o información sobre servicios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "integral-care-psychiatric-emergency-services",
+      "name": "Psychiatric Emergency Services (PES)",
+      "organization": "Integral Care",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A walk-in urgent care clinic for adults, children, and families having a mental health crisis. It offers care plans, medicine, short-term support, and links to other services.",
+      "eligibility_summary_en": "For adults, children, and families in Travis County having a mental health crisis. No appointment needed.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in to the Richard E. Hopkins Behavioral Health Building. Call 512-472-4357 first if you want to check current hours.",
+      "apply_url": null,
+      "phone": "(512) 472-4357",
+      "address": "1165 Airport Boulevard",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://integralcare.org/en/airport-boulevard/",
+      "confidence": "high",
+      "notes": "Hours were not shown on the location page and third-party sites conflict; confirm by calling 512-472-HELP. Separate waiting rooms for adults and for families with children. In a life-threatening emergency call 911; the national 988 line is also available.",
+      "description_es": "Una clínica de atención urgente, sin cita, para adultos, niños y familias que pasan por una crisis de salud mental. Ofrece planes de cuidado, medicinas, apoyo a corto plazo y conexión con otros servicios.",
+      "eligibility_summary_es": "Para adultos, niños y familias del condado de Travis que pasan por una crisis de salud mental. No necesita cita.",
+      "how_to_apply_es": "Llegue sin cita al edificio Richard E. Hopkins Behavioral Health. Si quiere confirmar el horario, llame primero al 512-472-4357. Si su vida corre peligro, llame al 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-child-guidance-center",
+      "name": "Austin Child Guidance Center",
+      "organization": "Austin Child Guidance Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care for children and young people, including individual and family therapy, group therapy, and psychological testing.",
+      "eligibility_summary_en": "For youth up to age 26 and their families. Fees are lowered on a sliding scale based on household income, family size, and living costs.",
+      "eligibility_rules": {
+        "max_age": 26
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 512-451-2242 to schedule.",
+      "apply_url": null,
+      "phone": "(512) 451-2242",
+      "address": "810 W. 45th Street",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Monday - Friday 11:00 a.m. to 7:00 p.m., by appointment only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale based on income and family size",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austinchildguidance.org/",
+      "confidence": "high",
+      "notes": "Some programs offer free therapy. Call to ask about current openings.",
+      "description_es": "Atención de salud mental para niños y jóvenes, con terapia individual y familiar, terapia en grupo y evaluaciones psicológicas.",
+      "eligibility_summary_es": "Para jóvenes hasta los 26 años y sus familias. El costo baja según el ingreso, el tamaño de la familia y los gastos de la casa (escala móvil).",
+      "how_to_apply_es": "Llame al 512-451-2242 para pedir una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "safe-alliance-austin",
+      "name": "The SAFE Alliance - 24/7 Hotline and Survivor Services",
+      "organization": "The SAFE Alliance",
+      "categories": [
+        "mental_health",
+        "legal",
+        "housing"
+      ],
+      "description_en": "SAFE helps survivors of domestic violence, sexual assault, sex trafficking, and child abuse. It offers a 24/7 hotline, shelter and housing, legal help, counseling, and advocacy.",
+      "eligibility_summary_en": "For survivors of domestic violence, sexual assault, sex trafficking, and child abuse.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-267-7233 (512-267-SAFE) any time, text 737-888-7233, or use the chat on the website.",
+      "apply_url": "https://www.safeaustin.org/",
+      "phone": "(512) 267-7233",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": "Hotline 24/7. Advocacy and crisis intervention: Monday-Friday, 8 a.m. to 4 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.safeaustin.org/",
+      "confidence": "high",
+      "notes": "Shelter address is confidential; mailing address is P.O. Box 19454, Austin, TX 78760. Admin line: 512-369-5900. Text line: 737-888-7233.",
+      "description_es": "SAFE ayuda a sobrevivientes de violencia doméstica, agresión sexual, trata de personas y abuso infantil. Ofrece una línea de ayuda las 24 horas, refugio y vivienda, ayuda legal, consejería y apoyo.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica, agresión sexual, trata de personas y abuso infantil.",
+      "how_to_apply_es": "Llame al 512-267-7233 (512-267-SAFE) a cualquier hora, mande un texto al 737-888-7233 o use el chat en su página web.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wfs-capital-area-child-care-services",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps low- to moderate-income families in Travis County pay for child care and find approved child care providers.",
+      "eligibility_summary_en": "For Travis County families with children up to age 12 who need help paying for child care, including after-school care. Children ages 0-3 get priority. Work, school, and income rules apply; call to check if you qualify.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start an application on the Workforce Solutions Capital Area child care page to join the waitlist, or call 512-597-7191. You can check waitlist updates online.",
+      "apply_url": "https://wfscapitalarea.com/childcare/for-parents/",
+      "phone": "(512) 597-7191",
+      "address": "9001 N IH 35, Ste 110",
+      "city": "Austin",
+      "zip": "78753",
+      "hours": "Monday-Friday, 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Subsidized; families may pay a share of cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.wfscapitalarea.com/contact/",
+      "confidence": "medium",
+      "notes": "Email: austinccs@wfscapitalarea.com. The official pages do not list the exact work/school hours or income limits; confirm current rules with the office. There is a waitlist.",
+      "description_es": "Ayuda a familias de ingresos bajos y medianos del condado de Travis a pagar el cuidado de niños y a encontrar guarderías aprobadas.",
+      "eligibility_summary_es": "Para familias del condado de Travis con niños hasta los 12 años que necesitan ayuda para pagar el cuidado de niños, incluso después de la escuela. Los niños de 0 a 3 años tienen prioridad. Hay reglas de trabajo, estudio e ingresos; llame para saber si califica.",
+      "how_to_apply_es": "Empiece su solicitud en la página de cuidado de niños de Workforce Solutions Capital Area para entrar a la lista de espera, o llame al 512-597-7191. Puede revisar las novedades de la lista de espera en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "child-inc-head-start-travis",
+      "name": "Head Start and Early Head Start",
+      "organization": "Child Inc",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning for young children, plus health, dental, mental health, disability services, and family support. Early Head Start serves babies and toddlers; Head Start serves 3- and 4-year-olds.",
+      "eligibility_summary_en": "For Travis County children from 6 weeks to 5 years old whose family income meets Federal Poverty Guidelines, or whose family gets TANF, SNAP, or SSI, or who are homeless, in foster care, or have a disability.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [
+        "Child's birth certificate or hospital birth record",
+        "Child's shot records and medical exam record",
+        "Proof of Travis County address (such as a utility bill)",
+        "Proof of income (tax return, W-2, pay stubs, or benefit letters)",
+        "Guardianship papers, if needed"
+      ],
+      "how_to_apply": "Apply online at childinc.org/enrollment, or call 512-451-7361 for help from the enrollment team.",
+      "apply_url": "https://childinc.org/enrollment/",
+      "phone": "(512) 451-7361",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free for families who qualify",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://childinc.org/enrollment/",
+      "confidence": "high",
+      "notes": "Early Head Start: 6 weeks to 36 months (center or home-based). Head Start: ages 3-4 by September 1.",
+      "description_es": "Educación temprana gratis para niños pequeños, además de servicios de salud, dentista, salud mental, apoyo para discapacidades y apoyo para la familia. Early Head Start atiende a bebés y niños pequeños; Head Start atiende a niños de 3 y 4 años.",
+      "eligibility_summary_es": "Para niños de 6 semanas a 5 años que viven en el condado de Travis, si el ingreso de la familia cumple con las Guías Federales de Pobreza, o si la familia recibe TANF, SNAP o SSI, o si el niño no tiene hogar, está en cuidado de crianza o tiene una discapacidad.",
+      "how_to_apply_es": "Aplique en línea en childinc.org/enrollment, o llame al 512-451-7361 para recibir ayuda del equipo de inscripción.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-isd-school-meals",
+      "name": "Austin ISD Free and Reduced-Price School Meals",
+      "organization": "Austin ISD Nutrition and Food Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Free or low-cost breakfast and lunch for Austin ISD students. Many schools give free meals to all students with no application.",
+      "eligibility_summary_en": "For Austin ISD students. At schools that are not on the free-for-all (CEP) list, families apply based on income each school year.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at SchoolCafe.com/AustinISD, pick up a paper form at a school front office, or email a completed form to foodservicebusinesssupport@austinisd.org.",
+      "apply_url": "https://www.schoolcafe.com/AustinISD",
+      "phone": "(512) 414-0251",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or reduced price",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austinisd.org/nutrition-food-services/applications-payments",
+      "confidence": "high",
+      "notes": "A new application is needed each school year. Schools needing applications in 2026-27 include some elementary schools, several middle schools, and Anderson, Austin, Bowie, LASA, McCallum high schools and Ann Richards; all other schools serve free meals automatically. Mailing address: 4000 S. I-H 35 Frontage Rd., Austin, TX 78704.",
+      "description_es": "Desayuno y almuerzo gratis o a bajo costo para estudiantes de Austin ISD. Muchas escuelas dan comida gratis a todos los estudiantes sin necesidad de aplicar.",
+      "eligibility_summary_es": "Para estudiantes de Austin ISD. En las escuelas que no están en la lista de comida gratis para todos (CEP), las familias aplican según su ingreso cada año escolar.",
+      "how_to_apply_es": "Aplique en línea en SchoolCafe.com/AustinISD, pida un formulario en papel en la oficina de la escuela, o mande el formulario lleno por correo electrónico a foodservicebusinesssupport@austinisd.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "del-valle-isd-school-meals",
+      "name": "Del Valle ISD Free School Meals (CEP)",
+      "organization": "Del Valle ISD Child Nutrition Department",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "All Del Valle ISD students get free breakfast and lunch.",
+      "eligibility_summary_en": "Every student enrolled in Del Valle ISD. No meal application is needed.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "No meal application needed. Families should fill out the Socioeconomic Form on the district's family portal.",
+      "apply_url": null,
+      "phone": "(512) 386-3076",
+      "address": "4801 Ross Rd",
+      "city": "Del Valle",
+      "zip": "78617",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.dvisd.net/departments/child-nutrition",
+      "confidence": "high",
+      "notes": "District says free meals are guaranteed through the 2026-2027 school year under the Community Eligibility Provision.",
+      "description_es": "Todos los estudiantes de Del Valle ISD reciben desayuno y almuerzo gratis.",
+      "eligibility_summary_es": "Todos los estudiantes inscritos en Del Valle ISD. No necesita aplicar para las comidas.",
+      "how_to_apply_es": "No necesita aplicar para las comidas. Las familias deben llenar el Formulario Socioeconómico en el portal para familias del distrito.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "manor-isd-school-meals",
+      "name": "Manor ISD Free School Meals (CEP)",
+      "organization": "Manor ISD Food & Nutrition",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "All Manor ISD students get free breakfast and lunch for the 2026-27 school year.",
+      "eligibility_summary_en": "Every student enrolled in Manor ISD. No application or documents needed.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "No application needed; enrolled students get free meals automatically.",
+      "apply_url": null,
+      "phone": "(512) 278-4000",
+      "address": "10335 US HWY 290 E",
+      "city": "Manor",
+      "zip": "78653",
+      "hours": "8 a.m. - 5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.manorisd.net/departments/operations/food-nutrition/meal-applications",
+      "confidence": "high",
+      "notes": "CEP fact sheets are available in English and Spanish.",
+      "description_es": "Todos los estudiantes de Manor ISD reciben desayuno y almuerzo gratis en el año escolar 2026-27.",
+      "eligibility_summary_es": "Todos los estudiantes inscritos en Manor ISD. No necesita aplicar ni llevar documentos.",
+      "how_to_apply_es": "No necesita aplicar; los estudiantes inscritos reciben comida gratis automáticamente.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "pflugerville-isd-school-meals",
+      "name": "Pflugerville ISD Free and Reduced Meals",
+      "organization": "Pflugerville ISD Food and Child Nutrition Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Free or reduced-price school meals for Pflugerville ISD students whose families qualify.",
+      "eligibility_summary_en": "For Pflugerville ISD students. Families apply using the Free and Reduced Meals Application and Socioeconomic Information Form.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the Free and Reduced Meals Application and Socioeconomic Information Form from the district's Food and Child Nutrition Services page.",
+      "apply_url": "https://www.pfisd.net/programs/food-and-child-nutrition-services",
+      "phone": null,
+      "address": null,
+      "city": "Pflugerville",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or reduced price",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.pfisd.net/programs/food-and-child-nutrition-services",
+      "confidence": "medium",
+      "notes": "Phone and list of free-for-all (CEP) campuses are not shown on the page; see the Food and Child Nutrition Services staff directory on pfisd.net. The district also reaches into Williamson County.",
+      "description_es": "Comidas escolares gratis o a precio reducido para estudiantes de Pflugerville ISD cuyas familias califiquen.",
+      "eligibility_summary_es": "Para estudiantes de Pflugerville ISD. Las familias aplican con la Solicitud de Comidas Gratis y a Precio Reducido y el Formulario de Información Socioeconómica.",
+      "how_to_apply_es": "Llene la Solicitud de Comidas Gratis y a Precio Reducido y el Formulario de Información Socioeconómica en la página de Servicios de Alimentos y Nutrición Infantil del distrito.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wfs-capital-area-north-career-center",
+      "name": "Workforce Solutions Capital Area - North Career Center",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free career center that helps people find jobs, get job training, and plan careers.",
+      "eligibility_summary_en": "Open to job seekers in Austin and Travis County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-381-5100 to make an appointment, or walk in during office hours.",
+      "apply_url": "https://www.wfscapitalarea.com/",
+      "phone": "(512) 454-9675",
+      "address": "9001 N IH 35, Ste 110",
+      "city": "Austin",
+      "zip": "78753",
+      "hours": "Monday-Friday, 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.wfscapitalarea.com/contact/",
+      "confidence": "high",
+      "notes": "Appointments line: 512-381-5100. Appointments are encouraged but walk-ins are accepted. Free computer, fax, and phone use. Vocational rehabilitation (for people with disabilities): 512-485-3734.",
+      "description_es": "Un centro de empleo gratis que ayuda a las personas a encontrar trabajo, recibir capacitación y planear su carrera.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo en Austin y el condado de Travis.",
+      "how_to_apply_es": "Llame al 512-381-5100 para hacer una cita, o llegue sin cita durante el horario de la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wfs-capital-area-east-career-center",
+      "name": "Workforce Solutions Capital Area - East Career Center",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free career center in East Austin that helps people find jobs, get job training, and plan careers.",
+      "eligibility_summary_en": "Open to job seekers in Austin and Travis County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-381-4200 or walk in during office hours.",
+      "apply_url": "https://www.wfscapitalarea.com/",
+      "phone": "(512) 381-4200",
+      "address": "3401 Webberville Rd, Bldg 1000",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": "Monday-Friday, 8:00am-5:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.wfscapitalarea.com/contact/",
+      "confidence": "high",
+      "notes": "At the Austin Community College Eastview Campus. Appointments are encouraged but walk-ins are accepted. Free computer, fax, and phone use.",
+      "description_es": "Un centro de empleo gratis en el este de Austin que ayuda a las personas a encontrar trabajo, recibir capacitación y planear su carrera.",
+      "eligibility_summary_es": "Abierto para personas que buscan trabajo en Austin y el condado de Travis.",
+      "how_to_apply_es": "Llame al 512-381-4200 o llegue sin cita durante el horario de la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "capital-idea",
+      "name": "Capital IDEA",
+      "organization": "Capital IDEA",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays 100% of college tuition and gives coaching for working adults training for high-demand careers, such as healthcare and technical jobs.",
+      "eligibility_summary_en": "Adults 18 and older with a high school diploma or GED and no bachelor's degree, who live in Travis, Williamson, Hays, Bastrop, or Caldwell County, have lived in Texas 12+ months, are U.S. citizens or permanent residents, and meet income limits.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "residency_required": "Travis, Williamson, Hays, Bastrop, or Caldwell County resident; Texas resident 12+ months"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Check eligibility on the website, then join a free 30-minute info session (online or in person) and meet with a career guidance specialist.",
+      "apply_url": "https://www.capitalidea.org/eligibility/",
+      "phone": "(512) 457-8610",
+      "address": "835 N. Pleasant Valley Rd, 3rd Floor",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": "Monday - Friday, 8am - 5pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capitalidea.org/eligibility/",
+      "confidence": "high",
+      "notes": "Income limits depend on household size; use the online checker. Participants commit to finishing, working in Central Texas at least 2 years after graduating. Info session list: https://www.capitalidea.org/info-sessions/",
+      "description_es": "Paga el 100% de la colegiatura universitaria y da apoyo personal a adultos que trabajan y estudian para carreras con mucha demanda, como salud y trabajos técnicos.",
+      "eligibility_summary_es": "Adultos de 18 años o más con diploma de preparatoria o GED y sin título universitario de licenciatura, que viven en los condados de Travis, Williamson, Hays, Bastrop o Caldwell, que han vivido en Texas por 12 meses o más, que son ciudadanos de EE. UU. o residentes permanentes y que cumplen con los límites de ingresos.",
+      "how_to_apply_es": "Revise si califica en la página web y luego asista a una sesión informativa gratis de 30 minutos (en línea o en persona) para reunirse con un especialista en orientación de carreras.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "goodwill-central-texas-career-services",
+      "name": "Goodwill Central Texas Career Services (Goodwill Community Center)",
+      "organization": "Goodwill Central Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career coaching, job readiness classes, resume help, interview practice, job training, and adult high school (The Excel Center).",
+      "eligibility_summary_en": "Open to the public. Some programs, like The Excel Center adult high school, have their own rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Goodwill Community Center during intake hours or call 512-637-7100.",
+      "apply_url": "https://www.goodwillcentraltexas.org/locations/",
+      "phone": "(512) 637-7100",
+      "address": "1015 Norwood Park Blvd",
+      "city": "Austin",
+      "zip": "78753",
+      "hours": "Intake Hours: Monday-Friday 8:30AM - 4:30PM; Lobby Hours: Monday-Friday 8:00AM - 5:00PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.goodwillcentraltexas.org/locations/",
+      "confidence": "high",
+      "notes": "Also: Job Help Center, 6505 Burleson Rd, Austin 78744, 512-681-3301 (intake M-F 8:30-4:30); Oak Hill Career Center, 7100 US-290 Suite C, Austin 78735, 512-288-7700 (by appointment); Goodwill Career and Technical Academy, 512-637-7131; The Excel Center, 512-531-5500.",
+      "description_es": "Orientación de carrera gratis, clases para prepararse para el trabajo, ayuda con el currículum, práctica para entrevistas, capacitación y preparatoria para adultos (The Excel Center).",
+      "eligibility_summary_es": "Abierto al público. Algunos programas, como la preparatoria para adultos The Excel Center, tienen sus propias reglas.",
+      "how_to_apply_es": "Visite el Goodwill Community Center durante el horario de admisión o llame al 512-637-7100.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "american-youthworks-youthbuild",
+      "name": "YouthBuild Austin",
+      "organization": "American YouthWorks",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Young people earn a GED or high school diploma while getting paid to learn a trade in healthcare, manufacturing/IT, or construction. Case management and basic needs help are free.",
+      "eligibility_summary_en": "For young people ages 16 to 24.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 24
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the interest form on the American YouthWorks website and a recruiter will contact you, or call 512-744-1900.",
+      "apply_url": "https://americanyouthworks.org/youthbuild/",
+      "phone": "(512) 744-1900",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free; participants are paid",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://americanyouthworks.org/youthbuild/",
+      "confidence": "high",
+      "notes": "Program runs in Austin and Taylor. American YouthWorks also offers AmeriCorps service opportunities for adults 18-28.",
+      "description_es": "Los jóvenes sacan su GED o diploma de preparatoria mientras les pagan por aprender un oficio en salud, manufactura/tecnología o construcción. El manejo de casos y la ayuda con necesidades básicas son gratis.",
+      "eligibility_summary_es": "Para jóvenes de 16 a 24 años.",
+      "how_to_apply_es": "Llene el formulario de interés en la página web de American YouthWorks y un reclutador se comunicará con usted, o llame al 512-744-1900.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "trla-austin",
+      "name": "Texas RioGrande Legal Aid - Austin Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction defense, family law, domestic violence, public benefits, and job issues.",
+      "eligibility_summary_en": "For low-income residents of the 68 Texas counties TRLA serves, including Travis County. Income rules apply.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (833) 329-8752 toll-free or (956) 996-8752 on weekdays, 9 a.m. to 5 p.m., to apply for free legal help.",
+      "apply_url": "https://www.trla.org/offices",
+      "phone": "(833) 329-8752",
+      "address": "4920 North I-35",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Phone line: weekdays 9:00 a.m. - 5:00 p.m. (Central Time)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "The Austin office does not list its own phone; use the statewide intake line. BASTA (Building and Strengthening Tenant Action), a TRLA project, educates tenants about their rights.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos, como defensa contra desalojos, derecho familiar, violencia doméstica, beneficios públicos y problemas en el trabajo.",
+      "eligibility_summary_es": "Para residentes de bajos ingresos de los 68 condados de Texas que atiende TRLA, incluido el condado de Travis. Hay reglas de ingresos.",
+      "how_to_apply_es": "Llame gratis al (833) 329-8752 o al (956) 996-8752, de lunes a viernes de 9 a.m. a 5 p.m., para pedir ayuda legal gratis.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "volunteer-legal-services-central-texas",
+      "name": "Volunteer Legal Services of Central Texas",
+      "organization": "Volunteer Legal Services of Central Texas (VLS)",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free legal advice and limited representation from volunteer lawyers for civil problems like landlord-tenant, family, consumer, employment, bankruptcy, wills, and record clearing.",
+      "eligibility_summary_en": "For people who cannot afford a lawyer. Help depends on household income, assets, where you live, and the type of case. Does not handle criminal, immigration, or civil rights cases.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online on the VLS website, or go to one of their free legal advice clinics (in person or by phone). VLS does not take applications by phone, email, or in person at the office.",
+      "apply_url": "https://www.vlsoct.org/get-help/",
+      "phone": "(512) 476-5550",
+      "address": "1812 Centre Creek Dr., Ste. 215",
+      "city": "Austin",
+      "zip": "78754",
+      "hours": "Monday-Thursday 8am-5pm; Friday 8am-2pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.vlsoct.org/contact-us/",
+      "confidence": "high",
+      "notes": "Call 512-476-5550 with general questions. Also helps with probate and real property matters.",
+      "description_es": "Consejos legales gratis y representación limitada de abogados voluntarios para problemas civiles como problemas con el dueño de la vivienda, familia, deudas y compras, empleo, bancarrota, testamentos y limpieza de antecedentes.",
+      "eligibility_summary_es": "Para personas que no pueden pagar un abogado. La ayuda depende del ingreso familiar, los bienes, dónde vive y el tipo de caso. No atiende casos penales, de inmigración ni de derechos civiles.",
+      "how_to_apply_es": "Aplique en línea en la página web de VLS, o vaya a una de sus clínicas gratis de consejos legales (en persona o por teléfono). VLS no acepta solicitudes por teléfono, correo electrónico ni en persona en la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "american-gateways-austin",
+      "name": "American Gateways - Immigration Legal Services",
+      "organization": "American Gateways",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free or low-cost immigration legal help, including asylum, VAWA, T and U visas, permanent residency, citizenship, DACA renewals, and family petitions.",
+      "eligibility_summary_en": "For people who meet their income guidelines and case priorities. Space for new clients is limited.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 478-0546 ext. 200 for a phone screening during the 2nd and 4th weeks of the month, Monday - Thursday, 9 a.m. - 5 p.m. Keep calling until you reach a person; they cannot return messages.",
+      "apply_url": "https://www.americangateways.org/get-help",
+      "phone": "(512) 478-0546",
+      "address": "314 E. Highland Mall Blvd, Ste. 501",
+      "city": "Austin",
+      "zip": "78752",
+      "hours": "By appointment only. New client phone screening: 2nd and 4th weeks of the month, Monday - Thursday 9 a.m. - 5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free or low cost",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.americangateways.org/",
+      "confidence": "high",
+      "notes": "Also has offices in San Antonio and Waco. Fills the gap left by TRLA/VLS for immigration cases.",
+      "description_es": "Ayuda legal de inmigración gratis o a bajo costo, incluyendo asilo, VAWA, visas T y U, residencia permanente, ciudadanía, renovaciones de DACA y peticiones familiares.",
+      "eligibility_summary_es": "Para personas que cumplen con sus reglas de ingresos y prioridades de casos. Hay pocos espacios para clientes nuevos.",
+      "how_to_apply_es": "Llame al (512) 478-0546 ext. 200 para una evaluación por teléfono durante la 2.ª y 4.ª semana del mes, de lunes a jueves, de 9 a.m. a 5 p.m. Siga llamando hasta hablar con una persona; no pueden devolver mensajes.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-community-centers",
+      "name": "Travis County Community Centers (Health and Human Services)",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "utilities",
+        "food",
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Neighborhood offices run by Travis County that help with utilities, food pantry, home repairs, weatherization, and social work.",
+      "eligibility_summary_en": "For Travis County residents in need. Call the nearest center to ask what help is available and what the rules are.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the community center closest to you.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "phone": "(512) 854-4120",
+      "address": "5325 Airport Boulevard",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Other centers: Del Valle, 3518 FM 973 S., 512-854-1520; Manor, 600 W. Carrie Manor St., 512-854-1550; Pflugerville, 15822 Foothill Farm Loop, Suite D, 512-854-1530; Oak Hill, 8656 A State Hwy 71 West, Suite 100, 512-854-2130; Jonestown, 18649 FM 1431, Suite 6A, 512-854-1500. The page does not list which services each center offers or hours; call first.",
+      "description_es": "Oficinas de vecindario del condado de Travis que ayudan con pagos de servicios (luz, agua, gas), despensa de comida, reparaciones de la casa, climatización y trabajo social.",
+      "eligibility_summary_es": "Para residentes del condado de Travis que necesitan ayuda. Llame al centro más cercano para preguntar qué ayuda hay y cuáles son las reglas.",
+      "how_to_apply_es": "Llame o visite el centro comunitario más cercano a usted.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

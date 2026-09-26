@@ -1,0 +1,1747 @@
+{
+  "scope": "Travis County (Austin, Pflugerville, Manor, Del Valle)",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "central-texas-food-bank",
+      "name": "Central Texas Food Bank - Find Food Now",
+      "organization": "Central Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank helps you find free food near you, including mobile food pantries, local pantries, and food programs for kids and older adults.",
+      "eligibility_summary_en": "Anyone who needs food can get help. The food bank says no ID, proof of income, or citizenship papers are required.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food Now tool on the food bank website and enter your ZIP code to see pantries and mobile pantry dates. At a pantry you may fill out a short form about where you live and your need.",
+      "apply_url": "https://www.centraltexasfoodbank.org/get-help",
+      "phone": "(512) 282-2111",
+      "address": "6500 Metropolis Drive",
+      "city": "Austin",
+      "zip": "78744",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.centraltexasfoodbank.org/get-help",
+      "confidence": "high",
+      "notes": "Serves many Central Texas counties, including Travis. For weather/holiday closures call 512-684-2559. 24/7 multilingual help also at 2-1-1 or 877-541-7905.",
+      "description_es": "El banco de comida le ayuda a encontrar comida gratis cerca de usted, como despensas móviles, despensas locales y programas de comida para niños y personas mayores.",
+      "eligibility_summary_es": "Cualquier persona que necesite comida puede recibir ayuda. El banco de comida dice que no se pide identificación, prueba de ingresos ni papeles de ciudadanía.",
+      "how_to_apply_es": "Use la herramienta Find Food Now en la página web del banco de comida y escriba su código postal para ver despensas y fechas de despensas móviles. En la despensa tal vez le pidan llenar una hoja corta sobre dónde vive y lo que necesita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "central-texas-food-bank-snap-application-help",
+      "name": "SNAP and Benefits Application Help",
+      "organization": "Central Texas Food Bank",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "healthcare"
+      ],
+      "description_en": "Food bank staff help you apply for SNAP food benefits and other state benefits like Medicaid, CHIP, TANF, and Healthy Texas Women.",
+      "eligibility_summary_en": "For people in the food bank's service area who want help applying for state benefits. The state decides who qualifies.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the benefits line or request an appointment on the food bank website to apply by phone or online with a staff member.",
+      "apply_url": "https://www.centraltexasfoodbank.org/get-help",
+      "phone": "(855) 366-3401",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.centraltexasfoodbank.org/get-help",
+      "confidence": "high",
+      "notes": "Application assistance only; eligibility for SNAP/Medicaid/TANF is decided by Texas HHSC.",
+      "description_es": "El personal del banco de comida le ayuda a solicitar beneficios de comida SNAP y otros beneficios del estado como Medicaid, CHIP, TANF y Healthy Texas Women.",
+      "eligibility_summary_es": "Para personas en el área del banco de comida que quieren ayuda para solicitar beneficios del estado. El estado decide quién califica.",
+      "how_to_apply_es": "Llame a la línea de beneficios o pida una cita en la página web del banco de comida para hacer su solicitud por teléfono o en línea con alguien del personal.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-food-pantry",
+      "name": "Travis County Food Pantry",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Travis County gives free food for about 5 days, including fresh and frozen foods, canned goods, dry goods, cereal, and snacks. Staff bring the food to your car.",
+      "eligibility_summary_en": "For Travis County residents. You can get food once every 30 days at any of the six Travis County Community Centers.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [
+        "No ID needed unless someone else picks up food for you",
+        "Name, address, and household size",
+        "Government assistance or income information"
+      ],
+      "how_to_apply": "Fill out the application online or at a Travis County Community Center (computer, QR code, or paper form). Scheduling an appointment is optional but recommended.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance/food-pantry",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance/food-pantry",
+      "confidence": "high",
+      "notes": "Available at Del Valle, Manor, Pflugerville, Oak Hill, Jonestown, and Central Austin community centers.",
+      "description_es": "El condado de Travis da comida gratis para unos 5 días, como comida fresca y congelada, latas, comida seca, cereal y botanas. El personal le lleva la comida a su carro.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Puede recibir comida una vez cada 30 días en cualquiera de los seis centros comunitarios del condado.",
+      "how_to_apply_es": "Llene la solicitud en línea o en un centro comunitario del condado de Travis (en computadora, con código QR o en papel). Hacer una cita no es obligatorio, pero se recomienda.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "meals-on-wheels-central-texas",
+      "name": "Meals on Wheels Central Texas",
+      "organization": "Meals on Wheels Central Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers meals to people at home and serves meals at senior centers. Also offers grocery delivery, in-home care, and home repair programs.",
+      "eligibility_summary_en": "Services have eligibility requirements; call or fill out the online inquiry form to find out if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 512-476-MEAL or fill out the Inquire About Services form on the website.",
+      "apply_url": "https://mowct.tfaforms.net/5018425",
+      "phone": "(512) 476-6325",
+      "address": "3227 E 5th St",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.mowctx.org/",
+      "confidence": "high",
+      "notes": "Phone is listed as 512-476-MEAL (6325). Eligibility details and cost were not stated on the homepage.",
+      "description_es": "Lleva comidas a la casa de las personas y sirve comidas en centros para personas mayores. También ofrece entrega de despensa, cuidado en casa y reparaciones del hogar.",
+      "eligibility_summary_es": "Los servicios tienen requisitos. Llame o llene el formulario en línea para saber si califica.",
+      "how_to_apply_es": "Llame al 512-476-MEAL (6325) o llene el formulario \"Inquire About Services\" en la página web.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "mobile-loaves-and-fishes",
+      "name": "Mobile Loaves & Fishes Truck Ministry and Community First! Village",
+      "organization": "Mobile Loaves & Fishes",
+      "categories": [
+        "food",
+        "housing"
+      ],
+      "description_en": "Food trucks bring meals, clothing, and hygiene items to people experiencing homelessness seven nights a week. The group also runs Community First! Village, which offers permanent affordable housing.",
+      "eligibility_summary_en": "Truck services are for people experiencing homelessness and the working poor in Austin. Community First! Village is for adults 18+ who are chronically homeless, have a disability, have steady income (such as SSI, SSDI, or work), and have lived in the Austin area for the past year.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Check the truck schedule on the website to find a stop. To apply for a home at Community First! Village: first complete a Coordinated Assessment, watch the 30-minute Potential Neighbor Tour video, then email your housing application to housing@mlf.org.",
+      "apply_url": "https://mlf.org/apply-for-a-home/",
+      "phone": "(512) 551-5471",
+      "address": "9116 Hog Eye Road, Building 3405",
+      "city": "Austin",
+      "zip": "78724",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.mlf.org/",
+      "confidence": "high",
+      "notes": "Phone is the Community First! Village housing hotline (listed on mlf.org). Truck schedules: mlf.org/truck-schedules/. Village minimum income: $600/month (microhomes) and up. Village accepts residents from Travis, Williamson, Hays, Caldwell, or Bastrop counties.",
+      "description_es": "Camiones de comida llevan comidas, ropa y artículos de higiene a personas sin hogar siete noches a la semana. El grupo también maneja Community First! Village, que ofrece vivienda permanente a bajo costo.",
+      "eligibility_summary_es": "Los camiones sirven a personas sin hogar y a trabajadores de bajos ingresos en Austin. Community First! Village es para adultos de 18 años o más que han estado sin hogar por mucho tiempo, tienen una discapacidad, tienen ingresos fijos (como SSI, SSDI o trabajo) y han vivido en el área de Austin el último año.",
+      "how_to_apply_es": "Revise el horario de los camiones en la página web para encontrar una parada. Para pedir una casa en Community First! Village: primero haga la Evaluación Coordinada (Coordinated Assessment), vea el video de 30 minutos \"Potential Neighbor Tour\" y luego mande su solicitud por correo electrónico a housing@mlf.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-del-valle-community-center",
+      "name": "Travis County Del Valle Community Center",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A Travis County community center where residents can apply for the county food pantry and for help paying utility bills.",
+      "eligibility_summary_en": "For Travis County residents. Each program has its own rules; utility help has income limits.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the center to ask about services. Applications for the food pantry and utility help can also be done online.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance",
+      "phone": "(512) 854-1520",
+      "address": "3518 FM 973 S.",
+      "city": "Del Valle",
+      "zip": "78617",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Hours and a full list of services were not listed on the county page; call ahead.",
+      "description_es": "Un centro comunitario del condado de Travis donde los residentes pueden solicitar la despensa de comida del condado y ayuda para pagar los recibos de luz, gas y agua.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Cada programa tiene sus propias reglas; la ayuda con servicios públicos tiene límites de ingresos.",
+      "how_to_apply_es": "Llame o visite el centro para preguntar por los servicios. También puede hacer la solicitud de la despensa y de la ayuda con servicios públicos en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-manor-community-center",
+      "name": "Travis County Manor Community Center",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A Travis County community center where residents can apply for the county food pantry and for help paying utility bills.",
+      "eligibility_summary_en": "For Travis County residents. Each program has its own rules; utility help has income limits.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the center to ask about services. Applications for the food pantry and utility help can also be done online.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance",
+      "phone": "(512) 854-1550",
+      "address": "600 W. Carrie Manor St.",
+      "city": "Manor",
+      "zip": "78653",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Hours and a full list of services were not listed on the county page; call ahead.",
+      "description_es": "Un centro comunitario del condado de Travis donde los residentes pueden solicitar la despensa de comida del condado y ayuda para pagar los recibos de luz, gas y agua.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Cada programa tiene sus propias reglas; la ayuda con servicios públicos tiene límites de ingresos.",
+      "how_to_apply_es": "Llame o visite el centro para preguntar por los servicios. También puede hacer la solicitud de la despensa y de la ayuda con servicios públicos en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-pflugerville-community-center",
+      "name": "Travis County Pflugerville Community Center",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A Travis County community center where residents can apply for the county food pantry and for help paying utility bills.",
+      "eligibility_summary_en": "For Travis County residents. Each program has its own rules; utility help has income limits.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the center to ask about services. Applications for the food pantry and utility help can also be done online.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance",
+      "phone": "(512) 854-1530",
+      "address": "15822 Foothill Farm Loop, Suite D",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Hours and a full list of services were not listed on the county page; call ahead.",
+      "description_es": "Un centro comunitario del condado de Travis donde los residentes pueden solicitar la despensa de comida del condado y ayuda para pagar los recibos de luz, gas y agua.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Cada programa tiene sus propias reglas; la ayuda con servicios públicos tiene límites de ingresos.",
+      "how_to_apply_es": "Llame o visite el centro para preguntar por los servicios. También puede hacer la solicitud de la despensa y de la ayuda con servicios públicos en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-central-austin-community-center",
+      "name": "Travis County Central Austin Community Center",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A Travis County community center where residents can apply for the county food pantry and for help paying utility bills.",
+      "eligibility_summary_en": "For Travis County residents. Each program has its own rules; utility help has income limits.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the center to ask about services. Applications for the food pantry and utility help can also be done online.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance",
+      "phone": "(512) 854-4120",
+      "address": "5325 Airport Boulevard",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Hours and a full list of services were not listed on the county page; call ahead.",
+      "description_es": "Un centro comunitario del condado de Travis donde los residentes pueden solicitar la despensa de comida del condado y ayuda para pagar los recibos de luz, gas y agua.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Cada programa tiene sus propias reglas; la ayuda con servicios públicos tiene límites de ingresos.",
+      "how_to_apply_es": "Llame o visite el centro para preguntar por los servicios. También puede hacer la solicitud de la despensa y de la ayuda con servicios públicos en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-oak-hill-community-center",
+      "name": "Travis County Oak Hill Community Center",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A Travis County community center where residents can apply for the county food pantry and for help paying utility bills.",
+      "eligibility_summary_en": "For Travis County residents. Each program has its own rules; utility help has income limits.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the center to ask about services. Applications for the food pantry and utility help can also be done online.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance",
+      "phone": "(512) 854-2130",
+      "address": "8656 A State Highway 71 West, Suite 100",
+      "city": "Austin",
+      "zip": "78735",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Hours and a full list of services were not listed on the county page; call ahead.",
+      "description_es": "Un centro comunitario del condado de Travis donde los residentes pueden solicitar la despensa de comida del condado y ayuda para pagar los recibos de luz, gas y agua.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Cada programa tiene sus propias reglas; la ayuda con servicios públicos tiene límites de ingresos.",
+      "how_to_apply_es": "Llame o visite el centro para preguntar por los servicios. También puede hacer la solicitud de la despensa y de la ayuda con servicios públicos en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-jonestown-community-center",
+      "name": "Travis County Jonestown Community Center",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A Travis County community center where residents can apply for the county food pantry and for help paying utility bills.",
+      "eligibility_summary_en": "For Travis County residents. Each program has its own rules; utility help has income limits.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the center to ask about services. Applications for the food pantry and utility help can also be done online.",
+      "apply_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance",
+      "phone": "(512) 854-1500",
+      "address": "18649 FM 1431, Suite 6A",
+      "city": "Jonestown",
+      "zip": "78645",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "confidence": "high",
+      "notes": "Hours and a full list of services were not listed on the county page; call ahead.",
+      "description_es": "Un centro comunitario del condado de Travis donde los residentes pueden solicitar la despensa de comida del condado y ayuda para pagar los recibos de luz, gas y agua.",
+      "eligibility_summary_es": "Para residentes del condado de Travis. Cada programa tiene sus propias reglas; la ayuda con servicios públicos tiene límites de ingresos.",
+      "how_to_apply_es": "Llame o visite el centro para preguntar por los servicios. También puede hacer la solicitud de la despensa y de la ayuda con servicios públicos en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-utility-assistance-ceap",
+      "name": "Travis County Utility Assistance (including CEAP)",
+      "organization": "Travis County Health and Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric, gas, propane, water, and trash bills, and firewood used as the main heat source. This is the local provider of the state CEAP energy assistance program.",
+      "eligibility_summary_en": "For Travis County residents who meet income limits. For federally funded CEAP help, you must show U.S. citizenship or eligible immigration status.",
+      "eligibility_rules": {
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [
+        "Government-issued photo ID",
+        "Proof of Travis County residence",
+        "Current utility bill(s)",
+        "Proof of income for the last 30 days for everyone 18 and older",
+        "For CEAP: proof of U.S. citizenship or immigration status"
+      ],
+      "how_to_apply": "Complete the online prescreening and application, apply in person at any of the six Travis County Community Centers, or request a paper application by mail. Applications sent by email are not accepted.",
+      "apply_url": "https://tchhs.my.site.com/ecmsclientportal/s/prescreeningtool?language=en_US",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/health-human-services/apply-for-assistance/utility-assistance",
+      "confidence": "high",
+      "notes": "The page lists no direct phone; contact any of the six Travis County Community Centers or call 2-1-1. If your utilities are already disconnected, contact a community center after applying. Exact income limits were not listed on the page.",
+      "description_es": "Ayuda a pagar recibos de luz, gas, propano, agua y basura, y la leña si es su forma principal de calefacción. Es el proveedor local del programa estatal de ayuda de energía CEAP.",
+      "eligibility_summary_es": "Para residentes del condado de Travis que cumplen con los límites de ingresos. Para la ayuda CEAP, que viene de fondos federales, debe mostrar ciudadanía de EE. UU. o un estatus migratorio que califique.",
+      "how_to_apply_es": "Haga la revisión previa y la solicitud en línea (hay versión en español), solicite en persona en cualquiera de los seis centros comunitarios del condado, o pida una solicitud en papel por correo. No se aceptan solicitudes por correo electrónico.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-dove-springs-neighborhood-center",
+      "name": "Dove Springs Neighborhood Center",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "food",
+        "utilities",
+        "housing",
+        "transportation",
+        "employment",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "A City of Austin neighborhood center that offers food help, job search help, bus passes, child care seats, notary service, help applying for benefits and health insurance, health screenings, and short-term counseling. It also connects people to the city's rent and utility help.",
+      "eligibility_summary_en": "For Austin/Travis County residents. Rent and utility help is for leaseholders with past-due bills and household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income (recent pay stubs, employer letter, Social Security, unemployment, or pension statements)",
+        "Proof of financial hardship (for example job loss or medical bills)",
+        "Lease in your name (for rent help)",
+        "Past-due bill"
+      ],
+      "how_to_apply": "Call the center to ask about services. For rent or utility bill help, call the Rental and Utility Assistance line at 512-972-5780 (walk-ins are no longer accepted for rent/utility help).",
+      "apply_url": null,
+      "phone": "(512) 972-6699",
+      "address": "5811 Palo Blanco Lane",
+      "city": "Austin",
+      "zip": "78744",
+      "hours": "Mon-Thu 7:30 a.m.-5 p.m. (closed noon-12:30 p.m.); Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/services/get-help-neighborhood-centers",
+      "confidence": "high",
+      "notes": "Rent/utility help rules: Austin/Travis County resident, name on the lease, past-due bills, income at or below 200% FPL. South Austin Neighborhood Center (2508 Durwood St.) is closed for building repairs.",
+      "description_es": "Un centro vecinal de la Ciudad de Austin que ofrece ayuda con comida, ayuda para buscar trabajo, pases de autobús, lugares de cuidado infantil, servicio de notario, ayuda para solicitar beneficios y seguro médico, revisiones de salud y consejería de corto plazo. También le conecta con la ayuda de la ciudad para renta y servicios públicos.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis. La ayuda con renta y servicios públicos es para personas con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al centro para preguntar por los servicios. Para ayuda con la renta o recibos de servicios, llame a la línea de Ayuda con Renta y Servicios al 512-972-5780 (ya no se atiende sin cita para esta ayuda).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-rosewood-zaragosa-neighborhood-center",
+      "name": "Rosewood-Zaragosa Neighborhood Center",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "food",
+        "utilities",
+        "housing",
+        "transportation",
+        "employment",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "A City of Austin neighborhood center that offers food help, job search help, bus passes, child care seats, notary service, help applying for benefits and health insurance, health screenings, and short-term counseling. It also connects people to the city's rent and utility help.",
+      "eligibility_summary_en": "For Austin/Travis County residents. Rent and utility help is for leaseholders with past-due bills and household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income (recent pay stubs, employer letter, Social Security, unemployment, or pension statements)",
+        "Proof of financial hardship (for example job loss or medical bills)",
+        "Lease in your name (for rent help)",
+        "Past-due bill"
+      ],
+      "how_to_apply": "Call the center to ask about services. For rent or utility bill help, call the Rental and Utility Assistance line at 512-972-5780 (walk-ins are no longer accepted for rent/utility help).",
+      "apply_url": null,
+      "phone": "(512) 972-6740",
+      "address": "2800 Webberville Road",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": "Mon-Thu 7:30 a.m.-5 p.m. (closed noon-12:30 p.m.); Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/services/get-help-neighborhood-centers",
+      "confidence": "high",
+      "notes": "Rent/utility help rules: Austin/Travis County resident, name on the lease, past-due bills, income at or below 200% FPL. South Austin Neighborhood Center (2508 Durwood St.) is closed for building repairs.",
+      "description_es": "Un centro vecinal de la Ciudad de Austin que ofrece ayuda con comida, ayuda para buscar trabajo, pases de autobús, lugares de cuidado infantil, servicio de notario, ayuda para solicitar beneficios y seguro médico, revisiones de salud y consejería de corto plazo. También le conecta con la ayuda de la ciudad para renta y servicios públicos.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis. La ayuda con renta y servicios públicos es para personas con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al centro para preguntar por los servicios. Para ayuda con la renta o recibos de servicios, llame a la línea de Ayuda con Renta y Servicios al 512-972-5780 (ya no se atiende sin cita para esta ayuda).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-st-john-neighborhood-center",
+      "name": "St. John Community Center",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "food",
+        "utilities",
+        "housing",
+        "transportation",
+        "employment",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "A City of Austin neighborhood center that offers food help, job search help, bus passes, child care seats, notary service, help applying for benefits and health insurance, health screenings, and short-term counseling. It also connects people to the city's rent and utility help.",
+      "eligibility_summary_en": "For Austin/Travis County residents. Rent and utility help is for leaseholders with past-due bills and household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income (recent pay stubs, employer letter, Social Security, unemployment, or pension statements)",
+        "Proof of financial hardship (for example job loss or medical bills)",
+        "Lease in your name (for rent help)",
+        "Past-due bill"
+      ],
+      "how_to_apply": "Call the center to ask about services. For rent or utility bill help, call the Rental and Utility Assistance line at 512-972-5780 (walk-ins are no longer accepted for rent/utility help).",
+      "apply_url": null,
+      "phone": "(512) 972-5159",
+      "address": "7500 Blessing Avenue",
+      "city": "Austin",
+      "zip": "78752",
+      "hours": "Mon-Thu 7:30 a.m.-5 p.m. (closed noon-12:30 p.m.); Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/services/get-help-neighborhood-centers",
+      "confidence": "high",
+      "notes": "Rent/utility help rules: Austin/Travis County resident, name on the lease, past-due bills, income at or below 200% FPL. South Austin Neighborhood Center (2508 Durwood St.) is closed for building repairs.",
+      "description_es": "Un centro vecinal de la Ciudad de Austin que ofrece ayuda con comida, ayuda para buscar trabajo, pases de autobús, lugares de cuidado infantil, servicio de notario, ayuda para solicitar beneficios y seguro médico, revisiones de salud y consejería de corto plazo. También le conecta con la ayuda de la ciudad para renta y servicios públicos.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis. La ayuda con renta y servicios públicos es para personas con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al centro para preguntar por los servicios. Para ayuda con la renta o recibos de servicios, llame a la línea de Ayuda con Renta y Servicios al 512-972-5780 (ya no se atiende sin cita para esta ayuda).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-east-austin-neighborhood-center",
+      "name": "East Austin Neighborhood Center",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "food",
+        "utilities",
+        "housing",
+        "transportation",
+        "employment",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "A City of Austin neighborhood center that offers food help, job search help, bus passes, child care seats, notary service, help applying for benefits and health insurance, health screenings, and short-term counseling. It also connects people to the city's rent and utility help.",
+      "eligibility_summary_en": "For Austin/Travis County residents. Rent and utility help is for leaseholders with past-due bills and household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income (recent pay stubs, employer letter, Social Security, unemployment, or pension statements)",
+        "Proof of financial hardship (for example job loss or medical bills)",
+        "Lease in your name (for rent help)",
+        "Past-due bill"
+      ],
+      "how_to_apply": "Call the center to ask about services. For rent or utility bill help, call the Rental and Utility Assistance line at 512-972-5780 (walk-ins are no longer accepted for rent/utility help).",
+      "apply_url": null,
+      "phone": "(512) 972-6650",
+      "address": "211 Comal Street",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": "Mon-Thu 7:30 a.m.-5 p.m. (closed noon-12:30 p.m.); Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/services/get-help-neighborhood-centers",
+      "confidence": "high",
+      "notes": "Rent/utility help rules: Austin/Travis County resident, name on the lease, past-due bills, income at or below 200% FPL. South Austin Neighborhood Center (2508 Durwood St.) is closed for building repairs.",
+      "description_es": "Un centro vecinal de la Ciudad de Austin que ofrece ayuda con comida, ayuda para buscar trabajo, pases de autobús, lugares de cuidado infantil, servicio de notario, ayuda para solicitar beneficios y seguro médico, revisiones de salud y consejería de corto plazo. También le conecta con la ayuda de la ciudad para renta y servicios públicos.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis. La ayuda con renta y servicios públicos es para personas con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al centro para preguntar por los servicios. Para ayuda con la renta o recibos de servicios, llame a la línea de Ayuda con Renta y Servicios al 512-972-5780 (ya no se atiende sin cita para esta ayuda).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-montopolis-neighborhood-center",
+      "name": "Montopolis Community Center",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "food",
+        "utilities",
+        "housing",
+        "transportation",
+        "employment",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "A City of Austin neighborhood center that offers food help, job search help, bus passes, child care seats, notary service, help applying for benefits and health insurance, health screenings, and short-term counseling. It also connects people to the city's rent and utility help.",
+      "eligibility_summary_en": "For Austin/Travis County residents. Rent and utility help is for leaseholders with past-due bills and household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income (recent pay stubs, employer letter, Social Security, unemployment, or pension statements)",
+        "Proof of financial hardship (for example job loss or medical bills)",
+        "Lease in your name (for rent help)",
+        "Past-due bill"
+      ],
+      "how_to_apply": "Call the center to ask about services. For rent or utility bill help, call the Rental and Utility Assistance line at 512-972-5780 (walk-ins are no longer accepted for rent/utility help).",
+      "apply_url": null,
+      "phone": "(512) 972-6705",
+      "address": "1200 Montopolis Drive",
+      "city": "Austin",
+      "zip": "78741",
+      "hours": "Mon-Thu 7:30 a.m.-5 p.m. (closed noon-12:30 p.m.); Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/services/get-help-neighborhood-centers",
+      "confidence": "high",
+      "notes": "Rent/utility help rules: Austin/Travis County resident, name on the lease, past-due bills, income at or below 200% FPL. South Austin Neighborhood Center (2508 Durwood St.) is closed for building repairs.",
+      "description_es": "Un centro vecinal de la Ciudad de Austin que ofrece ayuda con comida, ayuda para buscar trabajo, pases de autobús, lugares de cuidado infantil, servicio de notario, ayuda para solicitar beneficios y seguro médico, revisiones de salud y consejería de corto plazo. También le conecta con la ayuda de la ciudad para renta y servicios públicos.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis. La ayuda con renta y servicios públicos es para personas con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al centro para preguntar por los servicios. Para ayuda con la renta o recibos de servicios, llame a la línea de Ayuda con Renta y Servicios al 512-972-5780 (ya no se atiende sin cita para esta ayuda).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-blackland-neighborhood-center",
+      "name": "Blackland Neighborhood Center",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "food",
+        "utilities",
+        "housing",
+        "transportation",
+        "employment",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "A City of Austin neighborhood center that offers food help, job search help, bus passes, child care seats, notary service, help applying for benefits and health insurance, health screenings, and short-term counseling. It also connects people to the city's rent and utility help.",
+      "eligibility_summary_en": "For Austin/Travis County residents. Rent and utility help is for leaseholders with past-due bills and household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income (recent pay stubs, employer letter, Social Security, unemployment, or pension statements)",
+        "Proof of financial hardship (for example job loss or medical bills)",
+        "Lease in your name (for rent help)",
+        "Past-due bill"
+      ],
+      "how_to_apply": "Call the center to ask about services. For rent or utility bill help, call the Rental and Utility Assistance line at 512-972-5780 (walk-ins are no longer accepted for rent/utility help).",
+      "apply_url": null,
+      "phone": "(512) 972-5790",
+      "address": "2005 Salina Street",
+      "city": "Austin",
+      "zip": "78722",
+      "hours": "Mon-Thu 7:30 a.m.-5 p.m. (closed noon-12:30 p.m.); Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/services/get-help-neighborhood-centers",
+      "confidence": "high",
+      "notes": "Rent/utility help rules: Austin/Travis County resident, name on the lease, past-due bills, income at or below 200% FPL. South Austin Neighborhood Center (2508 Durwood St.) is closed for building repairs.",
+      "description_es": "Un centro vecinal de la Ciudad de Austin que ofrece ayuda con comida, ayuda para buscar trabajo, pases de autobús, lugares de cuidado infantil, servicio de notario, ayuda para solicitar beneficios y seguro médico, revisiones de salud y consejería de corto plazo. También le conecta con la ayuda de la ciudad para renta y servicios públicos.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis. La ayuda con renta y servicios públicos es para personas con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al centro para preguntar por los servicios. Para ayuda con la renta o recibos de servicios, llame a la línea de Ayuda con Renta y Servicios al 512-972-5780 (ya no se atiende sin cita para esta ayuda).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-rental-utility-assistance",
+      "name": "Rental and Utility Assistance Program",
+      "organization": "Austin Public Health - Neighborhood Services Unit",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Limited funds to help pay rent and Austin Energy bills for people facing a money crisis.",
+      "eligibility_summary_en": "For Austin/Travis County residents who hold the lease, have past-due bills, and have household income at or below 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Austin/Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of financial hardship",
+        "Lease in your name",
+        "Past-due rent or utility bill"
+      ],
+      "how_to_apply": "Call the Rental and Utility Assistance line at 512-972-5780. Requests are taken by phone only; walk-ins are no longer accepted.",
+      "apply_url": null,
+      "phone": "(512) 972-5780",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/housing/renter-resources",
+      "confidence": "high",
+      "notes": "Funds are limited. The city's 'I Belong in Austin' Emergency Rental Assistance portal closed indefinitely after its March 1-7, 2026 application period; do not refer clients there.",
+      "description_es": "Fondos limitados para ayudar a pagar la renta y los recibos de Austin Energy a personas que pasan por una crisis de dinero.",
+      "eligibility_summary_es": "Para residentes de Austin y el condado de Travis con su nombre en el contrato de renta, con pagos atrasados y con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame a la línea de Ayuda con Renta y Servicios al 512-972-5780. Solo se aceptan pedidos por teléfono; ya no se atiende sin cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "city-of-austin-utilities-cap-discount",
+      "name": "Customer Assistance Program (CAP) Utility Bill Discounts",
+      "organization": "City of Austin Utilities (Austin Energy / Austin Water)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Lowers monthly Austin Energy, Austin Water, and drainage bills for customers with low or fixed incomes.",
+      "eligibility_summary_en": "For residential City of Austin utility customers who get Medicaid, SNAP, CHIP, SSI, Telephone Lifeline, VASH, Central Health MAP, or Travis County CEAP, or whose household income is under 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Official letter showing current enrollment in a qualifying program (for example a Medicaid Notice of Case Action), or proof of income. An ID card alone is not accepted."
+      ],
+      "how_to_apply": "Apply online at cityofaustindiscountprogram.com (English or Spanish), or call City of Austin Customer Care with questions.",
+      "apply_url": "https://cityofaustindiscountprogram.com",
+      "phone": "(512) 494-9400",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 7 a.m.-9 p.m.; Sat 9 a.m.-1 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://coautilities.com/wps/wcm/connect/occ/coa/util/support/customer-assistance/utility-bill-discounts",
+      "confidence": "high",
+      "notes": "Toll-free 888-340-6465 (VRS accepted). 2025 income limit example: $31,300/year for 1 person; $64,300 for a family of 4. Discounts average about $1,092 per year.",
+      "description_es": "Baja el pago mensual de Austin Energy, Austin Water y drenaje para clientes con ingresos bajos o fijos.",
+      "eligibility_summary_es": "Para clientes residenciales de los servicios de la Ciudad de Austin que reciben Medicaid, SNAP, CHIP, SSI, Lifeline telefónico, VASH, MAP de Central Health o CEAP del condado de Travis, o cuyo ingreso del hogar es menor al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Solicite en línea en cityofaustindiscountprogram.com (en inglés o español), o llame a Atención al Cliente de la Ciudad de Austin si tiene preguntas.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "city-of-austin-utilities-plus-1",
+      "name": "Plus 1 Emergency Utility Bill Assistance",
+      "organization": "City of Austin Utilities",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "An emergency fund that gives one-time help to residential customers who have a short-term problem paying their City of Austin utility bill.",
+      "eligibility_summary_en": "For residential City of Austin utility customers with a temporary financial hardship.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call City of Austin Customer Care or contact a City of Austin Neighborhood Center.",
+      "apply_url": null,
+      "phone": "(512) 494-9400",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 7 a.m.-9 p.m.; Sat 9 a.m.-1 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://coautilities.com/wps/wcm/connect/occ/coa/util/support/customer-assistance",
+      "confidence": "high",
+      "notes": "The city also keeps a registry for medically vulnerable customers who rely on utility service.",
+      "description_es": "Un fondo de emergencia que da ayuda de una sola vez a clientes residenciales que tienen un problema temporal para pagar su recibo de servicios de la Ciudad de Austin.",
+      "eligibility_summary_es": "Para clientes residenciales de los servicios de la Ciudad de Austin que pasan por un problema de dinero temporal.",
+      "how_to_apply_es": "Llame a Atención al Cliente de la Ciudad de Austin o comuníquese con un centro vecinal de la Ciudad de Austin.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-echo-coordinated-assessment",
+      "name": "Coordinated Assessment for Housing",
+      "organization": "Ending Community Homelessness Coalition (ECHO)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "A short housing survey (under an hour) that puts you in line for most housing programs for people experiencing homelessness in Austin and Travis County.",
+      "eligibility_summary_en": "For people living in a shelter, car, tent, or other place not meant for living, or fleeing domestic violence. People couch-surfing usually do not qualify.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Sunrise Homeless Navigation Center or The SAFE Alliance, go to a drop-in location, or ask an outreach worker to complete the assessment with you.",
+      "apply_url": "https://www.austinecho.org/gethelp/",
+      "phone": "(512) 522-1097",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austinecho.org/gethelp/",
+      "confidence": "high",
+      "notes": "ECHO does not provide direct services. Phone lines: Sunrise 512-522-1097 (Mon-Fri 8a-8p); The SAFE Alliance 512-267-7233 (by appointment). Drop-ins: Sunrise (4430 Menchaca Rd, M-F 9-1), Austin Community Court (505 Barton Springs Rd, Tue 10-2), The Charlie Center (12675 Research Blvd, Tue-Thu 10-1), Austin Area Urban League (8011 Cameron Rd Suite A-100, Tue & Fri 10-1).",
+      "description_es": "Una encuesta corta de vivienda (menos de una hora) que le pone en la lista para la mayoría de los programas de vivienda para personas sin hogar en Austin y el condado de Travis.",
+      "eligibility_summary_es": "Para personas que viven en un albergue, carro, tienda de campaña u otro lugar que no es para vivir, o que huyen de violencia doméstica. Las personas que se quedan en casas de otros por lo general no califican.",
+      "how_to_apply_es": "Llame a Sunrise Homeless Navigation Center o a The SAFE Alliance, vaya a un lugar de atención sin cita, o pida a un trabajador de alcance que le ayude a hacer la evaluación.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "sunrise-homeless-navigation-center",
+      "name": "Sunrise Homeless Navigation Center",
+      "organization": "Sunrise Homeless Navigation Center",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "A place where people experiencing homelessness can drop in or call to complete the Coordinated Assessment and get connected to housing programs.",
+      "eligibility_summary_en": "For people experiencing homelessness in Austin/Travis County.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call during phone hours or drop in during walk-in hours to do a Coordinated Assessment.",
+      "apply_url": null,
+      "phone": "(512) 522-1097",
+      "address": "4430 Menchaca Rd.",
+      "city": "Austin",
+      "zip": "78745",
+      "hours": "Phone: Mon-Fri 8 a.m.-8 p.m.; drop-in: Mon-Fri 9 a.m.-1 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austinecho.org/gethelp/",
+      "confidence": "medium",
+      "notes": "Details confirmed on ECHO's Get Help page, not the center's own site.",
+      "description_es": "Un lugar donde las personas sin hogar pueden llegar o llamar para hacer la Evaluación Coordinada y conectarse con programas de vivienda.",
+      "eligibility_summary_es": "Para personas sin hogar en Austin y el condado de Travis.",
+      "how_to_apply_es": "Llame en el horario de teléfono o llegue en el horario sin cita para hacer la Evaluación Coordinada.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "safe-alliance-safeline",
+      "name": "SAFEline Hotline and Survivor Services",
+      "organization": "The SAFE Alliance",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "A free, private 24/7 hotline for people hurt by domestic violence, sexual assault, child abuse, or trafficking. SAFE also offers shelter, housing help, counseling, and legal services.",
+      "eligibility_summary_en": "For survivors of domestic violence, sexual assault, child abuse, exploitation, or sex trafficking.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or text the SAFEline any time (text the word SAFE to 737-888-7233), or use the online chat on the SAFE website. If you are in immediate danger, call 911.",
+      "apply_url": "https://www.safeaustin.org/",
+      "phone": "(512) 267-7233",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.safeaustin.org/",
+      "confidence": "high",
+      "notes": "Text line: 737-888-7233. Relay/VRS available for Deaf, DeafBlind, and hard of hearing callers. Interpretation for other languages. SAFE can also complete the Coordinated Assessment by appointment. Admin line 512-369-5900. In-person advocacy hours were not confirmed this session.",
+      "description_es": "Una línea gratis y privada, las 24 horas, para personas afectadas por violencia doméstica, agresión sexual, abuso infantil o trata de personas. SAFE también ofrece albergue, ayuda con vivienda, consejería y servicios legales.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica, agresión sexual, abuso infantil, explotación o trata sexual.",
+      "how_to_apply_es": "Llame o mande un texto a SAFEline a cualquier hora (mande la palabra SAFE al 737-888-7233), o use el chat en la página web de SAFE. Hay personal que habla español. Si está en peligro ahora, llame al 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "salvation-army-austin",
+      "name": "Salvation Army Austin - Shelter and Homelessness Prevention",
+      "organization": "The Salvation Army Austin Metropolitan Area Command",
+      "categories": [
+        "housing",
+        "food",
+        "utilities"
+      ],
+      "description_en": "Runs emergency shelters, including the Austin Shelter and the Rathgeber Center for families. Also offers meals and rent and utility help to prevent homelessness.",
+      "eligibility_summary_en": "For people and families in crisis or experiencing homelessness in the Austin area. Contact the office for program rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the main office to ask about shelter or rent and utility help.",
+      "apply_url": null,
+      "phone": "(512) 782-8800",
+      "address": "4700 Manor Rd.",
+      "city": "Austin",
+      "zip": "78723",
+      "hours": "Mon-Fri 9 a.m.-4:30 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://salvationarmyaustin.org/",
+      "confidence": "high",
+      "notes": "Also 1-800-SAL-ARMY. Shelter addresses and phones were not listed on the site; use the main office number.",
+      "description_es": "Maneja albergues de emergencia, como el Austin Shelter y el Rathgeber Center para familias. También ofrece comidas y ayuda con renta y servicios públicos para evitar que las personas pierdan su casa.",
+      "eligibility_summary_es": "Para personas y familias en crisis o sin hogar en el área de Austin. Comuníquese con la oficina para conocer las reglas de cada programa.",
+      "how_to_apply_es": "Llame o visite la oficina principal para preguntar por albergue o ayuda con renta y servicios públicos.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lifeworks-austin-youth-services",
+      "name": "LifeWorks Youth Shelter and Drop-In Center",
+      "organization": "LifeWorks",
+      "categories": [
+        "housing",
+        "mental_health",
+        "employment"
+      ],
+      "description_en": "Emergency shelter and a drop-in center for young people experiencing homelessness, plus counseling, basic needs help, education, and job services.",
+      "eligibility_summary_en": "Emergency shelter is for youth 17 and younger. Young adults 18 and older can get other programs and referrals.",
+      "eligibility_rules": {
+        "max_age": 17
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the main office number for emergency shelter or services.",
+      "apply_url": "https://www.lifeworksaustin.org/",
+      "phone": "(512) 735-2400",
+      "address": "835 North Pleasant Valley Road",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.lifeworksaustin.org/",
+      "confidence": "high",
+      "notes": "max_age 17 applies to emergency shelter only; other LifeWorks programs serve older youth.",
+      "description_es": "Albergue de emergencia y un centro de atención sin cita para jóvenes sin hogar, además de consejería, ayuda con necesidades básicas, educación y servicios de empleo.",
+      "eligibility_summary_es": "El albergue de emergencia es para jóvenes de 17 años o menos. Los jóvenes de 18 años o más pueden recibir otros programas y referencias.",
+      "how_to_apply_es": "Llame al número principal para pedir albergue de emergencia u otros servicios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "front-steps-first-steps-housing-stability",
+      "name": "First Steps Housing Stability Program",
+      "organization": "Front Steps",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps people at risk of losing their home with rent help and case management, and offers supportive housing and services for veteran families.",
+      "eligibility_summary_en": "For people in Austin facing a housing crisis. Front Steps says it works with people who have criminal, eviction, or credit history.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online on the Front Steps website or call the office.",
+      "apply_url": "https://frontsteps.org/apply-now/",
+      "phone": "(512) 696-1484",
+      "address": "4507 North Interstate 35",
+      "city": "Austin",
+      "zip": "78722",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://frontsteps.org/apply-now/",
+      "confidence": "high",
+      "notes": "Veteran families apply at frontsteps.org/veteran-families-application/. Email info@frontsteps.org. Specific eligibility rules were not listed.",
+      "description_es": "Ayuda a personas en riesgo de perder su casa con ayuda para la renta y manejo de casos, y ofrece vivienda con apoyo y servicios para familias de veteranos.",
+      "eligibility_summary_es": "Para personas en Austin que pasan por una crisis de vivienda. Front Steps dice que trabaja con personas que tienen antecedentes penales, desalojos o mal crédito.",
+      "how_to_apply_es": "Solicite en línea en la página web de Front Steps o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "housing-authority-city-of-austin",
+      "name": "Public Housing and Housing Choice Vouchers (Section 8)",
+      "organization": "Austin Housing Authority (formerly Housing Authority of the City of Austin, HACA)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Offers low-cost public housing, rental vouchers, and other affordable housing programs in the City of Austin.",
+      "eligibility_summary_en": "For low-income households. Final eligibility is checked when your name reaches the top of the wait list. Wait times can be 6 months to over 3 years.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Email address (required to apply online)",
+        "Full names, Social Security numbers, and birth dates for household members",
+        "Estimated gross income",
+        "Mailing address"
+      ],
+      "how_to_apply": "Fill out the pre-application on the online portal using any computer, tablet, or phone. You must have an email address.",
+      "apply_url": "https://haca.myhousing.com/",
+      "phone": "(512) 477-4488",
+      "address": null,
+      "city": "Austin",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply; rent based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://haca.myhousing.com/",
+      "confidence": "medium",
+      "notes": "Portal now brands the agency as Austin Housing Authority. Phone confirmed on the official application portal; hacanet.org could not be loaded (certificate error), so the street address was not confirmed and was removed.",
+      "description_es": "Ofrece vivienda pública de bajo costo, vales de renta y otros programas de vivienda económica en la Ciudad de Austin.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos. Se revisa si califica cuando su nombre llega al primer lugar de la lista de espera. La espera puede ser de 6 meses a más de 3 años.",
+      "how_to_apply_es": "Llene la pre-solicitud en el portal en línea desde cualquier computadora, tableta o teléfono. Necesita tener correo electrónico.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "housing-authority-travis-county",
+      "name": "Housing Authority of Travis County (HATC)",
+      "organization": "Housing Authority of Travis County",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Offers affordable housing for seniors, people with disabilities, and families, Housing Choice Voucher rent help, homelessness programs, and a Family Self-Sufficiency program.",
+      "eligibility_summary_en": "For low-income households in Travis County. Program rules vary.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Schedule an appointment online in advance; walk-ins are no longer accepted.",
+      "apply_url": "https://hatctx.com/schedule",
+      "phone": "(512) 854-8245",
+      "address": "502 East Highland Mall Boulevard, Suite 106-B",
+      "city": "Austin",
+      "zip": "78752",
+      "hours": "Mon-Thu 8 a.m.-12 p.m. and 1-4 p.m.; Fri 8 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://hatctx.com/",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Ofrece vivienda económica para personas mayores, personas con discapacidades y familias, ayuda de renta con vales (Housing Choice Voucher), programas para personas sin hogar y un programa de Autosuficiencia Familiar.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos en el condado de Travis. Las reglas cambian según el programa.",
+      "how_to_apply_es": "Haga una cita en línea con anticipación; ya no se atiende sin cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-riogrande-legal-aid-austin",
+      "name": "Texas RioGrande Legal Aid - Austin Office",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free legal help for people with low income, including help with evictions and other civil legal problems.",
+      "eligibility_summary_en": "For low-income people in TRLA's 68-county service area, which includes Travis County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake hotline on weekdays to apply for free legal help.",
+      "apply_url": "https://www.trla.org/",
+      "phone": "(956) 996-8752",
+      "address": "4920 North I-35",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Intake: Mon-Fri 9 a.m.-5 p.m. Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Toll-free intake: (833) 329-8752. Income limits not listed on the page.",
+      "description_es": "Ayuda legal gratis para personas de bajos ingresos, incluso con desalojos y otros problemas legales civiles.",
+      "eligibility_summary_es": "Para personas de bajos ingresos en los 68 condados que atiende TRLA, incluido el condado de Travis.",
+      "how_to_apply_es": "Llame a la línea de admisión entre semana para solicitar ayuda legal gratis.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-tenants-council",
+      "name": "Austin Tenants Council",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Counselors explain renters' rights, landlord-tenant problems, repairs, and fair housing. They also help with housing discrimination complaints.",
+      "eligibility_summary_en": "For renters in the Austin area with landlord-tenant or fair housing questions.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call during business hours to set up an appointment, or fill out the online intake form in English or Spanish.",
+      "apply_url": "https://www.trla.org/atc",
+      "phone": "(512) 474-1961",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Thu 9 a.m.-12 p.m. and 1-4 p.m.; Fri 9 a.m.-12 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.trla.org/atc",
+      "confidence": "high",
+      "notes": "Staff are housing advocates, not attorneys, and cannot give legal advice. Project of TRLA since December 2022.",
+      "description_es": "Consejeros le explican sus derechos como inquilino, problemas con el dueño, reparaciones y vivienda justa. También ayudan con quejas por discriminación en la vivienda.",
+      "eligibility_summary_es": "Para inquilinos del área de Austin con preguntas sobre problemas con el dueño o vivienda justa.",
+      "how_to_apply_es": "Llame en horario de oficina para hacer una cita, o llene el formulario de admisión en línea en inglés o español.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "volunteer-legal-services-central-texas",
+      "name": "Volunteer Legal Services of Central Texas",
+      "organization": "Volunteer Legal Services of Central Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free legal advice from volunteer lawyers on civil problems like landlord-tenant, family, consumer, employment, bankruptcy, wills, probate, and record clearing.",
+      "eligibility_summary_en": "Based on household income, assets, where you live, and the legal problem. Does not help with criminal, immigration, or civil rights cases.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Attend an in-person legal advice clinic or sign up for a phone clinic through the website, or call the office.",
+      "apply_url": "https://www.vlsoct.org/get-help/",
+      "phone": "(512) 476-5550",
+      "address": "1812 Centre Creek Drive, Suite 215",
+      "city": "Austin",
+      "zip": "78754",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.vlsoct.org/get-help/",
+      "confidence": "high",
+      "notes": "Income limits and exact counties served were not stated on the page.",
+      "description_es": "Consejo legal gratis de abogados voluntarios para problemas civiles como renta, familia, deudas de consumo, empleo, bancarrota, testamentos, herencias y limpieza de antecedentes.",
+      "eligibility_summary_es": "Depende de los ingresos y bienes del hogar, dónde vive y el tipo de problema legal. No ayuda con casos penales, de inmigración ni de derechos civiles.",
+      "how_to_apply_es": "Vaya a una clínica de consejo legal en persona, inscríbase en una clínica por teléfono en la página web, o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-capital-area-north",
+      "name": "Workforce Solutions Capital Area - North Career Center",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free job center that helps with job searches, career coaching, training for in-demand jobs, youth and veteran services, and free computer, fax, and phone use.",
+      "eligibility_summary_en": "Job search services are free and open to everyone. Training scholarships require U.S. work authorization, Austin/Travis County residency, and one more job, income, or education requirement.",
+      "eligibility_rules": {
+        "residency_required": "Austin/Travis County resident (for training scholarships)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in or call to set an appointment. New job seekers can sign up for a Career Info Session online.",
+      "apply_url": "https://www.wfscapitalarea.com/",
+      "phone": "(512) 454-9675",
+      "address": "9001 N IH 35, Ste 110",
+      "city": "Austin",
+      "zip": "78753",
+      "hours": "Mon-Fri 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://wfscapitalarea.com/contact/",
+      "confidence": "high",
+      "notes": "Appointment line: 512-381-5100. Vocational Rehabilitation Services: 512-485-3734.",
+      "description_es": "Un centro de empleo gratis que ayuda a buscar trabajo, da orientación de carrera, capacitación para trabajos con demanda, servicios para jóvenes y veteranos, y uso gratis de computadora, fax y teléfono.",
+      "eligibility_summary_es": "Los servicios para buscar trabajo son gratis y para todos. Las becas de capacitación piden permiso para trabajar en EE. UU., vivir en Austin o el condado de Travis, y cumplir con otro requisito de trabajo, ingresos o estudios.",
+      "how_to_apply_es": "Llegue sin cita o llame para hacer una cita. Si es nuevo, puede inscribirse en una Sesión Informativa de Carrera en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-capital-area-east",
+      "name": "Workforce Solutions Capital Area - East Career Center",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free job center at ACC Eastview that helps with job searches, career coaching, training, and free computer, fax, and phone use.",
+      "eligibility_summary_en": "Job search services are free and open to everyone. Training scholarships have extra requirements.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in or call to set an appointment.",
+      "apply_url": "https://www.wfscapitalarea.com/",
+      "phone": "(512) 381-4200",
+      "address": "3401 Webberville Rd, Bldg 1000",
+      "city": "Austin",
+      "zip": "78702",
+      "hours": "Mon-Fri 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://wfscapitalarea.com/contact/",
+      "confidence": "high",
+      "notes": "Located at Austin Community College Eastview Campus.",
+      "description_es": "Un centro de empleo gratis en ACC Eastview que ayuda a buscar trabajo, da orientación de carrera, capacitación y uso gratis de computadora, fax y teléfono.",
+      "eligibility_summary_es": "Los servicios para buscar trabajo son gratis y para todos. Las becas de capacitación tienen requisitos adicionales.",
+      "how_to_apply_es": "Llegue sin cita o llame para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-capital-area-child-care",
+      "name": "Child Care Services (Child Care Subsidy)",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps working parents and parents in school or training pay for child care.",
+      "eligibility_summary_en": "For Austin/Travis County parents who qualify under the state child care program rules. Contact the office to check eligibility.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or email Child Care Services to learn how to apply.",
+      "apply_url": "https://www.wfscapitalarea.com/",
+      "phone": "(512) 597-7191",
+      "address": "9001 N IH 35, Ste 110",
+      "city": "Austin",
+      "zip": "78753",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://wfscapitalarea.com/contact/",
+      "confidence": "high",
+      "notes": "Email: austinccs@wfscapitalarea.com. Wait lists may apply.",
+      "description_es": "Ayuda a pagar el cuidado infantil a padres que trabajan, estudian o están en capacitación.",
+      "eligibility_summary_es": "Para padres de Austin y el condado de Travis que califican según las reglas del programa estatal de cuidado infantil. Comuníquese con la oficina para saber si califica.",
+      "how_to_apply_es": "Llame o mande un correo electrónico a Child Care Services para saber cómo solicitar.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "travis-county-veterans-services",
+      "name": "Travis County Veterans Services",
+      "organization": "Travis County",
+      "categories": [
+        "cash_assistance",
+        "healthcare",
+        "housing"
+      ],
+      "description_en": "Free help from accredited staff to apply for VA benefits, disability claims, and appeals, plus referrals for health care, housing, education, and money help.",
+      "eligibility_summary_en": "For veterans who live in Travis County and their eligible dependents.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or fill out the online form to make a virtual or in-person appointment.",
+      "apply_url": "https://www.traviscountytx.gov/veterans-services",
+      "phone": "(512) 854-9340",
+      "address": "5325 Airport Boulevard",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Mon-Thu 9 a.m.-4 p.m., by appointment only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.traviscountytx.gov/veterans-services",
+      "confidence": "high",
+      "notes": "Veterans Crisis Line (listed on the page): 1-800-273-8255 press 1, or text 838255. For VA claim deadlines within 30 days, contact the VA at 1-800-827-1000.",
+      "description_es": "Ayuda gratis de personal acreditado para solicitar beneficios del VA, reclamos por discapacidad y apelaciones, además de referencias para salud, vivienda, educación y ayuda con dinero.",
+      "eligibility_summary_es": "Para veteranos que viven en el condado de Travis y sus familiares que califican.",
+      "how_to_apply_es": "Llame o llene el formulario en línea para hacer una cita virtual o en persona.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "integral-care",
+      "name": "Integral Care (Local Mental Health Authority)",
+      "organization": "Integral Care",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Travis County's public mental health agency. It offers a 24/7 crisis line, counseling, psychiatry, substance use treatment, and help for people with intellectual and developmental disabilities.",
+      "eligibility_summary_en": "Serves people in Travis County with mental health conditions, substance use disorders, or intellectual and developmental disabilities. Anyone can call the crisis line.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 crisis and help line to get connected to services.",
+      "apply_url": "https://integralcare.org/",
+      "phone": "(512) 472-4357",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://integralcare.org/",
+      "confidence": "high",
+      "notes": "Crisis line is 512-472-HELP (4357). Toll-free 844-398-8252; TTY 512-703-1395. Website is offered in many languages; spoken-language services were not confirmed.",
+      "description_es": "La agencia pública de salud mental del condado de Travis. Tiene una línea de crisis las 24 horas, consejería, psiquiatría, tratamiento para el uso de sustancias y ayuda para personas con discapacidades intelectuales y del desarrollo.",
+      "eligibility_summary_es": "Atiende a personas en el condado de Travis con problemas de salud mental, uso de sustancias o discapacidades intelectuales y del desarrollo. Cualquier persona puede llamar a la línea de crisis.",
+      "how_to_apply_es": "Llame a la línea de crisis y ayuda, abierta las 24 horas, para conectarse con los servicios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communitycare-health-centers",
+      "name": "CommUnityCare Health Centers",
+      "organization": "CommUnityCare",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health centers that offer primary care, pediatrics, women's health, dental, behavioral health, HIV care, and care for people experiencing homelessness.",
+      "eligibility_summary_en": "Open to patients in Travis County. Call the Patient Navigation Center to ask about costs and whether you qualify for Central Health MAP.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Patient Navigation Center to make an appointment. Current patients can also schedule through MyChart.",
+      "apply_url": "https://communitycaretx.org/for-patients/",
+      "phone": "(512) 978-9015",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Contact provider",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://communitycaretx.org/for-patients/",
+      "confidence": "medium",
+      "notes": "Carousel Pediatrics 512-744-6000; OB/GYN 512-978-8700. Dental: call your clinic. Sliding-scale fee details were not listed on the page.",
+      "description_es": "Centros de salud comunitarios que ofrecen atención primaria, pediatría, salud de la mujer, dental, salud mental, atención del VIH y atención para personas sin hogar.",
+      "eligibility_summary_es": "Abierto a pacientes en el condado de Travis. Llame al Centro de Navegación de Pacientes para preguntar por los costos y si califica para el programa MAP de Central Health.",
+      "how_to_apply_es": "Llame al Centro de Navegación de Pacientes para hacer una cita. Si ya es paciente, también puede hacer citas en MyChart.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "central-health-medical-access-program",
+      "name": "Medical Access Program (MAP and MAP Basic)",
+      "organization": "Central Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost health coverage for uninsured Travis County residents. It helps members get doctor visits and other care. It is not insurance.",
+      "eligibility_summary_en": "For uninsured Travis County residents with household income at or below 200% of the federal poverty level, based on the last 30 days of income.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "uninsured": true,
+        "residency_required": "Travis County resident"
+      },
+      "documents_needed": [
+        "Proof of Travis County residence (lease, utility bill, or recent postmarked mail)",
+        "Picture ID for adults",
+        "Proof of U.S. citizenship or residency status",
+        "Proof of monthly income",
+        "Current health insurance cards, if any",
+        "Proof of household size (such as birth certificates)"
+      ],
+      "how_to_apply": "Apply online 24/7, call to apply by phone or schedule an in-person appointment, or mail your application.",
+      "apply_url": "https://ola.veritysource.com/austin",
+      "phone": "(512) 978-8130",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.centralhealth.net/map/",
+      "confidence": "high",
+      "notes": "Phone option 1. Interpreters available; Relay Texas 711. Mail: PO Box 300489, Austin, TX 78703. Monthly income limit example: $2,660 for 1 person; $5,500 for 4.",
+      "description_es": "Cobertura médica de bajo costo para residentes del condado de Travis sin seguro. Ayuda a los miembros a ir al doctor y recibir otra atención. No es un seguro médico.",
+      "eligibility_summary_es": "Para residentes del condado de Travis sin seguro médico, con ingresos del hogar iguales o menores al 200% del nivel federal de pobreza, según los ingresos de los últimos 30 días.",
+      "how_to_apply_es": "Solicite en línea a cualquier hora, llame para solicitar por teléfono o hacer una cita en persona (opción 1), o mande su solicitud por correo. Hay intérpretes disponibles.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "austin-public-health-wic",
+      "name": "WIC (Women, Infants and Children)",
+      "organization": "Austin Public Health",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy foods, nutrition advice, breastfeeding support, and referrals to pregnant women, new mothers, and young children.",
+      "eligibility_summary_en": "For pregnant women, breastfeeding women, women who had a baby in the last 6 months, and children under 5 (parents, including fathers, and guardians can enroll them). Families on Medicaid, SNAP, or TANF automatically meet the income rule.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online at texaswic.org/apply or call Austin Public Health WIC. There are 13 clinics plus a mobile unit.",
+      "apply_url": "https://www.texaswic.org/apply",
+      "phone": "(512) 972-4942",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.austintexas.gov/department/women-infants-and-children-wic",
+      "confidence": "high",
+      "notes": "Serves Austin, Travis County, and Bastrop County. State WIC line: 800-942-3678. Mobile unit schedule: austintexas.gov/health/wic-mobile-unit-schedule. Eligibility rules left empty so pregnant women are not excluded.",
+      "description_es": "WIC da comida saludable, consejos de nutrición, apoyo para la lactancia y referencias a mujeres embarazadas, mamás recientes y niños pequeños.",
+      "eligibility_summary_es": "Para mujeres embarazadas, mujeres que dan pecho, mujeres que tuvieron un bebé en los últimos 6 meses y niños menores de 5 años (los padres, incluso los papás, y los tutores pueden inscribirlos). Las familias con Medicaid, SNAP o TANF cumplen automáticamente con la regla de ingresos.",
+      "how_to_apply_es": "Solicite en línea en texaswic.org/apply o llame a WIC de Austin Public Health. Hay 13 clínicas y una unidad móvil.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "capmetro-equifare",
+      "name": "Equifare Low-Income Discount Fare",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Gives lower bus and train fares to riders with low income, with daily and monthly fare caps.",
+      "eligibility_summary_en": "For riders with household income below 200% of the federal poverty level, or who are enrolled in certain social service programs.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Proof of eligibility such as EBT, a Social Security award letter, a pay stub, or a tax return"
+      ],
+      "how_to_apply": "Fill out the online Equifare application (about 15 minutes) or pick up a paper form at the Transit Store (1705 Guadalupe St.). Approval takes about 4-6 business days. You must use a CapMetro Reloadable Fare Card or the Umo app.",
+      "apply_url": "https://app.capmetro.org/Equifare",
+      "phone": "(512) 474-1200",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Discounted fare",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capmetro.org/fare/general-fares-overview/equifare",
+      "confidence": "high",
+      "notes": "Email Equifare@capmetro.org. Enrollment lasts 24 months. Local bus single ride $1.00 with Equifare.",
+      "description_es": "Da tarifas más bajas de autobús y tren a pasajeros de bajos ingresos, con un límite de pago por día y por mes.",
+      "eligibility_summary_es": "Para pasajeros con ingresos del hogar menores al 200% del nivel federal de pobreza, o que están inscritos en ciertos programas de servicios sociales.",
+      "how_to_apply_es": "Llene la solicitud de Equifare en línea (unos 15 minutos) o pida una solicitud en papel en la Transit Store (1705 Guadalupe St.). La aprobación tarda unos 4 a 6 días hábiles. Debe usar una tarjeta recargable de CapMetro o la app Umo.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "capmetro-reduced-fare-id",
+      "name": "Reduced Fare ID Card Program",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "A $3 ID card that lets people with disabilities ride MetroBus, MetroExpress, and MetroRail for a reduced fare.",
+      "eligibility_summary_en": "For people with a physical or mental disability (permanent or temporary) that makes regular transit harder to use. A health care professional must sign the form. Economic need alone does not qualify.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Completed application with medical verification signed by a qualified health care professional",
+        "Valid government-issued photo ID or Texas driver's license"
+      ],
+      "how_to_apply": "Get the application at the Transit Store, online, or by calling. Return it within 30 days of the medical signature in person, by mail, or by fax to (512) 369-6072. Pick up the card at the Transit Store with photo ID.",
+      "apply_url": "http://www.capmetro.org/RFID/",
+      "phone": "(512) 389-7475",
+      "address": "1705 Guadalupe St.",
+      "city": "Austin",
+      "zip": "78701",
+      "hours": "Cards issued Mon-Fri 8:30 a.m.-4:30 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$3 card",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capmetro.org/docs/default-source/riders-guide-docs/accessibility-docs/rfid/rfid-card-program-packet.pdf?sfvrsn=3d80e598_2",
+      "confidence": "high",
+      "notes": "Packet revised 2/2025. Transit Store phone 512-389-7475 (8 a.m.-5 p.m. weekdays); CapMetro Customer Service 512-474-1200. Payment: cash, credit card, or money order (the application form says no personal checks).",
+      "description_es": "Una tarjeta de identificación de $3 que permite a personas con discapacidades viajar en MetroBus, MetroExpress y MetroRail con tarifa reducida.",
+      "eligibility_summary_es": "Para personas con una discapacidad física o mental (permanente o temporal) que les hace más difícil usar el transporte regular. Un profesional de salud debe firmar el formulario. Tener pocos ingresos no es suficiente para calificar.",
+      "how_to_apply_es": "Pida la solicitud en la Transit Store, en línea o por teléfono. Entréguela en persona, por correo o por fax al (512) 369-6072 dentro de los 30 días después de la firma médica. Recoja la tarjeta en la Transit Store con una identificación con foto.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "capmetro-access-paratransit",
+      "name": "CapMetro Access (Paratransit)",
+      "organization": "Capital Metropolitan Transportation Authority (CapMetro)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared door-to-door rides for people whose disability keeps them from using regular buses and trains, within 3/4 mile of CapMetro routes.",
+      "eligibility_summary_en": "For people certified through CapMetro's in-person eligibility review because a disability prevents them from using fixed-route service.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Part A application",
+        "Part B form completed by a qualified health care professional"
+      ],
+      "how_to_apply": "Submit Part A online and have a health care professional complete Part B, then complete the in-person eligibility review. Contact the eligibility office with questions.",
+      "apply_url": "https://www.capmetro.org/access",
+      "phone": "(512) 389-7501",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Service 4:00 a.m.-3:59 a.m. (exceptions apply)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Fare applies (single ride $1.75 as listed)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.capmetro.org/access",
+      "confidence": "high",
+      "notes": "Book rides at 512-852-7272 or the CapMetro Access app. Eligibility email: eligibility@capmetro.org.",
+      "description_es": "Viajes compartidos de puerta a puerta para personas que por una discapacidad no pueden usar los autobuses y trenes regulares, dentro de 3/4 de milla de las rutas de CapMetro.",
+      "eligibility_summary_es": "Para personas aprobadas en la revisión en persona de CapMetro porque una discapacidad no les deja usar las rutas regulares.",
+      "how_to_apply_es": "Mande la Parte A en línea y pida a un profesional de salud que llene la Parte B; luego haga la revisión en persona. Si tiene preguntas, llame a la oficina de elegibilidad.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "foundation-communities",
+      "name": "Foundation Communities Affordable Housing and Prosper Centers",
+      "organization": "Foundation Communities",
+      "categories": [
+        "housing",
+        "cash_assistance"
+      ],
+      "description_en": "Runs 28 affordable apartment communities and offers free tax preparation, financial coaching, college guidance, and health insurance enrollment help at its Prosper Centers.",
+      "eligibility_summary_en": "Housing is for households that meet income rules for each property. Contact Foundation Communities for program details.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Foundation Communities website (Housing > Get Started) to apply for housing, or call to ask about free tax help and coaching.",
+      "apply_url": "https://www.foundcom.org/",
+      "phone": "(512) 447-2026",
+      "address": "3000 S IH 35, Ste 300",
+      "city": "Austin",
+      "zip": "78704",
+      "hours": "Office: Mon-Fri 9 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Services free; rent varies by property",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://foundcom.org/contact-us/",
+      "confidence": "high",
+      "notes": "Prosper Centers (South: 2900 S IH 35; North: 5900 Airport Blvd) phone 737-717-4000. ECHO lists 512-610-4010 for Foundation Communities; the phone above is from foundcom.org.",
+      "description_es": "Maneja 28 comunidades de apartamentos económicos y ofrece preparación de impuestos gratis, asesoría financiera, orientación para la universidad y ayuda para inscribirse en un seguro médico en sus Prosper Centers.",
+      "eligibility_summary_es": "La vivienda es para hogares que cumplen con las reglas de ingresos de cada propiedad. Comuníquese con Foundation Communities para más detalles.",
+      "how_to_apply_es": "Visite la página web de Foundation Communities (Housing > Get Started) para solicitar vivienda, o llame para preguntar por la ayuda gratis con impuestos y asesoría.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

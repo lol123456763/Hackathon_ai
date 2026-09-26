@@ -1,6 +1,4 @@
-import {
-  Apple, Home, Zap, Stethoscope, GraduationCap, Briefcase, Bus, DollarSign, Scale, HeartHandshake,
-} from 'lucide-react';
+import { Apple, Home, Zap, Stethoscope, GraduationCap, Briefcase, Bus, DollarSign, Scale, HeartHandshake } from 'lucide-react';
 import { CATEGORIES } from '@shared/constants.js';
 
 export { CATEGORIES };

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" role="img" aria-label="Sample photo: a bakery tray with bread rolls and pastries, and foil trays of rice and beans">
+  <defs>
+    <radialGradient id="roll" cx="40%" cy="35%" r="70%"><stop offset="0" stop-color="#F3C98B"/><stop offset=".7" stop-color="#D9964A"/><stop offset="1" stop-color="#A9652A"/></radialGradient>
+    <radialGradient id="concha" cx="45%" cy="40%" r="65%"><stop offset="0" stop-color="#FBE3C8"/><stop offset="1" stop-color="#E4B98C"/></radialGradient>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F4F2"/><stop offset=".5" stop-color="#C9CCCF"/><stop offset="1" stop-color="#EDEDEB"/></linearGradient>
+    <linearGradient id="counter" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5E3C"/><stop offset="1" stop-color="#6B4428"/></linearGradient>
+  </defs>
+  <rect width="1024" height="768" fill="#EFE7DC"/>
+  <rect y="300" width="1024" height="468" fill="url(#counter)"/>
+  <!-- bakery tray -->
+  <rect x="60" y="330" width="520" height="380" rx="18" fill="#3A3F44"/>
+  <rect x="76" y="346" width="488" height="348" rx="12" fill="#50565C"/>
+  <!-- bolillos (bread rolls) -->
+  <g>
+    <g id="b"><ellipse cx="0" cy="0" rx="46" ry="26" fill="url(#roll)"/><path d="M-30 0 Q0 -8 30 0" stroke="#8C4F1D" stroke-width="5" fill="none" stroke-linecap="round"/></g>
+    <use href="#b" x="140" y="390"/><use href="#b" x="250" y="385"/><use href="#b" x="360" y="392"/><use href="#b" x="470" y="388"/>
+    <use href="#b" x="140" y="450"/><use href="#b" x="250" y="455"/><use href="#b" x="360" y="448"/><use href="#b" x="470" y="452"/>
+  </g>
+  <!-- conchas (sweet bread) -->
+  <g>
+    <g id="c"><circle r="40" fill="url(#concha)"/><path d="M-28 -14 Q0 -30 28 -14 M-34 4 Q0 -12 34 4 M-28 22 Q0 6 28 22" stroke="#C99C6E" stroke-width="5" fill="none"/></g>
+    <use href="#c" x="140" y="560"/><use href="#c" x="240" y="570"/><use href="#c" x="340" y="562"/><use href="#c" x="440" y="568"/>
+    <use href="#c" x="190" y="640"/><use href="#c" x="290" y="648"/><use href="#c" x="390" y="642"/><use href="#c" x="490" y="640"/>
+  </g>
+  <!-- foil trays: rice & beans -->
+  <g>
+    <g id="f">
+      <rect x="-150" y="-70" width="300" height="140" rx="10" fill="url(#foil)" stroke="#A6AAAE" stroke-width="4"/>
+      <rect x="-128" y="-52" width="120" height="104" rx="8" fill="#F2E3B3"/>
+      <rect x="8" y="-52" width="120" height="104" rx="8" fill="#6B3A2A"/>
+      <g fill="#EAD29A"><circle cx="-100" cy="-20" r="5"/><circle cx="-60" cy="10" r="5"/><circle cx="-80" cy="30" r="5"/><circle cx="-40" cy="-30" r="5"/></g>
+      <g fill="#4E271B"><circle cx="40" cy="-20" r="7"/><circle cx="80" cy="10" r="7"/><circle cx="60" cy="30" r="7"/><circle cx="100" cy="-25" r="7"/></g>
+    </g>
+    <use href="#f" x="790" y="420"/><use href="#f" x="790" y="580"/>
+  </g>
+  <text x="640" y="720" font-family="Arial, sans-serif" font-size="26" fill="#F7EBDD" opacity=".85">Sample photo · Loop demo</text>
+</svg>

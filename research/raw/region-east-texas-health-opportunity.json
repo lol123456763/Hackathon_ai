@@ -1,0 +1,1409 @@
+{
+  "scope": "East & Southeast Texas (Smith, Gregg, Angelina, Nacogdoches, Jefferson counties; Tyler, Longview, Lufkin, Nacogdoches, Beaumont, Port Arthur)",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "andrews-behavioral-health-smith",
+      "name": "Andrews Behavioral Health (Local Mental Health Authority)",
+      "organization": "Andrews Behavioral Health (Andrews Center Behavioral Healthcare System)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care for adults and youth, substance use treatment, help for people with intellectual and developmental disabilities, and 24/7 crisis help.",
+      "eligibility_summary_en": "For people in Smith, Henderson, Rains, Van Zandt, and Wood counties who need mental health, substance use, or disability services. Anyone in a mental health crisis can call the crisis line any time.",
+      "eligibility_rules": {
+        "residency_required": "Smith, Henderson, Rains, Van Zandt, or Wood County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call the 24/7 crisis line at (877) 934-2131 or 988. For regular services, call the Tyler clinic at (903) 597-1351.",
+      "apply_url": null,
+      "phone": "(877) 934-2131",
+      "address": "3111 North Northwest Loop 323",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": "Crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Contact provider (public mental health authority)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.andrewscenter.com/",
+      "confidence": "high",
+      "notes": "Tyler clinic main phone (903) 597-1351. HHS crisis services page lists Andrews Center as the LMHA for Henderson, Rains, Smith, Van Zandt and Wood counties (crisis 877-934-2131). Also offers veteran services and child autism services."
+    },
+    {
+      "id": "community-healthcore-gregg",
+      "name": "Community Healthcore (Local Mental Health Authority)",
+      "organization": "Community Healthcore",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Mental health, substance use, crisis, and disability services, plus primary care, for people in Gregg County and nearby counties. Crisis help is available by phone.",
+      "eligibility_summary_en": "For residents of Bowie, Cass, Gregg, Harrison, Marion, Panola, Red River, Rusk, and Upshur counties. Accepts Medicaid, Medicare, many insurance plans, and has a sliding fee based on income.",
+      "eligibility_rules": {
+        "residency_required": "Gregg County or another Community Healthcore service county"
+      },
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call (800) 832-1009 or 988. For services in Longview, call the adult mental health clinic at (903) 297-1852 or the main line (800) 446-8253.",
+      "apply_url": null,
+      "phone": "(800) 832-1009",
+      "address": "1300 North Sixth Street",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding fee scale based on income; Medicaid, Medicare and many insurance plans accepted",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://www.communityhealthcore.com/locations",
+      "confidence": "high",
+      "notes": "Longview sites: Adult Mental Health & Primary Care, 1300 N. Sixth St (903) 297-1852; Substance Use & Crisis Services, 950 N. Fourth St (903) 758-0596; Children & Adolescent Services, 3110 H.G. Mosley Pkwy Ste 104 (903) 234-9200; Admin, 107 Woodbine Pl (903) 758-2471; Veterans Services (903) 291-1155. Crisis number and counties also confirmed on the HHS crisis services page. Hours not stated."
+    },
+    {
+      "id": "burke-center-crisis-line",
+      "name": "Burke Center Crisis Line (Local Mental Health Authority)",
+      "organization": "Burke Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Burke Center is the public mental health agency for Angelina, Nacogdoches, and nearby counties. Call the crisis line any time for help in a mental health crisis.",
+      "eligibility_summary_en": "For people in Angelina, Houston, Nacogdoches, Newton, Polk, Sabine, San Augustine, San Jacinto, Shelby, Trinity, and Tyler counties.",
+      "eligibility_rules": {
+        "residency_required": "Angelina, Nacogdoches, or another Burke Center service county"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis line at (800) 392-8343, or call or text 988. Ask about ongoing services.",
+      "apply_url": null,
+      "phone": "(800) 392-8343",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Contact provider",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-crisis-services",
+      "confidence": "high",
+      "notes": "Burke Center's own website returned no usable content this session, so address, hours, and clinic phone numbers were not confirmed."
+    },
+    {
+      "id": "spindletop-center-jefferson",
+      "name": "Spindletop Center (Local Mental Health Authority)",
+      "organization": "Spindletop Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care, substance use recovery, disability services, and 24/7 crisis help for Jefferson County and nearby counties. Walk-in crisis help is offered on weekdays.",
+      "eligibility_summary_en": "For residents of Chambers, Hardin, Jasper, Jefferson, and Orange counties. No one is turned away for inability to pay.",
+      "eligibility_rules": {
+        "residency_required": "Jefferson, Chambers, Hardin, Jasper, or Orange County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 crisis line at (800) 937-8097, or walk in on weekdays 8 AM-4 PM. For intake, go to the South Campus at 2750 S. 8th Street in Beaumont or call (409) 839-1000.",
+      "apply_url": null,
+      "phone": "(800) 937-8097",
+      "address": "2750 S. 8th Street",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": "Crisis line 24/7; walk-in crisis services weekdays 8:00 AM-4:00 PM; clinics 8 AM-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding fee scale based on family size and income; no one turned away for inability to pay",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.spindletopcenter.org/locations",
+      "confidence": "high",
+      "notes": "Main line (409) 839-1000. Port Arthur South County Outpatient Clinic: 3401 57th Street, Port Arthur, TX 77642, (409) 813-8300. Mobile crisis outreach available. Crisis details: https://www.spindletopcenter.org/crisis . Counties confirmed on HHS crisis services page."
+    },
+    {
+      "id": "lone-star-legal-aid-tyler",
+      "name": "Lone Star Legal Aid - Tyler Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, such as problems with landlords and evictions, public benefits, family issues, and debt.",
+      "eligibility_summary_en": "For low-income people with a civil (not criminal) legal problem in Henderson, Rains, Smith, Van Zandt, and Wood counties. You must meet income and legal status rules.",
+      "eligibility_rules": {
+        "residency_required": "Henderson, Rains, Smith, Van Zandt, and Wood counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in, call, or apply online. Intake hours are Monday-Thursday 8:30 AM-12 PM and 1:00-3:30 PM. Emergencies are taken any time the office is open.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(903) 595-4781",
+      "address": "110 North College, Suite 302",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": "Office Mon-Fri 8:00 AM-5:00 PM. Intake Mon-Thu 8:30 AM-12 PM and 1:00-3:30 PM; emergency intakes accepted during all office hours",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.lonestarlegal.org/office/tyler-office/",
+      "confidence": "high",
+      "notes": "Office toll-free (800) 248-0048. Statewide toll-free intake (800) 733-8394. Online application link from lonestarlegal.org homepage."
+    },
+    {
+      "id": "lone-star-legal-aid-longview",
+      "name": "Lone Star Legal Aid - Longview Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, such as problems with landlords and evictions, public benefits, family issues, and debt.",
+      "eligibility_summary_en": "For low-income people with a civil (not criminal) legal problem in Camp, Gregg, Harrison, Marion, Panola, Rusk, and Upshur counties. You must meet income and legal status rules.",
+      "eligibility_rules": {
+        "residency_required": "Camp, Gregg, Harrison, Marion, Panola, Rusk, and Upshur counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in, call, or apply online. Intake hours are Monday-Thursday 8:30 AM-12 PM and 1:00-3:30 PM. Emergencies are taken any time the office is open.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(903) 758-9123",
+      "address": "140 East Tyler, Suite 150",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": "Office Mon-Fri 8:00 AM-5:00 PM. Intake Mon-Thu 8:30 AM-12 PM and 1:00-3:30 PM; emergency intakes accepted during all office hours",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://www.lonestarlegal.org/office/longview-office/",
+      "confidence": "high",
+      "notes": "Office toll-free (800) 866-0821. Statewide toll-free intake (800) 733-8394. Online application link from lonestarlegal.org homepage."
+    },
+    {
+      "id": "lone-star-legal-aid-nacogdoches",
+      "name": "Lone Star Legal Aid - Nacogdoches Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, such as problems with landlords and evictions, public benefits, family issues, and debt.",
+      "eligibility_summary_en": "For low-income people with a civil (not criminal) legal problem in Anderson, Angelina, Cherokee, Houston, Jasper, Nacogdoches, Newton, Sabine, San Augustine, Shelby, and Tyler counties. You must meet income and legal status rules.",
+      "eligibility_rules": {
+        "residency_required": "Anderson, Angelina, Cherokee, Houston, Jasper, Nacogdoches, Newton, Sabine, San Augustine, Shelby, and Tyler counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in, call, or apply online. Intake hours are Monday-Thursday 8:30 AM-12 PM and 1:00-3:30 PM. Emergencies are taken any time the office is open.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(936) 560-1455",
+      "address": "414 East Pilar Street",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": "Office Mon-Fri 8:00 AM-5:00 PM. Intake Mon-Thu 8:30 AM-12 PM and 1:00-3:30 PM; emergency intakes accepted during all office hours",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.lonestarlegal.org/office/nacogdoches-office/",
+      "confidence": "high",
+      "notes": "Office toll-free (800) 354-1889. Statewide toll-free intake (800) 733-8394. Online application link from lonestarlegal.org homepage."
+    },
+    {
+      "id": "lone-star-legal-aid-beaumont",
+      "name": "Lone Star Legal Aid - Beaumont Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, such as problems with landlords and evictions, public benefits, family issues, and debt.",
+      "eligibility_summary_en": "For low-income people with a civil (not criminal) legal problem in Hardin, Jefferson, Liberty, and Orange counties. You must meet income and legal status rules.",
+      "eligibility_rules": {
+        "residency_required": "Hardin, Jefferson, Liberty, and Orange counties"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in, call, or apply online. Intake hours are Monday-Thursday 8:30 AM-12 PM and 1:00-3:30 PM. Emergencies are taken any time the office is open.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(409) 835-4971",
+      "address": "1965 Park Street",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": "Office Mon-Fri 8:00 AM-5:00 PM. Intake Mon-Thu 8:30 AM-12 PM and 1:00-3:30 PM; emergency intakes accepted during all office hours",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.lonestarlegal.org/office/beaumont-office/",
+      "confidence": "high",
+      "notes": "Office toll-free (800) 365-1861. Statewide toll-free intake (800) 733-8394. Online application link from lonestarlegal.org homepage."
+    },
+    {
+      "id": "workforce-solutions-east-texas-tyler",
+      "name": "Workforce Solutions East Texas - Tyler Center",
+      "organization": "Workforce Solutions East Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, job training, career services, and help for veterans, young adults, and laid-off workers.",
+      "eligibility_summary_en": "Open to job seekers in the East Texas workforce area, including Smith and Gregg counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Tyler center or call 1-844-ETWORKS (1-844-389-6757).",
+      "apply_url": "https://www.easttexasworkforce.org/",
+      "phone": "(903) 561-8131",
+      "address": "1421 South Beckham Avenue",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": "Mon-Fri 8 AM-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg"
+      ],
+      "source_url": "https://www.easttexasworkforce.org/locations",
+      "confidence": "high",
+      "notes": "Board serves Anderson, Camp, Cherokee, Gregg, Harrison, Henderson, Marion, Panola, Rains, Rusk, Smith, Upshur, Van Zandt, and Wood counties. Toll-free 1-844-389-6757. Mobile workforce centers visit rural areas."
+    },
+    {
+      "id": "workforce-solutions-east-texas-longview",
+      "name": "Workforce Solutions East Texas - Longview Center",
+      "organization": "Workforce Solutions East Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, job training, career services, and help for veterans, young adults, and laid-off workers.",
+      "eligibility_summary_en": "Open to job seekers in the East Texas workforce area, including Gregg and Smith counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Longview center or call 1-844-ETWORKS (1-844-389-6757).",
+      "apply_url": "https://www.easttexasworkforce.org/",
+      "phone": "(903) 561-8131",
+      "address": "1905 W Loop 281 S",
+      "city": "Longview",
+      "zip": "75604",
+      "hours": "Mon-Fri 8 AM-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg",
+        "Smith"
+      ],
+      "source_url": "https://www.easttexasworkforce.org/locations",
+      "confidence": "high",
+      "notes": "Toll-free 1-844-389-6757. The source lists the same phone number for the Tyler and Longview centers."
+    },
+    {
+      "id": "workforce-solutions-east-texas-child-care",
+      "name": "Child Care Services (Child Care Assistance) - East Texas",
+      "organization": "Workforce Solutions East Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, look for work, or go to school or training.",
+      "eligibility_summary_en": "For families in the East Texas workforce area, including Smith and Gregg counties, with income at or below 85% of the state median income (for example, $7,670 a month for a family of 4).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Smith, Gregg, or another Workforce Solutions East Texas county"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start on the parent page of the Workforce Solutions East Texas website or call (800) 676-8283.",
+      "apply_url": "https://www.easttexasworkforce.org/child-care",
+      "phone": "(800) 676-8283",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 8 AM-5 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Financial help; families may pay a share of cost",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg"
+      ],
+      "source_url": "https://www.easttexasworkforce.org/child-care",
+      "confidence": "high",
+      "notes": "Parent email customer@easttexasworkforce.org. Income example as stated on source; limits change yearly."
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas-lufkin",
+      "name": "Workforce Solutions Deep East Texas - Angelina County Center",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, job training, and employer services. Staff can also help parents with child care assistance.",
+      "eligibility_summary_en": "Open to job seekers in Angelina and nearby Deep East Texas counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call (936) 639-1351.",
+      "apply_url": "https://detwork.org/",
+      "phone": "(936) 639-1351",
+      "address": "210 N. John Redditt Drive",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://detwork.org/locations/angelina-county",
+      "confidence": "high",
+      "notes": "Board serves Angelina, Houston, Jasper, Nacogdoches, Polk, and Shelby counties. Text DETX to 936-251-6022 for job alerts. Hours not stated on source."
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas-nacogdoches",
+      "name": "Workforce Solutions Deep East Texas - Nacogdoches County Center",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, job training, and employer services. Staff can also help parents with child care assistance.",
+      "eligibility_summary_en": "Open to job seekers in Nacogdoches and nearby Deep East Texas counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call (936) 560-1441.",
+      "apply_url": "https://detwork.org/",
+      "phone": "(936) 560-1441",
+      "address": "235 North University Drive",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nacogdoches"
+      ],
+      "source_url": "https://detwork.org/locations/nacogdoches-county",
+      "confidence": "high",
+      "notes": "Hours not stated on source."
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas-child-care",
+      "name": "Child Care Services (Child Care Assistance) - Deep East Texas",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay part of child care costs so parents can keep working or go to school. Families pay a co-payment based on income and household size.",
+      "eligibility_summary_en": "For eligible working or studying parents in Angelina, Houston, Jasper, Nacogdoches, Polk, and Shelby counties.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Angelina, Nacogdoches, Houston, Jasper, Polk, or Shelby County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Start on the Parents page of the Workforce Solutions Deep East Texas website, or visit the Lufkin or Nacogdoches workforce center.",
+      "apply_url": "https://detwork.org/child-care-services/parents",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Co-payment based on family income and household size",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://detwork.org/child-care-services",
+      "confidence": "high",
+      "notes": "Income limits not stated on source page. Lufkin center (936) 639-1351; Nacogdoches center (936) 560-1441."
+    },
+    {
+      "id": "workforce-solutions-southeast-texas-beaumont",
+      "name": "Workforce Solutions Southeast Texas - Beaumont Center",
+      "organization": "Workforce Solutions Southeast Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, career planning, job training, and services for veterans and young adults.",
+      "eligibility_summary_en": "Open to job seekers in Jefferson, Orange, and Hardin counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Beaumont center or call (409) 839-8045.",
+      "apply_url": "https://setworks.org/",
+      "phone": "(409) 839-8045",
+      "address": "510 Park Street, Suite 200",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://setworks.org/",
+      "confidence": "high",
+      "notes": "Main line 1-877-834-5627. Hours not stated on source."
+    },
+    {
+      "id": "workforce-solutions-southeast-texas-port-arthur",
+      "name": "Workforce Solutions Southeast Texas - Port Arthur Center",
+      "organization": "Workforce Solutions Southeast Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, career planning, job training, and services for veterans and young adults.",
+      "eligibility_summary_en": "Open to job seekers in Jefferson, Orange, and Hardin counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Port Arthur center or call (409) 962-1236.",
+      "apply_url": "https://setworks.org/",
+      "phone": "(409) 962-1236",
+      "address": "4680 FM 365",
+      "city": "Port Arthur",
+      "zip": "77642",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://setworks.org/",
+      "confidence": "high",
+      "notes": "Main line 1-877-834-5627. Hours not stated on source."
+    },
+    {
+      "id": "child-care-contractor-services-southeast-texas",
+      "name": "Child Care Contractor Services Southeast Texas",
+      "organization": "Workforce Solutions Southeast Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free or low-cost child care help for parents who are working, looking for work, in job training, or in school.",
+      "eligibility_summary_en": "For parents in Jefferson, Hardin, or Orange counties. Single parents need 25+ hours a week of work, school, or training (two-parent families 50+ combined hours). Children must be under 13 and a U.S. citizen or legal immigrant. Income limits apply.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 12,
+        "residency_required": "Jefferson, Hardin, or Orange County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the Parent Application online through the Texas Workforce Commission child care portal (linked from workforcechildcare.org), or visit the Beaumont or Port Arthur office.",
+      "apply_url": "https://workforcechildcare.org/",
+      "phone": "(409) 839-8045",
+      "address": "510 Park Street, Suite 215",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free or reduced cost",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://setworks.org/child-care/",
+      "confidence": "high",
+      "notes": "Port Arthur office 4680 FM 365, (409) 962-1236. Email cccs@workforcechildcare.org. Eligibility check: https://workforcechildcare.org/areyoueligible.aspx . max_age 12 reflects 'under 13'."
+    },
+    {
+      "id": "bethesda-health-clinic-tyler",
+      "name": "Bethesda Health Clinic",
+      "organization": "Bethesda Health Clinic",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Low-cost medical care, dental care, counseling, and pediatrics for uninsured working adults and families in East Texas.",
+      "eligibility_summary_en": "Adults 18-64 (18-65 for dental) with no health or dental insurance who have a job or do significant unpaid work like caregiving, volunteering, or school. Children are seen at Bethesda Pediatrics.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "max_age": 64,
+        "uninsured": true
+      },
+      "documents_needed": [
+        "Valid photo ID",
+        "Proof of income (recent pay stubs, employment letter, or awards letter)",
+        "Latest filed tax return (Form 1040, pages 1-2)"
+      ],
+      "how_to_apply": "First-time applicants must apply in person during clinic hours; no appointment needed. Call (903) 596-8353 ext. 112 with questions.",
+      "apply_url": "https://bethesdaclinic.org/apply/",
+      "phone": "(903) 596-8353",
+      "address": "409 W. Ferguson St.",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": "Mon-Thu 8 AM-5 PM, Fri 8 AM-1 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Low cost; contact clinic for fees",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://bethesdaclinic.org/apply/",
+      "confidence": "high",
+      "notes": "Must requalify every 2 years. Lindale Clinic: 215 W Margaret St, Lindale, (903) 255-7462 (limited hours). Pediatrics: 1350 E Richards St, Tyler, medical (903) 531-9455, dental (903) 593-7607. Locations/hours from https://bethesdaclinic.org/contact/ . Email admissions@bethesdaclinic.org."
+    },
+    {
+      "id": "family-circle-of-care-tyler",
+      "name": "Family Circle of Care (Community Health Center)",
+      "organization": "Tyler Family Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with primary care, pediatrics, women's health, dental, eye care, behavioral health, and substance use treatment.",
+      "eligibility_summary_en": "Open to everyone, with or without insurance.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (903) 535-9041 to make an appointment as a new patient.",
+      "apply_url": "https://tylercircleofcare.org/",
+      "phone": "(903) 535-9041",
+      "address": "928 N Glenwood Blvd",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Affordable care; ask about fees based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://tylercircleofcare.org/",
+      "confidence": "high",
+      "notes": "Federally funded health center. Tyler sites (from HRSA data https://data.hrsa.gov/DataDownload/DD_Files/Health_Center_Service_Delivery_and_LookAlike_Sites.csv): Glenwood Clinic 928 N Glenwood Blvd; Broadway Clinic 2990 N Broadway Ave (903-593-1893); Houston St. Clinic 214 E Houston St; W. Gentry Clinic 2231 W Gentry Pkwy; Dental 110 E 9th St (903-991-4990); Chapel Hill school clinic; mobile clinic. Hours not stated."
+    },
+    {
+      "id": "wellness-pointe-longview",
+      "name": "Wellness Pointe (Community Health Center)",
+      "organization": "Wellness Pointe (Longview Wellness Center, Inc.)",
+      "categories": [
+        "healthcare",
+        "mental_health",
+        "food"
+      ],
+      "description_en": "Community health center with family medicine, pediatrics, women's health, dental, eye care, and behavioral health. Also offers WIC, parenting classes, and home visiting.",
+      "eligibility_summary_en": "Open to everyone in the area, with or without insurance.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (903) 758-2610 or toll-free (888) 811-6648 to make an appointment.",
+      "apply_url": "https://www.wellnesspointe.org/",
+      "phone": "(903) 758-2610",
+      "address": "1107 E Marshall Ave",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Contact clinic (federally funded health center)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg",
+        "Smith"
+      ],
+      "source_url": "https://www.wellnesspointe.org/",
+      "confidence": "high",
+      "notes": "Health Center Program grantee. Longview sites: 1107 E Marshall Ave (main), 425 N Fredonia St, 2131 Mobberly Ave, 1761 W Loop 281, 802 Medical Circle, plus school clinics. HRSA data also lists Tyler sites: Women's Health Center at 825 Medical Dr, Tyler 75701, and Social Services at 401 E Front St, Tyler. Hours not stated."
+    },
+    {
+      "id": "special-health-resources-for-texas",
+      "name": "Special Health Resources for Texas (Community Health Center)",
+      "organization": "Special Health Resources for Texas, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with clinics in Longview and Tyler offering pediatrics, women's health, primary care, and behavioral health.",
+      "eligibility_summary_en": "Open to everyone. Accepts Medicaid, Medicare, and most insurance, and gives self-pay discounts based on income and household size.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic you want to visit to make an appointment. Some clinics allow online booking.",
+      "apply_url": "https://www.specialhealth.org/",
+      "phone": "(903) 212-7170",
+      "address": "402 N Seventh St",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Self-pay discounts based on income and household size",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg",
+        "Smith"
+      ],
+      "source_url": "https://www.specialhealth.org/",
+      "confidence": "high",
+      "notes": "Woman & Child Health Center of Longview, 402 N Seventh St, (903) 212-7170. Tyler Care Clinic - Troup Hwy, 4519 Troup Hwy, Tyler 75703, (903) 289-9252. HRSA data also lists Longview Care Clinic, 409 N 6th St (903-501-1747), and Tyler Care Clinic Midtown, 1300 Clinic Dr (903-597-7558)."
+    },
+    {
+      "id": "east-texas-community-health-services",
+      "name": "East Texas Community Health Services (Community Health Center)",
+      "organization": "East Texas Community Health Services, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with primary care, dental, pediatrics, chronic disease care, shots, family planning, counseling, lab tests, and a small pharmacy.",
+      "eligibility_summary_en": "Open to everyone. People with no insurance or low coverage can pay less based on household income and family size.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (936) 560-5668 to make an appointment. Same-day visits may be available.",
+      "apply_url": "https://www.etchc.com/",
+      "phone": "(936) 560-5668",
+      "address": "1309 S University Dr",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding fee scale based on household income and family size",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Nacogdoches",
+        "Angelina"
+      ],
+      "source_url": "https://www.etchc.com/",
+      "confidence": "high",
+      "notes": "Clinics (addresses from HRSA data): Eastside Community Clinic, 1309 S University Dr, Nacogdoches; Westside Clinic, 1210 Douglass Rd, Nacogdoches (936-560-1122); LittleJacks Pediatrics, 4604 NE Stallings Dr, Nacogdoches (936-205-5805); Sayers Street Clinic, 1717 Sayers St, Lufkin (936-899-5368). After-hours nurse triage at main number."
+    },
+    {
+      "id": "hope-community-medicine-lufkin",
+      "name": "HOPE Community Medicine - Lufkin",
+      "organization": "Health Opportunities for the People of East Texas, Inc. (HOPE Community Medicine)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Nonprofit community health center with primary care, pediatrics, women's health, behavioral health, pharmacy, and help with insurance, rides, and food.",
+      "eligibility_summary_en": "Open to everyone. No one is denied care because they cannot pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (936) 591-8380 or schedule online.",
+      "apply_url": "https://www.hcmtx.org/",
+      "phone": "(936) 591-8380",
+      "address": "821 W Frank Ave",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "No one denied care for inability to pay",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://www.hcmtx.org/",
+      "confidence": "high",
+      "notes": "Lufkin site address from HRSA data (https://data.hrsa.gov/DataDownload/DD_Files/Health_Center_Service_Delivery_and_LookAlike_Sites.csv). Main office is in Center, TX (304 Logansport St). Hours not stated."
+    },
+    {
+      "id": "tan-healthcare-beaumont",
+      "name": "TAN Healthcare - Beaumont Family Health Center",
+      "organization": "Triangle Area Network, Inc. (TAN Healthcare)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health center with primary care, HIV prevention and treatment, hepatitis C care, behavioral health, and mobile medical services.",
+      "eligibility_summary_en": "Open to insured and uninsured patients. Sliding fee scale available.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Download a new patient application (English or Spanish) from the website, or call (409) 832-8338.",
+      "apply_url": "https://www.tanhealthcare.org/",
+      "phone": "(409) 832-8338",
+      "address": "1495 N 7th St",
+      "city": "Beaumont",
+      "zip": "77702",
+      "hours": "Mon 7 AM-6 PM; Tue-Thu 8 AM-5 PM; Fri 8 AM-3 PM; closed daily 12-1 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding fee scale",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.tanhealthcare.org/",
+      "confidence": "high",
+      "notes": "HRSA data also lists The Lester Daigle Behavioral Health Center at 2355 I-10 E, Beaumont (409-832-3377)."
+    },
+    {
+      "id": "legacy-community-health-beaumont",
+      "name": "Legacy Community Health - Beaumont Clinics",
+      "organization": "Legacy Community Health Services, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health clinics in Beaumont with adult primary care, pediatrics, women's health, behavioral health, and HIV testing and treatment.",
+      "eligibility_summary_en": "Open to everyone. Sliding scale fees are available for those who qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (832) 548-5000 to make an appointment. Same-day visits may be available.",
+      "apply_url": "https://www.legacycommunityhealth.org/region/beaumont/",
+      "phone": "(832) 548-5000",
+      "address": "450 N 11th St",
+      "city": "Beaumont",
+      "zip": "77702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale fees for eligible patients",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.legacycommunityhealth.org/region/beaumont/",
+      "confidence": "high",
+      "notes": "Beaumont sites (addresses from HRSA data): Central Beaumont, 450 N 11th St (409-242-2577); Central Stagg, 3455 Stagg Dr; Beaumont North / Taylor Pediatrics, 3030 North St. After-hours nurse line at main number."
+    },
+    {
+      "id": "gulf-coast-health-center-port-arthur",
+      "name": "Gulf Coast Health Center - Port Arthur",
+      "organization": "Gulf Coast Health Center, Inc.",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Federally funded community health center in Port Arthur with clinics, school-based clinics, and a mobile unit.",
+      "eligibility_summary_en": "Community health centers see patients with or without insurance. Ask about income-based discounts.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (409) 983-1161 to make an appointment.",
+      "apply_url": null,
+      "phone": "(409) 983-1161",
+      "address": "2548 Memorial Blvd",
+      "city": "Port Arthur",
+      "zip": "77640",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Contact clinic",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://data.hrsa.gov/DataDownload/DD_Files/Health_Center_Service_Delivery_and_LookAlike_Sites.csv",
+      "confidence": "medium",
+      "notes": "Confirmed as an active site in HRSA's official health center site data. The organization's website had a certificate error this session, so hours and fees were not confirmed. Other sites: 601 Rev Dr Ransom Howard St; 2927 Park Plaza Ln; school clinics at Memorial High School and Phillis Wheatley School."
+    },
+    {
+      "id": "smith-county-indigent-healthcare",
+      "name": "Smith County Indigent Healthcare Program",
+      "organization": "Smith County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County program that helps pay for basic health care for very low-income Smith County residents who cannot get Medicaid or other coverage.",
+      "eligibility_summary_en": "For Smith County residents who are single adults or couples without dependent children, with very low income (about 21% of the federal poverty level). Savings and property are counted.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Smith County resident"
+      },
+      "documents_needed": [
+        "Proof of Smith County residence"
+      ],
+      "how_to_apply": "Call (903) 526-4405 to request an application. Staff will schedule an eligibility appointment.",
+      "apply_url": null,
+      "phone": "(903) 526-4405",
+      "address": null,
+      "city": "Tyler",
+      "zip": null,
+      "hours": "Mon-Thu 8 AM-4:30 PM; closed Fridays",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free to eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.smith-county.com/373/Indigent-Healthcare",
+      "confidence": "high",
+      "notes": "Mailing address P.O. Box 132317, Tyler, TX 75713. Emergency line (903) 535-9701."
+    },
+    {
+      "id": "angelina-county-indigent-health-care",
+      "name": "Angelina County Indigent Health Care Program",
+      "organization": "Angelina County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County program that helps pay for medical care for very low-income Angelina County residents.",
+      "eligibility_summary_en": "For Angelina County residents who are single adults, non-pregnant people without dependent children, or couples without dependents, with income under about 21% of the federal poverty level. Assets are counted.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "residency_required": "Angelina County resident"
+      },
+      "documents_needed": [
+        "Proof of Angelina County residence",
+        "Completed application packet"
+      ],
+      "how_to_apply": "Download the application packet from the county website or contact the office. Applications can also be turned in at hospitals.",
+      "apply_url": "https://www.angelinacounty.net/ihc/",
+      "phone": "(936) 634-5431",
+      "address": "211 E. Shepherd Ave., Ste. 101",
+      "city": "Lufkin",
+      "zip": "75901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free to eligible residents",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://www.angelinacounty.net/ihc/",
+      "confidence": "high",
+      "notes": "Mailing address P.O. Box 908, Lufkin, TX 75902. Administrator (936) 634-4232."
+    },
+    {
+      "id": "gregg-county-health-department",
+      "name": "Gregg County Health Department (Shots, Indigent Health Care, Utility Help)",
+      "organization": "Gregg County",
+      "categories": [
+        "healthcare",
+        "utilities"
+      ],
+      "description_en": "County health office with walk-in shots, free STI testing, the county indigent health care program, and a utility assistance application.",
+      "eligibility_summary_en": "Serves Gregg County residents. Indigent health care is for very low-income residents who qualify under county rules.",
+      "eligibility_rules": {
+        "residency_required": "Gregg County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Walk in for shots or testing during clinic hours. Apply for indigent health care online at applyihs.com/greggco or in person (8-11 AM, 1-4 PM).",
+      "apply_url": "https://applyihs.com/greggco",
+      "phone": "(903) 237-2620",
+      "address": "405 E. Marshall Avenue, Suite 104",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": "Office 7:30 AM-5:00 PM. Immunizations Mon/Wed/Fri 8:30-11:15 AM and 1:00-3:45 PM (closed Tue/Thu). Free STI testing Mon/Wed/Fri 7:30-9:30 AM.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "STI testing free; other fees not stated",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://greggcounty.texas.gov/departments/health-department",
+      "confidence": "high",
+      "notes": "Also runs an indigent cremation program. Utility assistance eligibility not stated on source."
+    },
+    {
+      "id": "jefferson-county-public-health-indigent-care",
+      "name": "Jefferson County Indigent Health Care and Primary Health Care",
+      "organization": "Jefferson County Public Health",
+      "categories": [
+        "healthcare",
+        "transportation",
+        "utilities"
+      ],
+      "description_en": "County health programs for low-income residents: indigent health care (CIHCP), $10 doctor visits through Primary Health Care, free medicines and rides for CIHCP patients, and low-cost child shots.",
+      "eligibility_summary_en": "For Jefferson County residents who cannot get other state or federal help. The Primary Health Care program is for residents at or below 133% of the federal poverty guidelines.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 133,
+        "residency_required": "Jefferson County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit Unit #1 in Beaumont (409) 835-8530 or Unit #2 in Port Arthur (409) 983-8380.",
+      "apply_url": null,
+      "phone": "(409) 835-8530",
+      "address": "1295 Pearl",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": "Mon-Fri 8 AM-5 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Primary Health Care doctor visits $10 (no lab or hospital coverage); child immunizations $10/visit",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://jeffersoncountytx.gov/PublicHealth/PublicHealth.htm",
+      "confidence": "high",
+      "notes": "133% FPL is for the Primary Health Care program; CIHCP follows state rules. Port Arthur Unit #2: 800 4th Street, Port Arthur 77640, (409) 983-8380. Immunization Clinic: 7933 Viterbo Road, Beaumont 77705, (409) 719-5964 (Mon 8 AM-12 PM; Tue-Wed 12:30-4:30 PM) for uninsured/underinsured children 18 and under. Utility help for indigent patients with severe disabilities."
+    },
+    {
+      "id": "net-health-wic-tyler",
+      "name": "NET Health WIC - Tyler",
+      "organization": "Northeast Texas Public Health District (NET Health)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy foods, nutrition classes, and breastfeeding support to pregnant women, new moms, and children under 5.",
+      "eligibility_summary_en": "For pregnant women, new mothers, infants, and children under 5 who meet WIC income rules.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (903) 592-7635 to make a WIC appointment at the North Broadway clinic.",
+      "apply_url": null,
+      "phone": "(903) 592-7635",
+      "address": "815 N. Broadway",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": "Mon 10 AM-7 PM; Tue-Fri 8:30 AM-5:30 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.mynethealth.org/departments/women-infants-and-children-wic/clinic-locations/",
+      "confidence": "high",
+      "notes": "Other Smith County WIC sites: Tyler Family Care, 225 E. Amherst Ste 800, (903) 533-1319; Lindale, 215 Margaret St, (903) 592-7634 (Wednesdays). WIC admin (903) 593-8331."
+    },
+    {
+      "id": "net-health-immunizations-tyler",
+      "name": "NET Health Immunization Clinic",
+      "organization": "Northeast Texas Public Health District (NET Health)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Walk-in clinic with low-cost vaccines for children and adults, including school shots and flu shots.",
+      "eligibility_summary_en": "Open to anyone, no matter where you live. No one is turned away for inability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Identification",
+        "Insurance information (if you have it)"
+      ],
+      "how_to_apply": "Walk in during clinic hours. No appointment needed.",
+      "apply_url": null,
+      "phone": "(903) 510-5604",
+      "address": "815 N. Broadway Avenue",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": "Mon-Fri 8-11 AM and 1-4 PM; Wednesday afternoon until 6 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Low-cost administration fee; no one turned away for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.mynethealth.org/departments/immunizations-tuberculosis-tb/imm-overview/",
+      "confidence": "high",
+      "notes": "NET Health main line (903) 535-0030."
+    },
+    {
+      "id": "port-arthur-health-department",
+      "name": "City of Port Arthur Health Department",
+      "organization": "City of Port Arthur",
+      "categories": [
+        "healthcare",
+        "food"
+      ],
+      "description_en": "City health department with shots, a TB clinic, STD testing and treatment, WIC, Nurse-Family Partnership, and vital records.",
+      "eligibility_summary_en": "Serves Port Arthur area residents. Some clinics charge small fees.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (409) 983-8874 or visit during business hours.",
+      "apply_url": null,
+      "phone": "(409) 983-8874",
+      "address": "5860 9th Avenue",
+      "city": "Port Arthur",
+      "zip": null,
+      "hours": "Mon-Fri 8 AM-5 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "STD clinic $20/visit; HIV testing free; pregnancy test $10",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.portarthurtx.gov/213/Health-Department",
+      "confidence": "high",
+      "notes": "ZIP code not stated on source."
+    },
+    {
+      "id": "east-texas-food-bank",
+      "name": "East Texas Food Bank",
+      "organization": "East Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Supplies food pantries and produce giveaways across 26 East Texas counties and helps people apply for SNAP.",
+      "eligibility_summary_en": "For people who need food in the food bank's East Texas service area. Each pantry may have its own rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food tool on the website to find a pantry near you, or call (903) 597-3663.",
+      "apply_url": "https://www.easttexasfoodbank.org/findfood",
+      "phone": "(903) 597-3663",
+      "address": "3201 Robertson Road",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg",
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.easttexasfoodbank.org/",
+      "confidence": "medium",
+      "notes": "Resource centers in Tyler, Longview, Lufkin, and Texarkana. The site did not list its 26 counties by name this session; Smith, Gregg, and Angelina are inferred from HQ and resource centers, and Nacogdoches is presumed. Verify with the Find Food tool."
+    },
+    {
+      "id": "southeast-texas-food-bank",
+      "name": "Southeast Texas Food Bank",
+      "organization": "Southeast Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Helps people find nearby food pantries and runs mobile pantries, senior food boxes, a child backpack program, TEFAP, and help signing up for benefits.",
+      "eligibility_summary_en": "For people who need food in Hardin, Jasper, Jefferson, Newton, Orange, Polk, Sabine, and Tyler counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the website to find a pantry by county, or call (409) 839-8777.",
+      "apply_url": "https://setxfoodbank.org/",
+      "phone": "(409) 839-8777",
+      "address": "3845 S. ML King Jr. Parkway",
+      "city": "Beaumont",
+      "zip": "77705",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://setxfoodbank.org/",
+      "confidence": "high",
+      "notes": "Toll free (844) 356-9084."
+    },
+    {
+      "id": "hiway-80-rescue-mission",
+      "name": "Hiway 80 Rescue Mission",
+      "organization": "Hiway 80 Rescue Mission",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Emergency shelter for men, women, and children, plus meals, showers, recovery programs, case management, and longer-term transitional housing.",
+      "eligibility_summary_en": "For people and families facing homelessness, crisis, addiction, abuse, or poverty in East Texas.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (903) 759-8101 or go to the mission in Longview.",
+      "apply_url": "https://hiway80rm.org/",
+      "phone": "(903) 759-8101",
+      "address": "3123 W. Marshall Ave.",
+      "city": "Longview",
+      "zip": "75604",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://hiway80rm.org/",
+      "confidence": "high",
+      "notes": "Christian faith-based. Includes Gateway to Hope day resource center and Triumph Village transitional living. Hours not stated."
+    },
+    {
+      "id": "longview-housing-authority",
+      "name": "Longview Housing Authority - Housing Choice Voucher Program",
+      "organization": "Longview Housing Authority (City of Longview)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Rental help vouchers (Section 8) so low-income families can rent private homes. Also has homeownership, family self-sufficiency, and veteran housing programs.",
+      "eligibility_summary_en": "For qualified low-income families in Longview, Kilgore, Henderson, Carthage, and Beckville.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Check waitlist status at waitlistcheck.com/TX666 or email LHA@LongviewTexas.gov.",
+      "apply_url": "https://waitlistcheck.com/TX666",
+      "phone": "(903) 237-1000",
+      "address": "300 W. Cotton St.",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free to apply",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://longviewtexas.gov/LHA",
+      "confidence": "high",
+      "notes": "Phone is the number shown on the LHA page (City of Longview main number)."
+    },
+    {
+      "id": "detcog-regional-housing-authority",
+      "name": "Deep East Texas Regional Housing Authority - Housing Choice Vouchers",
+      "organization": "Deep East Texas Council of Governments (DETCOG)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Section 8 rental help with case management for low-income families, seniors, and people with disabilities. Also runs VA Supportive Housing for homeless veterans.",
+      "eligibility_summary_en": "For eligible low-income households in Angelina and other Deep East Texas counties it serves. Nacogdoches County is not listed.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (936) 238-7771, email housing@detcog.gov, or visit the office. A waiting list is kept.",
+      "apply_url": "https://www.dethousing.org/",
+      "phone": "(936) 238-7771",
+      "address": "1405 Kurth Drive",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free to apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://www.dethousing.org/",
+      "confidence": "high",
+      "notes": "Serves Angelina, Hardin, Houston, Jasper, Newton, Polk, Sabine, San Augustine, San Jacinto, Shelby, Trinity, and Tyler counties (not the cities of Houston or Tyler). Emergency Housing Voucher program ended 9/30/2023."
+    },
+    {
+      "id": "port-arthur-transit-reduced-fare",
+      "name": "Port Arthur Transit - Reduced Fares and Paratransit",
+      "organization": "City of Port Arthur Transit Department",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus service with $0.75 reduced fares for seniors, people with disabilities, Medicare card holders, and youth 6-18. Door-to-door paratransit is available.",
+      "eligibility_summary_en": "Reduced fare for seniors, people with disabilities, Medicare card holders, and children 6-18. Proof may be requested. Children under 5 ride free with a paying adult.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proof of reduced-fare eligibility (if asked)"
+      ],
+      "how_to_apply": "Pay the reduced fare with exact change and show proof if asked. For paratransit eligibility, call (409) 983-8794.",
+      "apply_url": null,
+      "phone": "(409) 983-8767",
+      "address": "344 Procter Street",
+      "city": "Port Arthur",
+      "zip": "77640",
+      "hours": "Mon-Fri 6:15 AM-7:15 PM; Sat 7:15 AM-6:15 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Adult $1.50; reduced $0.75; paratransit $2.50",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.portarthurtx.gov/201/Transit-Department",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "longview-transit",
+      "name": "Longview Transit - Discounted Fares and Paratransit",
+      "organization": "Longview Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus and paratransit service in Longview, with discounted fares for seniors, people with disabilities, Medicare card holders, and students.",
+      "eligibility_summary_en": "Discounted fares for seniors, people with disabilities, Medicare card holders, and students.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (903) 753-2287 to ask about discounted fares and paratransit.",
+      "apply_url": null,
+      "phone": "(903) 753-2287",
+      "address": "908 Pacific Avenue",
+      "city": "Longview",
+      "zip": "75602",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Contact for fares",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "http://www.longviewtransit.com/",
+      "confidence": "high",
+      "notes": "TTY (903) 753-5265. Fare amounts not stated on source."
+    },
+    {
+      "id": "south-east-texas-transit-rural-jefferson",
+      "name": "South East Texas Transit (SETT)",
+      "organization": "South East Texas Regional Planning Commission",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Curb-to-curb ride service for health care, shopping, jobs, school, and social services in rural western Jefferson County, Orange County, and Hardin County.",
+      "eligibility_summary_en": "Serves the public in the service area. Seniors 65+ and people with disabilities get priority in some areas, including Groves, Port Neches, and Nederland.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to schedule a ride. Mid-County and rural Jefferson: (409) 892-0979 or (800) 259-4457.",
+      "apply_url": null,
+      "phone": "(409) 892-0979",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Fares vary by county and trip",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.setrpc.org/south-east-texas-transit/",
+      "confidence": "high",
+      "notes": "Orange County (409) 745-9511; Hardin County (409) 892-4455."
+    }
+  ]
+}

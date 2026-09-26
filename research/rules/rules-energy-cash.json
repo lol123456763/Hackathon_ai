@@ -1,0 +1,482 @@
+{
+  "topic": "Texas energy assistance (CEAP/LIHEAP), TANF cash assistance, Lifeline, unemployment insurance, and Child Care Services (CCS) eligibility and benefit amounts",
+  "generated": "2026-09-26",
+  "effective_period": "CEAP/LIHEAP: FFY2026 (10/01/2025-09/30/2026) plan and FFY2027 plan, income limits effective 2026-01-26 (2026 HHS poverty guidelines); TANF: effective 2025-10-01 (Texas Works Handbook Revision 25-4); UI: effective 2025-10-05; Lifeline: 2026 poverty guidelines; CCS: BCY2026 (2025-10-01 to 2026-09-30) and BCY2027 (2026-10-01 to 2027-09-30)",
+  "tables": {
+    "hhs_poverty_guidelines_2026_48_states": {
+      "source": "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines",
+      "federal_register": "January 15, 2026 (FR Doc 2026-00755)",
+      "annual_by_household_size": {
+        "1": 15960,
+        "2": 21640,
+        "3": 27320,
+        "4": 33000,
+        "5": 38680,
+        "6": 44360,
+        "7": 50040,
+        "8": 55720
+      },
+      "each_additional_person": 5680
+    },
+    "ceap_liheap_income_eligibility": {
+      "source": "https://www.tdhca.texas.gov/community-affairs-income-guidelines",
+      "effective_date": "2026-01-26",
+      "ceap_threshold_pct_fpg": 150,
+      "liheap_wap_threshold_pct_fpg": 150,
+      "annual_income_limit_150pct_fpg": {
+        "1": 23940,
+        "2": 32460,
+        "3": 40980,
+        "4": 49500,
+        "5": 58020,
+        "6": 66540,
+        "7": 75060,
+        "8": 83580
+      },
+      "each_additional_person": 8520,
+      "state_plan_threshold_text": "All Household Sizes / USHHS Poverty Guidelines / 150% (heating, cooling, crisis, weatherization components; FFY2026 and FFY2027 plans)"
+    },
+    "ceap_benefit_levels": {
+      "FFY2026": {
+        "source": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/2026-LIHEAP-STATE-PLAN-apprvd-09-18-2025.pdf",
+        "report_period": "10/01/2025 to 09/30/2026",
+        "minimum_benefit": 1,
+        "minimum_benefit_note": "Texas does not have a minimum benefit; $1 entered because OLDC system requires a figure",
+        "maximum_benefit_per_household_per_program_year": 12600,
+        "utility_and_crisis_component_max_per_component_by_income_pct_fpg": {
+          "0_to_50": 1800,
+          "over_50_to_75": 1500,
+          "over_75_to_150": 1200
+        },
+        "year_round_crisis_max": 1800,
+        "heating_cooling_unit_purchase_service_repair_max": 9000,
+        "weatherization_max_per_household": 12000,
+        "winter_crisis_max": 0,
+        "summer_crisis_max": 0,
+        "rule_citation": "10 TAC 6.309(e)"
+      },
+      "FFY2027": {
+        "source": "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/27-LIHEAP.pdf",
+        "minimum_benefit": 1,
+        "maximum_benefit_per_household_per_program_year": 12600,
+        "utility_and_crisis_component_max_per_component_by_income_pct_fpg": {
+          "0_to_50": 1800,
+          "over_50_to_75": 1500,
+          "over_75_to_150": 1200
+        },
+        "year_round_crisis_max": 1800,
+        "winter_crisis_max": 0,
+        "summer_crisis_max": 0,
+        "heating_cooling_unit_purchase_service_repair_max": 9000,
+        "weatherization_max_per_household": 12000,
+        "rule_citation": "10 TAC 6.309(e)-(g)"
+      }
+    },
+    "tanf_budgetary_allowances": {
+      "effective_2025-10-01": {
+        "source": "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/c-110-tanf",
+        "handbook_section": "C-111, Texas Works Handbook Revision 25-4, effective Oct. 1, 2025",
+        "units": "USD per month",
+        "caretaker_without_second_parent": {
+          "1": {
+            "budgetary_needs": 313,
+            "recognizable_needs": 78,
+            "max_grant": 159,
+            "note": "Caretaker of child receiving SSI"
+          },
+          "2": {
+            "budgetary_needs": 650,
+            "recognizable_needs": 163,
+            "max_grant": 331
+          },
+          "3": {
+            "budgetary_needs": 751,
+            "recognizable_needs": 188,
+            "max_grant": 382
+          },
+          "4": {
+            "budgetary_needs": 903,
+            "recognizable_needs": 226,
+            "max_grant": 459
+          },
+          "5": {
+            "budgetary_needs": 1003,
+            "recognizable_needs": 251,
+            "max_grant": 510
+          },
+          "6": {
+            "budgetary_needs": 1153,
+            "recognizable_needs": 288,
+            "max_grant": 586
+          },
+          "7": {
+            "budgetary_needs": 1252,
+            "recognizable_needs": 313,
+            "max_grant": 636
+          },
+          "8": {
+            "budgetary_needs": 1425,
+            "recognizable_needs": 356,
+            "max_grant": 724
+          },
+          "9": {
+            "budgetary_needs": 1528,
+            "recognizable_needs": 382,
+            "max_grant": 776
+          },
+          "10": {
+            "budgetary_needs": 1701,
+            "recognizable_needs": 425,
+            "max_grant": 864
+          },
+          "11": {
+            "budgetary_needs": 1804,
+            "recognizable_needs": 451,
+            "max_grant": 916
+          },
+          "12": {
+            "budgetary_needs": 1977,
+            "recognizable_needs": 494,
+            "max_grant": 1004
+          },
+          "13": {
+            "budgetary_needs": 2080,
+            "recognizable_needs": 520,
+            "max_grant": 1057
+          },
+          "14": {
+            "budgetary_needs": 2253,
+            "recognizable_needs": 563,
+            "max_grant": 1144
+          },
+          "15": {
+            "budgetary_needs": 2356,
+            "recognizable_needs": 589,
+            "max_grant": 1197
+          },
+          "each_additional_person": {
+            "budgetary_needs": 173,
+            "recognizable_needs": 43,
+            "max_grant": 88
+          }
+        },
+        "caretaker_with_second_parent": {
+          "2": {
+            "budgetary_needs": 498,
+            "recognizable_needs": 125,
+            "max_grant": 253,
+            "note": "Caretaker and second parent of child receiving SSI"
+          },
+          "3": {
+            "budgetary_needs": 824,
+            "recognizable_needs": 206,
+            "max_grant": 418
+          },
+          "4": {
+            "budgetary_needs": 925,
+            "recognizable_needs": 231,
+            "max_grant": 470
+          },
+          "5": {
+            "budgetary_needs": 1073,
+            "recognizable_needs": 268,
+            "max_grant": 545
+          },
+          "6": {
+            "budgetary_needs": 1176,
+            "recognizable_needs": 294,
+            "max_grant": 597
+          },
+          "7": {
+            "budgetary_needs": 1319,
+            "recognizable_needs": 330,
+            "max_grant": 670
+          },
+          "8": {
+            "budgetary_needs": 1422,
+            "recognizable_needs": 356,
+            "max_grant": 722
+          },
+          "9": {
+            "budgetary_needs": 1595,
+            "recognizable_needs": 399,
+            "max_grant": 810
+          },
+          "10": {
+            "budgetary_needs": 1698,
+            "recognizable_needs": 425,
+            "max_grant": 862
+          },
+          "11": {
+            "budgetary_needs": 1871,
+            "recognizable_needs": 468,
+            "max_grant": 950
+          },
+          "12": {
+            "budgetary_needs": 1975,
+            "recognizable_needs": 494,
+            "max_grant": 1003
+          },
+          "13": {
+            "budgetary_needs": 2147,
+            "recognizable_needs": 537,
+            "max_grant": 1090
+          },
+          "14": {
+            "budgetary_needs": 2251,
+            "recognizable_needs": 563,
+            "max_grant": 1143
+          },
+          "15": {
+            "budgetary_needs": 2423,
+            "recognizable_needs": 606,
+            "max_grant": 1230
+          },
+          "each_additional_person": {
+            "budgetary_needs": 173,
+            "recognizable_needs": 43,
+            "max_grant": 88
+          }
+        }
+      }
+    },
+    "lifeline": {
+      "sources": [
+        "https://www.usac.org/lifeline/consumer-eligibility/",
+        "https://www.lifelinesupport.org/",
+        "https://www.usac.org/lifeline/national-verifier/"
+      ],
+      "income_threshold_pct_fpg": 135,
+      "annual_income_limit_135pct_fpg_2026_48_states": {
+        "1": 21546,
+        "2": 29214,
+        "3": 36882,
+        "4": 44550,
+        "5": 52218,
+        "6": 59886,
+        "7": 67554,
+        "8": 75222
+      },
+      "each_additional_person": 7668,
+      "qualifying_programs": [
+        "SNAP",
+        "Medicaid",
+        "SSI",
+        "Federal Public Housing Assistance",
+        "Veterans and Survivors Pension Benefit"
+      ],
+      "qualifying_programs_tribal_lands_additional": [
+        "Bureau of Indian Affairs General Assistance",
+        "Tribally-Administered TANF",
+        "Tribal Head Start",
+        "FDPIR"
+      ],
+      "monthly_discount_standard": 9.25,
+      "monthly_discount_tribal_lands": 34.25,
+      "one_per_household": true,
+      "texas_notes": "Texas is an NLAD opt-out state (USAC National Verifier page names Oregon and Texas). Texas PUC state-specific Lifeline pages returned HTTP 402 and could not be verified; no Texas-specific supplemental amount or threshold is recorded here."
+    },
+    "texas_unemployment_insurance": {
+      "source": "https://www.twc.texas.gov/programs/unemployment-benefits/eligibility-benefit-amounts",
+      "page_last_updated": "July 7, 2026",
+      "wba_history": [
+        {
+          "start_date": "2025-10-05",
+          "min_wba": 75,
+          "max_wba": 605
+        },
+        {
+          "start_date": "2024-10-06",
+          "min_wba": 74,
+          "max_wba": 591
+        },
+        {
+          "start_date": "2023-10-02",
+          "min_wba": 73,
+          "max_wba": 577
+        },
+        {
+          "start_date": "2022-10-02",
+          "min_wba": 72,
+          "max_wba": 563
+        },
+        {
+          "start_date": "2021-10-03",
+          "min_wba": 71,
+          "max_wba": 549
+        }
+      ],
+      "wba_formula": "highest-wage base period quarter divided by 25, rounded to nearest dollar, bounded by min/max WBA",
+      "max_benefit_amount_formula": "lesser of 26 x WBA or 27% of total base-period wages",
+      "october_2026_amounts": null
+    },
+    "texas_child_care_services_ccs": {
+      "parent_share_of_cost_cap_text": "The parent share of cost will not exceed 7% of the family's household income (childcare.texas.gov)",
+      "smi_percent": null,
+      "BCY2026": {
+        "period": "2025-10-01 to 2026-09-30",
+        "source": "https://www.childcare.texas.gov/sites/default/files/CCS/Docs/bcy-26-income-eligibility-and-maximum-psoc-twc.pdf",
+        "smi_reference": "LIHEAP IM2025-02 Federal Poverty Guidelines and State Median Income Estimates",
+        "income_eligibility_limits_annual": {
+          "1": 47862,
+          "2": 62588,
+          "3": 77315,
+          "4": 92041,
+          "5": 106768,
+          "6": 121495,
+          "7": 124256,
+          "8": 127017,
+          "9": 129778,
+          "10": 132540,
+          "11": 135301,
+          "12": 138062,
+          "13": 140823,
+          "14": 143585,
+          "15": 146346
+        },
+        "income_eligibility_limits_monthly": {
+          "1": 3988,
+          "2": 5216,
+          "3": 6443,
+          "4": 7670,
+          "5": 8897,
+          "6": 10125,
+          "7": 10355,
+          "8": 10585,
+          "9": 10815,
+          "10": 11045,
+          "11": 11275,
+          "12": 11505,
+          "13": 11735,
+          "14": 11965,
+          "15": 12195
+        },
+        "max_parent_share_of_cost_annual": {
+          "1": 3350,
+          "2": 4381,
+          "3": 5412,
+          "4": 6443,
+          "5": 7474,
+          "6": 8505,
+          "7": 8698,
+          "8": 8891,
+          "9": 9084,
+          "10": 9278,
+          "11": 9471,
+          "12": 9664,
+          "13": 9858,
+          "14": 10051,
+          "15": 10244
+        },
+        "max_parent_share_of_cost_monthly": {
+          "1": 279,
+          "2": 365,
+          "3": 451,
+          "4": 537,
+          "5": 623,
+          "6": 709,
+          "7": 725,
+          "8": 741,
+          "9": 757,
+          "10": 773,
+          "11": 789,
+          "12": 805,
+          "13": 821,
+          "14": 838,
+          "15": 854
+        }
+      },
+      "BCY2027": {
+        "period": "2026-10-01 to 2027-09-30",
+        "source": "https://www.childcare.texas.gov/sites/default/files/CCS/Docs/bcy27-income-eligibility-and-maximum-psoc.pdf",
+        "smi_reference": "LIHEAP IM2026-01 Federal Poverty Guidelines and State Median Income Estimates",
+        "income_eligibility_limits_annual": {
+          "1": 49610,
+          "2": 64874,
+          "3": 80139,
+          "4": 95403,
+          "5": 110668,
+          "6": 125932,
+          "7": 128794,
+          "8": 131656,
+          "9": 134518,
+          "10": 137381,
+          "11": 140243,
+          "12": 143105,
+          "13": 145967,
+          "14": 148829,
+          "15": 151691
+        },
+        "income_eligibility_limits_monthly": {
+          "1": 4134,
+          "2": 5406,
+          "3": 6678,
+          "4": 7950,
+          "5": 9223,
+          "6": 10494,
+          "7": 10733,
+          "8": 10971,
+          "9": 11210,
+          "10": 11448,
+          "11": 11687,
+          "12": 11925,
+          "13": 12164,
+          "14": 12402,
+          "15": 12641
+        },
+        "max_parent_share_of_cost_annual": {
+          "1": 3473,
+          "2": 4541,
+          "3": 5610,
+          "4": 6678,
+          "5": 7747,
+          "6": 8815,
+          "7": 9016,
+          "8": 9216,
+          "9": 9416,
+          "10": 9617,
+          "11": 9817,
+          "12": 10017,
+          "13": 10218,
+          "14": 10418,
+          "15": 10618
+        },
+        "max_parent_share_of_cost_monthly": {
+          "1": 289,
+          "2": 378,
+          "3": 467,
+          "4": 557,
+          "5": 646,
+          "6": 735,
+          "7": 751,
+          "8": 768,
+          "9": 785,
+          "10": 801,
+          "11": 818,
+          "12": 835,
+          "13": 851,
+          "14": 868,
+          "15": 885
+        }
+      }
+    }
+  },
+  "sources": [
+    "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines",
+    "https://www.tdhca.texas.gov/comprehensive-energy-assistance-program-ceap",
+    "https://www.tdhca.texas.gov/community-affairs-income-guidelines",
+    "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/2026-LIHEAP-STATE-PLAN-apprvd-09-18-2025.pdf",
+    "https://www.tdhca.texas.gov/sites/default/files/community-affairs/docs/27-LIHEAP.pdf",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/c-110-tanf",
+    "https://www.usac.org/lifeline/consumer-eligibility/",
+    "https://www.lifelinesupport.org/",
+    "https://www.twc.texas.gov/programs/unemployment-benefits/eligibility-benefit-amounts",
+    "https://www.childcare.texas.gov/for-families/child-care-scholarships",
+    "https://www.childcare.texas.gov/sites/default/files/CCS/Docs/bcy-26-income-eligibility-and-maximum-psoc-twc.pdf",
+    "https://www.childcare.texas.gov/sites/default/files/CCS/Docs/bcy27-income-eligibility-and-maximum-psoc.pdf",
+    "https://www.usac.org/lifeline/national-verifier/"
+  ],
+  "notes": "All values transcribed from official pages/PDFs fetched 2026-09-26; nothing estimated. CEAP: TDHCA income guidelines page shows CEAP and LIHEAP-WAP at 150% of 2026 FPIG effective 2026-01-26. CEAP benefit tiers are per 10 TAC 6.309(e): 0-50% FPIG up to $1,800 per component (Utility Assistance and Crisis Assistance), >50-75% up to $1,500, >75-150% up to $1,200; household annual cap $12,600 ($1,800 crisis + $1,800 utility + $9,000 HVAC); the initial payment including arrears does not count toward the annual cap. The FFY2027 plan PDF (27-LIHEAP.pdf) still carries a 'FEDERAL FISCAL YEAR 2026' cover heading and a stale 'FY 2024' label in item 2.6, but includes an FY2027 monitoring schedule; its benefit figures match FFY2026. Public comments asked to raise the tiers to $1,600/$1,900/$2,200; the plan did not adopt that. TANF: the handbook currently shows allowances effective 2025-10-01 (Revision 25-4). No 2026-10-01 revision was found when fetched, so check again after October 1. Family size 1 and second-parent size 2 rows apply only to caretakers of SSI children. UI: TWC shows $75/$605 effective 2025-10-05. The page was last updated 2026-07-07 and lists no October 2026 amounts yet. Lifeline: federal threshold 135% FPG; discounts $9.25 standard and $34.25 Tribal. Texas PUC pages could not be fetched (HTTP 402), so no Texas-specific Lifeline supplement or threshold is included. CCS: the fetched TWC PDFs give dollar income limits and maximum parent share of cost by family size (1-15), but they do not state the SMI percentage in the extracted text, so smi_percent is null. Per the PDFs, the limits derive from the LIHEAP IM State Median Income estimates. Weekly, bi-weekly and bi-monthly columns also exist in the source PDFs and are left out here. Max PSOC is about 7% of the income limit. pdftotext layout shifted the row labels by one line; values were reassigned in order starting at family size 1 and checked against the monthly = annual/12 and PSOC = 7% relationships.",
+  "verified_date": "2026-09-26",
+  "verification_notes": "Independent re-check on 2026-09-26 against the official pages and PDFs (PDFs downloaded and text-extracted with pdftotext). CONFIRMED EXACT: 2026 HHS poverty guidelines for sizes 1-8 plus $5,680 per extra person, FR date Jan 15, 2026 (ASPE). TDHCA CEAP and LIHEAP-WAP limits at 150% FPIG, effective 2026-01-26, sizes 1-8 plus $8,520. FFY2026 and FFY2027 LIHEAP plans: $1 min (placeholder) and $12,600 max; per-component tiers of $1,800/$1,500/$1,200 per 10 TAC 6.309(e); year-round crisis $1,800; winter and summer crisis $0; HVAC $9,000; weatherization max $12,000; arrears initial payment excluded from the cap; the public comment asking for $1600/$1900/$2200 was not adopted; 27-LIHEAP.pdf cover says 'FEDERAL FISCAL YEAR 2026', item 2.6 says 'FY 2024', and it has an FY 2027 monitoring schedule. TANF C-111 Rev 25-4, effective 2025-10-01: every row matches. TWC UI: WBA history 2021-2025 matches, the formulas match, the page was last updated July 7, 2026, and it lists no October 2026 row. Lifeline: 135% FPG, the qualifying and tribal program lists, and one per household all match on USAC; $9.25 and $34.25 match on lifelinesupport.org. Arithmetic check: 135% x 2026 FPG gives the listed limits. CCS: the 7% PSOC cap matches on childcare.texas.gov. The BCY2026 and BCY2027 PDFs match all annual and monthly income limits and max PSOC values for sizes 1-15, and the LIHEAP IM references match. CORRECTIONS/ADDITIONS: no mismatches found. Added FFY2026 winter_crisis_max=0 and summer_crisis_max=0, plus the rule_citation (confirmed in plan item 4.12). Added the confirmed TANF rows for family sizes 11-15, plus the each-additional row for the no-second-parent table. Added the USAC National Verifier source for the Texas NLAD opt-out claim. UNCONFIRMED, NOT INCLUDED: Texas PUC Lifeline specifics; the CCS SMI percentage (still null); October 2026 UI amounts and any 2026-10-01 TANF revision (not yet published)."
+}

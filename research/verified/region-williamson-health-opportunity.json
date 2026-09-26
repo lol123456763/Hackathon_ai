@@ -1,0 +1,1294 @@
+{
+  "scope": "Williamson County (Round Rock, Georgetown, Cedar Park, Leander, Hutto, Taylor) - health & opportunity",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "lone-star-circle-of-care-lake-aire-georgetown",
+      "name": "Lone Star Circle of Care at Lake Aire Medical Center (Family Medicine)",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center in Georgetown for check-ups, sick visits, and ongoing care for the whole family. It has a pharmacy and also offers virtual visits.",
+      "description_es": "Un centro de salud comunitario en Georgetown para chequeos, visitas por enfermedad y atención continua para toda la familia. Tiene farmacia y también ofrece visitas virtuales.",
+      "eligibility_summary_en": "Anyone can be seen, with or without insurance, regardless of ability to pay. Uninsured patients can get a sliding-scale discount based on household income.",
+      "eligibility_summary_es": "Cualquier persona puede recibir atención, tenga o no seguro médico y sin importar si puede pagar. Si no tiene seguro, puede recibir un descuento según los ingresos de su hogar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment (Mon-Fri 7 a.m.-6 p.m., Sat 8 a.m.-1 p.m.), or request one online through the patient portal. Uninsured patients do an income screening with a Program Adviser to set their sliding-fee discount level.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita (lunes a viernes de 7 a.m. a 6 p.m., sábados de 8 a.m. a 1 p.m.). También puede pedir cita en línea. Si no tiene seguro, un asesor revisará sus ingresos antes de su primera visita para darle el descuento.",
+      "apply_url": "https://lonestarcares.org/patients/patient-assistance/make-an-appointment/",
+      "phone": "(877) 800-5722",
+      "address": "2423 Williams Dr., Suite 105",
+      "city": "Georgetown",
+      "zip": "78628",
+      "hours": "Mon-Thu 8:00 a.m.-7:00 p.m.; Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "German"
+      ],
+      "cost": "Sliding scale based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-lake-aire-medical-center-family-medicine/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center; no eligibility requirements to receive care. Sliding fee levels: 0-100% FPL (largest discount), 101-133%, 134-150%, 151-200%; over 200% FPL pays full charges. Patient Services: (512) 686-0534. Accepts Medicaid, Medicare, CHIP, MAP, WilCo Care and most major insurance.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-taylor",
+      "name": "Lone Star Circle of Care at Taylor",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center in Taylor offering family medicine and pediatric care, plus virtual visits.",
+      "description_es": "Un centro de salud comunitario en Taylor con medicina familiar y atención para niños, además de visitas virtuales.",
+      "eligibility_summary_en": "Anyone can be seen, with or without insurance, regardless of ability to pay. Uninsured patients can get a sliding-scale discount based on household income.",
+      "eligibility_summary_es": "Cualquier persona puede recibir atención, tenga o no seguro médico y sin importar si puede pagar. Si no tiene seguro, puede recibir un descuento según los ingresos de su hogar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment (Mon-Fri 7 a.m.-6 p.m., Sat 8 a.m.-1 p.m.), or request one online through the patient portal. Uninsured patients do an income screening with a Program Adviser to set their sliding-fee discount level.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita (lunes a viernes de 7 a.m. a 6 p.m., sábados de 8 a.m. a 1 p.m.). También puede pedir cita en línea. Si no tiene seguro, un asesor revisará sus ingresos antes de su primera visita para darle el descuento.",
+      "apply_url": "https://lonestarcares.org/patients/patient-assistance/make-an-appointment/",
+      "phone": "(877) 800-5722",
+      "address": "1301 West 4th St.",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "Sliding scale based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-taylor/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center; no eligibility requirements to receive care. Sliding fee levels: 0-100% FPL (largest discount), 101-133%, 134-150%, 151-200%; over 200% FPL pays full charges. Patient Services: (512) 686-0534. Accepts Medicaid, Medicare, CHIP, MAP, WilCo Care and most major insurance. Site says it has bilingual providers and free language assistance.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-hutto",
+      "name": "Lone Star Circle of Care at Hutto",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center in Hutto offering pediatric care and behavioral (mental) health care, plus virtual visits.",
+      "description_es": "Un centro de salud comunitario en Hutto con atención para niños y atención de salud mental, además de visitas virtuales.",
+      "eligibility_summary_en": "Anyone can be seen, with or without insurance, regardless of ability to pay. Uninsured patients can get a sliding-scale discount based on household income.",
+      "eligibility_summary_es": "Cualquier persona puede recibir atención, tenga o no seguro médico y sin importar si puede pagar. Si no tiene seguro, puede recibir un descuento según los ingresos de su hogar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment (Mon-Fri 7 a.m.-6 p.m., Sat 8 a.m.-1 p.m.), or request one online through the patient portal. Uninsured patients do an income screening with a Program Adviser to set their sliding-fee discount level.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita (lunes a viernes de 7 a.m. a 6 p.m., sábados de 8 a.m. a 1 p.m.). También puede pedir cita en línea. Si no tiene seguro, un asesor revisará sus ingresos antes de su primera visita para darle el descuento.",
+      "apply_url": "https://lonestarcares.org/patients/patient-assistance/make-an-appointment/",
+      "phone": "(877) 800-5722",
+      "address": "123 Ed Schmidt Blvd., Suite 140",
+      "city": "Hutto",
+      "zip": "78634",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Pashto",
+        "Farsi",
+        "Dari"
+      ],
+      "cost": "Sliding scale based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-hutto/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center; no eligibility requirements to receive care. Sliding fee levels: 0-100% FPL (largest discount), 101-133%, 134-150%, 151-200%; over 200% FPL pays full charges. Patient Services: (512) 686-0534. Accepts Medicaid, Medicare, CHIP, MAP, WilCo Care and most major insurance. Pashto/Farsi/Dari available with one provider.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-cedar-park",
+      "name": "Lone Star Circle of Care at Cedar Park",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center in Cedar Park offering pediatric care and behavioral (mental) health care, plus virtual visits.",
+      "description_es": "Un centro de salud comunitario en Cedar Park con atención para niños y atención de salud mental, además de visitas virtuales.",
+      "eligibility_summary_en": "Anyone can be seen, with or without insurance, regardless of ability to pay. Uninsured patients can get a sliding-scale discount based on household income.",
+      "eligibility_summary_es": "Cualquier persona puede recibir atención, tenga o no seguro médico y sin importar si puede pagar. Si no tiene seguro, puede recibir un descuento según los ingresos de su hogar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment (Mon-Fri 7 a.m.-6 p.m., Sat 8 a.m.-1 p.m.), or request one online through the patient portal. Uninsured patients do an income screening with a Program Adviser to set their sliding-fee discount level.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita (lunes a viernes de 7 a.m. a 6 p.m., sábados de 8 a.m. a 1 p.m.). También puede pedir cita en línea. Si no tiene seguro, un asesor revisará sus ingresos antes de su primera visita para darle el descuento.",
+      "apply_url": "https://lonestarcares.org/patients/patient-assistance/make-an-appointment/",
+      "phone": "(877) 800-5722",
+      "address": "1401 Medical Parkway, Building B, Suite 311",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese",
+        "Serbo-Croatian"
+      ],
+      "cost": "Sliding scale based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-cedar-park/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center; no eligibility requirements to receive care. Sliding fee levels: 0-100% FPL (largest discount), 101-133%, 134-150%, 151-200%; over 200% FPL pays full charges. Patient Services: (512) 686-0534. Accepts Medicaid, Medicare, CHIP, MAP, WilCo Care and most major insurance.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-texas-am-round-rock",
+      "name": "Lone Star Circle of Care at Texas A&M Health Science Center (Family Medicine)",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community health center in Round Rock for family medicine, with an on-site pharmacy and Saturday hours.",
+      "description_es": "Un centro de salud comunitario en Round Rock con medicina familiar, farmacia en el mismo lugar y horario los sábados.",
+      "eligibility_summary_en": "Anyone can be seen, with or without insurance, regardless of ability to pay. Uninsured patients can get a sliding-scale discount based on household income.",
+      "eligibility_summary_es": "Cualquier persona puede recibir atención, tenga o no seguro médico y sin importar si puede pagar. Si no tiene seguro, puede recibir un descuento según los ingresos de su hogar.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment (Mon-Fri 7 a.m.-6 p.m., Sat 8 a.m.-1 p.m.), or request one online through the patient portal. Uninsured patients do an income screening with a Program Adviser to set their sliding-fee discount level.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita (lunes a viernes de 7 a.m. a 6 p.m., sábados de 8 a.m. a 1 p.m.). También puede pedir cita en línea. Si no tiene seguro, un asesor revisará sus ingresos antes de su primera visita para darle el descuento.",
+      "apply_url": "https://lonestarcares.org/patients/patient-assistance/make-an-appointment/",
+      "phone": "(877) 800-5722",
+      "address": "3950 N. A.W. Grimes Blvd., Suite N301A",
+      "city": "Round Rock",
+      "zip": "78665",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.; Sat 9:00 a.m.-1:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Hindi",
+        "Malayalam"
+      ],
+      "cost": "Sliding scale based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-texas-am-health-science-center-family-medicine/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center; no eligibility requirements to receive care. Sliding fee levels: 0-100% FPL (largest discount), 101-133%, 134-150%, 151-200%; over 200% FPL pays full charges. Patient Services: (512) 686-0534. Accepts Medicaid, Medicare, CHIP, MAP, WilCo Care and most major insurance.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-circle-of-care-round-rock-pediatrics",
+      "name": "Lone Star Circle of Care Pediatrics at Round Rock Health Clinic",
+      "organization": "Lone Star Circle of Care",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A children's clinic in Round Rock with evening hours on weekdays (until 8 p.m.). Virtual visits are also offered.",
+      "description_es": "Una clínica para niños en Round Rock, abierta hasta las 8 p.m. de lunes a viernes. También ofrece visitas virtuales.",
+      "eligibility_summary_en": "Children and teens, with or without insurance. Uninsured families can get a sliding-scale discount based on household income.",
+      "eligibility_summary_es": "Niños y adolescentes, tengan o no seguro médico. Si no tiene seguro, su familia puede recibir un descuento según los ingresos del hogar.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (877) 800-5722 to make an appointment (Mon-Fri 7 a.m.-6 p.m., Sat 8 a.m.-1 p.m.), or request one online through the patient portal. Uninsured patients do an income screening with a Program Adviser to set their sliding-fee discount level.",
+      "how_to_apply_es": "Llame al (877) 800-5722 para hacer una cita (lunes a viernes de 7 a.m. a 6 p.m., sábados de 8 a.m. a 1 p.m.). También puede pedir cita en línea. Si no tiene seguro, un asesor revisará sus ingresos antes de su primera visita para darle el descuento.",
+      "apply_url": "https://lonestarcares.org/patients/patient-assistance/make-an-appointment/",
+      "phone": "(877) 800-5722",
+      "address": "2120 N. Mays St., Suite 430",
+      "city": "Round Rock",
+      "zip": "78665",
+      "hours": "Mon-Fri 8:00 a.m.-8:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale based on income",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://lonestarcares.org/location/lone-star-circle-of-care-at-round-rock-health-clinic-pediatrics/",
+      "confidence": "high",
+      "notes": "Federally Qualified Health Center; no eligibility requirements to receive care. Sliding fee levels: 0-100% FPL (largest discount), 101-133%, 134-150%, 151-200%; over 200% FPL pays full charges. Patient Services: (512) 686-0534. Accepts Medicaid, Medicare, CHIP, MAP, WilCo Care and most major insurance.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wilco-care-indigent-health-care-program",
+      "name": "WilCo Care (Williamson County Indigent Health Care Program)",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County health coverage for very low-income adults with no insurance. It can pay for doctor visits, lab tests, specialists, hospital care, up to 3 prescriptions a month, eyeglasses, and counseling.",
+      "description_es": "Cobertura de salud del condado para adultos con ingresos muy bajos y sin seguro. Puede pagar visitas al doctor, exámenes de laboratorio, especialistas, atención en el hospital, hasta 3 medicinas al mes, lentes y consejería.",
+      "eligibility_summary_en": "Williamson County residents age 18 or older with no health insurance who cannot get Medicaid, with income below 21% of the Federal Poverty Level. A valid Social Security card is required.",
+      "eligibility_summary_es": "Personas que viven en el condado de Williamson, de 18 años o más, sin seguro médico y que no califican para Medicaid, con ingresos menores al 21% del Nivel Federal de Pobreza. Necesita una tarjeta de Seguro Social válida.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 21,
+        "min_age": 18,
+        "uninsured": true,
+        "residency_required": "Williamson County resident"
+      },
+      "documents_needed": [
+        "Valid Social Security card"
+      ],
+      "how_to_apply": "Call the Healthcare Helpline at (512) 248-3252 to check if you qualify and get help applying.",
+      "how_to_apply_es": "Llame a la Línea de Ayuda de Salud al (512) 248-3252 para saber si califica y recibir ayuda para aplicar.",
+      "apply_url": null,
+      "phone": "(512) 248-3252",
+      "address": "355 Texas Ave",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for those who qualify",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/health_resources.php",
+      "confidence": "high",
+      "notes": "Hospital care capped at 30 days or $30,000 per year. Eyeglasses every two years. Email: pess@wilcotx.gov. Income limit is very low (21% FPL); if over the limit, consider Lone Star Circle of Care sliding scale or Samaritan Health Ministries.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-charity-care-clinical-services",
+      "name": "WCCHD Public Health Clinics - Charity Care",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The county health district offers shots, STI testing and treatment, TB care, and other public health services. Charity care can lower or cover the cost for people who struggle to pay.",
+      "description_es": "El distrito de salud del condado ofrece vacunas, pruebas y tratamiento de infecciones de transmisión sexual, atención para tuberculosis y otros servicios de salud pública. La ayuda de caridad puede bajar o cubrir el costo si le cuesta pagar.",
+      "eligibility_summary_en": "People who are uninsured, underinsured, or having trouble paying for care. WCCHD serves people regardless of background or documentation status.",
+      "eligibility_summary_es": "Personas sin seguro, con seguro que no cubre lo suficiente, o que tienen problemas para pagar su atención médica. Atienden a todas las personas, sin importar su situación o sus documentos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Charity care screening form (on the WCCHD website)"
+      ],
+      "how_to_apply": "Call (512) 943-3600, walk into a WCCHD clinic, or download and fill out the Screening Form from the Charity Care page.",
+      "how_to_apply_es": "Llame al (512) 943-3600, visite una clínica del distrito de salud sin cita, o descargue y llene el formulario de evaluación en la página de ayuda de caridad.",
+      "apply_url": "https://www.wcchd.org/healthy_people/charity_care.php",
+      "phone": "(512) 943-3600",
+      "address": "355 Texas Ave",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Reduced or free for those who qualify",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/charity_care.php",
+      "confidence": "high",
+      "notes": "Clinical services also at Cedar Park Public Health Center (350 Discovery Blvd #102, (512) 260-4240) and Taylor Public Health Center (115 W 6th St, (512) 238-2121). Round Rock clinical services line: (512) 248-3257. Georgetown clinical services closed June 2023. Staff can also help connect people to Medicaid or marketplace insurance.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "wcchd-immunization-clinics",
+      "name": "WCCHD Vaccination Clinics (Texas Vaccines for Children and Adult Safety Net)",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost shots for children and uninsured adults at county public health centers. Flu shots are free for everyone 6 months and older.",
+      "description_es": "Vacunas a bajo costo para niños y adultos sin seguro en los centros de salud pública del condado. Las vacunas contra la gripe son gratis para todas las personas de 6 meses en adelante.",
+      "eligibility_summary_en": "Children who have Medicaid or CHIP, are uninsured, are underinsured, or are American Indian/Alaska Native. Adults must have no health insurance at all.",
+      "eligibility_summary_es": "Niños que tienen Medicaid o CHIP, que no tienen seguro, cuyo seguro no cubre vacunas, o que son indígenas americanos o nativos de Alaska. Los adultos deben no tener ningún tipo de seguro médico.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 943-3600 to make an appointment. Eligible clients are not turned away for inability to pay.",
+      "how_to_apply_es": "Llame al (512) 943-3600 para hacer una cita. Nadie que califique será rechazado por no poder pagar.",
+      "apply_url": null,
+      "phone": "(512) 943-3600",
+      "address": "355 Texas Ave",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; flu shots free; no one eligible is turned away for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/vaccination.php",
+      "confidence": "high",
+      "notes": "Payment is due at the time of visit; accepts cash, checks, and credit cards. Public health centers also in Cedar Park and Taylor.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-wic-round-rock",
+      "name": "WIC - Round Rock Clinic",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition counseling, and breastfeeding help to pregnant women, new moms, and young children.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y ayuda con la lactancia a mujeres embarazadas, mamás nuevas y niños pequeños.",
+      "eligibility_summary_en": "Pregnant women, women breastfeeding a baby under 1, women who had a baby in the last 6 months, and parents or guardians of children under 5 who meet income rules. People on Medicaid, TANF, or SNAP automatically meet the income rule.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años que cumplan con el límite de ingresos. Si recibe Medicaid, TANF o SNAP, ya cumple con el límite de ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement) or proof of Medicaid/TANF/SNAP",
+        "Proof of address (utility bill or rent receipt; no PO Boxes)",
+        "Valid ID"
+      ],
+      "how_to_apply": "Call the WIC clinic to make an appointment. Bring your documents; a health screening and nutrition assessment are done at the visit.",
+      "how_to_apply_es": "Llame a la clínica de WIC para hacer una cita. Traiga sus documentos. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 248-3254",
+      "address": "355 Texas Ave",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Clinic hours vary; see the WCCHD clinic calendar. Parents, step-parents, guardians, and foster parents can apply for children. Email: RoundRockWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-wic-cedar-park",
+      "name": "WIC - Cedar Park Clinic",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition counseling, and breastfeeding help to pregnant women, new moms, and young children.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y ayuda con la lactancia a mujeres embarazadas, mamás nuevas y niños pequeños.",
+      "eligibility_summary_en": "Pregnant women, women breastfeeding a baby under 1, women who had a baby in the last 6 months, and parents or guardians of children under 5 who meet income rules. People on Medicaid, TANF, or SNAP automatically meet the income rule.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años que cumplan con el límite de ingresos. Si recibe Medicaid, TANF o SNAP, ya cumple con el límite de ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement) or proof of Medicaid/TANF/SNAP",
+        "Proof of address (utility bill or rent receipt; no PO Boxes)",
+        "Valid ID"
+      ],
+      "how_to_apply": "Call the WIC clinic to make an appointment. Bring your documents; a health screening and nutrition assessment are done at the visit.",
+      "how_to_apply_es": "Llame a la clínica de WIC para hacer una cita. Traiga sus documentos. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 260-4241",
+      "address": "350 Discovery Blvd #102",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Clinic hours vary; see the WCCHD clinic calendar. Parents, step-parents, guardians, and foster parents can apply for children. Email: CedarParkWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-wic-georgetown",
+      "name": "WIC - Georgetown Clinic (Carver Center for Families)",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition counseling, and breastfeeding help to pregnant women, new moms, and young children.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y ayuda con la lactancia a mujeres embarazadas, mamás nuevas y niños pequeños.",
+      "eligibility_summary_en": "Pregnant women, women breastfeeding a baby under 1, women who had a baby in the last 6 months, and parents or guardians of children under 5 who meet income rules. People on Medicaid, TANF, or SNAP automatically meet the income rule.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años que cumplan con el límite de ingresos. Si recibe Medicaid, TANF o SNAP, ya cumple con el límite de ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement) or proof of Medicaid/TANF/SNAP",
+        "Proof of address (utility bill or rent receipt; no PO Boxes)",
+        "Valid ID"
+      ],
+      "how_to_apply": "Call the WIC clinic to make an appointment. Bring your documents; a health screening and nutrition assessment are done at the visit.",
+      "how_to_apply_es": "Llame a la clínica de WIC para hacer una cita. Traiga sus documentos. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 943-3680",
+      "address": "1200 W 17th St",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Clinic hours vary; see the WCCHD clinic calendar. Parents, step-parents, guardians, and foster parents can apply for children. Email: GeorgetownWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-wic-taylor",
+      "name": "WIC - Taylor Clinic",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition counseling, and breastfeeding help to pregnant women, new moms, and young children.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y ayuda con la lactancia a mujeres embarazadas, mamás nuevas y niños pequeños.",
+      "eligibility_summary_en": "Pregnant women, women breastfeeding a baby under 1, women who had a baby in the last 6 months, and parents or guardians of children under 5 who meet income rules. People on Medicaid, TANF, or SNAP automatically meet the income rule.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años que cumplan con el límite de ingresos. Si recibe Medicaid, TANF o SNAP, ya cumple con el límite de ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement) or proof of Medicaid/TANF/SNAP",
+        "Proof of address (utility bill or rent receipt; no PO Boxes)",
+        "Valid ID"
+      ],
+      "how_to_apply": "Call the WIC clinic to make an appointment. Bring your documents; a health screening and nutrition assessment are done at the visit.",
+      "how_to_apply_es": "Llame a la clínica de WIC para hacer una cita. Traiga sus documentos. En la cita le harán una revisión de salud y de nutrición.",
+      "apply_url": null,
+      "phone": "(512) 238-2109",
+      "address": "115 W 6th St",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/healthy_people/wilco_wic.php",
+      "confidence": "high",
+      "notes": "Clinic hours vary; see the WCCHD clinic calendar. Parents, step-parents, guardians, and foster parents can apply for children. Email: TaylorWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "williamson-county-wic-liberty-hill",
+      "name": "WIC - Liberty Hill (Williamson County Resource Center)",
+      "organization": "Williamson County and Cities Health District (WCCHD)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition counseling, and breastfeeding help to pregnant women, new moms, and young children. This site is open only a few days a month, by appointment.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y ayuda con la lactancia a mujeres embarazadas, mamás nuevas y niños pequeños. Este lugar abre solo unos días al mes y solo con cita.",
+      "eligibility_summary_en": "Pregnant women, women breastfeeding a baby under 1, women who had a baby in the last 6 months, and parents or guardians of children under 5 who meet income rules. People on Medicaid, TANF, or SNAP automatically meet the income rule.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años que cumplan con el límite de ingresos. Si recibe Medicaid, TANF o SNAP, ya cumple con el límite de ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [
+        "Proof of household income (pay stubs, tax return, or employer statement) or proof of Medicaid/TANF/SNAP",
+        "Proof of address (utility bill or rent receipt; no PO Boxes)",
+        "Valid ID"
+      ],
+      "how_to_apply": "Call (512) 943-3680 to make an appointment. Walk-ins are not taken at this site.",
+      "how_to_apply_es": "Llame al (512) 943-3680 para hacer una cita. En este lugar no se atiende sin cita.",
+      "apply_url": null,
+      "phone": "(512) 943-3680",
+      "address": "155 Hillcrest Ln",
+      "city": "Liberty Hill",
+      "zip": "78642",
+      "hours": "2nd Wednesday and 4th Monday of each month, 9:00 a.m.-5:00 p.m. (closed 12-1 p.m.); appointments only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.wcchd.org/about/locations.php",
+      "confidence": "high",
+      "notes": "Appointment only; shares phone and email with the Georgetown WIC clinic. Parents, step-parents, guardians, and foster parents can apply for children. Email: GeorgetownWIC@wilco.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "samaritan-health-ministries",
+      "name": "Samaritan Health Ministries Free Clinic",
+      "organization": "Samaritan Health Ministries",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A free clinic for adults with no health insurance. It offers primary care, women's health, mental health care, dental care, and free generic medicines from its on-site pharmacy.",
+      "description_es": "Una clínica gratis para adultos sin seguro médico. Ofrece atención médica general, salud de la mujer, salud mental, atención dental y medicinas en su farmacia.",
+      "eligibility_summary_en": "Adults 18 and older who have no health insurance, in the Greater Williamson County area.",
+      "eligibility_summary_es": "Adultos de 18 años o más que no tienen ningún tipo de seguro médico, en el área del condado de Williamson.",
+      "eligibility_rules": {
+        "min_age": 18,
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (512) 331-5828 to schedule an appointment (no walk-ins). Fill out the New Patient Registration forms on the website before your visit.",
+      "how_to_apply_es": "Llame al (512) 331-5828 para hacer una cita (no se atiende sin cita). Antes de su visita, llene los formularios de registro para pacientes nuevos en la página web.",
+      "apply_url": "https://www.theshm.org/",
+      "phone": "(512) 331-5828",
+      "address": "1900 Cypress Creek Rd., Unit 200 (second floor)",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": "Tue, Wed, Thu 9:00 a.m.-2:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.theshm.org/",
+      "confidence": "high",
+      "notes": "Alternate phone (512) 331-6410. Messages are not received outside clinic hours; for emergencies call 911. Secondary directory listings say residents of Williamson or Travis County are served; confirm with clinic.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-crisis-line",
+      "name": "Bluebonnet Trails 24/7 Crisis Line and Mobile Crisis Outreach Team",
+      "organization": "Bluebonnet Trails Community Services (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Call any time, day or night, if you or someone you know is in a mental health crisis. Trained staff can talk you through it and can send a mobile crisis team to help in person.",
+      "description_es": "Llame a cualquier hora, de día o de noche, si usted o alguien que conoce está en una crisis de salud mental. Personal capacitado puede hablar con usted y puede enviar un equipo de crisis para ayudar en persona.",
+      "eligibility_summary_en": "Anyone in Williamson County (and 7 other nearby counties) having a mental health or substance use crisis.",
+      "eligibility_summary_es": "Cualquier persona en el condado de Williamson (y otros 7 condados cercanos) que tenga una crisis de salud mental o de uso de sustancias.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-841-1255 any time. If someone is in immediate danger, call 911. You can also call, text, or chat 988.",
+      "how_to_apply_es": "Llame al 1-800-841-1255 a cualquier hora. Si alguien está en peligro inmediato, llame al 911. También puede llamar, mandar mensaje de texto o chatear al 988.",
+      "apply_url": null,
+      "phone": "(800) 841-1255",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://bbtrails.org/crisis-services/",
+      "confidence": "high",
+      "notes": "Serves Bastrop, Burnet, Caldwell, Fayette, Gonzales, Guadalupe, Lee, and Williamson counties. Also operates a diversion center in Georgetown and a Youth Therapeutic Respite Program (ages 5-17) in Round Rock. The Round Rock Adult Crisis Respite Unit was temporarily closed for renovation (site said reopening anticipated Summer 2026).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-round-rock",
+      "name": "Bluebonnet Trails Community Services - Round Rock",
+      "organization": "Bluebonnet Trails Community Services (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Williamson County. It offers mental health care, substance use treatment, crisis services, early childhood intervention, autism and developmental disability services, peer and veteran support, and help with housing and jobs.",
+      "description_es": "Es el centro público de salud mental del condado de Williamson. Ofrece atención de salud mental, tratamiento para el uso de alcohol y drogas, servicios de crisis, intervención temprana para niños pequeños, servicios para autismo y discapacidades del desarrollo, apoyo de compañeros y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_en": "Children and adults who live in Williamson County (or another Bluebonnet Trails county) and need mental health, substance use, or developmental disability services. Services are available whether or not you have insurance.",
+      "eligibility_summary_es": "Niños y adultos que viven en el condado de Williamson (u otro condado que atiende Bluebonnet Trails) y necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo. Puede recibir servicios tenga o no seguro médico.",
+      "eligibility_rules": {
+        "residency_required": "Resident of a Bluebonnet Trails county (includes Williamson)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 (Mon-Fri 7:30 a.m.-5:30 p.m.) to set up an appointment. In a crisis, call 1-800-841-1255 any time.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 (lunes a viernes de 7:30 a.m. a 5:30 p.m.) para hacer una cita. Si está en crisis, llame al 1-800-841-1255 a cualquier hora.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "1009 North Georgetown Street",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Appointment line: Mon-Fri 7:30 a.m.-5:30 p.m.; crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://bbtrails.org/round-rock/",
+      "confidence": "high",
+      "notes": "Local Mental Health Authority for Williamson County. 24/7 crisis line: 1-800-841-1255. Round Rock is also the administrative office.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-cedar-park",
+      "name": "Bluebonnet Trails Community Services - Cedar Park",
+      "organization": "Bluebonnet Trails Community Services (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Williamson County. It offers mental health care, substance use treatment, crisis services, early childhood intervention, autism and developmental disability services, peer and veteran support, and help with housing and jobs.",
+      "description_es": "Es el centro público de salud mental del condado de Williamson. Ofrece atención de salud mental, tratamiento para el uso de alcohol y drogas, servicios de crisis, intervención temprana para niños pequeños, servicios para autismo y discapacidades del desarrollo, apoyo de compañeros y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_en": "Children and adults who live in Williamson County (or another Bluebonnet Trails county) and need mental health, substance use, or developmental disability services. Services are available whether or not you have insurance.",
+      "eligibility_summary_es": "Niños y adultos que viven en el condado de Williamson (u otro condado que atiende Bluebonnet Trails) y necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo. Puede recibir servicios tenga o no seguro médico.",
+      "eligibility_rules": {
+        "residency_required": "Resident of a Bluebonnet Trails county (includes Williamson)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 (Mon-Fri 7:30 a.m.-5:30 p.m.) to set up an appointment. In a crisis, call 1-800-841-1255 any time.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 (lunes a viernes de 7:30 a.m. a 5:30 p.m.) para hacer una cita. Si está en crisis, llame al 1-800-841-1255 a cualquier hora.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "1401 Medical Pkwy, Bldg C, Suite 300",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": "Appointment line: Mon-Fri 7:30 a.m.-5:30 p.m.; crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://bbtrails.org/cedar-park/",
+      "confidence": "high",
+      "notes": "Local Mental Health Authority for Williamson County. 24/7 crisis line: 1-800-841-1255.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-taylor",
+      "name": "Bluebonnet Trails Community Services - Taylor",
+      "organization": "Bluebonnet Trails Community Services (Local Mental Health Authority)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Williamson County. It offers mental health care, substance use treatment, crisis services, early childhood intervention, autism and developmental disability services, peer and veteran support, and help with housing and jobs.",
+      "description_es": "Es el centro público de salud mental del condado de Williamson. Ofrece atención de salud mental, tratamiento para el uso de alcohol y drogas, servicios de crisis, intervención temprana para niños pequeños, servicios para autismo y discapacidades del desarrollo, apoyo de compañeros y para veteranos, y ayuda con vivienda y empleo.",
+      "eligibility_summary_en": "Children and adults who live in Williamson County (or another Bluebonnet Trails county) and need mental health, substance use, or developmental disability services. Services are available whether or not you have insurance.",
+      "eligibility_summary_es": "Niños y adultos que viven en el condado de Williamson (u otro condado que atiende Bluebonnet Trails) y necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo. Puede recibir servicios tenga o no seguro médico.",
+      "eligibility_rules": {
+        "residency_required": "Resident of a Bluebonnet Trails county (includes Williamson)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 (Mon-Fri 7:30 a.m.-5:30 p.m.) to set up an appointment. In a crisis, call 1-800-841-1255 any time.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 (lunes a viernes de 7:30 a.m. a 5:30 p.m.) para hacer una cita. Si está en crisis, llame al 1-800-841-1255 a cualquier hora.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "1301 W 4th St",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": "Appointment line: Mon-Fri 7:30 a.m.-5:30 p.m.; crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://bbtrails.org/taylor/",
+      "confidence": "high",
+      "notes": "Local Mental Health Authority for Williamson County. 24/7 crisis line: 1-800-841-1255.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-substance-use-osar",
+      "name": "Bluebonnet Trails Substance Use Services and OSAR",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Help for alcohol, drug, and tobacco use, including screening, counseling, and medicine-assisted treatment. The OSAR program helps people find treatment and pay for it if they have little or no insurance.",
+      "description_es": "Ayuda para el uso de alcohol, drogas y tabaco, con evaluaciones, consejería y tratamiento con medicinas. El programa OSAR le ayuda a encontrar tratamiento y a pagarlo si tiene poco o ningún seguro.",
+      "eligibility_summary_en": "Teens and adults who want help with substance use. Financial help is available for people who are uninsured or underinsured after an OSAR assessment.",
+      "eligibility_summary_es": "Jóvenes y adultos que quieren ayuda con el uso de sustancias. Hay ayuda económica para personas sin seguro o con seguro que no cubre lo suficiente, después de una evaluación de OSAR.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385. OSAR also runs a call-in clinic on Fridays at (512) 751-9372.",
+      "how_to_apply_es": "Llame al 1-844-309-6385. Los viernes también puede llamar a la clínica de OSAR por teléfono al (512) 751-9372.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Main line Mon-Fri 7:30 a.m.-5:30 p.m.; OSAR call-in clinic Fridays",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Financial assistance available for uninsured/underinsured",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://bbtrails.org/substance-use-services/",
+      "confidence": "high",
+      "notes": "OSAR covers a 30-county Central Texas area. Youth Prevention (Williamson and Burnet County ISDs): (512) 863-8968. PADRES prevention program is for expectant parents or caregivers of children under 6 with risk factors. Crisis line 1-800-841-1255.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-veteran-peer-network",
+      "name": "Military Veteran Peer Network - Bluebonnet Trails Veteran Services",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health",
+        "cash_assistance"
+      ],
+      "description_en": "Veterans and their families can get one-on-one peer support from other veterans, support groups, and trauma recovery groups. Some may also get money help for housing, utilities, food, transportation, or job needs.",
+      "description_es": "Los veteranos y sus familias pueden recibir apoyo uno a uno de otros veteranos, grupos de apoyo y grupos para sanar el trauma. Algunos también pueden recibir ayuda de dinero temporal para vivienda, servicios, comida, transporte o necesidades de trabajo.",
+      "eligibility_summary_en": "Veterans (any discharge status), their spouses, surviving spouses, and dependents who live in Williamson or another Bluebonnet Trails county.",
+      "eligibility_summary_es": "Veteranos (con cualquier tipo de baja), sus esposos o esposas, viudos o viudas, y dependientes que viven en el condado de Williamson u otro condado que atiende Bluebonnet Trails.",
+      "eligibility_rules": {
+        "veteran_only": true,
+        "residency_required": "Resident of Bastrop, Burnet, Caldwell, Fayette, Gonzales, Guadalupe, Lee, or Williamson County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 to connect with a veteran peer.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para conectarse con un compañero veterano.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://bbtrails.org/veteran-services/",
+      "confidence": "high",
+      "notes": "Financial assistance is temporary and requires demonstrated financial need; the veteran must be listed on the bill or expense. 24/7 crisis line: 1-800-841-1255.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hope-alliance-williamson-county",
+      "name": "Hope Alliance Family and Sexual Violence Services",
+      "organization": "Williamson County Crisis Center dba Hope Alliance",
+      "categories": [
+        "mental_health",
+        "housing",
+        "legal"
+      ],
+      "description_en": "Hope Alliance helps people hurt by domestic violence or sexual assault. It has a 24-hour hotline, emergency shelter, counseling for adults and children, and legal advocacy. All services are free and confidential.",
+      "description_es": "Hope Alliance ayuda a personas afectadas por violencia doméstica o agresión sexual. Tiene una línea de ayuda las 24 horas, refugio de emergencia, consejería para adultos y niños, y apoyo legal. Todos los servicios son gratis y confidenciales.",
+      "eligibility_summary_en": "Survivors of family violence or sexual violence and their children in Williamson County.",
+      "eligibility_summary_es": "Sobrevivientes de violencia familiar o sexual y sus hijos en el condado de Williamson.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24-hour hotline at 1-800-460-7233 (1-800-460-SAFE). If you are in immediate danger, call 911.",
+      "how_to_apply_es": "Llame a la línea de ayuda de 24 horas al 1-800-460-7233 (1-800-460-SAFE). Si está en peligro inmediato, llame al 911.",
+      "apply_url": null,
+      "phone": "(800) 460-7233",
+      "address": "1011 Gattis School Rd, Ste 110",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Hotline 24/7; crisis chat Mon-Thu 12-4 p.m. and Mon-Fri 5-10 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free and confidential",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.hopealliancetx.org/contact/",
+      "confidence": "high",
+      "notes": "Office phone: (512) 255-1212. Shelter location is confidential.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nami-central-texas-williamson",
+      "name": "NAMI Central Texas Support Groups",
+      "organization": "NAMI Central Texas",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Free peer-led support groups for people living with mental health conditions and for their family members. Groups meet in person (including a family group in Georgetown) and online.",
+      "description_es": "Grupos de apoyo dirigidos por compañeros para personas que viven con problemas de salud mental y para sus familiares. Hay grupos en persona (incluyendo un grupo para familias en Georgetown) y en línea.",
+      "eligibility_summary_en": "Adults with a mental health condition, and family, friends, and caregivers of people with mental illness.",
+      "eligibility_summary_es": "Adultos con un problema de salud mental, y familiares, amigos y cuidadores de personas con enfermedades mentales.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or text (512) 420-9810, or use the contact form on the NAMI Central Texas website to join a group.",
+      "how_to_apply_es": "Llame o mande un mensaje de texto al (512) 420-9810, o use el formulario de contacto en la página web de NAMI Central Texas para unirse a un grupo.",
+      "apply_url": "https://namicentraltx.org/support-and-education/support-groups/",
+      "phone": "(512) 420-9810",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://namicentraltx.org/support-and-education/support-groups/",
+      "confidence": "medium",
+      "notes": "Serves Travis, Williamson, Hays, Bastrop, Burnet and surrounding counties. BIPOC-specific groups offered. Not a crisis service; in crisis call 1-800-841-1255 or 988. Official page did not state cost; 'free' per secondary directory listing.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-round-rock",
+      "name": "Workforce Solutions of Williamson (Round Rock Center)",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free job center that helps with job searches, resumes, interviews, and career counseling. It has computers for job hunting and free online training courses.",
+      "description_es": "Un centro de empleo gratis que ayuda a buscar trabajo, hacer su currículum, prepararse para entrevistas y recibir consejos de carrera. Tiene computadoras para buscar trabajo y cursos de capacitación gratis en línea.",
+      "eligibility_summary_en": "Any job seeker can use the center. Extra training programs have their own rules.",
+      "eligibility_summary_es": "Cualquier persona que busque trabajo puede usar el centro. Otros programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to meet with a career counselor. You can also make a free profile on WorkInTexas.com.",
+      "how_to_apply_es": "Visite el centro o llame para reunirse con un consejero de empleo. También puede crear un perfil gratis en WorkInTexas.com.",
+      "apply_url": null,
+      "phone": "(512) 244-2207",
+      "address": "575 Round Rock West Drive, Building H, Suite 240",
+      "city": "Round Rock",
+      "zip": "78681",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Workforce Solutions Rural Capital Area serves Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano, and Williamson counties. Main line 1-844-344-2780. Job seeker services page: https://workforcesolutionsrca.com/seekers",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-taylor",
+      "name": "Workforce Solutions of Taylor",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free job center in Taylor that helps with job searches, resumes, career counseling, and training.",
+      "description_es": "Un centro de empleo gratis en Taylor que ayuda a buscar trabajo, hacer su currículum, recibir consejos de carrera y capacitación.",
+      "eligibility_summary_en": "Any job seeker can use the center. Extra training programs have their own rules.",
+      "eligibility_summary_es": "Cualquier persona que busque trabajo puede usar el centro. Otros programas de capacitación tienen sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call to meet with a career counselor. You can also make a free profile on WorkInTexas.com.",
+      "how_to_apply_es": "Visite el centro o llame para reunirse con un consejero de empleo. También puede crear un perfil gratis en WorkInTexas.com.",
+      "apply_url": null,
+      "phone": "(512) 580-4274",
+      "address": "111 W 3rd St",
+      "city": "Taylor",
+      "zip": "76574",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/locations",
+      "confidence": "high",
+      "notes": "Workforce Solutions Rural Capital Area serves Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano, and Williamson counties. Main line 1-844-344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-child-care-services",
+      "name": "Child Care Services (Child Care Financial Aid)",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps working families and parents in school or training pay for child care. The family pays a share based on income, and the program pays the rest to the child care provider.",
+      "description_es": "Ayuda a familias que trabajan, estudian o están en capacitación a pagar el cuidado de sus hijos. La familia paga una parte según sus ingresos y el programa paga el resto a la guardería.",
+      "eligibility_summary_en": "Families living in Williamson County (or another Rural Capital Area county) who meet income limits by household size. Single parents must work, go to school, train, or look for work an average of at least 25 hours a week (50 combined hours for two-parent homes). There may be a waitlist.",
+      "eligibility_summary_es": "Familias que viven en el condado de Williamson (u otro condado del Área Capital Rural) y cumplen con los límites de ingresos según el tamaño de la familia. Si es padre o madre soltero, debe trabajar, estudiar, capacitarse o buscar trabajo un promedio de al menos 25 horas por semana (50 horas en total si son dos padres). Puede haber lista de espera.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Resident of Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano, or Williamson County"
+      },
+      "documents_needed": [
+        "Proof of income"
+      ],
+      "how_to_apply": "Apply online through the Texas child care portal, or call 1-877-223-0404 for help.",
+      "how_to_apply_es": "Aplique en línea en el portal de cuidado infantil de Texas (Texas Child Care Connection), o llame al 1-877-223-0404 para recibir ayuda.",
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(877) 223-0404",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/childcare/parents",
+      "confidence": "high",
+      "notes": "Email: rcachildcareservices@ruralcapital.net. Income limits effective Oct 1, 2025 are in a PDF linked from the page. Waitlist priority includes TANF recipients, children of veterans, foster youth, homeless families, and teen parents.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rca-youth-pack",
+      "name": "Youth Services - PACK (Preparing Adolescents with Career Knowledge)",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help for young people to plan a career, finish a GED, get tutoring, find paid or unpaid internships, and look for jobs.",
+      "description_es": "Ayuda gratis para que los jóvenes planeen su carrera, terminen el GED, reciban tutoría, encuentren prácticas pagadas o no pagadas y busquen trabajo.",
+      "eligibility_summary_en": "Young people ages 14 to 24. A summer program (SEAL) serves students with disabilities ages 14 to 22.",
+      "eligibility_summary_es": "Jóvenes de 14 a 24 años. Un programa de verano (SEAL) es para estudiantes con discapacidades de 14 a 22 años.",
+      "eligibility_rules": {
+        "min_age": 14,
+        "max_age": 24
+      },
+      "documents_needed": [],
+      "how_to_apply": "Email rapidresponse@ruralcapital.net to reach a Youth Services Coordinator.",
+      "how_to_apply_es": "Escriba a rapidresponse@ruralcapital.net para hablar con un coordinador de servicios para jóvenes.",
+      "apply_url": null,
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://workforcesolutionsrca.com/seekers/youth-services",
+      "confidence": "high",
+      "notes": "Workforce Solutions Rural Capital Area serves Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano, and Williamson counties. Main line 1-844-344-2780.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "owbc-head-start",
+      "name": "Head Start and Early Head Start",
+      "organization": "Opportunities for Williamson & Burnet Counties (OWBC)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning for young children from low-income families, with meals and health, dental, vision, and hearing checks. Centers are in Round Rock, Georgetown, Leander, Hutto, Taylor, Bartlett, and Florence.",
+      "description_es": "Educación temprana gratis para niños pequeños de familias con bajos ingresos, con comidas y revisiones de salud, dientes, vista y oído. Hay centros en Round Rock, Georgetown, Leander, Hutto, Taylor, Bartlett y Florence.",
+      "eligibility_summary_en": "Children from birth to age 5 in low-income families.",
+      "eligibility_summary_es": "Niños desde el nacimiento hasta los 5 años de familias con bajos ingresos.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out a paper application (English or Spanish) and return it to any Head Start center by mail or in person, drop it off or mail it to the main office (604 High Tech Drive, Georgetown, TX 78626), or email it to the enrollment coordinator at cbarnes@owbc-tx.org.",
+      "how_to_apply_es": "Llene una solicitud en papel (en inglés o español) y entréguela en cualquier centro de Head Start, por correo o en persona, o en la oficina principal (604 High Tech Drive, Georgetown). También puede enviarla por correo electrónico a la coordinadora de inscripción: cbarnes@owbc-tx.org.",
+      "apply_url": "https://owbc-tx.org/head-start/",
+      "phone": "(512) 763-1400",
+      "address": "604 High Tech Drive",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://owbc-tx.org/head-start/",
+      "confidence": "high",
+      "notes": "Williamson County centers: Round Rock (1001 E. Main St., (512) 255-4536); Mary Bailey, Georgetown (601 N. College St., (512) 863-5259); Rawleigh Elliott, Georgetown (103 Holly St., (512) 864-9733); Leander (396 Municipal Dr., (512) 570-0480); Hutto (80 Mager Ln., (512) 642-3144); Harris Ross, Taylor (303 Ferguson St., (512) 365-1070); Bartlett (620 W. Clark St., (254) 527-4645); Florence (203 Adams St., (254) 793-9495). Program year runs August to late June/early July. Also serves Burnet County.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "owbc-ceap-energy-assistance",
+      "name": "Energy Assistance Program (CEAP)",
+      "organization": "Opportunities for Williamson & Burnet Counties (OWBC)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric, natural gas, or propane bills.",
+      "description_es": "Ayuda a familias con bajos ingresos a pagar sus facturas de luz, gas natural o propano.",
+      "eligibility_summary_en": "Households in Williamson or Burnet County that meet income limits based on the Federal Poverty Guidelines.",
+      "eligibility_summary_es": "Familias que viven en el condado de Williamson o Burnet y cumplen con los límites de ingresos basados en las guías federales de pobreza.",
+      "eligibility_rules": {
+        "residency_required": "Williamson or Burnet County resident"
+      },
+      "documents_needed": [
+        "Proof of income for all household members 18+ for the last 30 days (pay stubs, unemployment, SNAP letter, child support, or award letters)",
+        "Current utility bill(s)",
+        "Photo ID and proof of U.S. citizenship or legal residence for at least one household member",
+        "Completed SAVE form (included in the application)",
+        "SNAP award letter (if you get SNAP)"
+      ],
+      "how_to_apply": "Fill out the CEAP application (English or Spanish) from the OWBC website and include all required documents; the application must be signed. Questions: call (512) 763-1400 or email utilities@owbc-tx.org.",
+      "how_to_apply_es": "Llene la solicitud de CEAP (en inglés o español) de la página web de OWBC y entregue todos sus documentos. La solicitud debe estar firmada. Si tiene preguntas, llame al (512) 763-1400 o escriba a utilities@owbc-tx.org.",
+      "apply_url": "https://owbc-tx.org/community-services/",
+      "phone": "(512) 763-1400",
+      "address": "604 High Tech Drive",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": null,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://owbc-tx.org/community-services/",
+      "confidence": "high",
+      "notes": "Local CEAP provider. Applicant must be the account holder or an authorized user on the utility account. Processing can take up to 90 days after a complete application. Atmos and City of Austin customers must also sign releases of information.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "georgetown-isd-free-reduced-meals",
+      "name": "Georgetown ISD Free and Reduced-Price Meals",
+      "organization": "Georgetown ISD Nutrition Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Students in Georgetown ISD may get free or lower-cost school breakfast and lunch if the family qualifies.",
+      "description_es": "Los estudiantes de Georgetown ISD pueden recibir desayuno y almuerzo gratis o a precio reducido en la escuela si la familia califica.",
+      "eligibility_summary_en": "Families with children in Georgetown ISD who meet federal income guidelines.",
+      "eligibility_summary_es": "Familias con hijos en Georgetown ISD que cumplen con las guías federales de ingresos.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through your Skyward Family Access account, or call Nutrition Services at (512) 943-5000 ext. 6166 for help.",
+      "how_to_apply_es": "Aplique en línea con su cuenta de Skyward Family Access, o llame a Servicios de Nutrición al (512) 943-5000, extensión 6166, para recibir ayuda.",
+      "apply_url": "https://www.georgetownisd.org/departments/nutrition-services/free-reduced-lunch",
+      "phone": "(512) 943-5000 ext. 6166",
+      "address": "603 Lakeway Dr",
+      "city": "Georgetown",
+      "zip": "78626",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or reduced price",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.georgetownisd.org/departments/nutrition-services/free-reduced-lunch",
+      "confidence": "high",
+      "notes": "Phone and address are for GISD Child Nutrition Services.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "leander-isd-free-reduced-meals",
+      "name": "Leander ISD Free and Reduced-Price Meals",
+      "organization": "Leander ISD Child Nutrition Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Students in Leander ISD may get free or lower-cost school meals if the family has a financial need and qualifies.",
+      "description_es": "Los estudiantes de Leander ISD pueden recibir comidas gratis o a precio reducido en la escuela si la familia tiene necesidad económica y califica.",
+      "eligibility_summary_en": "Families with children in Leander ISD who meet federal income guidelines.",
+      "eligibility_summary_es": "Familias con hijos en Leander ISD que cumplen con las guías federales de ingresos.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online at MySchoolApps, download a paper form from the district website, or pick one up at any campus or the Child Nutrition Services office.",
+      "how_to_apply_es": "Aplique en línea en MySchoolApps, descargue un formulario en papel de la página del distrito, o recoja uno en cualquier escuela o en la oficina de Servicios de Nutrición Infantil.",
+      "apply_url": "https://www.myschoolapps.com/Home/PickDistrict",
+      "phone": "(512) 570-0670",
+      "address": "204 W. South Street",
+      "city": "Leander",
+      "zip": "78646",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free or reduced price",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.leanderisd.org/childnutritionservices/",
+      "confidence": "high",
+      "notes": "Leander ISD serves Leander, much of Cedar Park, and nearby areas. District allows a grace period for meals while awaiting funds.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-riogrande-legal-aid-williamson",
+      "name": "Texas RioGrande Legal Aid (TRLA) - Free Civil Legal Help",
+      "organization": "Texas RioGrande Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free lawyers for low-income people with civil legal problems like evictions and housing, family law, jobs, public benefits, taxes, and disaster help.",
+      "description_es": "Abogados gratis para personas con bajos ingresos que tienen problemas legales civiles, como desalojos y vivienda, asuntos familiares, empleo, beneficios públicos, impuestos y ayuda en desastres.",
+      "eligibility_summary_en": "Low-income residents of Williamson County and other TRLA service counties. Income limits apply; call to check.",
+      "eligibility_summary_es": "Personas con bajos ingresos que viven en el condado de Williamson y otros condados que atiende TRLA. Hay límites de ingresos; llame para saber si califica.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line at (833) 329-8752 (toll-free) or (956) 996-8752, Monday-Friday 9 a.m.-5 p.m. For family law, call on Tuesdays or Thursdays.",
+      "how_to_apply_es": "Llame a la línea de admisión al (833) 329-8752 (gratis) o al (956) 996-8752, de lunes a viernes de 9 a.m. a 5 p.m. Para asuntos de familia, llame solo los martes o jueves.",
+      "apply_url": "https://www.trla.org/help",
+      "phone": "(833) 329-8752",
+      "address": "4920 North I-35",
+      "city": "Austin",
+      "zip": "78751",
+      "hours": "Intake line Mon-Fri 9:00 a.m.-5:00 p.m. (Central)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Williamson County is served by TRLA's Austin office. TRLA serves 68 counties.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "round-rock-area-serving-center",
+      "name": "Round Rock Area Serving Center Food Pantry and Financial Assistance",
+      "organization": "Round Rock Area Serving Center",
+      "categories": [
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "A food pantry and help program for people in Round Rock and southern Williamson County. It also gives some emergency financial help and delivers food to homes.",
+      "description_es": "Un banco de comida y programa de ayuda para personas en Round Rock y el sur del condado de Williamson. También da algo de ayuda económica de emergencia y lleva comida a domicilio.",
+      "eligibility_summary_en": "People who live in Round Rock and southern Williamson County and qualify for help.",
+      "eligibility_summary_es": "Personas que viven en Round Rock y el sur del condado de Williamson y califican para recibir ayuda. No necesita identificación con foto para recibir comida.",
+      "eligibility_rules": {
+        "residency_required": "Round Rock / southern Williamson County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online first to get a food voucher. You must have the voucher before you come to the pantry. Financial assistance is also applied for online.",
+      "how_to_apply_es": "Primero aplique en línea para recibir un vale de comida. Debe tener el vale antes de ir al banco de comida. La ayuda económica también se pide en línea.",
+      "apply_url": "https://www.rrasc.org/",
+      "phone": "(512) 244-2431",
+      "address": "1099 E Main Street",
+      "city": "Round Rock",
+      "zip": "78664",
+      "hours": "Food pantry Mon-Fri 10 a.m.-4 p.m. (last check-in 3:30 p.m.); Sat 9 a.m.-1 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Williamson"
+      ],
+      "source_url": "https://www.rrasc.org/",
+      "confidence": "high",
+      "notes": "Photo ID is not required for food. Financial assistance vouchers/checks can be picked up Mon-Fri 10 a.m.-3:30 p.m. or Sat 9 a.m.-1 p.m. Email: Hello@rrasc.org. Also runs Treasures thrift store (Mon-Sat 10-4).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

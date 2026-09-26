@@ -1,0 +1,1622 @@
+{
+  "scope": "Harris County (Houston, Pasadena, Baytown) - health & opportunity",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "harris-health-financial-assistance-program",
+      "name": "Harris Health Financial Assistance Program (formerly Gold Card)",
+      "organization": "Harris Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps Harris County residents with low income get care at Harris Health clinics and hospitals for free or a small copay.",
+      "eligibility_summary_en": "For Harris County residents whose household income is at or below 150% of the Federal Poverty Level. You may need to apply for Medicaid, CHIP or other programs first.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [
+        "Photo ID for applicant and spouse",
+        "Proof of address (dated within 60 days)",
+        "Proof of gross income for the last 30 days",
+        "Proof of relationship to dependent children",
+        "Immigration status documents (if any)",
+        "Health coverage information (if any)",
+        "Medicare Asset Form (if on Medicare)"
+      ],
+      "how_to_apply": "Apply online, or mail your application to Harris Health Financial Assistance Program, P.O. Box 300488, Houston, TX 77230. Applications are processed within 14 days. There is no fee to apply.",
+      "apply_url": "https://ola.veritysource.com/harris",
+      "phone": "(713) 566-6509",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Eligibility Call Center: Monday-Friday 8 a.m.-4 p.m.; fourth Friday 8 a.m.-2 p.m.",
+      "walk_in": null,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese"
+      ],
+      "cost": "Free to apply; care at no cost or a small copay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.harrishealth.org/access-care/patient-eligibility",
+      "confidence": "high",
+      "notes": "County indigent care program for Harris County. Harris Health is the payer of last resort, so screen for Medicaid/CHIP first. Report anyone asking for a fee to apply to the Compliance Hotline (844) 565-0621.",
+      "description_es": "Ayuda a personas de bajos ingresos que viven en el condado de Harris a recibir atención en clínicas y hospitales de Harris Health gratis o con un copago bajo.",
+      "eligibility_summary_es": "Para personas que viven en el condado de Harris con ingresos del hogar de hasta el 150% del Nivel Federal de Pobreza. Es posible que primero tenga que solicitar Medicaid, CHIP u otros programas.",
+      "how_to_apply_es": "Solicite en línea o envíe su solicitud por correo a Harris Health Financial Assistance Program, P.O. Box 300488, Houston, TX 77230. Las solicitudes se procesan en 14 días. No cuesta nada solicitar.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-health-baytown-health-center",
+      "name": "Harris Health Baytown Health Center",
+      "organization": "Harris Health",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community clinic with primary care for adults and children, senior care, eye care, mammograms, psychiatry, counseling, lab and pharmacy.",
+      "eligibility_summary_en": "Most insurance is accepted. People with low income who live in Harris County can apply for the Harris Health Financial Assistance Program.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "List of your medicines"
+      ],
+      "how_to_apply": "Call the appointment line to schedule a visit. Arrive 30 minutes early with your ID and medicines.",
+      "apply_url": null,
+      "phone": "(713) 526-4243",
+      "address": "1602 Garth Road",
+      "city": "Baytown",
+      "zip": "77520",
+      "hours": "Monday-Friday 7 a.m.-5 p.m. (second Thursday 7 a.m.-noon); pharmacy Monday-Friday 8 a.m.-5 p.m. (second Thursday 8 a.m.-noon)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Insurance accepted; low-cost or free with Harris Health Financial Assistance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.harrishealth.org/locations-hh/Pages/baytown-health-center.aspx",
+      "confidence": "high",
+      "notes": "Main clinic line is (281) 837-2700; (713) 526-4243 is the Harris Health appointment line.",
+      "description_es": "Una clínica comunitaria con atención primaria para adultos y niños, atención para personas mayores, cuidado de los ojos, mamografías, psiquiatría, consejería, laboratorio y farmacia.",
+      "eligibility_summary_es": "Aceptan la mayoría de los seguros. Si tiene bajos ingresos y vive en el condado de Harris, puede solicitar el Programa de Asistencia Financiera de Harris Health.",
+      "how_to_apply_es": "Llame a la línea de citas para hacer una cita. Llegue 30 minutos antes con su identificación y sus medicinas.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-health-strawberry-health-center-pasadena",
+      "name": "Harris Health Strawberry Health Center",
+      "organization": "Harris Health",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A Pasadena clinic with primary care, urgent care, dental, mammograms, psychiatry, lab, pharmacy and social services.",
+      "eligibility_summary_en": "Serves adults and children. Most insurance is accepted. People with low income who live in Harris County can apply for the Harris Health Financial Assistance Program.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "List of your medicines"
+      ],
+      "how_to_apply": "Call the Harris Health appointment line at (713) 526-4243 to schedule. Urgent care is open weekdays until 8 p.m. Arrive 30 minutes early with your ID and medicines.",
+      "apply_url": null,
+      "phone": "(713) 982-5900",
+      "address": "927 Shaw Ave.",
+      "city": "Pasadena",
+      "zip": "77506",
+      "hours": "Health center Monday-Friday 8 a.m.-5 p.m. (third Wednesday 7:30-11 a.m.); urgent care Monday-Friday 8 a.m.-8 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Insurance accepted; low-cost or free with Harris Health Financial Assistance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.harrishealth.org/locations-hh/Pages/strawberry-health-center.aspx",
+      "confidence": "high",
+      "notes": "Appointments: (713) 526-4243. Urgent care: (713) 218-2697. Walk-in applies to urgent care.",
+      "description_es": "Una clínica en Pasadena con atención primaria, atención de urgencias, dentista, mamografías, psiquiatría, laboratorio, farmacia y servicios sociales.",
+      "eligibility_summary_es": "Atiende a adultos y niños. Aceptan la mayoría de los seguros. Si tiene bajos ingresos y vive en el condado de Harris, puede solicitar el Programa de Asistencia Financiera de Harris Health.",
+      "how_to_apply_es": "Llame a la línea de citas de Harris Health al (713) 526-4243. La clínica de urgencias abre entre semana hasta las 8 p.m. Llegue 30 minutos antes con su identificación y sus medicinas.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-health-ask-my-nurse",
+      "name": "Ask My Nurse",
+      "organization": "Harris Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A 24/7 nurse phone line that helps you decide if you need the emergency room, urgent care, or a regular doctor visit.",
+      "eligibility_summary_en": "For Harris Health patients with health questions.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the number any time, day or night.",
+      "apply_url": null,
+      "phone": "(713) 634-1110",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.harrishealth.org/services-hh/outreach/Pages/ask-a-nurse.aspx",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Una línea telefónica con enfermeras las 24 horas, los 7 días, que le ayuda a decidir si necesita ir a emergencias, a urgencias o a una cita normal con el doctor.",
+      "eligibility_summary_es": "Para pacientes de Harris Health que tienen preguntas de salud.",
+      "how_to_apply_es": "Llame al número a cualquier hora, de día o de noche.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legacy-community-health-baytown-garth",
+      "name": "Legacy Community Health - Baytown Garth",
+      "organization": "Legacy Community Health",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center (FQHC) with adult and child care, women's health, dental, vision, behavioral health, HIV care and pharmacy.",
+      "eligibility_summary_en": "Open to everyone, regardless of ability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment, or call Legacy's main line at (832) 548-5000.",
+      "apply_url": null,
+      "phone": "(281) 420-8400",
+      "address": "3509 Garth Rd.",
+      "city": "Baytown",
+      "zip": "77521",
+      "hours": "Monday-Thursday 8 a.m.-5:30 p.m.; Friday 8 a.m.-6 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Open to all regardless of ability to pay",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.legacycommunityhealth.org/legacy-baytown-garth/",
+      "confidence": "high",
+      "notes": "Legacy is the largest FQHC in Texas, with other Harris County clinics (Deer Park, Fifth Ward, Montrose, Southwest, Third Ward, Alief). Main appointment line (832) 548-5000.",
+      "description_es": "Un centro de salud comunitario (FQHC) con atención para adultos y niños, salud de la mujer, dentista, visión, salud mental, atención del VIH y farmacia.",
+      "eligibility_summary_es": "Abierto para todos, aunque no pueda pagar.",
+      "how_to_apply_es": "Llame para hacer una cita, o llame a la línea principal de Legacy al (832) 548-5000.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "avenue-360-health-and-wellness",
+      "name": "Avenue 360 Health & Wellness",
+      "organization": "Avenue 360 Health & Wellness",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community clinics in Houston and Humble with primary care, children's care, women's health, dental, HIV care, pharmacy and counseling.",
+      "eligibility_summary_en": "Community clinics open to the public. Call to ask about insurance, costs and payment help.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment at the clinic closest to you.",
+      "apply_url": null,
+      "phone": "(713) 426-0027",
+      "address": "2150 West 18th St., 3rd Floor",
+      "city": "Houston",
+      "zip": "77008",
+      "hours": "Heights clinic: Monday-Thursday 8 a.m.-6 p.m., Friday 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about costs and insurance eligibility help",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://avenue360.org/houston-clinic-locations/",
+      "confidence": "medium",
+      "notes": "Sliding fee policy not stated on the locations page. Other clinics: Midtown 2920 Fannin St. 77002; Spring Cypress 17010 Sugar Pine Dr. 77090 (281) 537-8627; Humble 18842 S. Memorial Dr. Ste 206, 77338 (281) 570-2525; Memorial City 902 Frostwood Ste 142, 77024 (713) 827-8266; Southwest 14095 South Main St. 77035 (832) 830-8345; plus a mobile clinic.",
+      "description_es": "Clínicas comunitarias en Houston y Humble con atención primaria, atención para niños, salud de la mujer, dentista, atención del VIH, farmacia y consejería.",
+      "eligibility_summary_es": "Clínicas comunitarias abiertas al público. Llame para preguntar sobre seguros, costos y ayuda para pagar.",
+      "how_to_apply_es": "Llame para hacer una cita en la clínica más cerca de usted.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "el-centro-de-corazon",
+      "name": "El Centro de Corazón - Eastwood Health Center",
+      "organization": "El Centro de Corazón",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center (FQHC) in Houston's East End with primary care, children's care, women's health, dental and behavioral health.",
+      "eligibility_summary_en": "Serves families in the East End and nearby Houston neighborhoods.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment.",
+      "apply_url": null,
+      "phone": "(713) 660-1880",
+      "address": "412 Telephone Rd.",
+      "city": "Houston",
+      "zip": "77023",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about costs",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.elcentrodecorazon.org/locations/",
+      "confidence": "medium",
+      "notes": "Other sites: John S. Dunn Health Center, 7635 Canal St., 77012; Magnolia Health Center, 7037 Capitol St., Ste. N100, 77011. Sliding fee details not confirmed on site.",
+      "description_es": "Un centro de salud comunitario (FQHC) en el East End de Houston con atención primaria, atención para niños, salud de la mujer, dentista y salud mental.",
+      "eligibility_summary_es": "Atiende a familias del East End y de vecindarios cercanos de Houston.",
+      "how_to_apply_es": "Llame para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "san-jose-clinic-houston",
+      "name": "San José Clinic",
+      "organization": "San José Clinic",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A clinic for people without insurance offering primary care, specialty care, dental, vision, pharmacy, behavioral health and lab services.",
+      "eligibility_summary_en": "For low-income, uninsured people and families in Harris County and nearby counties. You must complete an eligibility interview first.",
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [
+        "Photo ID for each adult",
+        "Birth certificate or Medicaid/CHIP card for children",
+        "Proof of household income (about one month of pay stubs or benefit letters)",
+        "Proof of address (any mail with your name and address)"
+      ],
+      "how_to_apply": "Call to set up your eligibility interview and first appointment. Scheduling is open Monday-Friday 8 a.m.-5 p.m.",
+      "apply_url": null,
+      "phone": "(713) 228-9411",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Scheduling: Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale contribution based on income and family size (Federal Poverty Guidelines)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.sanjoseclinic.org/eligibility",
+      "confidence": "high",
+      "notes": "Eligibility phone listed on eligibility page: (713) 490-2610. Medical (713) 462-0535; dental (713) 228-5716. Also accepts Medicaid, Medicare and ACA plans. Locations in Midtown Houston and Fort Bend; street address not confirmed.",
+      "description_es": "Una clínica para personas sin seguro médico que ofrece atención primaria, especialistas, dentista, visión, farmacia, salud mental y laboratorio.",
+      "eligibility_summary_es": "Para personas y familias de bajos ingresos y sin seguro en el condado de Harris y condados cercanos. Primero debe tener una entrevista para ver si califica.",
+      "how_to_apply_es": "Llame para hacer su entrevista de elegibilidad y su primera cita. Puede llamar de lunes a viernes, de 8 a.m. a 5 p.m.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hope-clinic-houston",
+      "name": "HOPE Clinic",
+      "organization": "HOPE Clinic",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center (FQHC) with adult, child and women's care, behavioral health, dental, vision, lab and pharmacy, serving many languages.",
+      "eligibility_summary_en": "Open to all, including people who are uninsured or underinsured.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment at one of five Houston-area clinics (Beltway, Aldine, Aldine Meadows, Alief, West).",
+      "apply_url": null,
+      "phone": "(713) 773-0803",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Works with uninsured patients; ask about sliding fee",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.hopechc.org/",
+      "confidence": "medium",
+      "notes": "Serves patients in many languages. Clinic street addresses and hours not confirmed.",
+      "description_es": "Un centro de salud comunitario (FQHC) con atención para adultos, niños y mujeres, salud mental, dentista, visión, laboratorio y farmacia. Atiende en muchos idiomas.",
+      "eligibility_summary_es": "Abierto para todos, incluso personas sin seguro o con poco seguro.",
+      "how_to_apply_es": "Llame para hacer una cita en una de sus cinco clínicas en el área de Houston (Beltway, Aldine, Aldine Meadows, Alief, West).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "vecino-denver-harbor-family-health-center",
+      "name": "Denver Harbor Family Health Center",
+      "organization": "Vecino Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center with family medicine, children's care, pregnancy care, dental and behavioral health.",
+      "eligibility_summary_en": "Open to families in the Denver Harbor area and nearby.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment.",
+      "apply_url": null,
+      "phone": "(713) 674-3326",
+      "address": "424 Hahlo Street",
+      "city": "Houston",
+      "zip": "77020",
+      "hours": "Monday-Thursday 7:30 a.m.-8 p.m.; Friday 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about costs",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://vecinohealthcenters.org/locations/",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Un centro de salud comunitario con medicina familiar, atención para niños, atención del embarazo, dentista y salud mental.",
+      "eligibility_summary_es": "Abierto para familias de Denver Harbor y áreas cercanas.",
+      "how_to_apply_es": "Llame para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "vecino-airline-childrens-womens-health-center",
+      "name": "Airline Children & Women's Health Center",
+      "organization": "Vecino Health Centers",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A community clinic for children and women with medical, pregnancy, dental and counseling care.",
+      "eligibility_summary_en": "Serves children and women in north Houston.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment.",
+      "apply_url": null,
+      "phone": "(713) 695-4013",
+      "address": "5808 Airline Drive",
+      "city": "Houston",
+      "zip": "77076",
+      "hours": "Monday-Thursday 8 a.m.-7 p.m.; Friday 8 a.m.-6 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about costs",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://vecinohealthcenters.org/locations/",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Una clínica comunitaria para niños y mujeres con atención médica, atención del embarazo, dentista y consejería.",
+      "eligibility_summary_es": "Atiende a niños y mujeres del norte de Houston.",
+      "how_to_apply_es": "Llame para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "healthcare-for-the-homeless-houston",
+      "name": "Healthcare for the Homeless - Houston",
+      "organization": "Healthcare for the Homeless - Houston",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Medical care, behavioral health, substance use treatment, HIV prevention, street medicine and podiatry for people facing housing instability. No co-pays.",
+      "eligibility_summary_en": "For anyone facing any kind of housing instability. No ID or proof of homelessness is required. Insurance is not required.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the main clinic to make an appointment.",
+      "apply_url": null,
+      "phone": "(713) 286-6000",
+      "address": "1934 Caroline Street",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": "Monday-Thursday 8 a.m.-5 p.m.; Friday 8 a.m.-noon (clinics close 12-1 p.m. for lunch)",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "No co-pay; insurance not required (insurance is billed if you have it)",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.homeless-healthcare.org/contact-us/",
+      "confidence": "high",
+      "notes": "After-hours line available weekdays 5 p.m.-8 a.m. and weekends at the same number. Walk-in availability not stated; call first. Mental health crisis: call or text 988.",
+      "description_es": "Atención médica, salud mental, tratamiento para el uso de sustancias, prevención del VIH, medicina en la calle y cuidado de los pies para personas sin vivienda estable. No hay copagos.",
+      "eligibility_summary_es": "Para cualquier persona que no tenga una vivienda estable. No se necesita identificación ni prueba de estar sin hogar. No necesita seguro médico.",
+      "how_to_apply_es": "Llame a la clínica principal para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-health-department-health-centers",
+      "name": "Houston Health Department - Northside Health Center",
+      "organization": "City of Houston Health Department",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "City clinics offering family planning, shots, TB care, STD care and dental care.",
+      "eligibility_summary_en": "Open to the public. No one is denied care because they cannot pay; a sliding fee is available.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to make an appointment at Northside, Sharpstown, or Sunnyside health centers.",
+      "apply_url": null,
+      "phone": "(832) 393-4220",
+      "address": "8504 Schuller Road",
+      "city": "Houston",
+      "zip": "77093",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee; no one denied for inability to pay",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonhealth.org/services/clinical/health-centers",
+      "confidence": "high",
+      "notes": "Same phone for all centers. Other centers: Sharpstown Health Services, 6201 Bonhomme Rd. 3rd Floor South Tower, 77036; Sunnyside Health and Multi-Service Center, 4410 Reed Rd., 77051. Hours not listed.",
+      "description_es": "Clínicas de la ciudad con planificación familiar, vacunas, atención de tuberculosis, atención de enfermedades de transmisión sexual y dentista.",
+      "eligibility_summary_es": "Abierto al público. A nadie se le niega atención por no poder pagar; hay una tarifa según sus ingresos.",
+      "how_to_apply_es": "Llame para hacer una cita en los centros de salud Northside, Sharpstown o Sunnyside.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-health-department-dental",
+      "name": "Houston Health Department Dental Clinics",
+      "organization": "City of Houston Health Department",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Preventive and repair dental care for children, young adults and pregnant women.",
+      "eligibility_summary_en": "Children and young adults 6 months to 21 years with Medicaid or no dental insurance, children 1-18 with CHIP, and pregnant women through 90 days after delivery.",
+      "eligibility_rules": {
+        "max_age": 21
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the dental appointment line for any location.",
+      "apply_url": null,
+      "phone": "(832) 393-5427",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Medicaid and CHIP accepted; call to ask about costs",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonhealth.org/services/clinical/dental",
+      "confidence": "high",
+      "notes": "Locations: Magnolia multi-service center, Northside, Sharpstown, Sunnyside. Staff are bilingual.",
+      "description_es": "Atención dental para prevenir y reparar problemas en niños, jóvenes y mujeres embarazadas.",
+      "eligibility_summary_es": "Niños y jóvenes de 6 meses a 21 años con Medicaid o sin seguro dental, niños de 1 a 18 años con CHIP, y mujeres embarazadas hasta 90 días después del parto.",
+      "how_to_apply_es": "Llame a la línea de citas dentales para cualquier clínica.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-health-department-wic",
+      "name": "City of Houston WIC Program",
+      "organization": "City of Houston Health Department",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help and breastfeeding support to pregnant women, new moms, babies and young children.",
+      "eligibility_summary_en": "For low-income pregnant, postpartum and breastfeeding women, infants, and children under 5 who are at nutritional risk. You must live in Texas; U.S. citizenship is not required.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the WIC line or visit one of the 14 Houston WIC centers.",
+      "apply_url": null,
+      "phone": "(832) 393-5427",
+      "address": "7037 Capitol St., #201",
+      "city": "Houston",
+      "zip": "77011",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonhealth.org/services/family-child-health/wic/locations",
+      "confidence": "high",
+      "notes": "Local WIC provider. Centers include Acres Homes, Airline, Aldine, Alief, Braesner, Denver Harbor, La Nueva Casa, Magnolia (address shown), Northeast, Northside, Northwest, Sharpstown, Southwest, Sunnyside. No Pasadena/Baytown centers on this list. Email hltwicinfo@houstontx.gov.",
+      "description_es": "WIC da comida saludable, consejos de nutrición y apoyo para la lactancia a mujeres embarazadas, mamás nuevas, bebés y niños pequeños.",
+      "eligibility_summary_es": "Para mujeres embarazadas, que acaban de dar a luz o que dan pecho, bebés y niños menores de 5 años, con bajos ingresos y riesgo de mala nutrición. Debe vivir en Texas; no necesita ser ciudadano de EE. UU.",
+      "how_to_apply_es": "Llame a la línea de WIC o visite uno de los 14 centros de WIC en Houston.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-center-crisis-and-access-line",
+      "name": "Harris Center 24/7 Crisis and Access Line",
+      "organization": "The Harris Center for Mental Health and IDD",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The Local Mental Health Authority for Harris County. Call any time for a mental health crisis or to start mental health, substance use or IDD services.",
+      "eligibility_summary_en": "For Harris County residents of any age. Services are not denied for inability to pay.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Crisis and Access Line any time to talk to a counselor or get connected to services.",
+      "apply_url": null,
+      "phone": "(713) 970-7000",
+      "address": "9401 Southwest Freeway",
+      "city": "Houston",
+      "zip": "77074",
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale based on family size and income; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.theharriscenter.org/about",
+      "confidence": "high",
+      "notes": "Local Mental Health Authority and Local IDD Authority for Harris County. Toll-free: (866) 970-4770.",
+      "description_es": "La autoridad local de salud mental del condado de Harris. Llame a cualquier hora si tiene una crisis de salud mental o para empezar servicios de salud mental, uso de sustancias o discapacidad intelectual y del desarrollo (IDD).",
+      "eligibility_summary_es": "Para personas de cualquier edad que viven en el condado de Harris. No se niegan servicios por no poder pagar.",
+      "how_to_apply_es": "Llame a la Línea de Crisis y Acceso a cualquier hora para hablar con un consejero o para recibir servicios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-center-neuropsychiatric-center",
+      "name": "NeuroPsychiatric Center (NPC)",
+      "organization": "The Harris Center for Mental Health and IDD",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24/7 psychiatric emergency center for adults and children, with crisis stabilization, detox and substance use care.",
+      "eligibility_summary_en": "For people of any age in a mental health or substance use crisis.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 Crisis and Access Line, or go to the center. In an emergency call 911 or 988.",
+      "apply_url": null,
+      "phone": "(713) 970-7000",
+      "address": "1502 Ben Taub Loop",
+      "city": "Houston",
+      "zip": "77030",
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": null,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale; care regardless of ability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.theharriscenter.org/location/neuropsychiatric-center-npc",
+      "confidence": "high",
+      "notes": "Walk-in process not described on the official page; call the Crisis and Access Line first if you can. In an emergency call 911 or 988.",
+      "description_es": "Un centro de emergencias psiquiátricas abierto las 24 horas, los 7 días, para adultos y niños, con estabilización en crisis, desintoxicación y atención para el uso de sustancias.",
+      "eligibility_summary_es": "Para personas de cualquier edad en una crisis de salud mental o de uso de sustancias.",
+      "how_to_apply_es": "Llame a la Línea de Crisis y Acceso, abierta las 24 horas, o vaya al centro. En una emergencia llame al 911 o al 988.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-center-southeast-community-service-center",
+      "name": "Harris Center Southeast Community Service Center",
+      "organization": "The Harris Center for Mental Health and IDD",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Outpatient mental health care for adults and children, plus primary care, pharmacy and substance use services.",
+      "eligibility_summary_en": "For Harris County residents who need ongoing mental health care.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Crisis and Access Line to schedule an appointment.",
+      "apply_url": null,
+      "phone": "(713) 970-7000",
+      "address": "5901 Long Drive",
+      "city": "Houston",
+      "zip": "77087",
+      "hours": "Monday-Friday 7:30 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.theharriscenter.org/locations",
+      "confidence": "high",
+      "notes": "Closest main clinic to Pasadena. Other clinics: Northeast 7200 N Loop E Fwy 77028; Northwest 3737 Dacoma St 77092; Southwest 9401 Southwest Fwy 77074. Also has Pasadena ISD school co-locations.",
+      "description_es": "Atención de salud mental para adultos y niños, además de atención primaria, farmacia y servicios para el uso de sustancias.",
+      "eligibility_summary_es": "Para personas que viven en el condado de Harris y necesitan atención de salud mental continua.",
+      "how_to_apply_es": "Llame a la Línea de Crisis y Acceso para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "mental-health-america-greater-houston-helpline",
+      "name": "MHA of Greater Houston Helpline and Care Connect",
+      "organization": "Mental Health America of Greater Houston",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Call or text to get free help finding mental health or substance use care, and ask about free therapy.",
+      "eligibility_summary_en": "For anyone in the Greater Houston area looking for mental health help.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or text the helpline.",
+      "apply_url": null,
+      "phone": "(281) 215-9988",
+      "address": "2211 Norfolk, Suite 810",
+      "city": "Houston",
+      "zip": "77098",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.mhahouston.org/",
+      "confidence": "high",
+      "notes": "Main office line (713) 523-8963. Also offers free online mental health screenings and veteran support. Helpline hours not listed.",
+      "description_es": "Llame o mande un mensaje de texto para recibir ayuda gratis para encontrar atención de salud mental o de uso de sustancias, y pregunte por terapia gratis.",
+      "eligibility_summary_es": "Para cualquier persona en el área de Houston que busca ayuda de salud mental.",
+      "how_to_apply_es": "Llame o mande un mensaje de texto a la línea de ayuda.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "crisis-intervention-of-houston",
+      "name": "Crisis Intervention of Houston Crisis Hotline",
+      "organization": "Crisis Intervention of Houston, Inc.",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A free 24/7 crisis and suicide prevention hotline, plus a teen talk and text line.",
+      "eligibility_summary_en": "For anyone in emotional distress, including teens.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the hotline any time. Teens can call (832) 416-1199 or text (281) 201-4430.",
+      "apply_url": null,
+      "phone": "(832) 416-1177",
+      "address": "3701 Kirby Dr, Suite 540",
+      "city": "Houston",
+      "zip": "77098",
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free and confidential",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.crisishotline.org/",
+      "confidence": "high",
+      "notes": "Office address and phone (713) 533-4500 are administrative; help is by phone and text.",
+      "description_es": "Una línea gratis de crisis y prevención del suicidio, abierta las 24 horas, los 7 días, y una línea para adolescentes por llamada o texto.",
+      "eligibility_summary_es": "Para cualquier persona que se sienta muy mal emocionalmente, incluidos los adolescentes.",
+      "how_to_apply_es": "Llame a la línea de crisis a cualquier hora. Los adolescentes pueden llamar al (832) 416-1199 o mandar texto al (281) 201-4430.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-area-womens-center-hotlines",
+      "name": "Houston Area Women's Center Hotlines",
+      "organization": "Houston Area Women's Center",
+      "categories": [
+        "mental_health",
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free 24/7 hotlines for domestic violence and sexual assault, plus counseling, safety planning, supportive housing, and legal help.",
+      "eligibility_summary_en": "For women, children and families affected by domestic violence, sexual assault or sex trafficking.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the domestic violence line (713) 528-2121 or the sexual assault line (713) 528-7273 any time.",
+      "apply_url": null,
+      "phone": "(713) 528-2121",
+      "address": "3077 El Camino Street",
+      "city": "Houston",
+      "zip": "77054",
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.hawc.org/",
+      "confidence": "high",
+      "notes": "Toll-free DV (800) 256-0551; sexual assault (800) 256-0661; TTY (346) 295-8994. Office line (713) 528-6798.",
+      "description_es": "Líneas gratis abiertas las 24 horas para violencia doméstica y agresión sexual, además de consejería, planes de seguridad, vivienda de apoyo y ayuda legal.",
+      "eligibility_summary_es": "Para mujeres, niños y familias afectados por violencia doméstica, agresión sexual o trata de personas.",
+      "how_to_apply_es": "Llame a la línea de violencia doméstica (713) 528-2121 o a la línea de agresión sexual (713) 528-7273 a cualquier hora.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-gulf-coast-child-care-scholarships",
+      "name": "Child Care Scholarships (Child Care Financial Aid)",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, go to school or job training, or look for work.",
+      "eligibility_summary_en": "Families with income up to 85% of State Median Income (for example, up to $7,670 a month for a family of four, Oct 2025-Sept 2026). There is currently a wait list.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Proof of residency",
+        "Proof of U.S. citizenship or legal status for each child",
+        "Income for the last 13 weeks for all working household members",
+        "School/training information for household members in school",
+        "Child care provider name and address"
+      ],
+      "how_to_apply": "Create an account and apply online through the Texas child care portal. The support center processes complete applications in about 20 days.",
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(713) 334-5980",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Support center: Monday-Friday 7 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply; parent share of cost may apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/childcare-financial-assistance",
+      "confidence": "high",
+      "notes": "Local Workforce Development Board (Gulf Coast region, includes Harris County). Text line: (346) 249-7700. Children up to 19 with a documented disability may qualify.",
+      "description_es": "Ayuda a pagar el cuidado de niños para que los padres puedan trabajar, estudiar, tomar capacitación o buscar trabajo.",
+      "eligibility_summary_es": "Familias con ingresos de hasta el 85% del Ingreso Medio del Estado (por ejemplo, hasta $7,670 al mes para una familia de cuatro, de octubre 2025 a septiembre 2026). Ahora hay una lista de espera.",
+      "how_to_apply_es": "Cree una cuenta y solicite en línea en el portal de cuidado de niños de Texas. El centro de apoyo procesa las solicitudes completas en unos 20 días.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hcde-head-start",
+      "name": "HCDE Head Start and Early Head Start",
+      "organization": "Harris County Department of Education",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning programs for babies, toddlers and preschool children to get ready for kindergarten.",
+      "eligibility_summary_en": "Early Head Start serves children 6 to 35 months; Head Start serves children who are 3-4 years old on September 1, 2026. Families must meet program requirements.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Proof of child's age",
+        "Proof of address",
+        "Proof of household income",
+        "Immunization record",
+        "Identification"
+      ],
+      "how_to_apply": "Apply online (English or Spanish) or call. Now accepting applications for the 2026-2027 school year.",
+      "apply_url": "https://headstart.hcde-texas.org/apply-for-head-start",
+      "phone": "(713) 672-9343",
+      "address": "6300 Irvington Blvd.",
+      "city": "Houston",
+      "zip": "77022",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://headstart.hcde-texas.org/",
+      "confidence": "high",
+      "notes": "Serves north and east Harris County. Early Head Start application: https://headstart.hcde-texas.org/apply-for-early-head-start",
+      "description_es": "Programas gratis de aprendizaje temprano para bebés, niños pequeños y niños de preescolar para prepararlos para el kínder.",
+      "eligibility_summary_es": "Early Head Start es para niños de 6 a 35 meses; Head Start es para niños que tienen 3 o 4 años el 1 de septiembre de 2026. Las familias deben cumplir los requisitos del programa.",
+      "how_to_apply_es": "Solicite en línea (en inglés o español) o llame. Ya aceptan solicitudes para el año escolar 2026-2027.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-head-start",
+      "name": "BakerRipley Head Start and Early Head Start",
+      "organization": "BakerRipley",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning for infants, toddlers and 3-4 year olds, with meals, supplies, and diapers and formula for Early Head Start.",
+      "eligibility_summary_en": "Early Head Start is for babies 6 weeks to 2 years; Head Start is for children 3-4. Families must meet federal poverty-based income rules. A home-based option serves pregnant women and children under 3.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Child's birth certificate (or doctor's pregnancy letter for home-based)",
+        "Current immunization record",
+        "Parent ID",
+        "Proof of address (lease or utility bill)",
+        "Proof of household income"
+      ],
+      "how_to_apply": "Call or apply online. Applications are accepted all year.",
+      "apply_url": null,
+      "phone": "(713) 273-3211",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Programs run Monday-Friday 7:45 a.m.-3 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://bakerripley.org/programs-and-services/head-start/",
+      "confidence": "high",
+      "notes": "32 locations across Harris and Fort Bend counties.",
+      "description_es": "Aprendizaje temprano gratis para bebés, niños pequeños y niños de 3 y 4 años, con comidas y útiles escolares, y pañales y fórmula en Early Head Start.",
+      "eligibility_summary_es": "Early Head Start es para bebés de 6 semanas a 2 años; Head Start es para niños de 3 y 4 años. Las familias deben cumplir los límites de ingresos federales. Un programa en casa atiende a mujeres embarazadas y niños menores de 3 años.",
+      "how_to_apply_es": "Llame o solicite en línea. Aceptan solicitudes todo el año.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "avance-houston-head-start",
+      "name": "AVANCE-Houston Head Start and Early Head Start",
+      "organization": "AVANCE-Houston, Inc.",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Early Head Start (ages 0-3) and Head Start (ages 3-5) early learning programs.",
+      "eligibility_summary_en": "For children birth to 5 in Houston. Families are placed on a waiting list until a spot opens.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the online pre-application, or call. You will be contacted when a center has space.",
+      "apply_url": "https://pre-app.cleverex.com/?globalid=22226",
+      "phone": "(713) 812-0033",
+      "address": "4281 Dacoma St",
+      "city": "Houston",
+      "zip": "77092",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.avancehouston.org/enroll-now/",
+      "confidence": "high",
+      "notes": "Income rules and cost not listed on site; ask when applying.",
+      "description_es": "Programas de aprendizaje temprano Early Head Start (de 0 a 3 años) y Head Start (de 3 a 5 años).",
+      "eligibility_summary_es": "Para niños de 0 a 5 años en Houston. Las familias quedan en una lista de espera hasta que haya lugar.",
+      "how_to_apply_es": "Llene la presolicitud en línea o llame. Le avisarán cuando haya lugar en un centro.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-isd-school-meals",
+      "name": "HISD Free and Reduced-Price School Meals",
+      "organization": "Houston ISD Nutrition Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Free breakfast for all HISD students, and free or reduced-price lunch for families who qualify.",
+      "eligibility_summary_en": "Breakfast is free for all students. Most schools (CEP) serve free meals to all students; at non-CEP schools, lunch aid depends on household income and families must apply.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through SchoolCafe. All families are encouraged to apply.",
+      "apply_url": "https://www.schoolcafe.com/HoustonISD",
+      "phone": "(713) 491-5944",
+      "address": "4400 West 18th St.",
+      "city": "Houston",
+      "zip": "77092",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonisd.org/fs/pages/230779",
+      "confidence": "high",
+      "notes": "Eligibility email: eligibilityinfo@houstonisd.org. For 2026-2027, 33 campuses are non-CEP.",
+      "description_es": "Desayuno gratis para todos los estudiantes de HISD, y almuerzo gratis o a precio reducido para las familias que califican.",
+      "eligibility_summary_es": "El desayuno es gratis para todos. En la mayoría de las escuelas (CEP) todas las comidas son gratis; en las escuelas que no son CEP, la ayuda para el almuerzo depende de los ingresos y las familias deben solicitar.",
+      "how_to_apply_es": "Solicite en línea en SchoolCafe. Se recomienda que todas las familias soliciten.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "pasadena-isd-free-school-meals",
+      "name": "Pasadena ISD Free School Meals",
+      "organization": "Pasadena ISD Nutrition Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Breakfast and lunch are free for all Pasadena ISD students in the 2026-2027 school year.",
+      "eligibility_summary_en": "All Pasadena ISD students. No application needed.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "No application needed. Call Nutrition Services with questions.",
+      "apply_url": null,
+      "phone": "(713) 740-5630",
+      "address": "3920 Mickey Gilley Blvd.",
+      "city": "Pasadena",
+      "zip": "77505",
+      "hours": "Office Monday-Friday 8 a.m.-4:30 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.pasadenaisd.org/nutrition-services",
+      "confidence": "high",
+      "notes": "Email nutritionservices@pasadenaisd.org.",
+      "description_es": "El desayuno y el almuerzo son gratis para todos los estudiantes de Pasadena ISD en el año escolar 2026-2027.",
+      "eligibility_summary_es": "Todos los estudiantes de Pasadena ISD. No necesita solicitar.",
+      "how_to_apply_es": "No necesita solicitar. Llame a Servicios de Nutrición si tiene preguntas.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "goose-creek-cisd-school-meals",
+      "name": "Goose Creek CISD Free and Reduced School Meals",
+      "organization": "Goose Creek CISD Nutrition Services",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Free breakfast for all students, and free lunch for students approved as free or reduced-price.",
+      "eligibility_summary_en": "Breakfast free for all students. Lunch aid is for families approved through the meal application (reapply every school year).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through Nutri Apps or get a paper application at your school office.",
+      "apply_url": "https://www.nlappscloud.com/Welcome.aspx?api=875efd5ec38ae7bce5f0554dc8ef16d6",
+      "phone": "(281) 420-4640",
+      "address": "4544 Interstate 10 E",
+      "city": "Baytown",
+      "zip": "77521",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.gccisd.net/campus-life/nutrition-services",
+      "confidence": "high",
+      "notes": "Serves Baytown area. Reduced-price students eat lunch free this school year.",
+      "description_es": "Desayuno gratis para todos los estudiantes, y almuerzo gratis para estudiantes aprobados para comidas gratis o a precio reducido.",
+      "eligibility_summary_es": "El desayuno es gratis para todos. La ayuda para el almuerzo es para familias aprobadas con la solicitud de comidas (hay que solicitar cada año escolar).",
+      "how_to_apply_es": "Solicite en línea en Nutri Apps o pida una solicitud en papel en la oficina de su escuela.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-baytown-career-office",
+      "name": "Workforce Solutions Baytown Career Office",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, writing a resume, getting job training, and applying for child care aid and unemployment help.",
+      "eligibility_summary_en": "Open to anyone looking for work or training.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID"
+      ],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(281) 837-0079",
+      "address": "4308-B Garth Road",
+      "city": "Baytown",
+      "zip": "77521",
+      "hours": "Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Local Workforce Solutions board. Main line 1-888-469-5627.",
+      "description_es": "Ayuda gratis para encontrar trabajo, hacer su currículum, recibir capacitación y solicitar ayuda para el cuidado de niños y el desempleo.",
+      "eligibility_summary_es": "Abierto para cualquier persona que busca trabajo o capacitación.",
+      "how_to_apply_es": "Visite la oficina en horario de atención o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-southeast-career-office",
+      "name": "Workforce Solutions Southeast Career Office",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, writing a resume, getting job training, and applying for child care aid and unemployment help.",
+      "eligibility_summary_en": "Open to anyone looking for work or training.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID"
+      ],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(713) 576-2580",
+      "address": "12148-B Gulf Freeway",
+      "city": "Houston",
+      "zip": "77034",
+      "hours": "Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Closest listed office to Pasadena. Main line 1-888-469-5627.",
+      "description_es": "Ayuda gratis para encontrar trabajo, hacer su currículum, recibir capacitación y solicitar ayuda para el cuidado de niños y el desempleo.",
+      "eligibility_summary_es": "Abierto para cualquier persona que busca trabajo o capacitación.",
+      "how_to_apply_es": "Visite la oficina en horario de atención o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-east-end-career-office",
+      "name": "Workforce Solutions East End Career Office",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, writing a resume, getting job training, and applying for child care aid and unemployment help.",
+      "eligibility_summary_en": "Open to anyone looking for work or training.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID"
+      ],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(713) 228-8848",
+      "address": "4450 Harrisburg Suite 100",
+      "city": "Houston",
+      "zip": "77011",
+      "hours": "Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Local Workforce Solutions board. Main line 1-888-469-5627.",
+      "description_es": "Ayuda gratis para encontrar trabajo, hacer su currículum, recibir capacitación y solicitar ayuda para el cuidado de niños y el desempleo.",
+      "eligibility_summary_es": "Abierto para cualquier persona que busca trabajo o capacitación.",
+      "how_to_apply_es": "Visite la oficina en horario de atención o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-northline-career-office",
+      "name": "Workforce Solutions Northline Career Office",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, writing a resume, getting job training, and applying for child care aid and unemployment help.",
+      "eligibility_summary_en": "Open to anyone looking for work or training.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID"
+      ],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(713) 692-7755",
+      "address": "4424 North Freeway Suite A",
+      "city": "Houston",
+      "zip": "77022",
+      "hours": "Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Local Workforce Solutions board. Main line 1-888-469-5627.",
+      "description_es": "Ayuda gratis para encontrar trabajo, hacer su currículum, recibir capacitación y solicitar ayuda para el cuidado de niños y el desempleo.",
+      "eligibility_summary_es": "Abierto para cualquier persona que busca trabajo o capacitación.",
+      "how_to_apply_es": "Visite la oficina en horario de atención o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-southwest-career-office",
+      "name": "Workforce Solutions Southwest Career Office",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, writing a resume, getting job training, and applying for child care aid and unemployment help.",
+      "eligibility_summary_en": "Open to anyone looking for work or training.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID"
+      ],
+      "how_to_apply": "Walk in during office hours or call the office.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(281) 564-2660",
+      "address": "13625 Beechnut St, Suite A&B",
+      "city": "Houston",
+      "zip": "77083",
+      "hours": "Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Local Workforce Solutions board. Main line 1-888-469-5627.",
+      "description_es": "Ayuda gratis para encontrar trabajo, hacer su currículum, recibir capacitación y solicitar ayuda para el cuidado de niños y el desempleo.",
+      "eligibility_summary_es": "Abierto para cualquier persona que busca trabajo o capacitación.",
+      "how_to_apply_es": "Visite la oficina en horario de atención o llame a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-training-scholarships",
+      "name": "Training and Education Scholarships",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Helps pay for job training in fields like health care, construction, manufacturing, energy, education and technology.",
+      "eligibility_summary_en": "For job seekers, career changers and recent graduates who qualify under federal workforce (WIOA) rules.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proof of age",
+        "Proof you can work in the U.S.",
+        "Selective Service registration (if required)",
+        "Proof of income or public assistance"
+      ],
+      "how_to_apply": "Call or visit a career office to schedule a career assessment.",
+      "apply_url": "https://www.wrksolutions.com/job-seekers/career-development-and-training/training-and-education-scholarships",
+      "phone": "(888) 469-5627",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/job-seekers/career-development-and-training/training-and-education-scholarships",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Ayuda a pagar capacitación para trabajos en salud, construcción, manufactura, energía, educación y tecnología.",
+      "eligibility_summary_es": "Para personas que buscan trabajo, quieren cambiar de carrera o se graduaron hace poco, y que califican bajo las reglas federales de empleo (WIOA).",
+      "how_to_apply_es": "Llame o visite una oficina de empleo para hacer una evaluación de carrera.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "goodwill-houston-career-centers",
+      "name": "Goodwill Houston Career Centers and Job Connection",
+      "organization": "Goodwill Houston",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help with career planning, resumes, interviews, computer lab use, job skills training and job matching.",
+      "eligibility_summary_en": "For people with barriers to employment. Call to ask if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or use the online locator to find a career center near you.",
+      "apply_url": "https://www.goodwillhouston.org/jobs/job-career-services/career-centers/",
+      "phone": "(713) 692-6221",
+      "address": "1140 West Loop North",
+      "city": "Houston",
+      "zip": "77055",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.goodwillhouston.org/jobs/job-career-services/career-centers/",
+      "confidence": "medium",
+      "notes": "Address/phone are corporate offices; use the site's ZIP code search for the nearest center.",
+      "description_es": "Ayuda gratis para planear su carrera, hacer su currículum, prepararse para entrevistas, usar computadoras, aprender habilidades de trabajo y encontrar empleo.",
+      "eligibility_summary_es": "Para personas con obstáculos para conseguir trabajo. Llame para preguntar si califica.",
+      "how_to_apply_es": "Llame o use el buscador en línea para encontrar un centro de empleo cerca de usted.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "serjobs-houston",
+      "name": "SERJobs Skilled Trades Training",
+      "organization": "SERJobs (SER-Jobs for Progress of the Texas Gulf Coast)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job training in skilled trades and construction, apprenticeships, YouthBuild, and help for veterans and people with justice involvement.",
+      "eligibility_summary_en": "For people from low-income communities, including justice-impacted people and veterans. Program rules vary.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Click Apply on the SERJobs website to fill out the application form.",
+      "apply_url": "https://serjobs.org/",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://serjobs.org/",
+      "confidence": "medium",
+      "notes": "Serves Houston, Galveston and Fort Bend. Phone and street address not confirmed. Cost not stated on homepage.",
+      "description_es": "Capacitación en oficios y construcción, aprendizajes pagados, YouthBuild, y ayuda para veteranos y personas con antecedentes penales.",
+      "eligibility_summary_es": "Para personas de comunidades de bajos ingresos, incluidas personas con antecedentes penales y veteranos. Las reglas cambian según el programa.",
+      "how_to_apply_es": "Haga clic en Apply en la página de SERJobs para llenar la solicitud.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-legal-aid-houston",
+      "name": "Lone Star Legal Aid - Houston Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, such as housing, family and benefits problems. No criminal cases.",
+      "eligibility_summary_en": "You must meet income and legal status rules. Call or apply to find out if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online any time, call during phone intake hours, or walk in.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(713) 652-0077",
+      "address": "1415 Fannin Street",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": "Office Monday-Friday 8 a.m.-5 p.m.; phone intake Monday-Thursday 8:30 a.m.-2:30 p.m.; online any time",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.lonestarlegal.org/office/houston-office/",
+      "confidence": "high",
+      "notes": "Toll-free (800) 733-8394. Civil cases only; no criminal cases.",
+      "description_es": "Ayuda legal gratis en casos civiles para personas de bajos ingresos, como problemas de vivienda, familia y beneficios. No atienden casos penales.",
+      "eligibility_summary_es": "Debe cumplir las reglas de ingresos y de estatus legal. Llame o solicite para saber si califica.",
+      "how_to_apply_es": "Solicite en línea a cualquier hora, llame en el horario de solicitudes por teléfono o vaya a la oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-eviction-right-to-counsel",
+      "name": "Harris County Eviction Defense (Right to Counsel)",
+      "organization": "Lone Star Legal Aid with Harris County Housing & Community Development",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free lawyers for tenants facing eviction in any Harris County Justice of the Peace court, including advice before a case is filed.",
+      "eligibility_summary_en": "For Harris County residents with household income at or below 200% of the Federal Poverty Guideline who are facing eviction.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or text APPLY to (361) 358-4428. On your court date, arrive 30 minutes early to talk to Lone Star Legal Aid staff.",
+      "apply_url": null,
+      "phone": "(361) 358-4428",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.lonestarlegal.org/eviction-defense-in-harris-county/",
+      "confidence": "high",
+      "notes": "Phone is 361-35EVICT. Harris County HCD lists Lone Star Legal Aid at (832) 927-4955 for this program (https://hcd.harriscountytx.gov/Residents/Legal-Services/Eviction-Defense-Program). Priority for those on unemployment or with income loss.",
+      "description_es": "Abogados gratis para inquilinos que enfrentan un desalojo en cualquier corte de Juez de Paz del condado de Harris, incluso consejos antes de que se presente el caso.",
+      "eligibility_summary_es": "Para personas que viven en el condado de Harris, con ingresos del hogar de hasta el 200% de la Guía Federal de Pobreza y que enfrentan un desalojo.",
+      "how_to_apply_es": "Llame o mande un texto con la palabra APPLY al (361) 358-4428. El día de su corte, llegue 30 minutos antes para hablar con el personal de Lone Star Legal Aid.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-volunteer-lawyers",
+      "name": "Houston Volunteer Lawyers",
+      "organization": "Houston Volunteer Lawyers (Houston Bar Association)",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free volunteer lawyers for civil problems like evictions, family law, protective orders, guardianship, probate and contractor disputes.",
+      "eligibility_summary_en": "For eligible low-income residents of the Greater Houston area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Fill out the online questionnaire or call. You can also email info@hvlp.org.",
+      "apply_url": "https://legalhelphouston.org/",
+      "phone": "(713) 228-0735",
+      "address": "1000 Louisiana Street, Suite 3600",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.makejusticehappen.org/",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Abogados voluntarios gratis para problemas civiles como desalojos, asuntos de familia, órdenes de protección, tutela, herencias y problemas con contratistas.",
+      "eligibility_summary_es": "Para residentes de bajos ingresos del área de Houston que califican.",
+      "how_to_apply_es": "Llene el cuestionario en línea o llame. También puede escribir a info@hvlp.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-community-resilience-rental-assistance",
+      "name": "Community Resilience Rental Assistance Program",
+      "organization": "Harris County Housing & Community Development",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Case management and help with resources for households at risk of eviction or homelessness.",
+      "eligibility_summary_en": "For low- to moderate-income Harris County households at risk of eviction or homelessness.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply through 2-1-1 Texas: call 2-1-1 or visit 211texas.org.",
+      "apply_url": "https://www.211texas.org/",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://hcd.harriscountytx.gov/Residents/Eviction-Prevention-Programs",
+      "confidence": "high",
+      "notes": "Listed as open. Income limits not stated. Harris County HCD Housing Support Intake: (832) 531-6041, Monday-Friday 9 a.m.-1 p.m.",
+      "description_es": "Manejo de casos y ayuda con recursos para hogares en riesgo de desalojo o de quedarse sin hogar.",
+      "eligibility_summary_es": "Para hogares del condado de Harris de ingresos bajos a moderados en riesgo de desalojo o de quedarse sin hogar.",
+      "how_to_apply_es": "Solicite por medio de 2-1-1 Texas: llame al 2-1-1 o visite 211texas.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-utility-assistance",
+      "name": "BakerRipley Utility Assistance Program",
+      "organization": "BakerRipley",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric, gas or propane bills (not water) for families with low income.",
+      "eligibility_summary_en": "For households in Harris, Brazoria and Galveston counties under the income limit (for example $23,940 for 1 person or $49,500 for 4 people).",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Social Security card for all household members",
+        "Photo ID",
+        "Proof of citizenship or legal residency",
+        "Proof of income for the last 30 days for all adults 18+",
+        "Current utility bill"
+      ],
+      "how_to_apply": "Apply online when the portal is open, or call the hotline to book an in-person appointment.",
+      "apply_url": "https://bakerripley.org/programs-and-services/utility-assistance/",
+      "phone": "(713) 590-2327",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://bakerripley.org/programs-and-services/utility-assistance/",
+      "confidence": "high",
+      "notes": "Online applications were closed when checked (capacity reached) and expected to reopen Monday, November 9; in-person appointments start Monday, October 27. One application per household per year; results within 6 weeks.",
+      "description_es": "Ayuda a pagar las cuentas de luz, gas o propano (no agua) para familias de bajos ingresos.",
+      "eligibility_summary_es": "Para hogares en los condados de Harris, Brazoria y Galveston que están bajo el límite de ingresos (por ejemplo $23,940 para 1 persona o $49,500 para 4 personas).",
+      "how_to_apply_es": "Solicite en línea cuando el portal esté abierto, o llame a la línea de ayuda para hacer una cita en persona.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "metro-houston-reduced-fares",
+      "name": "METRO Reduced Fare Programs",
+      "organization": "Metropolitan Transit Authority of Harris County (METRO)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Half-price bus and rail fares for students, seniors 65-69 and people with disabilities, and free rides for seniors 70 and older.",
+      "eligibility_summary_en": "Students (K-12 and college), seniors 65+, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Government-issued photo ID with date of birth",
+        "Students: class schedule or report card (K-12) or proof of college enrollment",
+        "Disability: doctor's statement, visible mobility disability, or service-connected Veteran ID"
+      ],
+      "how_to_apply": "Upload your documents through the METRO Online RideStore (card is mailed), or bring them to a METRO RideStore.",
+      "apply_url": "https://fares.ridemetro.org",
+      "phone": "(713) 635-4000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "50% off ($0.60 per ride) or free for 70+",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.ridemetro.org/fares",
+      "confidence": "high",
+      "notes": "No low-income/SNAP discount listed on the fares page. Phone accepts calls or texts.",
+      "description_es": "Pasajes de autobús y tren a mitad de precio para estudiantes, personas de 65 a 69 años y personas con discapacidad, y viajes gratis para personas de 70 años o más.",
+      "eligibility_summary_es": "Estudiantes (de kínder a 12.º grado y universidad), personas de 65 años o más, y personas con discapacidad.",
+      "how_to_apply_es": "Suba sus documentos en la METRO Online RideStore (le mandan la tarjeta por correo), o llévelos a una METRO RideStore.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

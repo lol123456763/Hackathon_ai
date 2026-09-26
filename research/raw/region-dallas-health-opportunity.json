@@ -1,0 +1,1236 @@
+{
+  "scope": "Dallas County (Dallas, Irving, Garland, Mesquite, Grand Prairie) - health & opportunity",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "parkland-financial-assistance",
+      "name": "Parkland Financial Assistance (PFA)",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Helps pay for care at Parkland Hospital and Parkland community health centers. It is not insurance, but it lowers what you pay for doctor visits, hospital care, and medicine.",
+      "eligibility_summary_en": "For Dallas County residents with household income below 250% of the Federal Poverty Income Level. Income and household size are checked.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 250,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of Dallas County residency",
+        "Proof of household size",
+        "Photo ID"
+      ],
+      "how_to_apply": "Apply online (new or renewal), call 214-590-8831, or go in person to Patient Financial Services at the Parkland Tower Garage. Financial counselors at Parkland health centers can also help.",
+      "apply_url": "https://www.parklandhealth.org/new-parkland-financial-assistance",
+      "phone": "(214) 590-8831",
+      "address": "Parkland Tower Garage, 2021 Medical District Drive",
+      "city": "Dallas",
+      "zip": "75235",
+      "hours": "Monday-Friday, 8 a.m.-4:30 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free to enroll; co-pays based on Parkland's patient payment chart",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/parkland-financial-assistance",
+      "confidence": "high",
+      "notes": "Parkland says it offers translation in 166 languages; the document checklist is in English and Spanish. Renewals for coverage expired less than 6 months ago use the renewal form: https://www.parklandhealth.org/renew-parkland-financial-assistance"
+    },
+    {
+      "id": "parkland-cv-roman-health-center",
+      "name": "C.V. Roman Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood health center with primary care for children and adults, such as check-ups, sick visits, and care for long-term health problems.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-5000",
+      "address": "3560 W Camp Wisdom Rd",
+      "city": "Dallas",
+      "zip": "75237",
+      "hours": "Monday-Friday, 7:30 a.m.-6 p.m. (closed major holidays)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations/irving-health-center",
+      "confidence": "high",
+      "notes": "Appointments line: (214) 266-4000. Pharmacy: (214) 266-1300. Has lab, pharmacy and radiology."
+    },
+    {
+      "id": "parkland-e-carlyle-smith-health-center",
+      "name": "E. Carlyle Smith, Jr. Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood health center with primary care for children and adults, such as check-ups, sick visits, and care for long-term health problems.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-3400",
+      "address": "801 Conover Drive",
+      "city": "Grand Prairie",
+      "zip": "75051",
+      "hours": "Monday-Thursday 7:30 a.m.-6 p.m.; Friday 7:30 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations/irving-health-center",
+      "confidence": "high",
+      "notes": "Serves Grand Prairie. Services listed include lab, radiology, women's health, family planning, nutrition, psychology/psychiatry and social work."
+    },
+    {
+      "id": "parkland-bluitt-flowers-health-center",
+      "name": "Bluitt-Flowers Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood health center with primary care for children and adults, such as check-ups, sick visits, and care for long-term health problems.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-4200",
+      "address": "303 E. Overton Road",
+      "city": "Dallas",
+      "zip": "75216",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations?taxonomy=community-oriented-primary-care-clinics",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "parkland-deharo-saldivar-health-center",
+      "name": "deHaro-Saldivar Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood health center with primary care for children and adults, such as check-ups, sick visits, and care for long-term health problems.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-0500",
+      "address": "1400 N. Westmoreland Road",
+      "city": "Dallas",
+      "zip": "75211",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations?taxonomy=community-oriented-primary-care-clinics",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "parkland-hatcher-station-health-center",
+      "name": "Hatcher Station Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood health center with primary care for children and adults, such as check-ups, sick visits, and care for long-term health problems.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-1000",
+      "address": "4600 Scyene Road",
+      "city": "Dallas",
+      "zip": "75210",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations?taxonomy=community-oriented-primary-care-clinics",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "parkland-irving-health-center",
+      "name": "Irving Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood health center with primary care for children and adults, such as check-ups, sick visits, and care for long-term health problems.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-3000",
+      "address": "1800 N. Britain Road",
+      "city": "Irving",
+      "zip": "75061",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations?taxonomy=community-oriented-primary-care-clinics",
+      "confidence": "high",
+      "notes": "Serves Irving."
+    },
+    {
+      "id": "parkland-garland-pediatric-health-center",
+      "name": "Garland Pediatric Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A Parkland neighborhood clinic for children, with check-ups, sick visits, and shots.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the health center to make an appointment. Ask a Parkland financial counselor about Parkland Financial Assistance if you have no insurance.",
+      "apply_url": null,
+      "phone": "(214) 266-0700",
+      "address": "601 Clara Barton Blvd, Suite 200",
+      "city": "Garland",
+      "zip": "75042",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations?taxonomy=community-oriented-primary-care-clinics",
+      "confidence": "high",
+      "notes": "Pediatric (children's) clinic. The listing shows the same phone number as the Garland Health Center."
+    },
+    {
+      "id": "parkland-garland-health-center",
+      "name": "Garland Health Center",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A Parkland neighborhood health center with check-ups, sick visits, chronic disease care, a walk-in clinic, behavioral health, eye care, mammograms, lab, X-ray, and pharmacy.",
+      "eligibility_summary_en": "Open to the public. Uninsured Dallas County residents can apply for Parkland Financial Assistance to lower costs.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number for an appointment or use the walk-in clinic during walk-in hours. Financial counselors on site can help you apply for Parkland Financial Assistance.",
+      "apply_url": null,
+      "phone": "(214) 266-0700",
+      "address": "802 Hopkins Street",
+      "city": "Garland",
+      "zip": "75040",
+      "hours": "Monday-Friday 7 a.m.-6 p.m., Saturday 8 a.m.-5 p.m. Walk-in clinic: Monday-Friday 8 a.m.-4 p.m., Saturday 8 a.m.-5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding costs with Parkland Financial Assistance; insurance accepted",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/locations/garland-health-center-6",
+      "confidence": "high",
+      "notes": "Pharmacy: (214) 266-0662. Financial Services hours: Monday-Thursday 9 a.m.-6 p.m., Friday 9 a.m.-5 p.m."
+    },
+    {
+      "id": "los-barrios-unidos-community-clinic",
+      "name": "Los Barrios Unidos Community Clinic (LBU)",
+      "organization": "Los Barrios Unidos Community Clinic, Inc.",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center with family medicine, children's care, women's health, prenatal care, dental, behavioral health, pharmacy, and WIC. It has clinics in West Dallas, Oak Cliff, and South Oak Cliff.",
+      "eligibility_summary_en": "Open to the community, including people without insurance. Staff can help you find out if you qualify for insurance or other help.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 540-0300 to make an appointment. School and sports physicals do not need an appointment. For help with insurance or eligibility, call (214) 752-8204.",
+      "apply_url": null,
+      "phone": "(214) 540-0300",
+      "address": "809 Singleton Blvd.",
+      "city": "Dallas",
+      "zip": "75212",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee may be available; call to ask",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://lbucommunityclinic.org/about-us/",
+      "confidence": "high",
+      "notes": "Other sites: LBU Pediatrics, 3111 Sylvan Ave., Dallas 75212; LBU Oak Cliff, 4732 W Illinois Ave., Dallas 75211; LBU South Oak Cliff, 5787 S Hampton Rd. #365, Dallas 75232; T.D. Marshall school-based clinic, 915 Brookmere Dr., Dallas 75216. WIC appointments: (214) 761-0956. Hours were not listed on the official page."
+    },
+    {
+      "id": "hhm-health-vickery",
+      "name": "HHM Health Vickery Health Center",
+      "organization": "Healing Hands Ministries, Inc. (HHM Health)",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "An HHM Health (Healing Hands Ministries) community health center with medical care for adults and children, and other services.",
+      "eligibility_summary_en": "Open to everyone, including people without insurance, people who cannot pay, and refugees. Everyone must enroll as a patient.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to enroll as a patient and make an appointment. Online booking is also offered on the HHM Health website.",
+      "apply_url": "https://www.hhmhealth.org/our-services/",
+      "phone": "(214) 221-0855",
+      "address": "5750 Pineland Dr",
+      "city": "Dallas",
+      "zip": "75231",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Low cost; accepts people without the ability to pay; call to ask about fees",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.hhmhealth.org/locations/",
+      "confidence": "high",
+      "notes": "Main HHM Health phone. Services across HHM Health include adult medicine, pediatrics, women's health, behavioral health, psychiatry, dental, vision, pharmacy ($4 generic drugs) and imaging. HHM Health says translators for various languages are available."
+    },
+    {
+      "id": "hhm-health-mesquite",
+      "name": "HHM Health at Mesquite",
+      "organization": "Healing Hands Ministries, Inc. (HHM Health)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "An HHM Health (Healing Hands Ministries) community health center with medical care for adults and children, and other services.",
+      "eligibility_summary_en": "Open to everyone, including people without insurance, people who cannot pay, and refugees. Everyone must enroll as a patient.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to enroll as a patient and make an appointment. Online booking is also offered on the HHM Health website.",
+      "apply_url": "https://www.hhmhealth.org/our-services/",
+      "phone": "(972) 354-8714",
+      "address": "4550 Gus Thomasson Rd, Ste. 40",
+      "city": "Mesquite",
+      "zip": "75150",
+      "hours": "Monday-Friday 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Low cost; accepts people without the ability to pay; call to ask about fees",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.hhmhealth.org/locations/",
+      "confidence": "high",
+      "notes": "Serves Mesquite. HHM Health says translators for various languages are available."
+    },
+    {
+      "id": "hhm-health-dental-center",
+      "name": "HHM Health Dental Center",
+      "organization": "Healing Hands Ministries, Inc. (HHM Health)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "An HHM Health dental clinic for cleanings and other dental care.",
+      "eligibility_summary_en": "Open to everyone, including people without insurance, people who cannot pay, and refugees. Everyone must enroll as a patient.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to enroll as a patient and make an appointment. Online booking is also offered on the HHM Health website.",
+      "apply_url": "https://www.hhmhealth.org/our-services/",
+      "phone": "(214) 221-0855",
+      "address": "4550 Gus Thomasson Rd, Ste. 36",
+      "city": "Mesquite",
+      "zip": "75150",
+      "hours": "Monday-Friday 8:00am-5:00pm (closed 12-1pm for lunch)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Low cost; accepts people without the ability to pay; call to ask about fees",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.hhmhealth.org/locations/",
+      "confidence": "high",
+      "notes": "Dental care. Phone extension 3500. HHM Health says translators for various languages are available."
+    },
+    {
+      "id": "hhm-health-south-dallas",
+      "name": "HHM Health at South Dallas",
+      "organization": "Healing Hands Ministries, Inc. (HHM Health)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "An HHM Health (Healing Hands Ministries) community health center with medical care for adults and children, and other services.",
+      "eligibility_summary_en": "Open to everyone, including people without insurance, people who cannot pay, and refugees. Everyone must enroll as a patient.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call to enroll as a patient and make an appointment. Online booking is also offered on the HHM Health website.",
+      "apply_url": "https://www.hhmhealth.org/our-services/",
+      "phone": "(972) 354-8712",
+      "address": "3639 Holmes Street",
+      "city": "Dallas",
+      "zip": "75215",
+      "hours": "Monday-Friday 8 AM-5 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Low cost; accepts people without the ability to pay; call to ask about fees",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.hhmhealth.org/locations/",
+      "confidence": "high",
+      "notes": "HHM Health says translators for various languages are available."
+    },
+    {
+      "id": "agape-multidisciplinary-clinic",
+      "name": "Agape Multidisciplinary Clinic",
+      "organization": "Agape Clinic with UT Southwestern students",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A free evening clinic for adults and children. It offers check-ups, diabetes and blood pressure care, flu shots, and some medicines when available.",
+      "eligibility_summary_en": "Open to anyone. There are no income, zip code, or insurance requirements.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Contact the clinic to ask about the next clinic night. Only a few patients (3-6) are seen each clinic.",
+      "apply_url": null,
+      "phone": null,
+      "address": "4104 Junius St.",
+      "city": "Dallas",
+      "zip": "75246",
+      "hours": "6-9 p.m., bi-weekly (1 pediatric and 1 family medicine clinic per month)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.utsouthwestern.edu/departments/family-community-medicine/community/student-run-free-clinics/sites/agape-multidisciplinary-clinic.html",
+      "confidence": "high",
+      "notes": "Student-run clinic with limited capacity; not for emergencies. The UTSW page lists only an email contact for the clinic coordinator."
+    },
+    {
+      "id": "city-of-dallas-wic",
+      "name": "City of Dallas WIC Program",
+      "organization": "City of Dallas",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food benefits on an EBT card, nutrition classes, and breastfeeding help to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "For pregnant women, new mothers, infants, and children under 5 who live in Dallas County, meet income rules, and have a nutrition need. U.S. citizenship is not required.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 214-670-7200 or text 1-855-957-5424 to find a clinic and make an appointment.",
+      "apply_url": null,
+      "phone": "(214) 670-7200",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "http://dallascityhall.com/departments/community-empowerment/Pages/womeninfantsandchildrenwic.aspx",
+      "confidence": "high",
+      "notes": "Runs 16 clinics across Dallas County; many open six days a week. Email: ASKWIC@dallas.gov."
+    },
+    {
+      "id": "ntbha-crisis-line",
+      "name": "NTBHA 24/7 Crisis Line and Behavioral Health Services",
+      "organization": "North Texas Behavioral Health Authority (NTBHA)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24/7 crisis line for mental health and substance use emergencies. NTBHA also connects people to mental health treatment, recovery services, and help paying for medicine.",
+      "eligibility_summary_en": "For people of all ages, whether or not they can pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call 866-260-8000 any time. To get care in Dallas County, call (800) 241-8716 or email CCReferrals@ntbha.org.",
+      "apply_url": null,
+      "phone": "(866) 260-8000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7 crisis line",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free crisis line; services regardless of ability to pay",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://ntbha.org/",
+      "confidence": "high",
+      "notes": "Also serves Ellis, Hunt, Kaufman, Navarro and Rockwall counties. Second crisis number: (844) 672-5700. General line/text: (214) 366-9407. Dallas County care coordination: (800) 241-8716."
+    },
+    {
+      "id": "metrocare-services",
+      "name": "Metrocare Services",
+      "organization": "Metrocare Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The largest mental health provider in Dallas County. It offers counseling, psychiatric care, substance use treatment, and services for people with intellectual and developmental disabilities or autism, for children and adults.",
+      "eligibility_summary_en": "For children, teens, and adults in the Dallas area, including veterans and people who are homeless. No referral is needed.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Metrocare and ask for the Connect Center, which guides new patients to the right service. No referral is needed.",
+      "apply_url": "https://www.metrocareservices.org/locations/",
+      "phone": "(214) 743-1200",
+      "address": "3242 Remond Drive",
+      "city": "Dallas",
+      "zip": "75211",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.metrocareservices.org/locations/",
+      "confidence": "high",
+      "notes": "Toll-free: (877) 283-2121. For a mental health crisis, call the NTBHA crisis line (866) 260-8000. Metrocare Primary Care closed May 31, 2026 - do not refer for primary medical care. Garland ISD lists (214) 221-5433 and (972) 861-5611 for Metrocare."
+    },
+    {
+      "id": "suicide-crisis-center-north-texas",
+      "name": "Suicide & Crisis Center of North Texas 24-Hour Crisis Line",
+      "organization": "Suicide & Crisis Center of North Texas",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A free, private 24/7 phone line where trained volunteers listen and help people who are thinking about suicide or are in a mental health crisis.",
+      "eligibility_summary_en": "Anyone in crisis can call, including people with depression, anxiety, PTSD, or substance use concerns.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 214-828-1000 any time, day or night.",
+      "apply_url": null,
+      "phone": "(214) 828-1000",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.sccenter.org/programs-and-services/24-hour-crisis-line/",
+      "confidence": "high",
+      "notes": "Also offers crisis debriefing, teen suicide prevention education, and support for suicide loss survivors. For an emergency call 911 or 988."
+    },
+    {
+      "id": "nami-north-texas",
+      "name": "NAMI North Texas",
+      "organization": "National Alliance on Mental Illness North Texas",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Offers support groups, classes, and peer support for people with mental illness and their families.",
+      "eligibility_summary_en": "For adults, youth, and families affected by mental health conditions.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 341-7133 or check the website for support group and class schedules.",
+      "apply_url": "https://naminorthtexas.org/",
+      "phone": "(214) 341-7133",
+      "address": "2904 Swiss Ave",
+      "city": "Dallas",
+      "zip": "75204",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://naminorthtexas.org/",
+      "confidence": "high",
+      "notes": "Also serves Rockwall, Denton and Collin counties. Not a crisis line. Email: info@NAMINorthTexas.org. Cost not listed on the page."
+    },
+    {
+      "id": "wfs-greater-dallas-child-care-services",
+      "name": "Child Care Services (Child Care Assistance) - Dallas County",
+      "organization": "Workforce Solutions Greater Dallas with ChildCareGroup",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, look for work, or go to school or training. Families choose a licensed or registered child care provider.",
+      "eligibility_summary_en": "For Dallas County families who meet federal income rules and need care while working, job hunting, or in school.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "New families apply online through Texas Child Care Connection (TX3C). You can also get help at a Workforce Solutions Greater Dallas center or by calling ChildCareGroup's child care assistance line.",
+      "apply_url": "https://childcare.twc.texas.gov/",
+      "phone": "(214) 630-5949",
+      "address": "3000 Pegasus Park Drive, Suite 800",
+      "city": "Dallas",
+      "zip": "75247",
+      "hours": "Monday-Friday 7:30 AM-5:30 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply; parent share of cost may apply",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://cca.childcaregroup.org/",
+      "confidence": "high",
+      "notes": "Since Jan 13, 2025 new applications go through the statewide Texas Child Care Connection. ChildCareGroup main line: (214) 630-7911 (source: https://www.childcaregroup.org/). There may be a waiting list. Workforce Solutions Greater Dallas child care office listed at 801 S State Hwy 161 Ste 500, Grand Prairie 75051, (972) 264-5881."
+    },
+    {
+      "id": "head-start-of-greater-dallas",
+      "name": "Head Start and Early Head Start of Greater Dallas",
+      "organization": "Head Start of Greater Dallas, Inc.",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning programs for babies, toddlers, and preschoolers, with health, nutrition, and family support services.",
+      "eligibility_summary_en": "For Dallas County families with low income. Early Head Start serves ages 0-3 and Head Start serves ages 3-5. Families who are homeless, in foster care, or on TANF or SSI can also qualify.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "max_age": 5,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Proof of income (such as tax forms or benefit statements)"
+      ],
+      "how_to_apply": "Apply online or call the enrollment line at 1-866-474-3338. Enrollment is open all year.",
+      "apply_url": "https://hero.hsgd.org/HSGDcISOnline/index.html#login",
+      "phone": "(866) 474-3338",
+      "address": "3954 Gannon Lane",
+      "city": "Dallas",
+      "zip": "75237",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://hsgd.org/programs/",
+      "confidence": "high",
+      "notes": "General office: (972) 283-6400 (source: https://hsgd.org/contact-us/). Enrollment number is written 1-866-HSGD-EDU."
+    },
+    {
+      "id": "dallas-isd-food-child-nutrition-services",
+      "name": "Dallas ISD Food and Child Nutrition Services",
+      "organization": "Dallas Independent School District",
+      "categories": [
+        "school_childcare",
+        "food"
+      ],
+      "description_en": "Runs school breakfast and lunch for Dallas ISD students and can answer questions about school meals and meal accounts.",
+      "eligibility_summary_en": "For students enrolled in Dallas ISD schools and their families.",
+      "eligibility_rules": {
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Food and Child Nutrition Services at (972) 925-3700 with questions about school meals.",
+      "apply_url": null,
+      "phone": "(972) 925-3700",
+      "address": "9400 N. Central Expressway",
+      "city": "Dallas",
+      "zip": "75231",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies; ask the district",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallasisd.org/fcns",
+      "confidence": "medium",
+      "notes": "The page did not describe the free/reduced meal application or whether meals are free for all students; confirm with the district."
+    },
+    {
+      "id": "wfs-dallas-garland-center",
+      "name": "Garland Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(972) 276-8361",
+      "address": "530 Clara Barton Blvd., Suite 270 (2nd Floor)",
+      "city": "Garland",
+      "zip": "75042",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-grand-prairie-center",
+      "name": "Grand Prairie Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(972) 264-5881",
+      "address": "801 State Highway 161 (5th Floor)",
+      "city": "Grand Prairie",
+      "zip": "75051",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-greenville-avenue-center",
+      "name": "Greenville Avenue Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(214) 378-2600",
+      "address": "6500 Greenville Avenue, Suite 250 (2nd Floor)",
+      "city": "Dallas",
+      "zip": "75206",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-international-district-center",
+      "name": "International District Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(972) 388-5600",
+      "address": "5757 Alpha Road, Suite 800 (8th Floor)",
+      "city": "Dallas",
+      "zip": "75240",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-irving-center",
+      "name": "Irving Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(972) 573-3500",
+      "address": "2110 W. Walnut Hill Lane, Suite 100",
+      "city": "Irving",
+      "zip": "75038",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-irving-south-center",
+      "name": "Irving South Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(972) 573-3600",
+      "address": "1081 W. Shady Grove Road",
+      "city": "Irving",
+      "zip": "75060",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711. Located at Dallas College Irving South campus."
+    },
+    {
+      "id": "wfs-dallas-opportunity-center",
+      "name": "Opportunity Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(469) 802-1800",
+      "address": "1610 S. Malcolm X Boulevard",
+      "city": "Dallas",
+      "zip": "75226",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-pleasant-grove-center",
+      "name": "Pleasant Grove Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(469) 687-3400",
+      "address": "1125 S. Buckner Boulevard",
+      "city": "Dallas",
+      "zip": "75217",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "wfs-dallas-redbird-center",
+      "name": "Redbird Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A Workforce Solutions Greater Dallas center that offers free help finding a job, career coaching, resume help, job training, and child care assistance information.",
+      "eligibility_summary_en": "Open to job seekers, including youth, adults, veterans, and people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": "https://www.wfsdallas.com/",
+      "phone": "(972) 709-5377",
+      "address": "3560 W. Camp Wisdom Road, Suite 110",
+      "city": "Dallas",
+      "zip": "75237",
+      "hours": "Monday-Friday, 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Workforce Solutions Greater Dallas call center: (214) 624-7444; main line (214) 290-1000. Auxiliary aids available for people with disabilities; Relay Texas 711."
+    },
+    {
+      "id": "dallas-college-workreadyu",
+      "name": "WorkReadyU (Adult Education, GED, ESL and Job Training)",
+      "organization": "Dallas College",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Offers job training for in-demand careers, GED classes, a high school diploma option, and English (ESL) classes for adults.",
+      "eligibility_summary_en": "For Dallas County residents who do not have a U.S. bachelor's degree. You need a valid photo ID; students under 18 need parent paperwork.",
+      "eligibility_rules": {
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Valid photo ID",
+        "Parent documentation if under 18"
+      ],
+      "how_to_apply": "Fill out the Workforce and Continuing Education Interest Form on the Dallas College website or call 972-669-6400.",
+      "apply_url": "https://www.dallascollege.edu/cd/workreadyu/",
+      "phone": "(972) 669-6400",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Grant-funded; ask about costs",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascollege.edu/cd/workreadyu/",
+      "confidence": "high",
+      "notes": "Offered at seven Dallas College campuses: Brookhaven, Cedar Valley, Eastfield, El Centro, Mountain View, North Lake, Richland."
+    },
+    {
+      "id": "legal-aid-northwest-texas-dallas",
+      "name": "Legal Aid of NorthWest Texas - Dallas Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help with family law, housing and eviction, public benefits, consumer debt, wills, employment, and more.",
+      "eligibility_summary_en": "For people with low income who have a civil (not criminal) legal problem in a county served. Most applicants must be U.S. citizens or lawful permanent residents, with exceptions for some immigrant survivors of crime or abuse.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the Legal Aid Line at 1-888-529-5277, Monday-Friday 8 a.m.-5 p.m.",
+      "apply_url": "https://lanwtoi.legalserver.org",
+      "phone": "(214) 748-1234",
+      "address": "1515 Main St.",
+      "city": "Dallas",
+      "zip": "75201",
+      "hours": "Monday-Friday, 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://legalaidtx.org/locations/dallas/",
+      "confidence": "high",
+      "notes": "Statewide intake line: 1-888-529-5277. People on SNAP, Medicaid, SSI, WIC or in subsidized housing are presumed income-eligible (https://legalaidtx.org/get-help/am-i-eligible-for-legal-aid/). Does not handle criminal or personal injury cases."
+    },
+    {
+      "id": "legal-aid-landlord-tenant-hotline",
+      "name": "Landlord-Tenant Hotline and Eviction Help",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "A free phone line for renters facing eviction, lockouts, repair problems, or other landlord issues. Legal Aid also runs eviction clinics in Dallas justice court areas.",
+      "eligibility_summary_en": "For low-income renters in the Legal Aid of NorthWest Texas service area, including Dallas County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-855-548-8457 Monday-Friday 8 a.m.-5 p.m. If you have court papers, have them ready when you call.",
+      "apply_url": "https://lanwtoi.legalserver.org",
+      "phone": "(855) 548-8457",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://legalaidtx.org/",
+      "confidence": "high",
+      "notes": "Act fast after receiving an eviction notice or court citation."
+    },
+    {
+      "id": "dallas-volunteer-attorney-program",
+      "name": "Dallas Volunteer Attorney Program (DVAP)",
+      "organization": "Dallas Volunteer Attorney Program (with Legal Aid of NorthWest Texas and the Dallas Bar Association)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Volunteer lawyers give free civil legal help at neighborhood clinics, including family law, housing, landlord-tenant, employment, wills, expunctions, bankruptcy, and veterans benefits.",
+      "eligibility_summary_en": "For low-income Dallas County residents. Eligibility is checked at the clinic. Criminal and personal injury cases are not handled.",
+      "eligibility_rules": {
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Copies of any legal papers (for example, if you have been sued)"
+      ],
+      "how_to_apply": "Go to a DVAP legal clinic and bring your legal papers. An attorney will interview you and decide if DVAP can help further.",
+      "apply_url": "https://www.dallasvolunteerattorneyprogram.org/",
+      "phone": "(214) 243-2236",
+      "address": "1515 Main Street",
+      "city": "Dallas",
+      "zip": "75201",
+      "hours": "Monday-Friday, 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallasvolunteerattorneyprogram.org/",
+      "confidence": "high",
+      "notes": "Clinic sites include MLK Community Center (2922 Martin Luther King Jr. Blvd), West Dallas Multipurpose Center (2828 Fish Trap Rd), Grace United Methodist Church (4105 Junius St), and a veterans clinic at the VA Medical Center (4500 S. Lancaster Rd). Check the website for clinic dates."
+    },
+    {
+      "id": "human-rights-initiative-north-texas",
+      "name": "Human Rights Initiative of North Texas",
+      "organization": "Human Rights Initiative of North Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Gives immigration legal services and social services to immigrants, including survivors of abuse and people seeking safety.",
+      "eligibility_summary_en": "For immigrants in North Texas who need immigration legal help. Help is by appointment only.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 214-855-0520 to ask for an appointment.",
+      "apply_url": null,
+      "phone": "(214) 855-0520",
+      "address": "2914 Swiss Avenue",
+      "city": "Dallas",
+      "zip": "75204",
+      "hours": "Monday-Thursday, 9:00 AM-12:00 PM and 1:00 PM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.hrionline.org/",
+      "confidence": "high",
+      "notes": "Appointment only. Cost not listed on the homepage; ask when calling."
+    },
+    {
+      "id": "dallas-county-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP) - Dallas County",
+      "organization": "Dallas County Health and Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills and can repair or provide heating and cooling units in a crisis.",
+      "eligibility_summary_en": "For Dallas County residents with household income at or below 150% of the federal poverty guideline, based on the last 30 days of income.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Proof of all household income for the last 30 days",
+        "Photo ID",
+        "Social Security numbers for all household members",
+        "Proof of citizenship or legal status"
+      ],
+      "how_to_apply": "Call (214) 819-1848 to schedule an appointment. No walk-ins.",
+      "apply_url": null,
+      "phone": "(214) 819-1848",
+      "address": "2377 N. Stemmons Freeway, 2nd Floor, Suite 201",
+      "city": "Dallas",
+      "zip": "75207",
+      "hours": "Monday-Friday, 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascounty.org/departments/dchhs/human-services/ceap.php",
+      "confidence": "high",
+      "notes": "First-come, first-served; high demand means long waits on the phone. Full document list: https://www.dallascounty.org/Assets/uploads/docs/hhs/ceap/CEAP%20Program%20Requirements_2026.pdf."
+    },
+    {
+      "id": "dart-discount-gopass",
+      "name": "DART Discount GoPass Tap Card",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Gives people on certain assistance programs 50% off regular local DART bus and train fares.",
+      "eligibility_summary_en": "For people enrolled in SNAP, Medicaid, CHIP, Medicare, TANF, WIC, CEAP, Dallas Housing Authority or Housing Choice Voucher, or Parkland Financial Assistance.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current benefit card or agency letter with your name and expiration date",
+        "Headshot photo",
+        "Email address (optional)"
+      ],
+      "how_to_apply": "Register online on the DART website or call 972-482-4052. The card is mailed within about 15 business days.",
+      "apply_url": "https://www.dart.org/fare/general-fares-and-overview/discount-gopass-tap-card",
+      "phone": "(972) 482-4052",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free card; $6 minimum first load",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dart.org/fare/general-fares-and-overview/discount-gopass-tap-card",
+      "confidence": "high",
+      "notes": "The card expires when the qualifying benefit expires. Renew at DARTmart at Akard Station. DART serves Dallas, Irving, Garland and other member cities."
+    }
+  ]
+}

@@ -1,0 +1,1485 @@
+{
+  "scope": "East & Southeast Texas (Smith, Gregg, Angelina, Nacogdoches, Jefferson counties; Tyler, Longview, Lufkin, Beaumont, Port Arthur)",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "east-texas-food-bank",
+      "name": "East Texas Food Bank",
+      "organization": "East Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank that supplies food pantries, produce distributions and other feeding programs across East Texas. Its online Find Food tool shows the pantry nearest you.",
+      "eligibility_summary_en": "Anyone in the food bank's East Texas service area who needs food can use the Find Food tool to locate help.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Go to the Find Food page and enter your address, city or ZIP code to see pantries and food distributions near you, or call the food bank.",
+      "apply_url": "https://www.easttexasfoodbank.org/findfood",
+      "phone": "(903) 597-3663",
+      "address": "3201 Robertson Road",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg",
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.easttexasfoodbank.org/findfood",
+      "confidence": "high",
+      "notes": "Serves 26-27 East Texas counties including Smith, Gregg, Angelina and Nacogdoches. Runs resource centers in Tyler, Longview, Lufkin and Texarkana."
+    },
+    {
+      "id": "etfb-tyler-resource-center",
+      "name": "Tyler Resource Center (Food Pantry and Benefits Help)",
+      "organization": "East Texas Food Bank",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "utilities"
+      ],
+      "description_en": "Client food pantry with shelf-stable food, meat and fresh produce. Staff also help you apply for SNAP, Medicaid, TANF, CHIP and other programs, and offer utility assistance and nutrition classes.",
+      "eligibility_summary_en": "Households at or below the TEFAP (The Emergency Food Assistance Program) income guidelines, plus people going through a crisis. All are welcome regardless of where they live. You may visit the pantry twice a month.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "No papers required: you verbally share name, address, household size, date of birth and monthly income"
+      ],
+      "how_to_apply": "Walk in during pantry hours and tell staff your name, address, household size, date of birth and monthly income. Benefits application help is by appointment.",
+      "apply_url": null,
+      "phone": "(903) 270-0168",
+      "address": "3201 Robertson Road",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": "Mon-Thu 12:00 p.m.-6:30 p.m.; Fri 12:00 p.m.-2:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.easttexasfoodbank.org/tyler/",
+      "confidence": "high",
+      "notes": "Pantry use limited to twice per month. Benefits Assistance is by appointment."
+    },
+    {
+      "id": "etfb-longview-resource-center",
+      "name": "Longview Resource Center (Food Pantry and Benefits Help)",
+      "organization": "East Texas Food Bank",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "utilities"
+      ],
+      "description_en": "Food pantry with shelf-stable food, meat and fresh produce. Staff also help with SNAP, Medicaid, TANF, CHIP and Medicare applications, utility assistance and referrals.",
+      "eligibility_summary_en": "All are welcome. Serves households at or below TEFAP income guidelines and people in crisis. You may visit the pantry twice a month.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during open hours. The center is on Longview Transit Route 1.",
+      "apply_url": null,
+      "phone": "(903) 204-4400",
+      "address": "2900 Signal Hill Dr.",
+      "city": "Longview",
+      "zip": "75602",
+      "hours": "Tue-Thu 10:30 a.m.-1:30 p.m. and 3:30 p.m.-5:30 p.m.; Fri 10:30 a.m.-3:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://www.easttexasfoodbank.org/longview/",
+      "confidence": "high",
+      "notes": "Reachable by Longview Transit Route 1. Pantry visits limited to twice monthly."
+    },
+    {
+      "id": "etfb-deep-east-texas-resource-center-lufkin",
+      "name": "Deep East Texas Resource Center (Lufkin Food Pantry and Benefits Help)",
+      "organization": "East Texas Food Bank",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "utilities"
+      ],
+      "description_en": "Food pantry plus help applying for SNAP, Medicaid and other benefits. Also offers utility assistance and nutrition education.",
+      "eligibility_summary_en": "Welcomes all community members regardless of where they live. You may visit the pantry twice a month.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during open hours or call the center.",
+      "apply_url": null,
+      "phone": "(936) 238-3291",
+      "address": "105 Lofton St.",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": "Tue-Thu 10:30 a.m.-1:30 p.m. and 3:30 p.m.-5:30 p.m.; Fri 10:30 a.m.-3:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.easttexasfoodbank.org/lufkin/",
+      "confidence": "high",
+      "notes": "Located in Lufkin; the page says it welcomes all regardless of where they live, so Nacogdoches residents can also use it."
+    },
+    {
+      "id": "southeast-texas-food-bank",
+      "name": "Southeast Texas Food Bank",
+      "organization": "Southeast Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank for Southeast Texas. It helps you find the nearest food pantry or other emergency food source in your county.",
+      "eligibility_summary_en": "Residents of its 8-county service area, which includes Jefferson County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the food bank or use the Get Help section of its website, which lists partner agencies by county.",
+      "apply_url": null,
+      "phone": "(409) 839-8777",
+      "address": "3845 S. ML King Jr. Parkway",
+      "city": "Beaumont",
+      "zip": "77705",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.setxfoodbank.org/",
+      "confidence": "high",
+      "notes": "Toll free (844) 356-9084. Serves Hardin, Jasper, Jefferson, Newton, Orange, Polk, Sabine and Tyler counties."
+    },
+    {
+      "id": "ccsetx-market-to-hope",
+      "name": "Market to HOPE Food Pantry",
+      "organization": "Catholic Charities of Southeast Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Client-choice food pantry where you shop for groceries including fresh produce, protein and dairy. Open six days a week with evening hours for working families.",
+      "eligibility_summary_en": "Low-to-moderate income households facing food insecurity, and people with a temporary hardship. Open to all regardless of religion.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Beaumont location or call the program to learn how to sign up.",
+      "apply_url": null,
+      "phone": "(409) 924-4436",
+      "address": "3370 Sarah Street",
+      "city": "Beaumont",
+      "zip": null,
+      "hours": "Open six days a week, including evening hours (call for exact times)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.ccsetx.org/market-to-hope--help-other-people-eat",
+      "confidence": "high",
+      "notes": "Shopping help is available for people with physical disabilities. A second location is in Winnie (902 E. 3rd Street). Main Catholic Charities line: (409) 924-4400."
+    },
+    {
+      "id": "ccsetx-hospitality-center",
+      "name": "Hospitality Center Daily Hot Meal",
+      "organization": "Catholic Charities of Southeast Texas",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Serves a free, freshly made hot meal every day of the year in Port Arthur.",
+      "eligibility_summary_en": "Anyone in need, including seniors on fixed incomes, working people, people with disabilities and people experiencing homelessness.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Just come to the Hospitality Center at meal time. No application is described.",
+      "apply_url": null,
+      "phone": "(409) 924-4406",
+      "address": "3959 Gulfway Drive",
+      "city": "Port Arthur",
+      "zip": null,
+      "hours": "Open 7 days a week, 365 days a year (call for meal time)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.ccsetx.org/hospitality-center-program",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "getcap-ceap-smith-county",
+      "name": "Energy Assistance (CEAP) - Smith County",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills through the state Comprehensive Energy Assistance Program (CEAP), with case management and energy education.",
+      "eligibility_summary_en": "Low-income households. Priority goes to households with high energy use, children age 5 or younger, seniors, and people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Smith County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online by scheduling an appointment, download a paper application (English or Spanish), or call your county office. Text 936-553-0318 to check application status.",
+      "apply_url": "https://get-cap.org/energy-assistance/",
+      "phone": "(903) 962-2670",
+      "address": "1010 W SW Loop 323",
+      "city": "Tyler",
+      "zip": "75701",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "Processing can take 60-90 days after all documents are received; keep paying your bills while you wait. TDHCA's provider lookup lists GETCAP as the CEAP provider for this county (toll free (800) 621-5746). Income limits were not stated on the page."
+    },
+    {
+      "id": "getcap-ceap-gregg-county",
+      "name": "Energy Assistance (CEAP) - Gregg County",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills through the state Comprehensive Energy Assistance Program (CEAP), with case management and energy education.",
+      "eligibility_summary_en": "Low-income households. Priority goes to households with high energy use, children age 5 or younger, seniors, and people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Gregg County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online by scheduling an appointment, download a paper application (English or Spanish), or call your county office. Text 936-553-0318 to check application status.",
+      "apply_url": "https://get-cap.org/energy-assistance/",
+      "phone": "(903) 758-5674",
+      "address": "1121 Judson Road, Suite 145",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "Processing can take 60-90 days after all documents are received; keep paying your bills while you wait. TDHCA's provider lookup lists GETCAP as the CEAP provider for this county (toll free (800) 621-5746). Income limits were not stated on the page."
+    },
+    {
+      "id": "getcap-ceap-angelina-county",
+      "name": "Energy Assistance (CEAP) - Angelina County",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills through the state Comprehensive Energy Assistance Program (CEAP), with case management and energy education.",
+      "eligibility_summary_en": "Low-income households. Priority goes to households with high energy use, children age 5 or younger, seniors, and people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Angelina County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online by scheduling an appointment, download a paper application (English or Spanish), or call your county office. Text 936-553-0318 to check application status.",
+      "apply_url": "https://get-cap.org/energy-assistance/",
+      "phone": "(936) 899-7238",
+      "address": "303 East Denman Ave, Suite A",
+      "city": "Lufkin",
+      "zip": "75901",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "Processing can take 60-90 days after all documents are received; keep paying your bills while you wait. TDHCA's provider lookup lists GETCAP as the CEAP provider for this county (toll free (800) 621-5746). Income limits were not stated on the page."
+    },
+    {
+      "id": "getcap-ceap-nacogdoches-county",
+      "name": "Energy Assistance (CEAP) - Nacogdoches County",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills through the state Comprehensive Energy Assistance Program (CEAP), with case management and energy education.",
+      "eligibility_summary_en": "Low-income households. Priority goes to households with high energy use, children age 5 or younger, seniors, and people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Nacogdoches County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online by scheduling an appointment, download a paper application (English or Spanish), or call your county office. Text 936-553-0318 to check application status.",
+      "apply_url": "https://get-cap.org/energy-assistance/",
+      "phone": "(800) 621-5746",
+      "address": "206 Mimms Ave",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nacogdoches"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "Processing can take 60-90 days after all documents are received; keep paying your bills while you wait. TDHCA's provider lookup lists GETCAP as the CEAP provider for this county (toll free (800) 621-5746). Income limits were not stated on the page."
+    },
+    {
+      "id": "getcap-ceap-jefferson-county",
+      "name": "Energy Assistance (CEAP) - Jefferson County",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills through the state Comprehensive Energy Assistance Program (CEAP), with case management and energy education.",
+      "eligibility_summary_en": "Low-income households. Priority goes to households with high energy use, children age 5 or younger, seniors, and people with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "Jefferson County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online by scheduling an appointment, download a paper application (English or Spanish), or call your county office. Text 936-553-0318 to check application status.",
+      "apply_url": "https://get-cap.org/energy-assistance/",
+      "phone": "(409) 247-6270",
+      "address": "1110 Calder Ave",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "Processing can take 60-90 days after all documents are received; keep paying your bills while you wait. TDHCA's provider lookup lists GETCAP as the CEAP provider for this county (toll free (800) 621-5746). Income limits were not stated on the page."
+    },
+    {
+      "id": "getcap-weatherization",
+      "name": "Weatherization Assistance Program",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Makes homes more energy efficient to help lower utility bills.",
+      "eligibility_summary_en": "Low-income households in GETCAP's service area. Exact income limits were not stated on the page.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the GETCAP energy assistance office for your county; weatherization is offered at the same offices.",
+      "apply_url": "https://get-cap.org/weatherization/",
+      "phone": "(800) 621-5746",
+      "address": "206 Mimms Ave",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg",
+        "Angelina",
+        "Nacogdoches",
+        "Jefferson"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "County offices: Tyler (903) 962-2670; Longview (903) 758-5674; Lufkin (936) 899-7238; Beaumont (409) 247-6270."
+    },
+    {
+      "id": "getcap-head-start",
+      "name": "Head Start and Early Head Start",
+      "organization": "Greater East Texas Community Action Program (GETCAP)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning program for young children from income-eligible families, with centers in Tyler and Nacogdoches.",
+      "eligibility_summary_en": "Young children and families who meet Head Start income rules (details not stated on the page).",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Head Start center in your county to ask about enrollment.",
+      "apply_url": "https://get-cap.org/head-start/",
+      "phone": "(903) 962-2620",
+      "address": "4000 South Park Drive",
+      "city": "Tyler",
+      "zip": "75703",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Nacogdoches"
+      ],
+      "source_url": "https://get-cap.org/location-by-program/",
+      "confidence": "high",
+      "notes": "Nacogdoches center: 1902 Old Tyler Road, Nacogdoches, TX 75964, (936) 564-1142."
+    },
+    {
+      "id": "ccsetx-home-matters",
+      "name": "Home Matters (Rent, Utility and Food Assistance)",
+      "organization": "Catholic Charities of Southeast Texas",
+      "categories": [
+        "housing",
+        "utilities",
+        "cash_assistance",
+        "food"
+      ],
+      "description_en": "Helps pay rent, utilities and food for people facing a temporary hardship. Also offers rental housing counseling, money skills coaching and free tax preparation.",
+      "eligibility_summary_en": "People in the nine-county Southeast Texas service area (including Jefferson County) facing a temporary hardship. Open to all regardless of religion.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Client Service Representative to discuss your situation and learn which documents you need.",
+      "apply_url": null,
+      "phone": "(409) 924-4426",
+      "address": "2780 Eastex Freeway",
+      "city": "Beaumont",
+      "zip": "77703",
+      "hours": "Mon-Fri 9:00 a.m.-5:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.ccsetx.org/asset-building-case-management-program",
+      "confidence": "high",
+      "notes": "Counseling services are offered in English and Spanish. Counselors can explain tenant rights and the eviction process."
+    },
+    {
+      "id": "tyler-housing-choice-voucher",
+      "name": "Housing Choice Voucher (Section 8) - City of Tyler",
+      "organization": "City of Tyler Neighborhood Services",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps very low-income families, seniors and people with disabilities pay rent for safe housing. The city also runs first-time homebuyer and home repair programs.",
+      "eligibility_summary_en": "Very low-income families, elderly and disabled people. The waiting list is currently closed.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "The voucher waiting list is closed. Check your existing application status at assistancecheck.com or waitlistcheck.com, or contact Neighborhood Services.",
+      "apply_url": null,
+      "phone": "(903) 531-1303",
+      "address": "900 W. Gentry Pkwy.",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.cityoftyler.org/Resident-Services/Housing-Neighborhood-Services",
+      "confidence": "high",
+      "notes": "Waitlist CLOSED as of this check (random selection from applications submitted by June 26, 2025 completed). TDHCA also lists Tyler Housing Authority at the same number."
+    },
+    {
+      "id": "beaumont-housing-authority",
+      "name": "Beaumont Housing Authority",
+      "organization": "Beaumont Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Provides public housing and Housing Choice Vouchers (Section 8), plus Family Self-Sufficiency, homeownership help and services for elderly and disabled residents.",
+      "eligibility_summary_en": "Low-income households who meet the housing authority's income limits and eligibility rules (posted on its website).",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the authority's RentCafe portal when waiting lists are open, or call the office.",
+      "apply_url": null,
+      "phone": "(409) 951-7200",
+      "address": "1890 Laurel",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.bmtha.org/",
+      "confidence": "high",
+      "notes": "Waitlist status was not shown on the page; call to confirm. TDHCA lists (409) 951-7207."
+    },
+    {
+      "id": "port-arthur-housing-authority",
+      "name": "Port Arthur Housing Authority",
+      "organization": "Port Arthur Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Public agency that provides subsidized housing, including Housing Choice Vouchers, VASH vouchers for veterans, Foster Youth to Independence and a homeownership program.",
+      "eligibility_summary_en": "Low and moderate income individuals and families. The Housing Choice Voucher waitlist is currently closed.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "The voucher waitlist is closed and not accepting applications. Call the office to ask about other programs.",
+      "apply_url": null,
+      "phone": "(409) 982-6442",
+      "address": "920 DeQueen Blvd",
+      "city": "Port Arthur",
+      "zip": "77640",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.pahousing.org/",
+      "confidence": "high",
+      "notes": "Housing Choice Voucher waitlist CLOSED at time of check. Reasonable accommodation requests: (409) 984-2632. Relay Texas: 1-800-735-2989."
+    },
+    {
+      "id": "deep-east-texas-regional-housing-authority",
+      "name": "Deep East Texas Regional Housing Authority - Housing Choice Voucher",
+      "organization": "Deep East Texas Council of Governments (DETCOG)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Runs a Housing Choice Voucher program that helps about 1,800 households in Deep East Texas pay rent, plus VASH vouchers for homeless veterans.",
+      "eligibility_summary_en": "Eligible low-income residents of Deep East Texas; details on eligibility and waitlist are on dethousing.org.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or email the housing authority, or visit dethousing.org for application and waitlist details.",
+      "apply_url": null,
+      "phone": "(936) 238-7771",
+      "address": "1405 Kurth Drive",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://www.detcog.gov/housing",
+      "confidence": "high",
+      "notes": "Email housing@detcog.gov. TDHCA lists this authority for Angelina County; Nacogdoches County has its own housing authority."
+    },
+    {
+      "id": "nacogdoches-housing-authority",
+      "name": "Nacogdoches Housing Authority",
+      "organization": "Nacogdoches Housing Authority",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Local public housing authority listed by the state for rent payment help in Nacogdoches County.",
+      "eligibility_summary_en": "Low-income Nacogdoches County residents; contact the authority for current rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the housing authority to ask about openings and how to apply.",
+      "apply_url": null,
+      "phone": "(936) 569-1131",
+      "address": null,
+      "city": "Nacogdoches",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nacogdoches"
+      ],
+      "source_url": "https://hrc-ic.tdhca.state.tx.us/hrc/GetAssistanceProviders.m?assistanceType=TBRA&city=&county=Nacogdoches&Search=Submit",
+      "confidence": "medium",
+      "notes": "Confirmed via TDHCA's Help for Texans provider directory only (TDHCA says listings are self-reported). Address and waitlist status not confirmed."
+    },
+    {
+      "id": "longview-housing-assistance-program",
+      "name": "Longview Housing Assistance Program",
+      "organization": "City of Longview",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Local program listed by the state for long-term rent payment help in Longview. The City of Longview Housing and Community Development department is also listed for emergency help.",
+      "eligibility_summary_en": "Low-income Longview/Gregg County residents; contact the program for rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the program to ask about openings and how to apply.",
+      "apply_url": null,
+      "phone": "(903) 237-1235",
+      "address": null,
+      "city": "Longview",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://hrc-ic.tdhca.state.tx.us/hrc/GetAssistanceProviders.m?assistanceType=TBRA&city=&county=Gregg&Search=Submit",
+      "confidence": "medium",
+      "notes": "Confirmed via TDHCA's Help for Texans directory only. City of Longview Department of Housing and Community Development: (903) 237-1241."
+    },
+    {
+      "id": "city-of-beaumont-community-development",
+      "name": "City of Beaumont Community Development",
+      "organization": "City of Beaumont",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "City department listed by the state as a source of emergency and rent payment help for Beaumont residents.",
+      "eligibility_summary_en": "Beaumont residents with low income; contact the department for current programs and rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the department to ask what help is currently available.",
+      "apply_url": null,
+      "phone": "(409) 880-3763",
+      "address": null,
+      "city": "Beaumont",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://hrc-ic.tdhca.state.tx.us/hrc/GetAssistanceProviders.m?assistanceType=CSBG&city=&county=Jefferson&Search=Submit",
+      "confidence": "medium",
+      "notes": "Confirmed via TDHCA's Help for Texans directory only. City of Port Arthur Housing Department is also listed: (409) 983-8259."
+    },
+    {
+      "id": "hiway-80-rescue-mission",
+      "name": "Hiway 80 Rescue Mission",
+      "organization": "Hiway 80 Rescue Mission",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Emergency shelter, meals, showers, clothing, case management and recovery programs for people who are homeless or in crisis. Also offers a day resource center and long-term transitional living.",
+      "eligibility_summary_en": "Men, women and children experiencing homelessness, crisis, addiction, abuse or poverty.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or go to the mission to ask about shelter and services.",
+      "apply_url": null,
+      "phone": "(903) 759-8101",
+      "address": "3123 W. Marshall Ave.",
+      "city": "Longview",
+      "zip": "75604",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://hiway80rm.org/",
+      "confidence": "high",
+      "notes": "Christian ministry. Programs include Gateway to Hope day resource center and Triumph Village transitional living. Hours not listed."
+    },
+    {
+      "id": "salvation-army-tyler",
+      "name": "The Salvation Army of Tyler",
+      "organization": "The Salvation Army",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Local Salvation Army that offers shelter and other help to people in need in Tyler.",
+      "eligibility_summary_en": "People in need in the Tyler area; call for current services and rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Tyler Corps to ask about shelter and assistance.",
+      "apply_url": null,
+      "phone": "(903) 592-4361",
+      "address": "633 N. Broadway Avenue",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://southernusa.salvationarmy.org/tyler/",
+      "confidence": "medium",
+      "notes": "The page lists shelter as an area of focus but does not detail specific programs or hours; call first."
+    },
+    {
+      "id": "salvation-army-lufkin",
+      "name": "The Salvation Army of Lufkin",
+      "organization": "The Salvation Army",
+      "categories": [
+        "food",
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Local Salvation Army offering food assistance and community services. Veterans can ask about help with utilities and rent.",
+      "eligibility_summary_en": "People in need in the Lufkin area. Utility and rent help mentioned on the page is for veterans.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Lufkin office.",
+      "apply_url": null,
+      "phone": "(936) 634-5132",
+      "address": "412 S. Third Street",
+      "city": "Lufkin",
+      "zip": "75901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://southernusa.salvationarmy.org/lufkin/",
+      "confidence": "high",
+      "notes": "Veteran utility/rent help is supported by the Texas Veterans Commission. Family Store: 205 E. Jodie Ave, (936) 634-7212."
+    },
+    {
+      "id": "tyler-transit",
+      "name": "Tyler Transit (Bus, ParaTransit and MicroTransit)",
+      "organization": "City of Tyler",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus service with half-price fares for seniors, Medicare holders and people with disabilities. Also offers ParaTransit shared rides and on-demand MicroTransit.",
+      "eligibility_summary_en": "Anyone can ride. Reduced $0.50 fare for seniors 65+, Medicare card holders and people with disabilities with proof of eligibility.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proof of age, Medicare card or disability (for reduced fare)"
+      ],
+      "how_to_apply": "Pay on the bus or buy passes online through Token Transit or at the Transit Depot. Bring proof of eligibility for reduced fare.",
+      "apply_url": null,
+      "phone": "(903) 533-8057",
+      "address": "210 E Oakwood St.",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Adult $1.00; seniors/Medicare/disabled $0.50; children 6-11 $0.50; 5 and under free; all-day pass $2",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.cityoftyler.org/Resident-Services/Transit",
+      "confidence": "high",
+      "notes": "Transit Depot office sells passes. 30-day pass $40, 7-day $10."
+    },
+    {
+      "id": "longview-transit",
+      "name": "Longview Transit (Bus and Paratransit)",
+      "organization": "Longview Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus service with reduced fares for seniors, Medicare holders and people with disabilities, plus ADA paratransit rides for people who cannot use the bus.",
+      "eligibility_summary_en": "Anyone can ride. Reduced $0.60 fare for people 60+, Medicare holders or people with a documented disability who get an MSD pass. Paratransit is for people whose disability keeps them from using fixed-route buses.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Picture ID (for MSD reduced-fare pass)",
+        "Medicare card or disability documentation",
+        "Healthcare provider verification (paratransit)"
+      ],
+      "how_to_apply": "For reduced fare, bring a picture ID to the Transit Administration Office to get an MSD pass (photo taken in person). For paratransit, fill out an application verified by a licensed health provider; decisions take up to 21 days.",
+      "apply_url": null,
+      "phone": "(903) 753-2287",
+      "address": "908 Pacific Avenue",
+      "city": "Longview",
+      "zip": "75602",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Regular $1.25; seniors/Medicare/disabled $0.60; children 6-14 $0.65; day pass $3; paratransit $2.50 per trip",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://www.longviewtransit.com/getting-around/fares-and-passes-fixed-route/",
+      "confidence": "high",
+      "notes": "Paratransit hours Mon-Fri 6 a.m.-7 p.m., Sat 7 a.m.-7 p.m.; book up to 14 days ahead at (903) 753-2287 ext. 10. TTY (903) 753-5265."
+    },
+    {
+      "id": "beaumont-zip-transit",
+      "name": "Beaumont Municipal Transit (ZIP)",
+      "organization": "City of Beaumont",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City bus service with reduced fares for seniors, youth and people with disabilities, free rides for veterans, and paratransit vans for ADA-eligible riders.",
+      "eligibility_summary_en": "Anyone can ride. Seniors 65+ with Medicare card and disabled riders with a Beaumont ID pay $0.75. Veterans ride free with a Veterans Pass application.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Medicare card (senior fare)",
+        "Beaumont disability ID (disabled fare)"
+      ],
+      "how_to_apply": "Pay exact fare on the bus or buy passes at 550 Milam Street or Central Collections at City Hall (801 Main Street).",
+      "apply_url": null,
+      "phone": "(409) 835-7895",
+      "address": "550 Milam Street",
+      "city": "Beaumont",
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Adult $1.50; youth/senior/disabled $0.75; veterans free; paratransit $2.50 per ride or $80 monthly",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://beaumontzip.com/home/fares-passes/",
+      "confidence": "high",
+      "notes": "Drivers do not carry change. K-12 students ride free in summer. A Student Mobility Pass is available."
+    },
+    {
+      "id": "gobus-rural-transit",
+      "name": "GoBus Rural Transit",
+      "organization": "East Texas Council of Governments (ETCOG)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Demand-response public transportation for rural East Texas, including rides to appointments. Free rides for veterans and active military, including trips to the Overton Brooks VA in Shreveport.",
+      "eligibility_summary_en": "Open to the general public in the non-urbanized (rural) parts of Smith and Gregg counties and 12 other East Texas counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-800-590-3371 to book your trip ahead of time, or request a trip online.",
+      "apply_url": "https://gobustransit.com/contact",
+      "phone": "(800) 590-3371",
+      "address": "3800 Stone Road",
+      "city": "Kilgore",
+      "zip": "75662",
+      "hours": "Operates 5 days a week",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "$2 per trip, $1 per additional stop; free for veterans and active military",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg"
+      ],
+      "source_url": "https://www.etcog.org/transportation-services",
+      "confidence": "high",
+      "notes": "Serves only non-urbanized areas of Smith and Gregg; inside Tyler and Longview use city transit."
+    },
+    {
+      "id": "brazos-transit-lufkin-nacogdoches",
+      "name": "Brazos Transit District - Lufkin and Nacogdoches",
+      "organization": "Brazos Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Fixed-route buses, ADA paratransit and demand-response rides in Lufkin and Nacogdoches.",
+      "eligibility_summary_en": "General public; ADA paratransit is for eligible people with disabilities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "New riders call the Dispatch Center to book paratransit or demand-response trips; existing customers can book online at portal.btd.org.",
+      "apply_url": "https://portal.btd.org",
+      "phone": "(800) 272-0039",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Fares vary; cash and major credit cards accepted",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.btd.org/",
+      "confidence": "high",
+      "notes": "Dispatch also (979) 778-4480. Customer service (979) 778-0607 ext 7008. DETCOG refers Deep East Texas residents to BTD for public transit. Fare amounts not confirmed."
+    },
+    {
+      "id": "south-east-texas-transit",
+      "name": "South East Texas Transit (SETT)",
+      "organization": "South East Texas Regional Planning Commission",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Demand-response rides in rural western Jefferson County, and rides for seniors and people with disabilities in Groves, Port Neches and Nederland.",
+      "eligibility_summary_en": "General public in rural western Jefferson County; seniors 65+ and people with disabilities in Mid-Jefferson County cities.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call ahead to schedule; advance notice is required.",
+      "apply_url": null,
+      "phone": "(800) 259-4457",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "See service brochure; fares vary by area",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.setrpc.org/south-east-texas-transit/",
+      "confidence": "high",
+      "notes": "Mid-County and Rural Jefferson scheduling: (800) 259-4457 or (409) 892-0979. Medicare-eligible clients may qualify for more options through 2-1-1."
+    },
+    {
+      "id": "workforce-solutions-east-texas",
+      "name": "Workforce Solutions East Texas",
+      "organization": "East Texas Council of Governments (ETCOG)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, career counseling, training and scholarships, and help with unemployment benefits, with centers in Tyler and Longview.",
+      "eligibility_summary_en": "Job seekers and employers in 14 East Texas counties, including Smith and Gregg.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the regional line or visit a workforce center. Search jobs on WorkInTexas.com.",
+      "apply_url": "https://www.workintexas.com",
+      "phone": "(844) 389-6757",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg"
+      ],
+      "source_url": "https://www.easttexasworkforce.org/",
+      "confidence": "high",
+      "notes": "Phone is 1-844-ETWORKS. Workforce centers in Tyler and Longview (street addresses not confirmed this session). Special help for veterans, young adults and students with disabilities."
+    },
+    {
+      "id": "workforce-solutions-east-texas-child-care",
+      "name": "Child Care Services - Workforce Solutions East Texas",
+      "organization": "East Texas Council of Governments (ETCOG)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps eligible families pay for child care so parents can work, go to school or train.",
+      "eligibility_summary_en": "Eligible low-income families in the 14-county East Texas workforce area, including Smith and Gregg. Income limits were not stated on the page.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Workforce Solutions East Texas to ask about applying for child care financial aid.",
+      "apply_url": null,
+      "phone": "(844) 389-6757",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg"
+      ],
+      "source_url": "https://www.etcog.org/workforce-development",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas-lufkin",
+      "name": "Workforce Solutions Deep East Texas - Angelina County (Lufkin)",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career planning, job matching, resume and interview help, and access to training.",
+      "eligibility_summary_en": "Job seekers in Angelina County and the surrounding Deep East Texas area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call.",
+      "apply_url": "https://www.workintexas.com",
+      "phone": "(936) 639-1351",
+      "address": "210 N. John Redditt Drive",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Angelina"
+      ],
+      "source_url": "https://detwork.org/locations/angelina-county",
+      "confidence": "high",
+      "notes": "Relay Texas: 7-1-1."
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas-nacogdoches",
+      "name": "Workforce Solutions Deep East Texas - Nacogdoches County",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free career planning, job matching, resume and interview help, and access to training.",
+      "eligibility_summary_en": "Job seekers in Nacogdoches County and the surrounding area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call.",
+      "apply_url": "https://www.workintexas.com",
+      "phone": "(936) 560-1441",
+      "address": "235 North University Drive",
+      "city": "Nacogdoches",
+      "zip": "75961",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Nacogdoches"
+      ],
+      "source_url": "https://detwork.org/locations/nacogdoches-county",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas-child-care",
+      "name": "Child Care Services - Workforce Solutions Deep East Texas",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Temporary financial aid to help eligible families pay for child care. Families pay a co-payment based on income and household size.",
+      "eligibility_summary_en": "Eligible families in Angelina, Houston, Jasper, Nacogdoches, Polk and Shelby counties. Income limits were not stated on the page.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "See the Parents page on detwork.org or contact your local workforce center.",
+      "apply_url": "https://detwork.org/child-care-services/parents",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Co-payment based on income and household size",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://detwork.org/child-care-services",
+      "confidence": "high",
+      "notes": "Local centers: Lufkin (936) 639-1351; Nacogdoches (936) 560-1441."
+    },
+    {
+      "id": "workforce-solutions-southeast-texas",
+      "name": "Workforce Solutions Southeast Texas",
+      "organization": "Workforce Solutions Southeast Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search and placement, skills training, youth programs (ages 16-24), veteran services, and child care services.",
+      "eligibility_summary_en": "Job seekers and families in Jefferson, Orange and Hardin counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Beaumont or Port Arthur workforce center, or call the main line.",
+      "apply_url": "https://www.workintexas.com",
+      "phone": "(409) 839-8045",
+      "address": "510 Park Street, Suite 200",
+      "city": "Beaumont",
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.setworks.org/",
+      "confidence": "high",
+      "notes": "Main line (877) 834-5627. Port Arthur center: 4680 FM 365, (409) 962-1236. Child care services use a separate portal on the website."
+    },
+    {
+      "id": "andrews-behavioral-health",
+      "name": "Andrews Behavioral Health (Andrews Center)",
+      "organization": "Andrews Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local mental health authority offering crisis services, adult and youth mental health care, substance use treatment, IDD and autism services, and veteran services. Runs a Diversion Center in Tyler for crisis stabilization.",
+      "eligibility_summary_en": "Residents of Henderson, Rains, Smith, Van Zandt and Wood counties, especially people who are underserved.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Tyler clinic to request services. In a crisis call the 24/7 hotline or 988.",
+      "apply_url": null,
+      "phone": "(903) 597-1351",
+      "address": null,
+      "city": "Tyler",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith"
+      ],
+      "source_url": "https://www.andrewscenter.com/",
+      "confidence": "high",
+      "notes": "24/7 crisis hotline: (877) 934-2131. Diversion Center: 3111 North Northwest Loop 323, Tyler, TX 75702. Fee details not stated on the page."
+    },
+    {
+      "id": "community-healthcore",
+      "name": "Community Healthcore",
+      "organization": "Community Healthcore (Sabine Valley MHMR Center)",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Certified community behavioral health clinic offering mental health, substance use, crisis, IDD, primary care, veteran and supportive housing services.",
+      "eligibility_summary_en": "Children, teens, adults and veterans in its service area, including Gregg County. Sliding fee based on income; accepts Medicaid and Medicare.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the services line for referrals or visit a Longview location.",
+      "apply_url": null,
+      "phone": "(800) 446-8253",
+      "address": "107 Woodbine Place",
+      "city": "Longview",
+      "zip": "75601",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale by income; Medicaid, Medicare and many insurance plans accepted",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg"
+      ],
+      "source_url": "https://www.communityhealthcore.com/locations/",
+      "confidence": "high",
+      "notes": "24/7 crisis line: (800) 832-1009. Adult mental health and primary care: 1300 North Sixth Street, Longview, (903) 297-1852. Substance use and crisis: 950 North Fourth Street, (903) 758-0596. Also has a Tyler location."
+    },
+    {
+      "id": "burke-center",
+      "name": "Burke (Mental Health and IDD Services)",
+      "organization": "Burke",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Local mental health and developmental disability provider offering adult and child mental health care, substance use services, IDD services, early childhood intervention (birth to 3) and veteran support.",
+      "eligibility_summary_en": "Residents of Burke's 11-county area, which includes Angelina and Nacogdoches counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the mental health services line to request services. In a crisis call the 24-hour hotline.",
+      "apply_url": null,
+      "phone": "(936) 634-5010",
+      "address": "2001 South Medford Drive",
+      "city": "Lufkin",
+      "zip": "75901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.myburke.org/about",
+      "confidence": "high",
+      "notes": "24-hour crisis hotline: 1-800-392-8343. Toll free services line (866) 242-4556. Early Childhood Intervention: (936) 634-4703. Central administration: (936) 639-1141."
+    },
+    {
+      "id": "spindletop-center",
+      "name": "Spindletop Center",
+      "organization": "Spindletop Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Behavioral health center in Beaumont offering mental health care, substance use recovery, IDD services, early childhood intervention and crisis services.",
+      "eligibility_summary_en": "People needing behavioral health care in the Beaumont area. No one is turned away for inability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number to ask about services. In a crisis call the 24-hour hotline.",
+      "apply_url": null,
+      "phone": "(409) 839-1000",
+      "address": null,
+      "city": "Beaumont",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale based on family size and income; no one turned away for inability to pay",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.spindletopcenter.org/",
+      "confidence": "high",
+      "notes": "24-hour crisis hotline: 1-800-937-8097. Toll free: 1-800-317-5809. The page did not list its full county service area."
+    },
+    {
+      "id": "wellness-pointe",
+      "name": "Wellness Pointe",
+      "organization": "Wellness Pointe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health clinics offering family medicine, pediatrics, women's health, dental, vision and behavioral health, plus parenting and family programs.",
+      "eligibility_summary_en": "Patients in Northeast Texas, with clinics in Longview and a women's health center in Tyler.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number to make an appointment.",
+      "apply_url": null,
+      "phone": "(903) 758-2610",
+      "address": "1107 E Marshall Ave",
+      "city": "Longview",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Contact clinic for fees",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Gregg",
+        "Smith"
+      ],
+      "source_url": "https://www.wellnesspointe.org/",
+      "confidence": "high",
+      "notes": "Toll free (888) 811-6648. Tyler Women's Health Center: 825 Medical Drive. Other Longview clinics: 425 N Fredonia St, 2131 Mobberly Ave, 1761 W Loop 281, 802 Medical Circle. Sliding fee not confirmed on page."
+    },
+    {
+      "id": "lone-star-legal-aid-east-texas",
+      "name": "Lone Star Legal Aid - East and Southeast Texas Offices",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help for low-income Texans, including eviction defense, family law, public benefits, consumer, employment and domestic violence cases.",
+      "eligibility_summary_en": "Low-income people who meet financial and legal status rules. Civil cases only, no criminal cases.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online any time or call the toll-free intake line.",
+      "apply_url": "https://survey.legal/pMuQmTd6VsuJ",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg",
+        "Angelina",
+        "Nacogdoches",
+        "Jefferson"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "confidence": "high",
+      "notes": "Beaumont office serves Jefferson; Longview office serves Gregg; Tyler office serves Smith; Nacogdoches office serves Angelina and Nacogdoches. Exact income limit not stated on the site. Statewide eviction help also at texaslawhelp.org/eviction-referral or (855) 270-7655."
+    },
+    {
+      "id": "area-agency-on-aging-east-texas",
+      "name": "Area Agency on Aging of East Texas",
+      "organization": "East Texas Council of Governments (ETCOG)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Senior nutrition (meals), benefits counseling, care coordination, caregiver support and ombudsman help for older adults.",
+      "eligibility_summary_en": "People age 60 and older, people with disabilities and caregivers in 14 East Texas counties, including Smith and Gregg.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Area Agency on Aging to ask for services.",
+      "apply_url": null,
+      "phone": "(800) 442-8845",
+      "address": "100 E Ferguson St",
+      "city": "Tyler",
+      "zip": "75702",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Smith",
+        "Gregg"
+      ],
+      "source_url": "https://www.etcog.org/aging-services",
+      "confidence": "high",
+      "notes": "Main office 3800 Stone Road, Kilgore; local (903) 218-6500. Website: www.EastTexasAAA.org."
+    },
+    {
+      "id": "area-agency-on-aging-deep-east-texas",
+      "name": "Area Agency on Aging of Deep East Texas",
+      "organization": "Deep East Texas Council of Governments (DETCOG)",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Congregate and home-delivered meals, benefits counseling for Medicare, Medicaid and Social Security, caregiver support, care coordination and ombudsman help.",
+      "eligibility_summary_en": "People age 60 and older in Deep East Texas; the Aging and Disability Resource Center serves people of any age with disabilities.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the agency to request services.",
+      "apply_url": null,
+      "phone": "(800) 256-6848",
+      "address": "1405 Kurth Drive",
+      "city": "Lufkin",
+      "zip": "75904",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Nacogdoches"
+      ],
+      "source_url": "https://www.detcog.gov/aaa",
+      "confidence": "high",
+      "notes": "Also (409) 384-7614. More info at www.aaadeepeasttx.org. DETCOG region includes Angelina and Nacogdoches counties."
+    },
+    {
+      "id": "area-agency-on-aging-southeast-texas",
+      "name": "Area Agency on Aging - Southeast Texas",
+      "organization": "South East Texas Regional Planning Commission",
+      "categories": [
+        "food",
+        "transportation",
+        "healthcare"
+      ],
+      "description_en": "Senior meals (group and home-delivered), senior transportation, benefits counseling, care coordination, caregiver support and ombudsman services.",
+      "eligibility_summary_en": "Older adults in Hardin, Jefferson and Orange counties.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Area Agency on Aging to ask for services.",
+      "apply_url": null,
+      "phone": "(409) 924-3381",
+      "address": "2210 Eastex Freeway",
+      "city": "Beaumont",
+      "zip": "77703",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jefferson"
+      ],
+      "source_url": "https://www.setrpc.org/area-agency-on-aging/",
+      "confidence": "high",
+      "notes": "Toll free 1-800-395-5465."
+    }
+  ]
+}

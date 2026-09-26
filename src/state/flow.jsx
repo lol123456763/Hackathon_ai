@@ -1,10 +1,9 @@
-// Holds the in-progress answers between the home page and the question wizard.
-// Kept in sessionStorage so a refresh does not lose answers; cleared on "Start over".
+// In-progress neighbor answers between "Get help", the follow-up questions and plan creation.
+// Kept in sessionStorage so a refresh does not lose answers. Never stores the typed text.
 import { createContext, useCallback, useContext, useMemo, useState } from 'react';
-import { session, storage } from '@/lib/storage';
+import { session } from '@/lib/storage';
 
-const KEY = 'bb.flow';
-const LAST_PLAN = 'bb.lastPlan';
+const KEY = 'loop.flow';
 
 export const EMPTY_PROFILE = {
   zip: '',
@@ -15,12 +14,14 @@ export const EMPTY_PROFILE = {
   situations: [],
   needs: [],
   urgency: null,
+  food_prefs: [],
 };
 
+const EMPTY = { profile: EMPTY_PROFILE, prefilled: [], crisis: false, fromText: false, understood: null, detectedLanguage: null };
 const FlowContext = createContext(null);
 
 export function FlowProvider({ children }) {
-  const [state, setState] = useState(() => session.getJson(KEY, { profile: EMPTY_PROFILE, prefilled: [], crisis: false }));
+  const [state, setState] = useState(() => ({ ...EMPTY, ...session.getJson(KEY, {}) }));
 
   const update = useCallback((patch) => {
     setState((s) => {
@@ -32,7 +33,7 @@ export function FlowProvider({ children }) {
 
   const reset = useCallback(() => {
     session.remove(KEY);
-    setState({ profile: EMPTY_PROFILE, prefilled: [], crisis: false });
+    setState(EMPTY);
   }, []);
 
   const value = useMemo(() => ({ ...state, update, reset }), [state, update, reset]);
@@ -44,9 +45,3 @@ export function useFlow() {
   if (!ctx) throw new Error('useFlow must be used inside <FlowProvider>');
   return ctx;
 }
-
-export const lastPlan = {
-  get: () => storage.getJson(LAST_PLAN, null),
-  set: (token, created) => storage.setJson(LAST_PLAN, { token, created }),
-  clear: () => storage.remove(LAST_PLAN),
-};

@@ -1,0 +1,557 @@
+{
+  "topic": "Texas Medicaid/CHIP/Healthy Texas Women income limits; WIC income eligibility guidelines; Child Nutrition (school meals) income eligibility guidelines",
+  "generated": "2026-09-26",
+  "effective_period": "Texas Medicaid/CHIP: TWH C-131.1 Revision 26-2 effective April 1, 2026 (2026 FPL; columns dated March 1, 2026); WIC: July 1, 2026 - June 30, 2027 (2025-26 also included); School meals: July 1, 2026 - June 30, 2027",
+  "tables": {
+    "hhs_poverty_guidelines_2026_48_states_annual": {
+      "source": "91 FR 1797 (Jan 15, 2026), as reprinted in FNS notices",
+      "values": {
+        "1": 15960,
+        "2": 21640,
+        "3": 27320,
+        "4": 33000,
+        "5": 38680,
+        "6": 44360,
+        "7": 50040,
+        "8": 55720
+      },
+      "each_additional_person": 5680
+    },
+    "texas_medicaid_chip": {
+      "source_section": "Texas Works Handbook C-131.1 Federal Poverty Level (FPL), Revision 26-2, Effective April 1, 2026; column headers state 'March 1, 2026'",
+      "basis": "Monthly income limits (MAGI household income), USD, as published",
+      "groups": [
+        {
+          "group": "Medicaid - Children under age 1",
+          "type_program_codes": "TP 43",
+          "pct_fpl": 198,
+          "monthly_income_limit_by_household_size": {
+            "1": 2634,
+            "2": 3571,
+            "3": 4508,
+            "4": 5445,
+            "5": 6383,
+            "6": 7320,
+            "7": 8257,
+            "8": 9194
+          },
+          "each_additional_person": 938,
+          "ages": "under 1 (through month of 1st birthday)"
+        },
+        {
+          "group": "Medicaid - Children ages 1-5",
+          "type_program_codes": "TP 48",
+          "pct_fpl": 144,
+          "monthly_income_limit_by_household_size": {
+            "1": 1916,
+            "2": 2597,
+            "3": 3279,
+            "4": 3960,
+            "5": 4642,
+            "6": 5324,
+            "7": 6005,
+            "8": 6687
+          },
+          "each_additional_person": 682,
+          "ages": "1-5 (through month of 6th birthday)"
+        },
+        {
+          "group": "Medicaid - Children ages 6-18",
+          "type_program_codes": "TP 44",
+          "pct_fpl": 133,
+          "monthly_income_limit_by_household_size": {
+            "1": 1769,
+            "2": 2399,
+            "3": 3028,
+            "4": 3658,
+            "5": 4288,
+            "6": 4917,
+            "7": 5547,
+            "8": 6176
+          },
+          "each_additional_person": 630,
+          "ages": "6-18 (through month of 19th birthday)"
+        },
+        {
+          "group": "Medicaid - Pregnant Women",
+          "type_program_codes": "TP 40",
+          "pct_fpl": 198,
+          "monthly_income_limit_by_household_size": {
+            "1": 2634,
+            "2": 3571,
+            "3": 4508,
+            "4": 5445,
+            "5": 6383,
+            "6": 7320,
+            "7": 8257,
+            "8": 9194
+          },
+          "each_additional_person": 938
+        },
+        {
+          "group": "CHIP (children)",
+          "type_program_codes": "TA 84",
+          "pct_fpl": 201,
+          "monthly_income_limit_by_household_size": {
+            "1": 2674,
+            "2": 3625,
+            "3": 4577,
+            "4": 5528,
+            "5": 6479,
+            "6": 7431,
+            "7": 8382,
+            "8": 9334
+          },
+          "each_additional_person": 952
+        },
+        {
+          "group": "CHIP Perinatal (CHIP-P)",
+          "type_program_codes": "TA 85",
+          "pct_fpl": 202,
+          "monthly_income_limit_by_household_size": {
+            "1": 2687,
+            "2": 3643,
+            "3": 4599,
+            "4": 5555,
+            "5": 6512,
+            "6": 7468,
+            "7": 8424,
+            "8": 9380
+          },
+          "each_additional_person": 957
+        },
+        {
+          "group": "Healthy Texas Women (HTW)",
+          "type_program_codes": "TA 41",
+          "pct_fpl": 204.2,
+          "monthly_income_limit_by_household_size": {
+            "1": 2716,
+            "2": 3683,
+            "3": 4649,
+            "4": 5616,
+            "5": 6583,
+            "6": 7549,
+            "7": 8516,
+            "8": 9482
+          },
+          "each_additional_person": 967
+        }
+      ],
+      "full_C131_1_column_code_listing_as_published": {
+        "133% FPL": "TP 44, 34, TA 76",
+        "144% FPL": "TP 48, 33, TA 75",
+        "198% FPL": "TP 40, 42, 43, 36, 35, TA 74",
+        "201% FPL": "TA 84 (CHIP)",
+        "202% FPL": "TA 85 (CHIP-P)",
+        "204.2% FPL": "TA 41",
+        "400% FPL": "TA 77",
+        "413% FPL": "TP 70"
+      },
+      "other_C131_1_columns": {
+        "400% FPL (TA 77)": {
+          "1": 5320,
+          "2": 7214,
+          "3": 9107,
+          "4": 11000,
+          "5": 12894,
+          "6": 14787,
+          "7": 16680,
+          "8": 18574,
+          "each_additional_person": 1894
+        },
+        "413% FPL (TP 70)": {
+          "1": 5493,
+          "2": 7448,
+          "3": 9403,
+          "4": 11358,
+          "5": 13313,
+          "6": 15268,
+          "7": 17223,
+          "8": 19177,
+          "each_additional_person": 1955
+        }
+      },
+      "parents_and_caretaker_relatives": {
+        "source_section": "Texas Works Handbook C-131.2 Medically Needy and Parents and Caretaker Relatives Medicaid, Revision 15-4, Effective October 1, 2015",
+        "type_program_codes": "TP 08 (Parents and Caretaker Relatives); TA 31 (Parents and Caretaker Relatives - Emergency); TA 86",
+        "pct_fpl": null,
+        "note": "Published as flat monthly dollar amounts, not a % FPL. Columns as published: 'TP 32 and TP 56' (Medically Needy) and 'TP 08, TA 31 and TA 86' split into 'One Parent' and 'Two Parents'.",
+        "monthly_limit_one_parent": {
+          "1": 103,
+          "2": 196,
+          "3": 230,
+          "4": 277,
+          "5": 310,
+          "6": 356,
+          "7": 389,
+          "8": 441,
+          "each_additional_member": 52
+        },
+        "monthly_limit_two_parents": {
+          "1": null,
+          "2": 161,
+          "3": 251,
+          "4": 285,
+          "5": 332,
+          "6": 367,
+          "7": 412,
+          "8": 447,
+          "each_additional_member": 52
+        },
+        "medically_needy_TP32_TP56": {
+          "1": 104,
+          "2": 216,
+          "3": 275,
+          "4": 308,
+          "5": 357,
+          "6": 392,
+          "7": 440,
+          "8": 475,
+          "each_additional_member": 57
+        }
+      },
+      "transitional_medicaid": {
+        "source_section": "C-131.3, Revision 26-2, Effective April 1, 2026",
+        "type_program_codes": "TP 07",
+        "pct_fpl": 185,
+        "monthly": {
+          "1": 2461,
+          "2": 3337,
+          "3": 4212,
+          "4": 5088,
+          "5": 5964,
+          "6": 6839,
+          "7": 7715,
+          "8": 8591
+        },
+        "each_additional_person": 876
+      },
+      "standard_magi_income_disregard_5pct_fpl_monthly": {
+        "source_section": "C-131.4, Revision 26-2, Effective April 1, 2026",
+        "values": {
+          "1": 66.5,
+          "2": 90.2,
+          "3": 113.85,
+          "4": 137.5,
+          "5": 161.2,
+          "6": 184.85,
+          "7": 208.5,
+          "8": 232.2,
+          "each_additional_person": 23.7
+        }
+      }
+    },
+    "wic_income_eligibility_guidelines": {
+      "2026-07-01_to_2027-06-30": {
+        "source": "Federal Register doc 2026-08323, 91 FR 23050 (published Apr 29, 2026)",
+        "area": "48 Contiguous States, D.C., Guam and Territories",
+        "pct_fpl": 185,
+        "rows": [
+          {
+            "household_size": 1,
+            "annual": 29526,
+            "monthly": 2461,
+            "twice_monthly": 1231,
+            "biweekly": 1136,
+            "weekly": 568
+          },
+          {
+            "household_size": 2,
+            "annual": 40034,
+            "monthly": 3337,
+            "twice_monthly": 1669,
+            "biweekly": 1540,
+            "weekly": 770
+          },
+          {
+            "household_size": 3,
+            "annual": 50542,
+            "monthly": 4212,
+            "twice_monthly": 2106,
+            "biweekly": 1944,
+            "weekly": 972
+          },
+          {
+            "household_size": 4,
+            "annual": 61050,
+            "monthly": 5088,
+            "twice_monthly": 2544,
+            "biweekly": 2349,
+            "weekly": 1175
+          },
+          {
+            "household_size": 5,
+            "annual": 71558,
+            "monthly": 5964,
+            "twice_monthly": 2982,
+            "biweekly": 2753,
+            "weekly": 1377
+          },
+          {
+            "household_size": 6,
+            "annual": 82066,
+            "monthly": 6839,
+            "twice_monthly": 3420,
+            "biweekly": 3157,
+            "weekly": 1579
+          },
+          {
+            "household_size": 7,
+            "annual": 92574,
+            "monthly": 7715,
+            "twice_monthly": 3858,
+            "biweekly": 3561,
+            "weekly": 1781
+          },
+          {
+            "household_size": 8,
+            "annual": 103082,
+            "monthly": 8591,
+            "twice_monthly": 4296,
+            "biweekly": 3965,
+            "weekly": 1983
+          }
+        ],
+        "each_additional_member": {
+          "annual": 10508,
+          "monthly": 876,
+          "twice_monthly": 438,
+          "biweekly": 405,
+          "weekly": 203
+        }
+      },
+      "2025-07-01_to_2026-06-30": {
+        "source": "Federal Register doc 2025-03576, 90 FR 11598 (published Mar 10, 2025)",
+        "area": "48 Contiguous States, DC, Guam and Territories",
+        "pct_fpl": 185,
+        "rows": [
+          {
+            "household_size": 1,
+            "annual": 28953,
+            "monthly": 2413,
+            "twice_monthly": 1207,
+            "biweekly": 1114,
+            "weekly": 557
+          },
+          {
+            "household_size": 2,
+            "annual": 39128,
+            "monthly": 3261,
+            "twice_monthly": 1631,
+            "biweekly": 1505,
+            "weekly": 753
+          },
+          {
+            "household_size": 3,
+            "annual": 49303,
+            "monthly": 4109,
+            "twice_monthly": 2055,
+            "biweekly": 1897,
+            "weekly": 949
+          },
+          {
+            "household_size": 4,
+            "annual": 59478,
+            "monthly": 4957,
+            "twice_monthly": 2479,
+            "biweekly": 2288,
+            "weekly": 1144
+          },
+          {
+            "household_size": 5,
+            "annual": 69653,
+            "monthly": 5805,
+            "twice_monthly": 2903,
+            "biweekly": 2679,
+            "weekly": 1340
+          },
+          {
+            "household_size": 6,
+            "annual": 79828,
+            "monthly": 6653,
+            "twice_monthly": 3327,
+            "biweekly": 3071,
+            "weekly": 1536
+          },
+          {
+            "household_size": 7,
+            "annual": 90003,
+            "monthly": 7501,
+            "twice_monthly": 3751,
+            "biweekly": 3462,
+            "weekly": 1731
+          },
+          {
+            "household_size": 8,
+            "annual": 100178,
+            "monthly": 8349,
+            "twice_monthly": 4175,
+            "biweekly": 3853,
+            "weekly": 1927
+          }
+        ],
+        "each_additional_member": {
+          "annual": 10175,
+          "monthly": 848,
+          "twice_monthly": 424,
+          "biweekly": 392,
+          "weekly": 196
+        }
+      }
+    },
+    "school_meals_income_eligibility_guidelines": {
+      "2026-07-01_to_2027-06-30": {
+        "source": "Federal Register doc 2026-06842, 91 FR 17932 (published Apr 9, 2026), table graphic EN09AP26.001 (page 17934)",
+        "area": "48 Contiguous States, District of Columbia, Guam, and Territories",
+        "free_130pct": {
+          "by_household_size": {
+            "1": {
+              "annual": 20748,
+              "monthly": 1729,
+              "twice_monthly": 865,
+              "biweekly": 798,
+              "weekly": 399
+            },
+            "2": {
+              "annual": 28132,
+              "monthly": 2345,
+              "twice_monthly": 1173,
+              "biweekly": 1082,
+              "weekly": 541
+            },
+            "3": {
+              "annual": 35516,
+              "monthly": 2960,
+              "twice_monthly": 1480,
+              "biweekly": 1366,
+              "weekly": 683
+            },
+            "4": {
+              "annual": 42900,
+              "monthly": 3575,
+              "twice_monthly": 1788,
+              "biweekly": 1650,
+              "weekly": 825
+            },
+            "5": {
+              "annual": 50284,
+              "monthly": 4191,
+              "twice_monthly": 2096,
+              "biweekly": 1934,
+              "weekly": 967
+            },
+            "6": {
+              "annual": 57668,
+              "monthly": 4806,
+              "twice_monthly": 2403,
+              "biweekly": 2218,
+              "weekly": 1109
+            },
+            "7": {
+              "annual": 65052,
+              "monthly": 5421,
+              "twice_monthly": 2711,
+              "biweekly": 2502,
+              "weekly": 1251
+            },
+            "8": {
+              "annual": 72436,
+              "monthly": 6037,
+              "twice_monthly": 3019,
+              "biweekly": 2786,
+              "weekly": 1393
+            }
+          },
+          "each_additional_member": {
+            "annual": 7384,
+            "monthly": 616,
+            "twice_monthly": 308,
+            "biweekly": 284,
+            "weekly": 142
+          }
+        },
+        "reduced_185pct": {
+          "by_household_size": {
+            "1": {
+              "annual": 29526,
+              "monthly": 2461,
+              "twice_monthly": 1231,
+              "biweekly": 1136,
+              "weekly": 568
+            },
+            "2": {
+              "annual": 40034,
+              "monthly": 3337,
+              "twice_monthly": 1669,
+              "biweekly": 1540,
+              "weekly": 770
+            },
+            "3": {
+              "annual": 50542,
+              "monthly": 4212,
+              "twice_monthly": 2106,
+              "biweekly": 1944,
+              "weekly": 972
+            },
+            "4": {
+              "annual": 61050,
+              "monthly": 5088,
+              "twice_monthly": 2544,
+              "biweekly": 2349,
+              "weekly": 1175
+            },
+            "5": {
+              "annual": 71558,
+              "monthly": 5964,
+              "twice_monthly": 2982,
+              "biweekly": 2753,
+              "weekly": 1377
+            },
+            "6": {
+              "annual": 82066,
+              "monthly": 6839,
+              "twice_monthly": 3420,
+              "biweekly": 3157,
+              "weekly": 1579
+            },
+            "7": {
+              "annual": 92574,
+              "monthly": 7715,
+              "twice_monthly": 3858,
+              "biweekly": 3561,
+              "weekly": 1781
+            },
+            "8": {
+              "annual": 103082,
+              "monthly": 8591,
+              "twice_monthly": 4296,
+              "biweekly": 3965,
+              "weekly": 1983
+            }
+          },
+          "each_additional_member": {
+            "annual": 10508,
+            "monthly": 876,
+            "twice_monthly": 438,
+            "biweekly": 405,
+            "weekly": 203
+          }
+        }
+      }
+    }
+  },
+  "sources": [
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/c-130-medical-programs",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-820-regular-medicaid-coverage",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/twh-glossary",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/w-1410-general-policy",
+    "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/d-1020-income-limits",
+    "https://www.federalregister.gov/documents/2026/04/29/2026-08323/special-supplemental-nutrition-program-for-women-infants-and-children-wic-20262027-income",
+    "https://www.federalregister.gov/documents/2025/03/10/2025-03576/special-supplemental-nutrition-program-for-women-infants-and-children-wic-20252026-income",
+    "https://www.federalregister.gov/documents/2026/04/09/2026-06842/child-nutrition-programs-income-eligibility-guidelines",
+    "https://img.federalregister.gov/EN09AP26.001/EN09AP26.001_original_size.png"
+  ],
+  "notes": "All figures copied as published. Texas Medicaid/CHIP limits are monthly MAGI household income limits from Texas Works Handbook C-131.1 (Rev. 26-2, eff. Apr 1 2026). Code-to-group mapping: TWH glossary and A-820 (TP 43 under 1, TP 48 ages 1-5, TP 44 ages 6-18, TP 40 pregnant women), C-131.1 header (TA 84 = CHIP, TA 85 = CHIP-P), W-1410 (TA 41 = HTW income limit). The 198% column also covers TP 42, TP 35, TP 36, TA 74; 133% also TP 34, TA 76; 144% also TP 33, TA 75 (emergency/other codes). TA 77 (400%) and TP 70 (413%) are recorded but their program names were not confirmed from an official source. C-131.4 separately lists a standard MAGI income disregard of 5 percentage points of FPL; C-131.1 does not state whether its limits already include it, so check TWH A-1341 before applying it. Parents/caretaker relatives (TP 08) limits are flat monthly dollar amounts (C-131.2, Rev. 15-4, eff. Oct 1 2015), not % FPL; size 1 two-parent is N/A. The school meals 2026-27 table is a graphic in the Federal Register; values were transcribed and all 80 cross-checked against the notice's stated formula (2026 FPL x 1.30 / 1.85 rounded up; monthly = annual/12, twice-monthly /24, bi-weekly /26, weekly /52, rounded up). WIC (185%) equals the reduced-price meal limit. fns.usda.gov returned HTTP 403, so Federal Register notices were used. Alaska/Hawaii omitted. School meals 2025-26 not included.",
+  "verified_date": "2026-09-26",
+  "verification_notes": "Independently re-verified 2026-09-26 against official sources. (1) Texas Works Handbook C-131 page (fhb.hhs.texas.gov): all C-131.1 values (133/144/198/201/202/204.2/400/413% columns, sizes 1-8 and each additional), column codes, the March 1, 2026 column date, Rev. 26-2 eff. Apr 1 2026; C-131.2 (Rev. 15-4 eff. Oct 1 2015) all three columns incl. N/A for size-1 two-parent; C-131.3 (TP 07, 185%) and C-131.4 (5% FPL disregard) all match exactly. A-820 confirms age ranges for TP 43/48/44 (through last day of month of 1st/6th birthday; through month they turn 19); W-1410 confirms HTW uses TA 41 income limit. (2) WIC 2026-27 and 2025-26 48-state tables re-read from Federal Register full text (91 FR 23050; 90 FR 11598): all 80 values plus additional-member rows match; notices confirm 2026 HHS poverty guidelines at 91 FR 1797 (Jan 15, 2026) and the 100% FPL column confirms the 2026 HHS guideline values (15,960 + 5,680 per person). (3) School meals 2026-27: official table image EN09AP26.001 read directly; all free (130%) and reduced (185%) 48-state values and additional-member rows match; also recomputed from stated formula (x1.30/x1.85, /12,/24,/26,/52, rounded up) with zero mismatches. Changes: removed unconfirmed CHIP ages field (\"under 19\") because the fetched C-131 page does not state CHIP ages; added FR page citations to sources. No numeric values needed correction. Still unconfirmed (retained as published, not interpreted): program names for TA 77 and TP 70; whether C-131.1 limits already include the 5% MAGI disregard."
+}

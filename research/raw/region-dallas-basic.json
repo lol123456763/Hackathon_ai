@@ -1,0 +1,1149 @@
+{
+  "scope": "Dallas County (Dallas, Irving, Garland, Mesquite, Grand Prairie) - food, housing, utilities, cash_assistance, transportation, plus local providers",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "north-texas-food-bank",
+      "name": "North Texas Food Bank - Food Assistance and SNAP Application Help",
+      "organization": "North Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank supplies food pantries and mobile food pantries across North Texas. Staff can also help you apply for SNAP and other benefits.",
+      "eligibility_summary_en": "For people and families in North Texas who do not have enough food. Each partner pantry may have its own rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the pantry finder at ntfb.org to find a food pantry or mobile pantry near you. For SNAP help, call (214) 269-0906 or fill out the referral form on the website.",
+      "apply_url": "https://ntfb.org/get-help/",
+      "phone": "(214) 330-1396",
+      "address": "3677 Mapleshade Lane",
+      "city": "Plano",
+      "zip": "75075",
+      "hours": "Monday-Friday 8:30 a.m.-4:30 p.m.; Saturday 8:30 a.m.-3:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://ntfb.org/get-help/",
+      "confidence": "high",
+      "notes": "Food is given out through partner pantries, not at the Plano headquarters. SNAP application help line: (214) 269-0906, snap@ntfb.org. Serves multiple North Texas counties including Dallas."
+    },
+    {
+      "id": "dallas-county-ceap",
+      "name": "Comprehensive Energy Assistance Program (CEAP)",
+      "organization": "Dallas County Health and Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric and gas bills for low-income households. It can also help repair heating and cooling units during weather emergencies.",
+      "eligibility_summary_en": "For Dallas County households with income at or below 150% of the federal poverty level, based on the last 30 days of income. Older adults, people with disabilities, and families with children under 5 get priority.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Government-issued photo ID",
+        "Proof of all household income for the last 30 days",
+        "Benefit award letters (Social Security, SNAP, TANF) if you get them",
+        "Most recent electric or gas bill"
+      ],
+      "how_to_apply": "Call (214) 819-1848 to schedule an appointment. Appointments are required and there are no walk-ins.",
+      "apply_url": "https://www.dallascounty.org/departments/dchhs/human-services/ceap.php",
+      "phone": "(214) 819-1848",
+      "address": "2377 N. Stemmons Freeway, 2nd Floor, Suite 201",
+      "city": "Dallas",
+      "zip": "75207",
+      "hours": "Monday-Friday, 8 a.m. to 5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascounty.org/departments/dchhs/human-services/ceap.php",
+      "confidence": "high",
+      "notes": "The county page says the program is open but callers may have long wait times due to high demand. Full document list is in the county's CEAP Program Requirements 2026 PDF linked from the source page."
+    },
+    {
+      "id": "dallas-county-weatherization",
+      "name": "Weatherization Assistance Program (WAP)",
+      "organization": "Dallas County Health and Human Services",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Makes homes more energy efficient to lower utility bills. It can also fix health and safety problems and do minor home repairs.",
+      "eligibility_summary_en": "For low-income Dallas County residents. A home can get this help once every 15 years.",
+      "eligibility_rules": {
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Completed WAP application form",
+        "Supporting documents listed on the application"
+      ],
+      "how_to_apply": "Download the WAP application from the county website, fill it out, and mail it or bring it in. Call ahead to schedule an in-person visit.",
+      "apply_url": "https://www.dallascounty.org/departments/dchhs/human-services/wap.php",
+      "phone": "(214) 819-1909",
+      "address": "2377 N. Stemmons Freeway, Suite 336, 3rd Floor",
+      "city": "Dallas",
+      "zip": "75207",
+      "hours": "Monday-Friday, 8 a.m. to 4:30 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascounty.org/departments/dchhs/human-services/wap.php",
+      "confidence": "high",
+      "notes": "General line (214) 819-1976. Mail to: Dallas County Department of HHS, ATTN: WAP, 2377 N. Stemmons Freeway, Suite 336, Dallas, TX 75207-2710."
+    },
+    {
+      "id": "dallas-county-housing-choice-voucher",
+      "name": "Dallas County Housing Choice Voucher Program (Section 8)",
+      "organization": "Dallas County Health and Human Services - Housing Agency",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps low- to moderate-income residents pay rent for safe housing. It also offers a Family Self-Sufficiency program for voucher holders.",
+      "eligibility_summary_en": "For low- to moderate-income households. The waiting list is currently closed.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "The waiting list is closed right now. Call the housing agency to ask when it will open again.",
+      "apply_url": null,
+      "phone": "(214) 819-1871",
+      "address": "2377 N. Stemmons Freeway, 7th Floor, Suite 700",
+      "city": "Dallas",
+      "zip": "75207",
+      "hours": "Monday-Friday, 8 a.m. - 5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascounty.org/departments/dchhs/human-services/housing-agency.php",
+      "confidence": "high",
+      "notes": "Waiting list listed as closed when checked 2026-09-26. For people living in the City of Dallas, the Dallas Housing Authority (DHA) takes preliminary applications year-round."
+    },
+    {
+      "id": "dallas-county-older-adult-services",
+      "name": "Older Adult Services",
+      "organization": "Dallas County Health and Human Services",
+      "categories": [
+        "food",
+        "transportation"
+      ],
+      "description_en": "Offers meals, rides, health checks, fitness, and social activities at senior centers across Dallas County. Staff can also help with benefits counseling.",
+      "eligibility_summary_en": "For Dallas County residents age 60 and older.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 819-1860 to ask about meals, rides, and the senior center closest to you.",
+      "apply_url": null,
+      "phone": "(214) 819-1860",
+      "address": "2377 N. Stemmons Freeway",
+      "city": "Dallas",
+      "zip": "75207",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascounty.org/departments/dchhs/human-services/adult-svcs.php",
+      "confidence": "high",
+      "notes": "County reports about 800 meals per day and 70,000 trips per year across 18 senior centers. Main DCHHS line: (214) 819-2000."
+    },
+    {
+      "id": "dallas-county-wrongful-eviction-prevention",
+      "name": "Wrongful Eviction Prevention Program (WEPP)",
+      "organization": "Dallas County Health and Human Services with Dallas Eviction Advocacy Center (DEAC)",
+      "categories": [
+        "housing",
+        "legal"
+      ],
+      "description_en": "Gives free legal advice or a lawyer to tenants facing a wrongful eviction.",
+      "eligibility_summary_en": "For Dallas County residents at or below 200% of the federal poverty level who are facing a wrongful eviction and cannot pay for a lawyer.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact the Dallas Eviction Advocacy Center by phone at (469) 436-2704, by email at info@dallaseac.org, or with the online contact form.",
+      "apply_url": "https://www.dallaseac.org/contact-us/",
+      "phone": "(469) 436-2704",
+      "address": null,
+      "city": "Dallas",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallascounty.org/departments/dchhs/human-services/wepp.php",
+      "confidence": "high",
+      "notes": "Act fast: eviction cases have short court deadlines. DEAC's own site (dallaseac.org) says it serves all Dallas County tenants regardless of income or immigration status; the county-funded WEPP portion uses the 200% FPL limit."
+    },
+    {
+      "id": "dallas-housing-authority-hcv",
+      "name": "Housing Choice Voucher Program",
+      "organization": "Dallas Housing Authority (DHA)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps pay rent in private housing for low- to moderate-income families, older adults, and people with disabilities.",
+      "eligibility_summary_en": "For low- to moderate-income households. DHA checks full eligibility after you are pulled from the waiting list.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Names and ages of all household members",
+        "Social Security information",
+        "Proof of income",
+        "Bank statements"
+      ],
+      "how_to_apply": "Create a RentCafe account on DHA's online portal, choose the Housing Choice Voucher waiting list, and submit a preliminary application (about 20 minutes). Applications are accepted at any time.",
+      "apply_url": "https://onlinedha.securecafe.com/onlineleasing/dha-live/guestlogin.aspx",
+      "phone": "(469) 965-1961",
+      "address": "3939 N. Hampton Road",
+      "city": "Dallas",
+      "zip": "75212",
+      "hours": "Monday-Thursday 8 a.m. - 5:30 p.m.; Friday 8 a.m. - 12 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://dhantx.com/applicants/housing-choice-voucher-program/how-to-apply/",
+      "confidence": "high",
+      "notes": "Preliminary applications stay in DHA's system for up to 18 months; log in to RentCafe to check status. TTY 711."
+    },
+    {
+      "id": "dart-discount-gopass-tap-card",
+      "name": "Discount GoPass Tap Card (50% off fares for benefit recipients)",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Gives 50% off local DART bus and train fares to people who get certain public benefits. The card is free.",
+      "eligibility_summary_en": "For people enrolled in SNAP, Texas Medicaid, Medicare, CHIP, TANF, CEAP, WIC, the Housing Choice Voucher Program, Dallas Housing Authority, or Parkland Financial Assistance.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Current proof you are in a qualifying program (card or agency letter with your name)",
+        "A head-and-shoulders photo with a plain background",
+        "Email address (optional)"
+      ],
+      "how_to_apply": "Register online on the DART website or call (972) 482-4052. You must load at least $6 at the start, and the card arrives by mail in about 15 business days.",
+      "apply_url": "https://www.dart.org/fare/general-fares-and-overview/discount-gopass-tap-card",
+      "phone": "(972) 482-4052",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free card; $6 minimum first load",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dart.org/fare/general-fares-and-overview/discount-gopass-tap-card",
+      "confidence": "high",
+      "notes": "Card validity follows your benefit expiration date. Renew in person at the DARTmart at Akard Station."
+    },
+    {
+      "id": "dart-reduced-fare-card",
+      "name": "Reduced Fare GoPass Tap Card",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Gives 50% off DART bus, rail, and TRE fares for seniors, veterans, people with disabilities, children, and students.",
+      "eligibility_summary_en": "For adults 65 and older, veterans, people with disabilities, children 5-14, and high school or full-time college/trade school students with the right ID. Children under 5 ride free with a paying adult.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Proof of eligibility (such as age, veteran status, or medical/federal disability paperwork)"
+      ],
+      "how_to_apply": "Apply online at dartaccess.dart.org for your category. DART verifies your eligibility and mails the card.",
+      "apply_url": "https://dartaccess.dart.org",
+      "phone": "(214) 979-1111",
+      "address": "1401 Pacific Avenue",
+      "city": "Dallas",
+      "zip": "75202",
+      "hours": "Customer Service: 7 a.m.-midnight daily; 8 a.m.-5 p.m. holidays (closed Thanksgiving and Christmas)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Reduced fare (50% off)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dart.org/fare/general-fares-and-overview/reduced-fares",
+      "confidence": "high",
+      "notes": "Veteran cards mail in 7-10 business days after verification; senior cards within 15 business days."
+    },
+    {
+      "id": "dart-paratransit",
+      "name": "DART Paratransit Service",
+      "organization": "Dallas Area Rapid Transit (DART)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Door-to-door rides for people with disabilities who cannot use regular buses or trains. Paratransit ID holders and their registered attendants also ride GoLink free.",
+      "eligibility_summary_en": "For people with disabilities who are unable to use DART fixed-route buses or trains.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call DART Customer Service at (214) 979-1111 to ask about paratransit eligibility. For GoLink rides, call (214) 515-7272.",
+      "apply_url": "https://www.dart.org/guide/supporting-services/accessibility/dart-reduced",
+      "phone": "(214) 979-1111",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dart.org/guide/supporting-services/accessibility/dart-reduced",
+      "confidence": "high",
+      "notes": "DART also offers free Travel Training for people with disabilities learning to ride transit: (214) 979-1111."
+    },
+    {
+      "id": "ntbha-crisis-and-behavioral-health",
+      "name": "Behavioral Health and Crisis Services",
+      "organization": "North Texas Behavioral Health Authority (NTBHA)",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The state-designated local behavioral health authority for Dallas County. It runs a 24/7 crisis line and connects people to mental health and substance use treatment.",
+      "eligibility_summary_en": "For people of all ages, whatever their ability to pay or housing status. Sliding fee discounts are available.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "In a crisis, call (866) 260-8000 any time. To get into care in Dallas County, call (800) 241-8716 or email CCReferrals@ntbha.org.",
+      "apply_url": "https://ntbha.org/",
+      "phone": "(866) 260-8000",
+      "address": null,
+      "city": "Dallas",
+      "zip": null,
+      "hours": "Crisis line 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://ntbha.org/",
+      "confidence": "high",
+      "notes": "Also serves Ellis, Hunt, Kaufman, Navarro, and Rockwall counties. Other crisis number: (844) 672-5700. Main office: (214) 366-9407 (call or text), toll free (877) 653-6363. Call 911 in a life-threatening emergency."
+    },
+    {
+      "id": "metrocare-services",
+      "name": "Metrocare Mental Health and IDD Services",
+      "organization": "Metrocare Services",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "Provides mental health care for adults and children, services for people with intellectual and developmental disabilities, veteran services, and homeless and housing services at clinics across Dallas County.",
+      "eligibility_summary_en": "For Dallas County residents who need mental health or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 743-1200 or use the contact form on the Metrocare website and mark that you are a new client.",
+      "apply_url": "https://www.metrocareservices.org/contact-us/",
+      "phone": "(214) 743-1200",
+      "address": "3242 Remond Drive",
+      "city": "Dallas",
+      "zip": "75211",
+      "hours": "Monday-Friday, 8:00 a.m. to 5:00 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.metrocareservices.org/contact-us/",
+      "confidence": "high",
+      "notes": "Address is the administrative office; clinic locations are on Metrocare's locations page. Metrocare's contact page lists the NTBHA crisis hotline (866) 260-8000. Toll free: (877) 283-2121."
+    },
+    {
+      "id": "parkland-financial-assistance",
+      "name": "Parkland Financial Assistance (PFA)",
+      "organization": "Parkland Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Lowers the cost of care at Parkland hospitals and clinics, including primary care, specialists, hospital stays, and prescriptions. It is not health insurance.",
+      "eligibility_summary_en": "For Dallas County residents with income below 250% of the federal poverty level. You must apply and be approved.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 250,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Valid photo ID",
+        "Proof you live in Dallas County",
+        "Proof of income",
+        "Number of people in your household",
+        "Employment verification form",
+        "Asset form (if on Medicare)",
+        "Verification of support form (if someone else helps you with money or housing)"
+      ],
+      "how_to_apply": "Apply online, through Parkland MyChart (Menu > Billing > Parkland Financial Assistance), or bring your forms to Patient Financial Services. Financial counselors at Parkland health centers can also help.",
+      "apply_url": "https://www.parklandhealth.org/new-parkland-financial-assistance",
+      "phone": "(214) 590-8831",
+      "address": "2021 Medical District Drive (Parkland Tower Garage)",
+      "city": "Dallas",
+      "zip": "75235",
+      "hours": "Monday-Friday, 8 a.m.-4:30 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "Interpretation available in 166 languages"
+      ],
+      "cost": "Free to enroll; co-pays at time of service",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.parklandhealth.org/parkland-financial-assistance",
+      "confidence": "high",
+      "notes": "Approval lasts about 6 months, then must be renewed. PFA members also qualify for DART's Discount GoPass (50% off fares)."
+    },
+    {
+      "id": "workforce-solutions-greater-dallas",
+      "name": "Workforce Solutions Greater Dallas - Job Seeker Services",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help finding a job, including career coaching, resume help, job fairs, and training programs. It also runs child care assistance for Dallas County.",
+      "eligibility_summary_en": "Job search help is open to job seekers in Dallas County. Training and child care aid have their own eligibility rules.",
+      "eligibility_rules": {
+        "residency_required": "Dallas County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit any of the nine workforce centers in Dallas County or call the main line.",
+      "apply_url": "https://www.wfsdallas.com/visit-a-center/",
+      "phone": "(214) 624-7444",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Monday-Friday, 8:00 a.m. - 5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Dallas centers: Greenville Avenue (6500 Greenville Ave, Suite 250, 75206, (214) 378-2600); International District (5757 Alpha Rd, Suite 800, 75240, (972) 388-5600); Opportunity (1610 S. Malcolm X Blvd, 75226, (469) 802-1800); Pleasant Grove (1125 S. Buckner Blvd, 75217, (469) 687-3400); Redbird (3560 W. Camp Wisdom Rd, Suite 110, 75237, (972) 709-5377). Relay Texas 711."
+    },
+    {
+      "id": "workforce-solutions-garland-center",
+      "name": "Garland Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A local job center in Garland offering free job search help, career coaching, and training information.",
+      "eligibility_summary_en": "Open to job seekers in Dallas County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": null,
+      "phone": "(972) 276-8361",
+      "address": "530 Clara Barton Blvd., Suite 270 (2nd Floor)",
+      "city": "Garland",
+      "zip": "75042",
+      "hours": "Monday-Friday, 8:00 a.m. - 5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "workforce-solutions-grand-prairie-center",
+      "name": "Grand Prairie Workforce Center",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A local job center in Grand Prairie offering free job search help, career coaching, and training information.",
+      "eligibility_summary_en": "Open to job seekers in Dallas County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center during business hours or call ahead.",
+      "apply_url": null,
+      "phone": "(972) 264-5881",
+      "address": "801 State Highway 161 (5th Floor)",
+      "city": "Grand Prairie",
+      "zip": "75051",
+      "hours": "Monday-Friday, 8:00 a.m. - 5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "workforce-solutions-irving-centers",
+      "name": "Irving and Irving South Workforce Centers",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Two job centers in Irving offering free job search help, career coaching, and training information.",
+      "eligibility_summary_en": "Open to job seekers in Dallas County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit either center during business hours or call ahead.",
+      "apply_url": null,
+      "phone": "(972) 573-3500",
+      "address": "2110 W. Walnut Hill Ln., Suite 100",
+      "city": "Irving",
+      "zip": "75038",
+      "hours": "Monday-Friday, 8:00 a.m. - 5:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.wfsdallas.com/visit-a-center/",
+      "confidence": "high",
+      "notes": "Irving South Workforce Center: 1081 W. Shady Grove Rd., Irving, TX 75060, (972) 573-3600 (at Dallas College Irving South campus)."
+    },
+    {
+      "id": "dallas-county-child-care-assistance",
+      "name": "Child Care Assistance (Dallas County)",
+      "organization": "ChildCareGroup with Workforce Solutions Greater Dallas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps eligible families pay for child care so parents can work or go to school or training.",
+      "eligibility_summary_en": "For Dallas County families who meet state child care assistance rules. Eligibility is checked when you apply.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Texas Child Care Connection (TX3C) at childcare.twc.texas.gov. For help, call ChildCareGroup's Child Care Assistance line at (214) 630-5949.",
+      "apply_url": "https://childcare.twc.texas.gov",
+      "phone": "(214) 630-5949",
+      "address": "3000 Pegasus Park Drive, Suite 800",
+      "city": "Dallas",
+      "zip": "75247",
+      "hours": "Monday-Friday, 7:30 a.m. - 5:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Parent share of cost may apply",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://cca.childcaregroup.org/ccg",
+      "confidence": "high",
+      "notes": "Since January 13, 2025, new applications go through the statewide TX3C system, not the old ChildCareGroup portal. ChildCareGroup also runs Head Start and home visiting programs (main office (214) 630-7911, per childcaregroup.org)."
+    },
+    {
+      "id": "city-of-dallas-wic",
+      "name": "City of Dallas WIC Program",
+      "organization": "City of Dallas",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food on an EBT card, nutrition classes, and breastfeeding support to pregnant women, new moms, and young children.",
+      "eligibility_summary_en": "For pregnant, breastfeeding, and postpartum women and children under 5 who live in Dallas County, meet income guidelines, and have a nutritional need. You do not need to be a U.S. citizen. People on Medicaid, TANF, or SNAP automatically meet the income rule.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "residency_required": "Dallas County resident"
+      },
+      "documents_needed": [
+        "Proof of Medicaid, TANF, or SNAP if you have it"
+      ],
+      "how_to_apply": "Call (214) 670-7200 or text 1-855-957-5424 to make an appointment at one of 16 WIC clinics in Dallas County.",
+      "apply_url": null,
+      "phone": "(214) 670-7200",
+      "address": null,
+      "city": "Dallas",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://dallascityhall.com/departments/community-empowerment/Pages/womeninfantsandchildrenwic.aspx",
+      "confidence": "high",
+      "notes": "Many clinics are open six days a week. Email: ASKWIC@dallas.gov. Single fathers and foster children under 5 can also qualify."
+    },
+    {
+      "id": "lbu-community-clinic",
+      "name": "LBU Community Clinic (health center and WIC)",
+      "organization": "Los Barrios Unidos Community Clinic",
+      "categories": [
+        "healthcare",
+        "food"
+      ],
+      "description_en": "A federally supported community health center in Dallas that also runs WIC, giving free healthy food and nutrition help to moms and young children.",
+      "eligibility_summary_en": "WIC is for pregnant and breastfeeding women, infants, and children under 5. Clinic care is open to the community.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 761-0956 to make a WIC appointment.",
+      "apply_url": "https://lbucommunityclinic.org/wic/",
+      "phone": "(214) 761-0956",
+      "address": "809 Singleton Blvd.",
+      "city": "Dallas",
+      "zip": "75212",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "WIC is free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://lbucommunityclinic.org/wic/",
+      "confidence": "high",
+      "notes": "Other locations: 3111 Sylvan Ave. (75212); 4732 W Illinois Ave. (75211); 5787 S Hampton Rd., Suite 365 (75232); 915 Brookmere Dr. (75216); 1283 Record Crossing Rd. (75235, WIC). Receives HHS health center funding; ask about sliding-fee pricing for clinic visits."
+    },
+    {
+      "id": "crossroads-community-market",
+      "name": "Crossroads Community Market",
+      "organization": "Crossroads Community Services",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A choice-style food market where families pick fresh food, including produce, protein, grains, and dairy. A family of four can get about 100 pounds of food each month.",
+      "eligibility_summary_en": "For households with income below federal TEFAP guidelines who live in certain southern and western Dallas County zip codes. You do not need to bring proof of income.",
+      "eligibility_rules": {
+        "residency_required": "Zip codes 75203, 75208, 75211, 75212, 75216, 75217, 75224, 75232, 75233, 75236, 75237, 75241, 75249, 75052, 75104, 75115, 75116, 75137"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (469) 860-6090 to book an appointment.",
+      "apply_url": "https://ccsdallas.org/needfood-english",
+      "phone": "(469) 860-6090",
+      "address": "4500 S Cockrell Hill Rd",
+      "city": "Dallas",
+      "zip": "75236",
+      "hours": "Monday-Friday 8:30 a.m.-1:30 p.m.; 1st Saturday 9 a.m.-1 p.m.; 4th Thursday evening 1:30-5:30 p.m. (all by appointment)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://ccsdallas.org/needfood-english",
+      "confidence": "high",
+      "notes": "Service area includes parts of Dallas, Grand Prairie (75052), Cedar Hill, DeSoto, Duncanville, and Lancaster zip codes. The site has English and Spanish intake pages."
+    },
+    {
+      "id": "legal-aid-northwest-texas-dallas",
+      "name": "Legal Aid of NorthWest Texas - Dallas Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help for low-income people, including evictions and landlord problems, divorce, custody, and family violence.",
+      "eligibility_summary_en": "For low-income people who meet Legal Aid's eligibility rules. Check eligibility when you apply.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the Legal Aid Line at 1-888-529-5277. For landlord-tenant problems call 855-548-8457. Call the Dallas office if you have a court deadline.",
+      "apply_url": "https://legalaidtx.org/get-help/how-to-apply/",
+      "phone": "(214) 748-1234",
+      "address": "1515 Main St.",
+      "city": "Dallas",
+      "zip": "75201",
+      "hours": "Monday-Friday, 8 a.m. to 5 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://legalaidtx.org/locations/dallas/",
+      "confidence": "high",
+      "notes": "Other languages are served through phone interpreters. People who do not qualify can use self-help resources at TexasLawHelp.org."
+    },
+    {
+      "id": "austin-street-center",
+      "name": "Austin Street Center Emergency Shelter",
+      "organization": "Austin Street Center",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "An overnight emergency shelter in Dallas for adults with nowhere to stay.",
+      "eligibility_summary_en": "For women 18 and older and men 45 and older who have no place to stay and can care for themselves. Registered sex offenders cannot be served.",
+      "eligibility_rules": {
+        "unhoused": true,
+        "min_age": 18
+      },
+      "documents_needed": [
+        "Valid state or federal government photo ID"
+      ],
+      "how_to_apply": "Walk up to the Welcome Center (open from 8 a.m.). Intake is Monday-Friday 11 a.m.-4 p.m. and beds usually fill before noon, so come early.",
+      "apply_url": "https://austinstreet.org/get-help/",
+      "phone": "(214) 428-4242",
+      "address": "1717 Jeffries Street",
+      "city": "Dallas",
+      "zip": "75226",
+      "hours": "Intake Monday-Friday 11 a.m.-4 p.m.; Welcome Center opens 8 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://austinstreet.org/get-help/",
+      "confidence": "high",
+      "notes": "Men must be 45+. Limit of two bags, 25 lbs each. Walk-ups may be chosen by lottery when demand is high."
+    },
+    {
+      "id": "the-bridge-homeless-recovery-center",
+      "name": "The Bridge Homeless Recovery Center - Day and Night Shelter",
+      "organization": "The Bridge Homeless Recovery Center",
+      "categories": [
+        "housing",
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Day and night shelter for adults experiencing homelessness, with meals, showers, laundry, health care, job help, housing help, and a kennel for dogs.",
+      "eligibility_summary_en": "For adults 18 and older who are homeless. No ID, background check, or sobriety check is required.",
+      "eligibility_rules": {
+        "unhoused": true,
+        "min_age": 18
+      },
+      "documents_needed": [],
+      "how_to_apply": "Go to The Bridge and complete intake with an Intake Specialist, any day from 6 a.m. to 7 p.m.",
+      "apply_url": "https://www.bridgehrc.org/get-help/homeless-recovery-services/",
+      "phone": "(214) 670-1100",
+      "address": "1818 Corsicana Street",
+      "city": "Dallas",
+      "zip": "75201",
+      "hours": "Intake daily 6 a.m.-7 p.m.; Day shelter 6 a.m.-5 p.m.; Night shelter 5 p.m.-6 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.bridgehrc.org/get-help/homeless-recovery-services/",
+      "confidence": "high",
+      "notes": "Guest intake line: (214) 670-1507. Meals: breakfast 7:30-8:30 a.m., lunch 12-1 p.m., dinner 6-7 p.m. (night shelter guests). Criminal history does not disqualify."
+    },
+    {
+      "id": "ugm-dallas-calvert-place-mens-shelter",
+      "name": "Calvert Place Men's Shelter",
+      "organization": "Union Gospel Mission Dallas",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Emergency shelter for men with meals, showers, medical help, recovery support, counseling, and job readiness training.",
+      "eligibility_summary_en": "For men experiencing homelessness. A valid ID is required.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "Valid ID"
+      ],
+      "how_to_apply": "Walk in for intake any day from 8 a.m. to 6 p.m. No appointment is needed.",
+      "apply_url": "https://www.ugmdallas.org/men",
+      "phone": "(214) 637-6117",
+      "address": "3211 Irving Blvd.",
+      "city": "Dallas",
+      "zip": "75247",
+      "hours": "Intake Monday-Sunday, 8 a.m.-6 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.ugmdallas.org/men",
+      "confidence": "high",
+      "notes": "Faith-based (Christian) program. Open 365 days a year."
+    },
+    {
+      "id": "ugm-dallas-center-of-hope",
+      "name": "Center of Hope Women and Children's Shelter",
+      "organization": "Union Gospel Mission Dallas",
+      "categories": [
+        "housing",
+        "food",
+        "school_childcare"
+      ],
+      "description_en": "Shelter for women and mothers with children, with meals, clothing, counseling, job training, and licensed child care for infants through kindergarten.",
+      "eligibility_summary_en": "For women and women with children who need shelter. Women need a valid ID and mothers need birth certificates for their children.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "Valid ID",
+        "Birth certificates for all children"
+      ],
+      "how_to_apply": "Call (214) 638-2988 for an intake appointment. Intake is Monday-Sunday, 8 a.m.-5 p.m., by appointment only.",
+      "apply_url": "https://www.ugmdallas.org/women-and-children",
+      "phone": "(214) 638-2988",
+      "address": "4815 Cass St.",
+      "city": "Dallas",
+      "zip": "75235",
+      "hours": "Intake Monday-Sunday, 8 a.m.-5 p.m. by appointment",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.ugmdallas.org/women-and-children",
+      "confidence": "high",
+      "notes": "Faith-based (Christian) program."
+    },
+    {
+      "id": "dallas-life",
+      "name": "Dallas LIFE Shelter and Recovery Programs",
+      "organization": "Dallas LIFE",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Provides shelter, meals, and clothing, plus recovery, job readiness, counseling, and medical and dental help.",
+      "eligibility_summary_en": "For men, women, and families with children who are experiencing homelessness.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 421-1380 or email info@dallaslife.org to ask about intake.",
+      "apply_url": "https://www.dallaslife.org/",
+      "phone": "(214) 421-1380",
+      "address": "1100 Cadiz Street",
+      "city": "Dallas",
+      "zip": "75215",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.dallaslife.org/",
+      "confidence": "high",
+      "notes": "Faith-based (Christian). Has programs for seniors, veterans, and children. Intake hours were not listed on the website; call first."
+    },
+    {
+      "id": "housing-forward-homeless-crisis-helpline",
+      "name": "Homeless Crisis Helpline",
+      "organization": "Housing Forward (All Neighbors Coalition)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "A helpline that connects people experiencing homelessness in Dallas and Collin counties to shelter and housing resources.",
+      "eligibility_summary_en": "For people who are homeless now in Dallas or Collin County.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Homeless Crisis Helpline at (888) 411-6802. For rent or utility help, call 2-1-1.",
+      "apply_url": "https://housingforwardntx.org/help-resources/",
+      "phone": "(888) 411-6802",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://housingforwardntx.org/",
+      "confidence": "high",
+      "notes": "Housing Forward is the lead agency for the Dallas/Collin homeless response system (also serves Collin County). Office: 3000 Pegasus Park Dr., Suite 1020, Dallas 75247, (972) 638-5600 - not a walk-in service site."
+    },
+    {
+      "id": "irving-cares-food-pantry",
+      "name": "Irving Cares Food Pantry",
+      "organization": "Irving Cares",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Gives groceries to feed each person in the household three meals a day for a week. You can get food up to 12 times a year.",
+      "eligibility_summary_en": "For individuals and families in need. Call to confirm any requirements.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit during pantry hours or call (972) 721-9181.",
+      "apply_url": "https://irvingcares.org/services/",
+      "phone": "(972) 721-9181",
+      "address": "440 South Nursery Rd, Suite 101",
+      "city": "Irving",
+      "zip": "75060",
+      "hours": "Monday 9 a.m.-noon; Tuesday and Thursday 9 a.m.-noon and 1-3:30 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://irvingcares.org/services/",
+      "confidence": "high",
+      "notes": "Irving Cares also offers prescription help, employment services, and an 'Invest in Yourself' program (child care, education, employment)."
+    },
+    {
+      "id": "irving-cares-rent-utility-assistance",
+      "name": "Irving Cares Rent and Utilities Assistance",
+      "organization": "Irving Cares",
+      "categories": [
+        "housing",
+        "utilities",
+        "cash_assistance"
+      ],
+      "description_en": "One-time help paying rent or electric/gas bills for Irving residents who are behind.",
+      "eligibility_summary_en": "For people who have lived in Irving at least 6 months and at their current address at least 3 months, and who have earned income. There are limits on how often you can get help.",
+      "eligibility_rules": {
+        "residency_required": "City of Irving resident for at least 6 months"
+      },
+      "documents_needed": [
+        "Photo ID (applicant 18+)",
+        "Current lease listing all household members (no month-to-month leases) for rent help",
+        "Notice to vacate or late notice for rent help"
+      ],
+      "how_to_apply": "Apply by phone only at (972) 721-9181. A case manager will check your application and set up an appointment.",
+      "apply_url": "https://irvingcares.org/services/rent-and-utilities-assistance/",
+      "phone": "(972) 721-9181",
+      "address": "440 South Nursery Rd, Suite 101",
+      "city": "Irving",
+      "zip": "75060",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://irvingcares.org/services/rent-and-utilities-assistance/",
+      "confidence": "high",
+      "notes": "Rent: earned income must equal or exceed rent; all prior months' rent must be paid; no rent help in last 3 years. Utilities: account open 90+ days; no utility or rent help in last 13 months; covers Direct Energy, Ambit, Reliant, TXU, Atmos. Dallas County CEAP is also offered at Irving Cares: (214) 819-1848."
+    },
+    {
+      "id": "good-samaritans-of-garland",
+      "name": "Good Samaritans of Garland Food Pantry",
+      "organization": "Good Samaritans of Garland",
+      "categories": [
+        "food",
+        "housing"
+      ],
+      "description_en": "A food pantry in Garland that also offers help for unhoused people and referrals to other resources.",
+      "eligibility_summary_en": "For people in need of food. Eligibility rules were not listed; contact the pantry.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the pantry during open hours.",
+      "apply_url": "https://goodsamofgarland.org/",
+      "phone": null,
+      "address": "3319 Edgewood Dr",
+      "city": "Garland",
+      "zip": null,
+      "hours": "Monday-Friday 9 a.m.-1 p.m.; closed Saturday and Sunday",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://goodsamofgarland.org/",
+      "confidence": "high",
+      "notes": "North Texas Food Bank partner. Phone number and zip code were not shown on the website."
+    },
+    {
+      "id": "sharing-life-community-outreach",
+      "name": "Sharing Life Community Outreach",
+      "organization": "Sharing Life Community Outreach",
+      "categories": [
+        "food",
+        "housing",
+        "utilities",
+        "cash_assistance"
+      ],
+      "description_en": "Food pantry plus emergency help with rent, mortgage, and utility bills. Also offers clothing, hygiene items, financial coaching, and hotel stays during extreme cold.",
+      "eligibility_summary_en": "For individuals and families facing food insecurity or a financial emergency. Contact them for specific rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (972) 285-5819 or use the 'Find Food Near You' tool on the website for pantry hours and partner pantries.",
+      "apply_url": "https://sharing.life/",
+      "phone": "(972) 285-5819",
+      "address": "3795 W. Emporium Circle",
+      "city": "Mesquite",
+      "zip": "75150",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://sharing.life/",
+      "confidence": "high",
+      "notes": "Main location in Mesquite with satellite partner pantries. W.A.R.M. program gives temporary hotel stays during extreme cold weather."
+    },
+    {
+      "id": "grand-prairie-housing-neighborhood-services",
+      "name": "Grand Prairie Housing Choice Vouchers and Housing Programs",
+      "organization": "City of Grand Prairie Housing & Neighborhood Services",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Section 8 rental vouchers for low-income families, plus emergency home repair and rehab help for seniors and people with disabilities.",
+      "eligibility_summary_en": "For low- to moderate-income Grand Prairie residents. Some repair programs are only for people 60 and older or with disabilities.",
+      "eligibility_rules": {
+        "residency_required": "City of Grand Prairie resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (972) 237-8176 or visit the office during walk-in times.",
+      "apply_url": "https://www.gptx.org/Departments/Housing-Neighborhood-Services",
+      "phone": "(972) 237-8176",
+      "address": "210 W Main St",
+      "city": "Grand Prairie",
+      "zip": "75050",
+      "hours": "Monday-Thursday 7:30 a.m.-6 p.m.; Friday 7:30 a.m.-12 p.m.; closed weekends",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.gptx.org/Departments/Housing-Neighborhood-Services",
+      "confidence": "high",
+      "notes": "Page lists walk-in times Tuesdays 8:30 a.m. and Thursdays 1:30 p.m. (labeled as a COVID-19 change; confirm by phone). Voucher waiting list status was not stated. Grand Prairie spans Dallas, Tarrant, and Ellis counties."
+    },
+    {
+      "id": "now-forward-dallas",
+      "name": "Now-Forward (formerly North Dallas Shared Ministries)",
+      "organization": "Now-Forward",
+      "categories": [
+        "food",
+        "healthcare",
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Offers food, clothing, medical, dental, vision, and counseling services, plus rent and utility help and ESL classes.",
+      "eligibility_summary_en": "For people in need in its Dallas service area. Contact them for specific rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (214) 358-8700 or email help@now-forward.org for emergency aid.",
+      "apply_url": "https://now-forward.org/",
+      "phone": "(214) 358-8700",
+      "address": "2875 Merrell Road",
+      "city": "Dallas",
+      "zip": "75229",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://now-forward.org/",
+      "confidence": "high",
+      "notes": "The old ndsm.org address now redirects here. Service-area zip codes were not listed on the homepage; ask when calling. Medical: medical@now-forward.org; dental: dental@now-forward.org."
+    }
+  ]
+}

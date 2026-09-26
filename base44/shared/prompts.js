@@ -79,7 +79,7 @@ export function resourceForAi(match, lang = 'en') {
   const es = lang === 'es';
   return {
     resource_id: r.id,
-    name: r.name,
+    name: (es && r.name_es) || r.name,
     organization: r.organization,
     categories: r.categories,
     match: match.level,

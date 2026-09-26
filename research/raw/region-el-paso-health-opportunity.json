@@ -1,0 +1,1089 @@
+{
+  "scope": "El Paso County - healthcare, mental health, school/childcare, employment, legal",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "emergence-health-network-crisis-line",
+      "name": "Emergence Health Network 24/7 Crisis Hotline",
+      "organization": "Emergence Health Network",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A 24-hour phone line for anyone in a mental health or substance use crisis in El Paso. Staff can help right away and connect you to crisis services.",
+      "eligibility_summary_en": "Anyone in El Paso County having a mental health crisis, or worried about someone who is.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the crisis hotline any time, day or night. You can also call, text, or chat 988.",
+      "apply_url": null,
+      "phone": "(915) 779-1800",
+      "address": null,
+      "city": "El Paso",
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://emergencehealthnetwork.org/",
+      "confidence": "high",
+      "notes": "Toll-free crisis line: 1-877-562-6467. The 988 Suicide & Crisis Lifeline is also available 24/7. Call 911 for life-threatening emergencies."
+    },
+    {
+      "id": "emergence-health-network-lmha",
+      "name": "Emergence Health Network Mental Health, Substance Use and IDD Services",
+      "organization": "Emergence Health Network",
+      "categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "description_en": "El Paso's Local Mental Health Authority. It offers counseling, psychiatric care, substance use treatment, youth services, developmental disability services, and a primary care clinic.",
+      "eligibility_summary_en": "Children, teens, and adults in El Paso County who need mental health, addiction, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Centralized Scheduling to set up an appointment, or call Program Selection to learn which program fits you.",
+      "apply_url": null,
+      "phone": "(915) 242-0555",
+      "address": "201 E. Main, Suite 600",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about fees",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://emergencehealthnetwork.org/",
+      "confidence": "high",
+      "notes": "Address is the administrative office (One San Jacinto Plaza). Program Selection: (915) 887-3410 or toll free (844) 600-3410. EHN also offers employment services and school-based mental health programs."
+    },
+    {
+      "id": "el-paso-child-guidance-center",
+      "name": "El Paso Child Guidance Center",
+      "organization": "El Paso Child Guidance Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Offers therapy, counseling, psychiatric evaluations, family counseling, and trauma-informed care for children, families, and adults.",
+      "eligibility_summary_en": "People age 2 through adulthood with mental health challenges. Crime victims can get services at no cost.",
+      "eligibility_rules": {
+        "min_age": 2
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the center to ask for services. Spanish is spoken.",
+      "apply_url": "http://epcgc.org/",
+      "phone": "(915) 562-1999",
+      "address": "2701 Yandell Dr.",
+      "city": "El Paso",
+      "zip": "79903",
+      "hours": "Monday-Friday, 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding scale based on income and family size; no one turned away for inability to pay",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "http://epcgc.org/",
+      "confidence": "high",
+      "notes": "Second location: 9001 Cashew Dr. Suite 300, El Paso, TX 79907 (East). Offers Parent Child Interaction Therapy (PCIT)."
+    },
+    {
+      "id": "aliviane-addiction-recovery",
+      "name": "Aliviane Substance Use Treatment and Recovery Services",
+      "organization": "Aliviane",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Helps youth, adults, and families with drug and alcohol use through prevention, outpatient and residential treatment, opioid treatment, recovery support, and telehealth.",
+      "eligibility_summary_en": "Youth, adults, and families in the El Paso area dealing with alcohol or drug use.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main number or the clinic that fits your need.",
+      "apply_url": "https://www.aliviane.org/",
+      "phone": "(915) 782-4000",
+      "address": "1626 Medical Center",
+      "city": "El Paso",
+      "zip": "79902",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about fees",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.aliviane.org/",
+      "confidence": "high",
+      "notes": "Residential: (915) 782-4014; Adult Outpatient: (915) 779-3764; Youth & Family Outpatient: (915) 782-4023; Opioid Treatment Clinic: (915) 779-4527."
+    },
+    {
+      "id": "umc-el-paso-healthcare-options",
+      "name": "Healthcare Options (Indigent Health Care) Program",
+      "organization": "University Medical Center of El Paso",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "UMC's charity care program helps people with low income pay for hospital and medical care at UMC. Staff help you finish the application.",
+      "eligibility_summary_en": "Low-income El Paso residents. Eligibility is based on federal poverty guidelines and proof of residency.",
+      "eligibility_rules": {
+        "residency_required": "El Paso County resident"
+      },
+      "documents_needed": [
+        "Proof of income (one): tax return, W-2, 2 recent paychecks, unemployment letter, employer letter, or bank statement",
+        "Two proofs of residency: mail, driver's license, school enrollment, property tax receipt, rent receipt, mortgage statement, or utility bill",
+        "Names of family members in your household"
+      ],
+      "how_to_apply": "Gather your documents and contact UMC's Healthcare Options office. Staff will help you apply and decide if you qualify.",
+      "apply_url": "https://www.umcelpaso.org/patients-and-visitors/billing-and-insurance/charity-care",
+      "phone": "(915) 521-7900",
+      "address": "4815 Alameda Ave.",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or reduced cost if eligible",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.umcelpaso.org/patients-and-visitors/billing-and-insurance/charity-care",
+      "confidence": "high",
+      "notes": "Exact income percentage limit not stated on the page. Application forms available in English and Spanish. UMC main number: (915) 544-1200."
+    },
+    {
+      "id": "la-fe-central-clinic",
+      "name": "La Fe Central Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Primary care and adult dental care, plus prenatal care, lab, X-ray, pharmacy, eye care, diabetes education, and WIC on site.",
+      "eligibility_summary_en": "Open to the community, including adults and pregnant women. Walk-ins welcome.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment, or walk in during clinic hours.",
+      "apply_url": null,
+      "phone": "(915) 545-4550",
+      "address": "700 S. Ochoa",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": "Clinic: Monday-Friday 8 a.m.-5 p.m.; Pharmacy 8:30 a.m.-5:30 p.m.; Lab 6 a.m.-5:30 p.m.; WIC Monday-Thursday 7:30 a.m.-6:30 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.lafe-ep.org/central-clinic",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-san-elizario-clinic",
+      "name": "La Fe San Elizario Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Family primary care and dental care, shots, well-child and well-woman exams, sports physicals, and diabetes education.",
+      "eligibility_summary_en": "Families in the San Elizario area and El Paso County. Walk-ins welcome.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment, or walk in during clinic hours.",
+      "apply_url": null,
+      "phone": "(915) 545-6156",
+      "address": "12101 Socorro Rd.",
+      "city": "San Elizario",
+      "zip": "79849",
+      "hours": "Clinic: Monday-Friday 8 a.m.-5 p.m.; Pharmacy 9 a.m.-5 p.m.; Lab 7 a.m.-9:30 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/san-elizario-clinic/",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-westway-clinic",
+      "name": "La Fe Westway Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Family primary care, dental care, shots, well-child and well-woman exams, pharmacy, and a community center with computer classes and tutoring.",
+      "eligibility_summary_en": "Families in the Canutillo/Westway area and El Paso County. Walk-ins welcome.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment, or walk in during clinic hours.",
+      "apply_url": null,
+      "phone": "(915) 231-4370",
+      "address": "1713 Banker St.",
+      "city": "Canutillo",
+      "zip": "79835",
+      "hours": "Clinic: Monday-Friday 7 a.m.-5 p.m.; Pharmacy 8 a.m.-5 p.m.; Lab 7 a.m.-9 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/westway-clinic/",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-lisbon-clinic",
+      "name": "La Fe Lisbon Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Family primary care, shots, well-child and well-woman exams, sports physicals, lab, pharmacy, and a computer lab with free internet.",
+      "eligibility_summary_en": "Families in El Paso. Walk-ins welcome.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment, or walk in during clinic hours.",
+      "apply_url": null,
+      "phone": "(915) 545-6140",
+      "address": "200 Lisbon St.",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": "Clinic: Monday-Friday 8 a.m.-5 p.m.; Pharmacy 8 a.m.-5 p.m.; Lab 7:30 a.m.-9 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/lisbon-clinic/",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-yandell-adult-clinic",
+      "name": "La Fe Yandell Adult Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Primary care for adults, with a focus on high blood pressure and diabetes. Has an in-house pharmacy for low-cost prescriptions.",
+      "eligibility_summary_en": "Adults age 18 and older. Walk-ins welcome.",
+      "eligibility_rules": {
+        "min_age": 18
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment, or walk in during clinic hours.",
+      "apply_url": null,
+      "phone": "(915) 545-7205",
+      "address": "823 E. Yandell",
+      "city": "El Paso",
+      "zip": "79902",
+      "hours": "Clinic: Monday-Friday 8 a.m.-5 p.m.; Pharmacy 8 a.m.-5 p.m.; Lab 7:30 a.m.-10 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/yandell-adult-clinic/",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-jose-roman-pediatric-clinic",
+      "name": "La Fe Jose Roman MD Pediatric Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Children's clinic with well-child exams, sports physicals, shots, nutrition education, pharmacy, and WIC services.",
+      "eligibility_summary_en": "Children from newborn to 17 years old.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 17
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment.",
+      "apply_url": null,
+      "phone": "(915) 545-7244",
+      "address": "815 E. Yandell",
+      "city": "El Paso",
+      "zip": "79902",
+      "hours": "Clinic: Monday-Friday 7 a.m.-6 p.m. (Wednesday 7:30 a.m.-5 p.m.); Pharmacy Monday-Friday 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/jose-roman-md-pediatric-clinic/",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-child-adolescent-wellness-center",
+      "name": "La Fe Child & Adolescent Wellness Center",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Bilingual clinic for children and teens with shots, well-child exams, sports physicals, dental care, and eye and hearing screenings.",
+      "eligibility_summary_en": "Children and teens. Walk-ins welcome.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment, or walk in during clinic hours.",
+      "apply_url": null,
+      "phone": "(915) 545-7090",
+      "address": "721 S. Ochoa",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": "Monday-Friday, 8 a.m. to 5 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/child-adolescent-wellness-center-pediatric-clinic/",
+      "confidence": "high",
+      "notes": "La Fe is a community health center. Fees for uninsured patients were not listed on the clinic page; call to ask. Staff can help with Affordable Care Act marketplace sign-up."
+    },
+    {
+      "id": "la-fe-optometry-clinic",
+      "name": "La Fe Optometry Clinic",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Eye exams, eyeglass prescriptions, and glaucoma screenings.",
+      "eligibility_summary_en": "Registered La Fe patients age 6 and older. Most insurance accepted.",
+      "eligibility_rules": {
+        "min_age": 6
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to make an appointment.",
+      "apply_url": null,
+      "phone": "(915) 545-7067",
+      "address": "700 S. Ochoa, 2nd Floor",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": "Monday noon-5 p.m.; Tuesday 8 a.m.-12 p.m.; Thursday 8 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low cost; call to ask about fees for people without insurance",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/optometry-clinic/",
+      "confidence": "high",
+      "notes": "Must be a registered La Fe patient. Contact lens prescriptions not available."
+    },
+    {
+      "id": "la-fe-care-center",
+      "name": "La Fe CARE Center (HIV care and free HIV testing)",
+      "organization": "Centro de Salud Familiar La Fe",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A one-stop clinic for people living with HIV, with medical care, pharmacy, counseling, support groups, and case management. Free HIV testing is open to everyone.",
+      "eligibility_summary_en": "People living with HIV (proof of HIV status needed for most services). Free HIV testing for anyone.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Proof of HIV status (for most services)"
+      ],
+      "how_to_apply": "Call the CARE Center to make an appointment or ask about free testing.",
+      "apply_url": "https://lafe-ep.org/la-fe-care-center/",
+      "phone": "(915) 545-7247",
+      "address": "1505 Mescalero Dr.",
+      "city": "El Paso",
+      "zip": "79925",
+      "hours": "Clinic: 8 a.m.-5 p.m. Mon-Fri; 8 a.m.-8 p.m. Tues & Sat (by appointment)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "HIV testing free; call about other costs",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://lafe-ep.org/la-fe-care-center/",
+      "confidence": "high",
+      "notes": "Runs a mobile testing unit."
+    },
+    {
+      "id": "project-vida-health-center",
+      "name": "Project Vida Health Center",
+      "organization": "Project Vida",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center with primary care, women's health, family planning, children's care, HIV/Hep C/PrEP care, behavioral health, and pharmacy. It also offers diabetes care and case management.",
+      "eligibility_summary_en": "Residents of El Paso County and nearby Hudspeth County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main office to make an appointment.",
+      "apply_url": "https://www.pvida.net/",
+      "phone": "(915) 465-1191",
+      "address": "3607 Rivera Ave",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask about fees",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.pvida.net/",
+      "confidence": "high",
+      "notes": "Also offers early childhood, after-school, parenting education, and housing programs. Hours and sliding fee details not on website; call."
+    },
+    {
+      "id": "city-of-el-paso-wic",
+      "name": "City of El Paso WIC Program",
+      "organization": "City of El Paso Department of Public Health",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food benefits, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "Pregnant, breastfeeding, or postpartum women, infants, and children under 5 who meet income rules.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Proof of address",
+        "Proof of income or benefits programs",
+        "Identification"
+      ],
+      "how_to_apply": "Start online with the Texas WIC form or call 915-212-4942. Staff will call you to set up an appointment.",
+      "apply_url": "https://texaswic.az1.qualtrics.com/jfe/form/SV_6G3nsSAEyVNzixn?Q_Language=EN&source=website-text-link",
+      "phone": "(915) 212-4942",
+      "address": null,
+      "city": "El Paso",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.elpasotexas.gov/public-health/services/women-infants-and-children-wic",
+      "confidence": "high",
+      "notes": "Location-specific hours are posted on the city WIC page. 24/7 breastfeeding hotline: 855-550-6667. Appointments can be virtual or by phone."
+    },
+    {
+      "id": "city-of-el-paso-rawlings-dental-clinic",
+      "name": "Rawlings Pediatric Dental Clinic",
+      "organization": "City of El Paso Department of Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Dental care for children and young adults, including cleanings, fluoride, sealants, fillings, root canals, and pulling teeth. Emergency visits available.",
+      "eligibility_summary_en": "Children from 6 months to their 21st birthday who live in El Paso County.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 20,
+        "residency_required": "El Paso County resident"
+      },
+      "documents_needed": [
+        "Utility bill or Texas ID",
+        "Birth certificate",
+        "Check stubs or employer letter (for Title V or sliding fee)"
+      ],
+      "how_to_apply": "Call the clinic to make an appointment. Call the same number for emergencies.",
+      "apply_url": "https://www.elpasotexas.gov/public-health/services/dental-clinic",
+      "phone": "(915) 212-8000",
+      "address": "3301 Pera Ave",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": "Tuesday-Friday, 7am to 6pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Accepts Medicaid, CHIP, private insurance; sliding fee based on family income; no one denied for inability to pay",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.elpasotexas.gov/public-health/services/dental-clinic",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "city-of-el-paso-immunization-clinics",
+      "name": "City of El Paso Public Health Immunization Clinics",
+      "organization": "City of El Paso Department of Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost vaccines for uninsured children and adults at five city clinics. TB skin tests also offered.",
+      "eligibility_summary_en": "Uninsured children (0-18) and adults (19+). Medicaid and CHIP accepted.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Parent or guardian photo ID",
+        "Immunization record"
+      ],
+      "how_to_apply": "Call to schedule a vaccine appointment.",
+      "apply_url": "https://www.elpasotexas.gov/public-health/services/immunizations",
+      "phone": "(915) 212-0200",
+      "address": "4240 Alameda Ave",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": "Monday-Friday 7:30 AM-4:00 PM (closed 12-1 PM)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$10 per vaccine administration fee for uninsured; TB test $40",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.elpasotexas.gov/public-health/services/immunizations",
+      "confidence": "high",
+      "notes": "Other clinics: Lower Valley 9341 Alameda Ave 79907; Henderson 721 S. Mesa St 79901; Northeast 9566 Railroad Dr 79924; Westside 7380 Remcon Circle 79912."
+    },
+    {
+      "id": "city-of-el-paso-hiv-std-testing",
+      "name": "Free HIV, Syphilis and Hepatitis C Testing",
+      "organization": "City of El Paso Department of Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Free, private HIV, syphilis, and hepatitis C testing. Walk-ins welcome. Also helps with PrEP/PEP and getting into care.",
+      "eligibility_summary_en": "Anyone who wants to be tested.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during testing hours; no appointment needed.",
+      "apply_url": "https://www.elpasotexas.gov/public-health/services/std-and-hiv-prevention",
+      "phone": "(915) 212-6665",
+      "address": "9566 Railroad",
+      "city": "El Paso",
+      "zip": "79924",
+      "hours": "Monday-Friday 8:00 AM-11:30 AM and 1:00 PM-4:30 PM; every 3rd Wednesday 5:00 PM-8:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.elpasotexas.gov/public-health/services/std-and-hiv-prevention",
+      "confidence": "high",
+      "notes": "Sexual Health (STD) Clinic: 4240 Alameda Ave, 79905, (915) 212-6591, Mon-Thu 8 AM-6 PM, Fri 8 AM-12 PM. Also offers HOPWA housing help for people with HIV."
+    },
+    {
+      "id": "city-of-el-paso-tb-clinic",
+      "name": "TB Control Clinic",
+      "organization": "City of El Paso Department of Public Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Tuberculosis testing, treatment, and case management for El Paso County.",
+      "eligibility_summary_en": "People in El Paso County who need TB services.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Medicaid or Medicare card if you have one",
+        "Physician referral letter if uninsured"
+      ],
+      "how_to_apply": "Walk in or call the clinic.",
+      "apply_url": "https://www.elpasotexas.gov/public-health/services/tb-control",
+      "phone": "(915) 212-6609",
+      "address": "4240 Alameda Ave",
+      "city": "El Paso",
+      "zip": "79905",
+      "hours": "Monday-Thursday, 7:00 a.m. to 6:00 p.m. (closed 12:00-1:00 p.m.)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee scale",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.elpasotexas.gov/public-health/services/tb-control",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "el-paso-211-call-center",
+      "name": "2-1-1 Call Center (El Paso)",
+      "organization": "City of El Paso Department of Public Health",
+      "categories": [
+        "healthcare",
+        "mental_health",
+        "school_childcare",
+        "food",
+        "housing"
+      ],
+      "description_en": "A free phone line that connects you to local help for child care, medical care, counseling, housing, food, and elder care.",
+      "eligibility_summary_en": "Anyone looking for community services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Dial 2-1-1 any time.",
+      "apply_url": null,
+      "phone": "2-1-1",
+      "address": null,
+      "city": "El Paso",
+      "zip": null,
+      "hours": "24 hours a day, 7 days a week",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.elpasotexas.gov/public-health/services/211-call-center",
+      "confidence": "high",
+      "notes": "Toll-free: 1 (877) 541-7905; alternate (915) 212-6631. 211 cannot give money directly or handle emergencies."
+    },
+    {
+      "id": "workforce-solutions-borderplex-careforce-child-care",
+      "name": "CareForce Child Care Scholarships",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps working families and parents in school or training pay for child care. It can also pay eligible relatives who care for children.",
+      "eligibility_summary_en": "Families earning at or below 85% of state median income, where parents work, go to school, or train at least 25 hours a week.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "residency_required": "Brewster, Culberson, El Paso, Hudspeth, Jeff Davis, or Presidio County resident"
+      },
+      "documents_needed": [
+        "Proof of employment",
+        "Proof of income",
+        "School enrollment (if in school or training)"
+      ],
+      "how_to_apply": "Create an account and pre-screen at childcare.twc.texas.gov. You will get an email when the full application opens; then send your documents.",
+      "apply_url": "https://childcare.twc.texas.gov/find/register?mode=signup",
+      "phone": "(915) 887-2878",
+      "address": null,
+      "city": "El Paso",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free or reduced cost (parent share may apply)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.borderplexjobs.com/care-force",
+      "confidence": "high",
+      "notes": "Waitlist is 6-12+ months. Monthly income limits listed: family of 2 $5,216; 3 $6,443; 4 $7,670; 5 $8,897. Must have primary custody and no unpaid child care recoupment in Texas."
+    },
+    {
+      "id": "esc-region-19-head-start",
+      "name": "ESC Region 19 Head Start and Early Head Start",
+      "organization": "Education Service Center Region 19",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning for young children with health, nutrition, family, and special needs services at about 35 centers.",
+      "eligibility_summary_en": "Children birth to age 5 in El Paso and Hudspeth counties whose families meet federal poverty guidelines. Children in foster care, experiencing homelessness, or in families getting TANF or SSI qualify regardless of income.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "residency_required": "El Paso or Hudspeth County resident"
+      },
+      "documents_needed": [
+        "Proof of family income",
+        "Child's birth certificate",
+        "Proof of guardianship",
+        "Proof of residency",
+        "Custody/divorce papers (if applicable)",
+        "Child support documents (if applicable)",
+        "Current immunization record"
+      ],
+      "how_to_apply": "Fill out the online pre-application or contact a Family Service Worker at any Head Start center.",
+      "apply_url": "https://www.esc19hs.net/enrollment-application",
+      "phone": "(915) 790-4600",
+      "address": "11670 Chito Samaniego",
+      "city": "El Paso",
+      "zip": "79936",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.esc19hs.net/enrollment-application",
+      "confidence": "high",
+      "notes": "Pre-application does not guarantee enrollment; centers keep waiting lists. Center list: https://www.esc19hs.net/head_start___early_head_start_centers"
+    },
+    {
+      "id": "ywca-el-paso-childcare",
+      "name": "YWCA El Paso Child Care and Tuition Assistance",
+      "organization": "YWCA El Paso",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Offers child care, after-school programs, and camps with tuition assistance, plus adult education and literacy classes.",
+      "eligibility_summary_en": "Families in El Paso. Call to ask about scholarship rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the YWCA to ask about child care openings and tuition assistance.",
+      "apply_url": "https://www.ywcaelpaso.org/",
+      "phone": "(915) 519-0000",
+      "address": "1600 Brown St. Building B",
+      "city": "El Paso",
+      "zip": "79902",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Tuition; scholarships available",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.ywcaelpaso.org/",
+      "confidence": "medium",
+      "notes": "Four branch locations; has programs for military families. Scholarship details not on homepage."
+    },
+    {
+      "id": "workforce-solutions-borderplex-north-loop",
+      "name": "Workforce Solutions Borderplex - North Loop Center",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A career center that helps people find jobs, plan careers, and get job training. Services are free to job seekers.",
+      "eligibility_summary_en": "Open to job seekers in El Paso County and the Borderplex region.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call Workforce Solutions Borderplex to get started.",
+      "apply_url": "https://www.borderplexjobs.com/",
+      "phone": "(915) 887-2600",
+      "address": "8825 N. Loop, Ste. 122",
+      "city": "El Paso",
+      "zip": "79907",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM; Saturday 8:00 AM-12:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.borderplexjobs.com/locations",
+      "confidence": "high",
+      "notes": "Free interpretation and translation available on request. The board also offers SNAP and TANF employment orientations and help for job seekers with disabilities and migrant/seasonal farmworkers."
+    },
+    {
+      "id": "workforce-solutions-borderplex-northeast",
+      "name": "Workforce Solutions Borderplex - Northeast Center",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A career center that helps people find jobs, plan careers, and get job training. Services are free to job seekers.",
+      "eligibility_summary_en": "Open to job seekers in El Paso County and the Borderplex region.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call Workforce Solutions Borderplex to get started.",
+      "apply_url": "https://www.borderplexjobs.com/",
+      "phone": "(915) 887-2600",
+      "address": "8941 Dyer St.",
+      "city": "El Paso",
+      "zip": "79904",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM; Saturday 8:00 AM-12:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.borderplexjobs.com/locations",
+      "confidence": "high",
+      "notes": "Free interpretation and translation available on request. The board also offers SNAP and TANF employment orientations and help for job seekers with disabilities and migrant/seasonal farmworkers."
+    },
+    {
+      "id": "workforce-solutions-borderplex-fort-bliss",
+      "name": "Workforce Solutions Borderplex - Military Affiliated Satellite Center",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A career center that helps people find jobs, plan careers, and get job training. Services are free to job seekers.",
+      "eligibility_summary_en": "Open to job seekers in El Paso County and the Borderplex region.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call Workforce Solutions Borderplex to get started.",
+      "apply_url": "https://www.borderplexjobs.com/",
+      "phone": "(915) 887-2600",
+      "address": "Building 725, Custer Rd.",
+      "city": "Fort Bliss",
+      "zip": "79906",
+      "hours": "Monday to Friday 07:30 am - 04:00 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.borderplexjobs.com/locations",
+      "confidence": "high",
+      "notes": "Serves military-affiliated job seekers. Located on Fort Bliss; base access may be required."
+    },
+    {
+      "id": "workforce-solutions-borderplex-main-library",
+      "name": "Workforce Solutions Borderplex - El Paso Main Library (Downtown)",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A career center that helps people find jobs, plan careers, and get job training. Services are free to job seekers.",
+      "eligibility_summary_en": "Open to job seekers in El Paso County and the Borderplex region.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call Workforce Solutions Borderplex to get started.",
+      "apply_url": "https://www.borderplexjobs.com/",
+      "phone": "(915) 887-2600",
+      "address": "501 N. Oregon, Basement 1 - Rm. 309 Literacy Center",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": "Monday-Thursday 10:00 AM-5:00 PM; Friday 1:00 PM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.borderplexjobs.com/locations",
+      "confidence": "high",
+      "notes": "Free interpretation and translation available on request. The board also offers SNAP and TANF employment orientations and help for job seekers with disabilities and migrant/seasonal farmworkers."
+    },
+    {
+      "id": "workforce-solutions-borderplex-nextforce",
+      "name": "NextForce Youth Program",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Career counseling, workshops, and education help for teens and young adults.",
+      "eligibility_summary_en": "Teens and young adults in the Borderplex region. Call to ask about age limits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Workforce Solutions Borderplex to ask about NextForce.",
+      "apply_url": "https://www.borderplexjobs.com/next-force",
+      "phone": "(915) 887-2600",
+      "address": null,
+      "city": "El Paso",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.borderplexjobs.com/nextforce",
+      "confidence": "high",
+      "notes": "Age range not stated on the page."
+    },
+    {
+      "id": "project-arriba-job-training",
+      "name": "Project ARRIBA Workforce Training",
+      "organization": "Project ARRIBA",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Helps people train for good jobs, like nursing and other healthcare careers, with support to finish school and get hired.",
+      "eligibility_summary_en": "El Paso adults who want career training. Ask at orientation about who qualifies.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Go to an orientation (Tuesdays 1:30-2:30 PM). Sign up on the website.",
+      "apply_url": "https://www.projectarriba.org/",
+      "phone": "(915) 843-4055",
+      "address": "1155 Westmoreland, Suite 235",
+      "city": "El Paso",
+      "zip": "79925",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Call to ask",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.projectarriba.org/",
+      "confidence": "high",
+      "notes": "Eligibility and income rules not stated on website."
+    },
+    {
+      "id": "trla-el-paso",
+      "name": "Texas RioGrande Legal Aid - El Paso Office",
+      "organization": "Texas RioGrande Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for people with low income, such as housing and tenant problems, family law, and public benefits.",
+      "eligibility_summary_en": "Low-income people in TRLA's service area, including El Paso County. Call to see if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line Monday-Friday 9 a.m.-5 p.m. Central Time. For family law, call on Tuesdays and Thursdays only.",
+      "apply_url": "https://www.trla.org/help",
+      "phone": "(956) 996-8752",
+      "address": "1331 Texas Ave.",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": "Intake: Monday-Friday 9:00 a.m.-5:00 p.m. Central Time",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Toll-free: (833) 329-8752. El Paso is on Mountain Time, so intake hours are 8 a.m.-4 p.m. local time. Income limits not stated on page."
+    },
+    {
+      "id": "las-americas-immigrant-advocacy-center",
+      "name": "Las Americas Immigrant Advocacy Center",
+      "organization": "Las Americas Immigrant Advocacy Center",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Legal help with immigration cases for low-income immigrants.",
+      "eligibility_summary_en": "Low-income immigrants.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the office to ask for help.",
+      "apply_url": "https://www.las-americas.org/",
+      "phone": "(915) 544-5126",
+      "address": "1500 E. Yandell Dr.",
+      "city": "El Paso",
+      "zip": "79902",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://www.las-americas.org/",
+      "confidence": "high",
+      "notes": "Immigration law only. Hours not listed."
+    },
+    {
+      "id": "estrella-del-paso-immigration-legal",
+      "name": "Estrella del Paso Immigration Legal Services",
+      "organization": "Estrella del Paso (formerly Diocesan Migrant & Refugee Services)",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Immigration legal consultations, representation, and community education. Most services are free.",
+      "eligibility_summary_en": "Immigrants in West Texas and New Mexico. Screening for free services is available.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or use the eligibility screening on the website to ask for a consultation.",
+      "apply_url": "https://estrelladelpaso.org/",
+      "phone": "(915) 532-3975",
+      "address": "2400 E. Yandell",
+      "city": "El Paso",
+      "zip": "79903",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Mostly free (99% of services free in 2025)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "El Paso"
+      ],
+      "source_url": "https://estrelladelpaso.org/",
+      "confidence": "high",
+      "notes": "Unaccompanied Children's Program closed due to loss of federal funding."
+    }
+  ]
+}

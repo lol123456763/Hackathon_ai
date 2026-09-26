@@ -16,7 +16,7 @@ export function format(template, params) {
 }
 
 function initialLanguage() {
-  const saved = storage.get('bb.lang');
+  const saved = storage.get('loop.lang');
   if (saved === 'en' || saved === 'es') return saved;
   if (typeof navigator !== 'undefined' && /^es\b/i.test(navigator.language || '')) return 'es';
   return 'en';
@@ -27,7 +27,7 @@ export function LanguageProvider({ children }) {
 
   useEffect(() => {
     document.documentElement.lang = lang;
-    storage.set('bb.lang', lang);
+    storage.set('loop.lang', lang);
   }, [lang]);
 
   const setLang = useCallback((l) => setLangState(l === 'es' ? 'es' : 'en'), []);

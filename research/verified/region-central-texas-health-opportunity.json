@@ -1,0 +1,1441 @@
+{
+  "scope": "Central Texas corridor (McLennan, Bell, Coryell, Brazos counties; Waco, Killeen, Temple, Bryan-College Station) - health & opportunity",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "eligibility_rules": {
+        "residency_required": "Resident of McLennan, Bosque, Falls, Freestone, Hill, or Limestone County"
+      },
+      "documents_needed": [
+        "Proof of household income",
+        "Proof of extraordinary expenses (medical bills, childcare) if any",
+        "Number of household members"
+      ],
+      "apply_url": null,
+      "phone": "(254) 752-3451",
+      "address": "6400 Imperial Drive",
+      "city": "Waco",
+      "zip": "76712",
+      "hours": "Crisis line 24 hours a day; walk-in open access at Clifton Street Clinic Mon-Thu 8:00 a.m.-3:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale based on ability to pay; no one turned away for inability to pay",
+      "confidence": "high",
+      "notes": "24-hour crisis line: 1-866-752-3451 (also 988). Walk-in open access is at the Clifton Street Clinic, 1200 Clifton Street, Waco, TX 76704. Children/adolescent services: (254) 752-7889. Substance use services: (254) 297-8999 (walk-ins welcome). Fee policy: https://hotbhn.org/about/charges-for-services/.",
+      "id": "heart-of-texas-behavioral-health-network",
+      "name": "Heart of Texas Behavioral Health Network (Local Mental Health Authority)",
+      "organization": "Heart of Texas Behavioral Health Network",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for McLennan County. It offers adult and child mental health care, substance use treatment, disability services, and a 24-hour crisis line.",
+      "eligibility_summary_en": "People in McLennan, Bosque, Falls, Freestone, Hill, and Limestone counties who need mental health, substance use, or disability services. Fees are based on ability to pay, and no one is turned away for not being able to pay.",
+      "how_to_apply": "Call (254) 752-3451 or toll-free (866) 752-3451 for screening, or walk in to the Clifton Street Clinic (1200 Clifton Street, Waco) Monday-Thursday 8:00 a.m.-3:00 p.m.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://hotbhn.org/services/adult-behavioral-health/",
+      "description_es": "Es el centro público de salud mental del condado de McLennan. Ofrece atención de salud mental para adultos y niños, tratamiento para el uso de drogas o alcohol, servicios para personas con discapacidad y una línea de crisis las 24 horas.",
+      "eligibility_summary_es": "Personas en los condados de McLennan, Bosque, Falls, Freestone, Hill y Limestone que necesitan servicios de salud mental, uso de sustancias o discapacidad. El costo depende de lo que usted pueda pagar, y nadie se queda sin servicio por no poder pagar.",
+      "how_to_apply_es": "Llame al (254) 752-3451 o gratis al (866) 752-3451 para una evaluación, o vaya sin cita a la Clínica de Clifton Street (1200 Clifton Street, Waco) de lunes a jueves de 8:00 a.m. a 3:00 p.m.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Resident of Bell, Coryell, Hamilton, Lampasas, or Milam County",
+        "uninsured": true
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card",
+        "Proof of income (paystubs, support letters, disability awards)",
+        "Proof of residence (utility bill, lease)",
+        "Proof of guardianship if applicable",
+        "Recent hospital discharge paperwork if any"
+      ],
+      "apply_url": null,
+      "phone": "(254) 298-7000",
+      "address": "304 South 22nd Street",
+      "city": "Temple",
+      "zip": "76501",
+      "hours": "Walk-in intake Mon-Fri 8:00 a.m.-3:00 p.m.; crisis hotline 24/7",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Based on financial criteria",
+      "confidence": "high",
+      "notes": "24/7 crisis hotline: (800) 888-4036. Main line (254) 298-7000 is NOT the crisis line. Killeen intake site: 100 East Ave. A, Killeen, TX 76541. Children's intake is by appointment: call (254) 778-7995. Eligibility from https://centralcountiesservices.org/our-services/adult-mental-health/. Some CCS web pages contain unrelated spam text; verify details by phone.",
+      "id": "central-counties-services-mental-health",
+      "name": "Central Counties Services (Local Mental Health Authority)",
+      "organization": "Central Counties Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health center for Bell and Coryell counties. It offers adult and child mental health care, disability services, early childhood intervention, and a 24-hour crisis hotline.",
+      "eligibility_summary_en": "Adults 18+ who live in Bell, Coryell, Hamilton, Lampasas, or Milam County and are uninsured or underinsured. Children ages 3-17 in those counties with serious emotional or behavioral problems.",
+      "how_to_apply": "Adults: walk in for screening and intake Monday-Friday 8:00 a.m.-3:00 p.m. at 304 S. 22nd St, Temple, or 100 East Ave. A, Killeen. Children: call (254) 778-7995 for an intake appointment.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://centralcountiesservices.org/intake/",
+      "description_es": "Es el centro público de salud mental para los condados de Bell y Coryell. Ofrece atención de salud mental para adultos y niños, servicios para personas con discapacidad, intervención temprana para niños pequeños y una línea de crisis las 24 horas.",
+      "eligibility_summary_es": "Adultos de 18 años o más que viven en los condados de Bell, Coryell, Hamilton, Lampasas o Milam y no tienen seguro médico o tienen poco seguro. También niños de 3 a 17 años de esos condados con problemas emocionales o de conducta serios.",
+      "how_to_apply_es": "Adultos: vaya sin cita para evaluación e ingreso de lunes a viernes de 8:00 a.m. a 3:00 p.m. en 304 S. 22nd St, Temple, o en 100 East Ave. A, Killeen. Niños: llame al (254) 778-7995 para hacer una cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Resident of Brazos, Burleson, Grimes, Leon, Madison, Robertson, or Washington County"
+      },
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(979) 822-6467",
+      "address": null,
+      "city": "Bryan",
+      "zip": null,
+      "hours": "Crisis hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "confidence": "high",
+      "notes": "Mailing address P.O. Box 4588, Bryan, TX 77805. Toll free 1-800-282-6467. 24/7 crisis hotline (888) 522-8262.",
+      "id": "mhmr-authority-of-brazos-valley",
+      "name": "MHMR Authority of Brazos Valley (Local Mental Health Authority)",
+      "organization": "MHMR Authority of Brazos Valley",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The public mental health and developmental disability center for Brazos County and nearby counties. It runs a 24/7 mental health and substance use crisis hotline and a crisis triage center.",
+      "eligibility_summary_en": "People living in Brazos, Burleson, Grimes, Leon, Madison, Robertson, and Washington counties who need mental health, substance use, or developmental disability services.",
+      "how_to_apply": "For routine mental health services call (979) 361-9815 or toll-free (800) 282-6467 during business hours. In a crisis call the 24/7 hotline at (888) 522-8262.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.mhmrabv.org/about-us",
+      "description_es": "Es el centro público de salud mental y discapacidades del desarrollo para el condado de Brazos y condados cercanos. Tiene una línea de crisis las 24 horas, todos los días, para salud mental y uso de drogas o alcohol, y un centro de atención de crisis.",
+      "eligibility_summary_es": "Personas que viven en los condados de Brazos, Burleson, Grimes, Leon, Madison, Robertson y Washington y necesitan servicios de salud mental, uso de sustancias o discapacidades del desarrollo.",
+      "how_to_apply_es": "Para servicios regulares de salud mental, llame al (979) 361-9815 o gratis al (800) 282-6467 en horario de oficina. Si está en crisis, llame a la línea de 24 horas al (888) 522-8262.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Bell, Coryell, or Hamilton County"
+      },
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 634-1184",
+      "address": "1305 East Rancier Avenue",
+      "city": "Killeen",
+      "zip": null,
+      "hours": "Hotline 24 hours; office Mon-Fri 8am-5pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "medium",
+      "notes": "Shelters in Killeen (65 beds) and Temple (15 beds); addresses kept confidential. Outreach offices in Killeen, Temple, Gatesville, Hamilton. Site also lists (254) 773-7765. Online chat with an advocate Mon-Fri 8am-5pm. The website's security certificate was expired on 2026-09-26; details were read from the site directly.",
+      "id": "families-in-crisis-bell-coryell",
+      "name": "Families In Crisis",
+      "organization": "Families In Crisis, Inc.",
+      "categories": [
+        "housing",
+        "mental_health"
+      ],
+      "description_en": "Emergency shelter, crisis counseling, and housing help for survivors of family violence, sexual assault, and homelessness. It also runs a homeless shelter and rental help in Killeen and Temple.",
+      "eligibility_summary_en": "Survivors of family violence or sexual assault and people without housing in Bell, Coryell, and Hamilton counties. You do not need money, papers, or a police report.",
+      "how_to_apply": "Call the 24-hour hotline at (254) 634-1184, or text that number if a call is not safe. You can also walk in to the Killeen office at 1305 East Rancier Avenue, Mon-Fri 8am-5pm (no appointment needed).",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://familiesincrisis.net/",
+      "description_es": "Refugio de emergencia, consejería en crisis y ayuda con vivienda para sobrevivientes de violencia familiar, agresión sexual y personas sin hogar. También tiene un refugio para personas sin hogar y ayuda con la renta en Killeen y Temple.",
+      "eligibility_summary_es": "Sobrevivientes de violencia familiar o agresión sexual y personas sin vivienda en los condados de Bell, Coryell y Hamilton. No necesita dinero, papeles ni un reporte de policía.",
+      "how_to_apply_es": "Llame a la línea de 24 horas al (254) 634-1184, o mande un mensaje de texto a ese número si no es seguro llamar. También puede ir sin cita a la oficina de Killeen en 1305 East Rancier Avenue, de lunes a viernes de 8 a.m. a 5 p.m.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(800) 283-8401",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24-hour hotline",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Shelter location is not published. Site says it serves Waco and surrounding counties without listing them.",
+      "id": "family-abuse-center-waco",
+      "name": "Family Abuse Center",
+      "organization": "Family Abuse Center",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Emergency shelter and support for people hurt by domestic violence and their children. Services include counseling, case management, support groups, legal help, housing help, and transportation.",
+      "eligibility_summary_en": "Adults and children affected by domestic violence in Waco and surrounding counties.",
+      "how_to_apply": "Call the 24-hour hotline at 1-800-283-8401.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.familyabusecenter.org/",
+      "description_es": "Refugio de emergencia y apoyo para personas que sufren violencia doméstica y para sus hijos. Ofrece consejería, manejo de casos, grupos de apoyo, ayuda legal, ayuda con vivienda y transporte.",
+      "eligibility_summary_es": "Adultos y niños afectados por la violencia doméstica en Waco y los condados cercanos.",
+      "how_to_apply_es": "Llame a la línea de 24 horas al 1-800-283-8401. Si está en peligro inmediato, llame al 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(979) 822-7511",
+      "address": "2505 South College Avenue",
+      "city": "Bryan",
+      "zip": "77801",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "General shelter info: (979) 822-1492. Hours not listed on site.",
+      "id": "twin-city-mission-bryan",
+      "name": "Twin City Mission",
+      "organization": "Twin City Mission",
+      "categories": [
+        "housing",
+        "food",
+        "mental_health"
+      ],
+      "description_en": "Emergency homeless shelter (The Shelter for Hope), hot meals, rapid re-housing, and domestic violence shelter (Phoebe's Home) in Bryan.",
+      "eligibility_summary_en": "People who are homeless or at risk, and survivors of domestic violence, in the Bryan-College Station area.",
+      "how_to_apply": "For shelter and Coordinated Entry housing assessment, call (979) 822-5482. For domestic violence emergency shelter, call Phoebe's Home at (979) 775-2255.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.twincitymission.org/need-help",
+      "description_es": "Refugio de emergencia para personas sin hogar (The Shelter for Hope), comidas calientes, ayuda para conseguir vivienda rápido y un refugio para víctimas de violencia doméstica (Phoebe's Home) en Bryan.",
+      "eligibility_summary_es": "Personas sin hogar o en riesgo de perder su vivienda, y sobrevivientes de violencia doméstica, en el área de Bryan-College Station.",
+      "how_to_apply_es": "Para refugio y evaluación de vivienda (Coordinated Entry), llame al (979) 822-5482. Para refugio de emergencia por violencia doméstica, llame a Phoebe's Home al (979) 775-2255.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 753-4900",
+      "address": "1315 N 15th St.",
+      "city": "Waco",
+      "zip": "76707",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "medium",
+      "notes": "Program hours vary; call ahead.",
+      "id": "mission-waco",
+      "name": "Mission Waco",
+      "organization": "Mission Waco / Mission World",
+      "categories": [
+        "housing",
+        "food",
+        "employment"
+      ],
+      "description_en": "Christian nonprofit in Waco serving people in poverty. Programs include social services at the Meyer Center, supportive housing, a clothing and voucher center, and youth programs.",
+      "eligibility_summary_en": "People in poverty and people without housing in Waco. Call to ask which program fits you.",
+      "how_to_apply": "Call (254) 753-4900 or visit the main office to ask about services.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://missionwaco.org/",
+      "description_es": "Organización cristiana sin fines de lucro en Waco que ayuda a personas en pobreza. Tiene servicios sociales en el Meyer Center, vivienda con apoyo, un centro de ropa y vales, y programas para jóvenes.",
+      "eligibility_summary_es": "Personas en pobreza y personas sin vivienda en Waco. Llame para preguntar qué programa es para usted.",
+      "how_to_apply_es": "Llame al (254) 753-4900 o visite la oficina principal para preguntar por los servicios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 313-4610",
+      "address": null,
+      "city": "Waco",
+      "zip": null,
+      "hours": "Hours vary by clinic; Extended Hours Clinic available for after-hours care",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask; financial assistance available through the new patient line",
+      "confidence": "high",
+      "notes": "Clinics in Waco (Central, Elm Ave, Extended Hours, Imperial Dr, MacArthur Pediatrics, MLK Jr, Tom Oliver S. 18th, West Waco, Women's Health Center) plus Bellmead, Hillsboro, McGregor, and Temple Downtown. Pediatrics line (254) 313-5437. Sliding-fee and language details were not stated on the page read. Locations: https://wacofamilymedicine.org/locations/.",
+      "id": "waco-family-medicine",
+      "name": "Waco Family Medicine",
+      "organization": "Waco Family Medicine",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health clinics in Waco and nearby towns for family care, children's care, and women's health, plus an extended-hours clinic.",
+      "eligibility_summary_en": "Open to the community. Ask the new patient line about financial assistance.",
+      "how_to_apply": "Call the new patient line at (254) 313-4610 to make an appointment. For care after regular hours, call the Extended Hours Clinic at (254) 313-4800.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan",
+        "Bell"
+      ],
+      "source_url": "https://wacofamilymedicine.org/contact-us/",
+      "description_es": "Clínicas de salud comunitarias en Waco y pueblos cercanos para atención familiar, atención para niños y salud de la mujer, además de una clínica con horario extendido.",
+      "eligibility_summary_es": "Abierto a toda la comunidad. Pregunte en la línea para pacientes nuevos sobre ayuda para pagar.",
+      "how_to_apply_es": "Llame a la línea para pacientes nuevos al (254) 313-4610 para hacer una cita. Para atención fuera del horario regular, llame a la Clínica de Horario Extendido al (254) 313-4800.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "apply_url": "https://templecommunityclinic.org/",
+      "phone": "(254) 771-3374",
+      "address": "1508 W Ave J",
+      "city": "Temple",
+      "zip": "76504",
+      "hours": "Mon-Thu 8:00 AM-4:00 PM; closed Friday and weekends; by appointment only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Call to ask",
+      "confidence": "high",
+      "notes": "Email clinic@templecommunityclinic.org. Fax (254) 771-0972. Also a partner of the Bell County Indigent Health Care Program.",
+      "id": "temple-community-clinic",
+      "name": "Temple Community Clinic",
+      "organization": "Temple Community Clinic",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Medical care, health education, and social work services for people without insurance or with limited insurance in Temple.",
+      "eligibility_summary_en": "People without health insurance or with limited insurance. Call to check if you qualify.",
+      "how_to_apply": "Call (254) 771-3374 to set up an appointment. Appointments are required. New patient forms are on the website.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://templecommunityclinic.org/",
+      "description_es": "Atención médica, educación sobre la salud y servicios de trabajo social para personas sin seguro médico o con poco seguro en Temple.",
+      "eligibility_summary_es": "Personas sin seguro médico o con seguro limitado. Llame para saber si califica.",
+      "how_to_apply_es": "Llame al (254) 771-3374 para hacer una cita. Se necesita cita. Los formularios para pacientes nuevos están en el sitio web.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 532-9800",
+      "address": "1605 N. Main Street - Suite 104",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": "Belton & Killeen: Mon-Thu 7:00 a.m.-4:30 p.m., Fri 7:00 a.m.-11:00 a.m. Belton immunization walk-ins Wed 7-11 a.m.; Killeen TB walk-ins Tue 7-11 a.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies by service",
+      "confidence": "high",
+      "notes": "Killeen Clinic: 309 N. 2nd Street, Killeen, TX 76541. Temple Clinic (820 N. 31st) listed as TEMPORARILY CLOSED. Headquarters: 4236 Lowes Drive, Temple, TX 76502.",
+      "id": "bell-county-public-health-district-clinics",
+      "name": "Bell County Public Health District Clinics",
+      "organization": "Bell County Public Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Public health clinics offering immunizations (shots), a sexual wellness clinic, and TB skin testing.",
+      "eligibility_summary_en": "Open to the public. Some services have fees (for example, a TB skin test is $35).",
+      "how_to_apply": "Call (254) 532-9800. Walk-ins: Belton immunizations Wednesdays 7-11 a.m.; Killeen TB testing Tuesdays 7-11 a.m. Appointments are available other times.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.bellcountyhealth.org/wic_clinical_services/clinical_services_systems/hours_locations.php",
+      "description_es": "Clínicas de salud pública que ofrecen vacunas, una clínica de salud sexual y pruebas de tuberculosis (TB).",
+      "eligibility_summary_es": "Abierto al público. Algunos servicios tienen costo (por ejemplo, la prueba de TB en la piel cuesta $35).",
+      "how_to_apply_es": "Llame al (254) 532-9800. Sin cita: vacunas en Belton los miércoles de 7 a 11 a.m.; pruebas de TB en Killeen los martes de 7 a 11 a.m. Hay citas disponibles en otros horarios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Bell County resident"
+      },
+      "documents_needed": [],
+      "apply_url": "https://www.bellcountytx.com/departments/indigent_health_services/index.php",
+      "phone": "(254) 519-1229",
+      "address": "309 Priest Drive, Building 3",
+      "city": "Killeen",
+      "zip": "76541",
+      "hours": "Killeen office by appointment only; in-person applications Tuesdays 9:00 a.m.-2:00 p.m. (Killeen office or Temple Community Clinic)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "confidence": "high",
+      "notes": "Other numbers: (254) 618-4165, reception (254) 618-4141, toll-free 1-877-516-8593. Email cihcp.eligibility@bellcounty.texas.gov. Mail applications to P.O. Box 880, Killeen, TX 76540, or use the drop box left of the Killeen front door. Temple site: Temple Community Clinic, 1508 W. Avenue J (Tuesdays 9-2). Partners include Greater Killeen Free Clinic and Temple Community Clinic.",
+      "id": "bell-county-indigent-health-care",
+      "name": "Bell County Indigent Health Care Program (CIHCP)",
+      "organization": "Bell County Indigent Health Services Department",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County program that helps pay for basic health care for very low-income Bell County residents who do not qualify for other state or federal health programs.",
+      "eligibility_summary_en": "Low-income Bell County residents who do not qualify for Medicaid or other state or federal health programs.",
+      "how_to_apply": "Download the BCIHCP Application for Assistance from the county web page. Mail it to P.O. Box 880, Killeen, TX 76540, put it in the drop box at the Killeen office, or bring it in person on Tuesdays 9 a.m.-2 p.m. Questions: (254) 519-1229.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.bellcountytx.com/departments/indigent_health_services/index.php",
+      "description_es": "Programa del condado que ayuda a pagar atención médica básica para residentes del condado de Bell con ingresos muy bajos que no califican para otros programas de salud del estado o del gobierno federal.",
+      "eligibility_summary_es": "Residentes del condado de Bell con ingresos bajos que no califican para Medicaid ni otros programas de salud del estado o del gobierno federal.",
+      "how_to_apply_es": "Descargue la solicitud (BCIHCP Application for Assistance) de la página del condado. Envíela por correo a P.O. Box 880, Killeen, TX 76540, déjela en el buzón de la oficina de Killeen, o llévela en persona los martes de 9 a.m. a 2 p.m. Preguntas: (254) 519-1229.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Coryell County resident"
+      },
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 865-2883",
+      "address": null,
+      "city": "Gatesville",
+      "zip": "76528",
+      "hours": "Office hours vary; call before visiting. Closed for lunch 12-1 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "confidence": "medium",
+      "notes": "Mailing address: P.O. Box 188, 209 1/2 North Lutterloh, Gatesville, TX 76528. County page also lists the Coryell County Courthouse, 620 E Main St, Gatesville. Call before visiting.",
+      "id": "coryell-county-indigent-health-care",
+      "name": "Coryell County Indigent Health Care Program",
+      "organization": "Coryell County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County program that provides health care to qualified low-income residents of Coryell County.",
+      "eligibility_summary_en": "Qualified low-income residents of Coryell County.",
+      "how_to_apply": "Call (254) 865-2883 before visiting to ask about applying.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Coryell"
+      ],
+      "source_url": "https://www.coryellcounty.org/page/coryell.Indigent.Health",
+      "description_es": "Programa del condado que da atención médica a residentes de bajos ingresos del condado de Coryell que califican.",
+      "eligibility_summary_es": "Residentes de bajos ingresos del condado de Coryell que cumplen los requisitos.",
+      "how_to_apply_es": "Llame al (254) 865-2883 antes de ir para preguntar cómo aplicar.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "McLennan County resident"
+      },
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 757-5174",
+      "address": "2124 N 25th Street",
+      "city": "Waco",
+      "zip": "76708",
+      "hours": "Monday-Thursday, 7:30am to 6:00pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free for eligible residents",
+      "confidence": "high",
+      "notes": null,
+      "id": "mclennan-county-indigent-health-care",
+      "name": "McLennan County Indigent Health Care Program (CIHCP)",
+      "organization": "McLennan County Health Services",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "County program that helps pay for basic health care for low-income McLennan County residents who do not qualify for other programs.",
+      "eligibility_summary_en": "Low-income McLennan County residents who meet program rules.",
+      "how_to_apply": "Call (254) 757-5174 or visit the Health Services office to apply.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.mclennan.gov/291/Health-Services",
+      "description_es": "Programa del condado que ayuda a pagar atención médica básica para residentes de bajos ingresos del condado de McLennan que no califican para otros programas.",
+      "eligibility_summary_es": "Residentes de bajos ingresos del condado de McLennan que cumplen las reglas del programa.",
+      "how_to_apply_es": "Llame al (254) 757-5174 o visite la oficina de Servicios de Salud para aplicar.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "pregnant": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(254) 532-9800",
+      "address": "201 N. 8th Street",
+      "city": "Temple",
+      "zip": "76501",
+      "hours": "Mon-Fri 7:00 a.m.-5:30 p.m. (varies by program)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Clinics: 201 N. 8th Street, Temple, TX 76501; 111 Santa Fe Plaza Drive, Killeen, TX 76541; Fort Hood clinic at 36000 Shoemaker Lane Suite 2135 (2nd floor), Fort Cavazos, TX 76544. Breastfeeding support line (254) 760-9637. Spanish applications available.",
+      "id": "bell-county-wic",
+      "name": "Bell County WIC",
+      "organization": "Bell County Public Health District",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy food benefits, nutrition counseling, and breastfeeding help for pregnant women, new moms, babies, and children under 5.",
+      "eligibility_summary_en": "Pregnant women, new mothers, infants, and children under 5 in working or non-working families who meet income, residency, and health screening rules.",
+      "how_to_apply": "Start an application online at texaswic.org/apply; a local WIC team member will call to set your first appointment.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://www.bellcountyhealth.org/wic_clinical_services/wic/index.php",
+      "description_es": "Beneficios para comprar comida saludable, consejos de nutrición y ayuda con la lactancia para mujeres embarazadas, mamás recientes, bebés y niños menores de 5 años.",
+      "eligibility_summary_es": "Mujeres embarazadas, mamás recientes, bebés y niños menores de 5 años, de familias que trabajan o no, que cumplen las reglas de ingresos, residencia y evaluación de salud.",
+      "how_to_apply_es": "Empiece su solicitud en línea en texaswic.org/apply (también en español). Alguien de WIC le llamará para hacer su primera cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "pregnant": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "apply_url": "https://texaswic.org/apply",
+      "phone": "(254) 750-5474",
+      "address": "225 West Waco Drive (2nd floor)",
+      "city": "Waco",
+      "zip": "76707",
+      "hours": "Mon, Wed-Fri 8:00 a.m.-5:00 p.m.; Tue 9:00 a.m.-6:00 p.m.; 2nd Saturday 8:30 a.m.-12:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Text line: (254) 265-7817. Health District main line (254) 750-5450 also offers immunizations, STI/HIV, and TB clinics.",
+      "id": "waco-mclennan-wic",
+      "name": "Waco-McLennan County Public Health District WIC",
+      "organization": "Waco-McLennan County Public Health District",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Nutrition counseling, food benefits for grocery stores, breastfeeding support, and nutrition classes for moms and young children.",
+      "eligibility_summary_en": "Pregnant women, breastfeeding women with a baby under 1, women who had a baby in the past 6 months, and parents or guardians of children under 5 who meet income rules. Having a job or private insurance does not disqualify you.",
+      "how_to_apply": "Apply online at texaswic.org/apply, or call (254) 750-5474 or text (254) 265-7817. Appointments are required; you can upload documents in the MyWIC app before your visit.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.waco-texas.com/Departments/Health-District/WIC",
+      "description_es": "Consejos de nutrición, beneficios para comprar comida en el supermercado, apoyo con la lactancia y clases de nutrición para mamás y niños pequeños.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que dan pecho a un bebé menor de 1 año, mujeres que tuvieron un bebé en los últimos 6 meses, y padres o tutores de niños menores de 5 años que cumplen las reglas de ingresos. Tener trabajo o seguro médico privado no le quita el derecho.",
+      "how_to_apply_es": "Aplique en línea en texaswic.org/apply, o llame al (254) 750-5474 o mande texto al (254) 265-7817. Se necesita cita; puede subir sus documentos en la aplicación MyWIC antes de su visita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "max_income_pct_fpl": 185,
+        "pregnant": true,
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Proof of income (pay stub, tax records, employer letter, or benefits letter)",
+        "Proof of address (rent receipt or utility bill; no P.O. boxes)",
+        "ID for each applicant"
+      ],
+      "apply_url": null,
+      "phone": "(979) 260-2942",
+      "address": "3400 S. Texas Ave., Suite 1",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Other Brazos County clinics: 29th Street WIC, 4001 E. 29th Street Unit #112, Bryan, TX 77801, (979) 255-9872; College Station, 1103 Anderson Street Ste. #102, College Station, TX 77840, (979) 255-3804.",
+      "id": "brazos-valley-wic",
+      "name": "Brazos Valley WIC Clinics",
+      "organization": "Brazos Valley Council of Governments",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC nutrition program clinics in Bryan and College Station with food benefits and nutrition help for moms and young children.",
+      "eligibility_summary_en": "Pregnant women, breastfeeding and postpartum mothers, and children under 5 with household income at or below 185% of the federal poverty level.",
+      "how_to_apply": "Call your local clinic to schedule an appointment. Each person applying must come to the appointment in person with proof of income, address, and ID.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvcog.org/programs/women-infants-and-children-wic",
+      "description_es": "Clínicas del programa de nutrición WIC en Bryan y College Station con beneficios de comida y ayuda de nutrición para mamás y niños pequeños.",
+      "eligibility_summary_es": "Mujeres embarazadas, mamás que dan pecho o que acaban de tener bebé, y niños menores de 5 años, con ingresos del hogar iguales o menores al 185% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame a su clínica local para hacer una cita. Cada persona que aplica debe ir a la cita en persona con prueba de ingresos, de domicilio e identificación.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": "https://www.centraltexasfoodbank.org/food-assistance/get-food-now",
+      "phone": "(877) 541-7905",
+      "address": "1402 Gholson Road",
+      "city": "Waco",
+      "zip": null,
+      "hours": "Waco on-site market: Tue-Fri 12:00-5:00 p.m., by appointment",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "New Waco facility at 1402 Gholson Road opened Aug 25, 2026; serves Bell, Coryell, Falls, Freestone, Lampasas, Limestone, Mills, McLennan, and San Saba counties. (877) 541-7905 and 2-1-1 are 24/7 multilingual help lines. Main office line (512) 282-2111. Find Food tool has English and Spanish tutorials.",
+      "id": "central-texas-food-bank-waco-region",
+      "name": "Central Texas Food Bank (Waco & northern counties)",
+      "organization": "Central Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank that supplies food pantries and mobile pantries, offers help applying for SNAP and other benefits, and runs workforce training. Its new Waco facility has an on-site market.",
+      "eligibility_summary_en": "People who need food in the food bank's service area, including its nine northern counties such as McLennan, Bell, and Coryell.",
+      "how_to_apply": "Use the Find Food Now tool on the website to search by ZIP code, or call 2-1-1 or (877) 541-7905. For SNAP help call (855) 366-3401.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan",
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://www.centraltexasfoodbank.org/press/central-texas-food-bank-opens-new-state-art-waco-distribution-facility",
+      "description_es": "Banco de comida regional que surte despensas y despensas móviles, ayuda a solicitar SNAP y otros beneficios, y ofrece capacitación para el trabajo. Su nuevo centro en Waco tiene un mercado en el lugar.",
+      "eligibility_summary_es": "Personas que necesitan comida en el área del banco de comida, incluyendo sus nueve condados del norte como McLennan, Bell y Coryell.",
+      "how_to_apply_es": "Use la herramienta Find Food Now del sitio web para buscar por código postal, o llame al 2-1-1 o al (877) 541-7905. Para ayuda con SNAP, llame al (855) 366-3401.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": "https://www.bvfb.org/find-food",
+      "phone": "(979) 779-3663",
+      "address": "1501 Independence Ave",
+      "city": "Bryan",
+      "zip": "77803",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Warns of a scam offering discounted Feeding America food boxes on social media.",
+      "id": "brazos-valley-food-bank",
+      "name": "Brazos Valley Food Bank",
+      "organization": "Brazos Valley Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Regional food bank that supplies food pantries, mobile pantries, and school-based pantries in the Brazos Valley.",
+      "eligibility_summary_en": "People who need food in the Brazos Valley area.",
+      "how_to_apply": "Use the pantry map or English/Spanish pantry list on the Find Food page, or call 2-1-1.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvfb.org/find-food",
+      "description_es": "Banco de comida regional que surte despensas, despensas móviles y despensas en escuelas en el área de Brazos Valley.",
+      "eligibility_summary_es": "Personas que necesitan comida en el área de Brazos Valley.",
+      "how_to_apply_es": "Use el mapa de despensas o la lista de despensas en inglés o español en la página Find Food, o llame al 2-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "McLennan, Bosque, Freestone, Limestone, Hill, Falls, Ellis, or Navarro County"
+      },
+      "documents_needed": [
+        "Completed current-year application",
+        "Citizenship/immigration documents for all household members",
+        "Photo ID for members 18+",
+        "Proof of all income for the past 30 days for all household members",
+        "Current electric and gas bills (front and back)"
+      ],
+      "apply_url": "https://eoacwaco.org/programs/energy-assistance/",
+      "phone": "(254) 753-0331",
+      "address": "1800 N. Valley Mills",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": "Monday-Friday, 8 am-5 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Email info@eoacwaco.org. No email submissions. EOAC also runs a Weatherization Assistance Program (email weatherization@eoacwaco.org).",
+      "id": "eoac-energy-assistance-ceap",
+      "name": "EOAC Energy Assistance (CEAP)",
+      "organization": "Economic Opportunities Advancement Corporation (EOAC)",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Help paying electric and gas bills, plus weatherization to make homes more energy efficient.",
+      "eligibility_summary_en": "Households at or below 150% of federal poverty guidelines in McLennan, Bosque, Freestone, Limestone, Hill, Falls, Ellis, or Navarro County.",
+      "how_to_apply": "Download the application from EOAC's website and mail, fax, or drop it off with your documents at 1800 N. Valley Mills, Waco. Email is not accepted.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://eoacwaco.org/programs/energy-assistance/",
+      "description_es": "Ayuda para pagar la luz y el gas, además de mejoras al hogar (weatherization) para ahorrar energía.",
+      "eligibility_summary_es": "Hogares con ingresos iguales o menores al 150% de las guías federales de pobreza en los condados de McLennan, Bosque, Freestone, Limestone, Hill, Falls, Ellis o Navarro.",
+      "how_to_apply_es": "Descargue la solicitud del sitio web de EOAC y envíela por correo, fax o entréguela con sus documentos en 1800 N. Valley Mills, Waco. No se aceptan por correo electrónico.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 753-0331",
+      "address": "1800 N. Valley Mills",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": "Monday-Friday, 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "medium",
+      "notes": "Eligibility and documents are not listed online; help may depend on available funding and disaster events.",
+      "id": "eoac-emergency-assistance",
+      "name": "EOAC Emergency Assistance",
+      "organization": "Economic Opportunities Advancement Corporation (EOAC)",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Crisis help after disasters and emergencies, including essentials like food, water, and temporary housing, plus help with recovery.",
+      "eligibility_summary_en": "Families in crisis in EOAC's Heart of Texas service area. Call for current rules.",
+      "how_to_apply": "Call EOAC at (254) 753-0331, email info@eoac.org, or visit the office during business hours.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://eoacwaco.org/programs/emergency-assistance/",
+      "description_es": "Ayuda en crisis después de desastres y emergencias, incluyendo cosas básicas como comida, agua y vivienda temporal, y apoyo para recuperarse.",
+      "eligibility_summary_es": "Familias en crisis en el área de servicio de EOAC (Heart of Texas). Llame para saber las reglas actuales.",
+      "how_to_apply_es": "Llame a EOAC al (254) 753-0331, escriba a info@eoac.org o visite la oficina en horario de oficina.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Brazos, Burleson, Grimes, Leon, Madison, Montgomery, Robertson, Walker, Waller, or Washington County"
+      },
+      "documents_needed": [
+        "All required application signatures",
+        "Proof of citizenship",
+        "Photo ID for all household members over 18",
+        "Proof of income for all household members over 18 (or Income Declaration form)",
+        "Copy of utility bill(s)"
+      ],
+      "apply_url": "https://pip.capsystems.com/PIP20/B22318G",
+      "phone": "(979) 595-2850",
+      "address": "4001 East 29th Street, Suite 175",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Application process restarts every January 1, even for past clients. Email bvcapcontact@bvcog.org. Utility provider release forms may be needed (varies by county).",
+      "id": "bvcap-utility-assistance",
+      "name": "BVCAP Utility Assistance",
+      "organization": "Brazos Valley Community Action Programs",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Help paying electric, natural gas, or propane bills for eligible low-income households, with priority for vulnerable households.",
+      "eligibility_summary_en": "Households in Brazos and nearby counties who meet state and federal program income rules.",
+      "how_to_apply": "Applications are by appointment only through the online portal. Call (979) 595-2850 for help.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://capbv.org/programs/utility-assistance/",
+      "description_es": "Ayuda para pagar recibos de luz, gas natural o propano para hogares de bajos ingresos que califican, con prioridad para hogares vulnerables.",
+      "eligibility_summary_es": "Hogares en el condado de Brazos y condados cercanos que cumplen las reglas de ingresos de los programas estatales y federales.",
+      "how_to_apply_es": "Las solicitudes son solo con cita, por medio del portal en línea. Llame al (979) 595-2850 si necesita ayuda.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true,
+        "residency_required": "McLennan or Falls County"
+      },
+      "documents_needed": [],
+      "apply_url": "https://eoacwaco.org/programs/children/",
+      "phone": "(254) 304-7575",
+      "address": "1800 N. Valley Mills Dr.",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Sites include Brazos Head Start (3005 Edna Ave.), Johnette Hicks (510 S. 12th St.), New Road (1407 N. New Road), Woodrow Logan (3510 Latimer Dr.), all in Waco.",
+      "id": "eoac-head-start",
+      "name": "EOAC Head Start / Early Head Start",
+      "organization": "Economic Opportunities Advancement Corporation (EOAC)",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Free early learning, meals, and health screenings for babies, toddlers, and preschoolers.",
+      "eligibility_summary_en": "Families in McLennan and Falls counties who meet federal income guidelines, receive TANF, SNAP, or SSI, are homeless, or have a child in foster care. Early Head Start serves children up to 3; Head Start serves ages 3-5.",
+      "how_to_apply": "Call the enrollment line at (254) 304-7575, apply online in English or Spanish, or apply in person at any EOAC site.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://eoacwaco.org/programs/children/",
+      "description_es": "Educación temprana gratis, comidas y revisiones de salud para bebés, niños pequeños y preescolares.",
+      "eligibility_summary_es": "Familias de los condados de McLennan y Falls que cumplen las guías federales de ingresos, reciben TANF, SNAP o SSI, no tienen hogar o tienen un niño en cuidado de crianza (foster care). Early Head Start es para niños hasta 3 años; Head Start es para niños de 3 a 5 años.",
+      "how_to_apply_es": "Llame a la línea de inscripción al (254) 304-7575, aplique en línea en inglés o español, o aplique en persona en cualquier sitio de EOAC.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "max_income_pct_fpl": 100,
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [
+        "Completed application",
+        "At least two verifications of income for the past 12 months",
+        "Child's birth certificate",
+        "Child's immunization record"
+      ],
+      "apply_url": null,
+      "phone": "(979) 595-2800",
+      "address": "4001 E. 29th Suite 175",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Centers: Bryan CDC, 711 Houston, Bryan (979) 775-5492; Neal CDC, 1306 Barak Lane, Bryan (979) 260-2679; Early Head Start, 3400 S. Texas Ave. Suite 7, Bryan (979) 846-5782.",
+      "id": "bvcap-head-start",
+      "name": "BVCAP Head Start / Early Head Start",
+      "organization": "Brazos Valley Community Action Programs",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Early childhood education and care for young children from low-income families in Bryan.",
+      "eligibility_summary_en": "Children ages 6 weeks to 4 years from families under the federal poverty income guidelines.",
+      "how_to_apply": "Complete an application with the Head Start office and bring income proof, birth certificate, and shot records.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://capbv.org/programs/head-startearly-head-start/",
+      "description_es": "Educación y cuidado temprano para niños pequeños de familias de bajos ingresos en Bryan.",
+      "eligibility_summary_es": "Niños de 6 semanas a 4 años de familias con ingresos por debajo de las guías federales de pobreza.",
+      "how_to_apply_es": "Llene una solicitud con la oficina de Head Start y lleve prueba de ingresos, acta de nacimiento y cartilla de vacunas del niño.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 12
+      },
+      "documents_needed": [
+        "Employment/wage verification",
+        "School enrollment verification if in training",
+        "Self-employment form if self-employed"
+      ],
+      "apply_url": "https://childcare.twc.texas.gov/find/welcome",
+      "phone": "(254) 296-5361",
+      "address": "1416 S. New Road",
+      "city": "Waco",
+      "zip": "76711",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income",
+      "confidence": "high",
+      "notes": "Toll-free (800) 772-2269. TX3C support 1-888-265-6461. Application status questions: ccswaitlist@hotworkforce.com. Rules from https://www.childcare.texas.gov/for-families/child-care-scholarships. Parent share is capped at 7% of household income. There may be a waitlist.",
+      "id": "heart-of-texas-workforce-child-care",
+      "name": "Child Care Services - Workforce Solutions for the Heart of Texas",
+      "organization": "Workforce Solutions for the Heart of Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "State-funded child care scholarships that help pay for child care so parents can work or go to school or training.",
+      "eligibility_summary_en": "Families in McLennan and nearby counties who need care to work, look for work, or attend school or training (average 25 hours/week for single parents, 50 combined for two parents), for children under 13 (under 19 with disabilities), and who meet income limits.",
+      "how_to_apply": "Apply online through the TWC Texas Child Care Connection (TX3C) Parent Central portal.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotworkforce.com/program-services/child-care-services/parent-information/",
+      "description_es": "Becas del estado que ayudan a pagar el cuidado de niños para que los padres puedan trabajar, estudiar o capacitarse.",
+      "eligibility_summary_es": "Familias en McLennan y condados cercanos que necesitan cuidado para trabajar, buscar trabajo o ir a la escuela o capacitación (en promedio 25 horas por semana para un solo padre, 50 horas juntos para dos padres), con niños menores de 13 años (menores de 19 con discapacidad), y que cumplen los límites de ingresos.",
+      "how_to_apply_es": "Aplique en línea en el portal Texas Child Care Connection (TX3C) de TWC.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 12,
+        "residency_required": "Brazos, Burleson, Grimes, Leon, Madison, Robertson, or Washington County"
+      },
+      "documents_needed": [
+        "Parent's Rights Form",
+        "Employment and Wage Verification (Form 4030)",
+        "Enrollment Verification (Form 4060)",
+        "Income verification"
+      ],
+      "apply_url": "https://childcare.twc.texas.gov/find/register",
+      "phone": "(979) 595-2801",
+      "address": "3991 East 29th St.",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent share of cost based on income, household size, and number of children",
+      "confidence": "high",
+      "notes": "Phone extension 2105. Email CCMS@bvcog.org. Income limit is 85% of state median income (not FPL).",
+      "id": "brazos-valley-workforce-child-care",
+      "name": "Child Care Assistance - Workforce Solutions Brazos Valley",
+      "organization": "Workforce Solutions Brazos Valley",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Help paying for child care so parents can work, look for work, or attend school or training.",
+      "eligibility_summary_en": "Families in Brazos and nearby counties with income at or below 85% of state median income. Single parents need 25 hours/week (two parents 50 combined) of work, job search, training, or school. Children under 13, or under 19 if disabled.",
+      "how_to_apply": "Log in or create an account in TX3C to apply online. A paper application is available if you ask.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://bvjobs.org/programs/childcare/",
+      "description_es": "Ayuda para pagar el cuidado de niños para que los padres puedan trabajar, buscar trabajo o ir a la escuela o capacitación.",
+      "eligibility_summary_es": "Familias en el condado de Brazos y condados cercanos con ingresos iguales o menores al 85% del ingreso medio del estado. Un solo padre necesita 25 horas por semana (dos padres, 50 horas juntos) de trabajo, búsqueda de empleo, capacitación o escuela. Niños menores de 13 años, o menores de 19 con discapacidad.",
+      "how_to_apply_es": "Entre o cree una cuenta en TX3C para aplicar en línea. Si la pide, le dan una solicitud en papel.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": "https://www.hotworkforce.com/home/individuals/",
+      "phone": "(866) 982-9226",
+      "address": "1416 S. New Road",
+      "city": "Waco",
+      "zip": "76711",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Hours not listed on the center locations page. Email questions@hotworkforce.com.",
+      "id": "workforce-solutions-heart-of-texas-waco",
+      "name": "Workforce Solutions for the Heart of Texas - McLennan County Center",
+      "organization": "Workforce Solutions for the Heart of Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, hiring events, career workshops, training funds, veteran services, and unemployment help.",
+      "eligibility_summary_en": "Job seekers in McLennan, Bosque, Falls, Freestone, Hill, and Limestone counties.",
+      "how_to_apply": "Visit the McLennan County center (walk-ins welcome; appointments recommended) or call (866) 982-9226.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotworkforce.com/home/about-us/center-locations/",
+      "description_es": "Ayuda gratis para buscar trabajo, ferias de empleo, talleres de carrera, fondos para capacitación, servicios para veteranos y ayuda con el desempleo.",
+      "eligibility_summary_es": "Personas que buscan trabajo en los condados de McLennan, Bosque, Falls, Freestone, Hill y Limestone.",
+      "how_to_apply_es": "Visite el centro del condado de McLennan (puede ir sin cita, pero se recomienda hacer cita) o llame al (866) 982-9226.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "Bosque, Falls, Freestone, Hill, Limestone, or McLennan County"
+      },
+      "documents_needed": [
+        "Proof of Social Security number",
+        "Proof of eligibility to work in the U.S.",
+        "Proof of income or unemployment/TANF/SNAP eligibility"
+      ],
+      "apply_url": "https://www.hotworkforce.com/home/individuals/training-education/wioa/",
+      "phone": "(254) 296-5341",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Income limits on page: $13,590 (1 person) to $48,929 (8 people), plus $5,499 per extra person. Only one of the three criteria (low income, layoff, TANF/SNAP) is needed. Males born after 1/1/1960 must be registered with Selective Service. Toll-free 1-866-982-9226.",
+      "id": "heart-of-texas-wioa-training",
+      "name": "WIOA Training Funds - Workforce Solutions for the Heart of Texas",
+      "organization": "Workforce Solutions for the Heart of Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays for job training such as tuition, books, tools, uniforms, and certification exams, plus job search help and child care while in training.",
+      "eligibility_summary_en": "People in Bosque, Falls, Freestone, Hill, Limestone, or McLennan County who can work in the U.S. and are low-income, were laid off through no fault of their own and are eligible for unemployment, or get TANF or SNAP.",
+      "how_to_apply": "Submit the online WIOA application; a career specialist will contact you. Or call (254) 296-5341.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.hotworkforce.com/home/individuals/training-education/wioa/",
+      "description_es": "Paga capacitación para el trabajo, como colegiatura, libros, herramientas, uniformes y exámenes de certificación, además de ayuda para buscar empleo y cuidado de niños mientras estudia.",
+      "eligibility_summary_es": "Personas en los condados de Bosque, Falls, Freestone, Hill, Limestone o McLennan que pueden trabajar en EE. UU. y que tienen ingresos bajos, perdieron su trabajo sin culpa propia y califican para desempleo, o reciben TANF o SNAP.",
+      "how_to_apply_es": "Envíe la solicitud de WIOA en línea y un especialista de carrera se comunicará con usted. O llame al (254) 296-5341.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "residency_required": "McLennan, Bosque, Falls, Freestone, Hill, or Limestone County"
+      },
+      "documents_needed": [],
+      "apply_url": "https://eoacwaco.org/programs/education-careers/",
+      "phone": "(254) 753-0331",
+      "address": "1800 N. Valley Mills Dr.",
+      "city": "Waco",
+      "zip": "76710",
+      "hours": "Monday-Friday, 8:00am-5:00pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Financial assistance based on eligibility",
+      "confidence": "high",
+      "notes": null,
+      "id": "eoac-empoweru-job-training",
+      "name": "EOAC EmpowerU Job Training",
+      "organization": "Economic Opportunities Advancement Corporation (EOAC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Job training and certifications such as CDL truck driving, HVAC, CNA, pharmacy tech, welding, and medical billing, with help paying for tuition, books, and supplies.",
+      "eligibility_summary_en": "Residents of McLennan, Bosque, Falls, Freestone, Hill, or Limestone County who meet federal income guidelines.",
+      "how_to_apply": "Apply online through EOAC's website or call (254) 753-0331.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://eoacwaco.org/programs/education-careers/",
+      "description_es": "Capacitación y certificaciones para el trabajo, como manejo de camiones (CDL), aire acondicionado y calefacción (HVAC), asistente de enfermería (CNA), técnico de farmacia, soldadura y facturación médica, con ayuda para pagar colegiatura, libros y materiales.",
+      "eligibility_summary_es": "Residentes de los condados de McLennan, Bosque, Falls, Freestone, Hill o Limestone que cumplen las guías federales de ingresos.",
+      "how_to_apply_es": "Aplique en línea en el sitio web de EOAC o llame al (254) 753-0331.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": "https://bvjobs.org/programs/wioa/adult/",
+      "phone": "(979) 595-2800",
+      "address": "3991 East 29th Street",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": "Mon 8am-5pm, Tue 8am-7pm, Wed-Fri 8am-5pm (open during lunch)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Toll-free (800) 386-7200.",
+      "id": "workforce-solutions-brazos-valley-bryan",
+      "name": "Workforce Solutions Brazos Valley - Brazos County Center",
+      "organization": "Workforce Solutions Brazos Valley",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, resource room, job training (WIOA), adult education, veteran services, and SNAP and Choices employment programs.",
+      "eligibility_summary_en": "Job seekers in the Brazos Valley. WIOA adult training is for people 18+ who are low-income and not currently employed; veterans and public assistance recipients get priority.",
+      "how_to_apply": "Visit the Bryan center or call (979) 595-2800.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://bvjobs.org/contact-us/",
+      "description_es": "Ayuda gratis para buscar trabajo, sala de recursos, capacitación para el trabajo (WIOA), educación para adultos, servicios para veteranos y programas de empleo de SNAP y Choices.",
+      "eligibility_summary_es": "Personas que buscan trabajo en Brazos Valley. La capacitación WIOA para adultos es para personas de 18 años o más con ingresos bajos y sin trabajo actual; los veteranos y quienes reciben asistencia pública tienen prioridad.",
+      "how_to_apply_es": "Visite el centro de Bryan o llame al (979) 595-2800.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 200-2000",
+      "address": "300 Cheyenne Drive",
+      "city": "Killeen",
+      "zip": "76542",
+      "hours": "Killeen: Mon, Tue, Thu, Fri 8:30 AM-5 PM; Wed 8:30 AM-4 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "high",
+      "notes": "Temple center: 201 Santa Fe Way, Temple, TX 76502, (254) 742-4400, Mon-Wed & Fri 8:30-5, Thu 8:30-4. Website is partly under construction; the board likely also serves Coryell County but this was not confirmed on the page. Child care applications go through TX3C: https://childcare.twc.texas.gov/find/welcome.",
+      "id": "workforce-solutions-central-texas",
+      "name": "Workforce Solutions of Central Texas - Killeen & Temple Centers",
+      "organization": "Workforce Solutions of Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Workforce centers offering job search help, training, veteran services, vocational rehabilitation, and child care assistance.",
+      "eligibility_summary_en": "Job seekers and families in Bell County and the Central Texas workforce area.",
+      "how_to_apply": "Visit or call the Killeen center at (254) 200-2000 or the Temple center at (254) 742-4400.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell"
+      ],
+      "source_url": "https://workforcesolutionsctx.com/",
+      "description_es": "Centros de empleo que ofrecen ayuda para buscar trabajo, capacitación, servicios para veteranos, rehabilitación vocacional y ayuda para pagar el cuidado de niños.",
+      "eligibility_summary_es": "Personas que buscan trabajo y familias en el condado de Bell y el área de Central Texas.",
+      "how_to_apply_es": "Visite o llame al centro de Killeen al (254) 200-2000 o al centro de Temple al (254) 742-4400.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "max_income_pct_fpl": 125
+      },
+      "documents_needed": [],
+      "apply_url": "https://www.lonestarlegal.org/get-help/",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": "Waco",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "medium",
+      "notes": "Local office street address and phone were not shown on the offices page; use the toll-free intake line. Some special projects allow higher income. Income info from https://www.lonestarlegal.org/get-help/.",
+      "id": "lone-star-legal-aid-waco",
+      "name": "Lone Star Legal Aid - Waco Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil (non-criminal) legal help for low-income people. They do not handle criminal cases.",
+      "eligibility_summary_en": "Low-income residents of Bosque, Falls, Freestone, Hill, Limestone, McLennan, and Navarro counties who meet income and legal status rules (generally up to 125% of the federal poverty level).",
+      "how_to_apply": "Apply online through Lone Star Legal Aid's website or call toll-free (800) 733-8394. Calls are confidential.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "description_es": "Ayuda legal civil gratis (no criminal) para personas de bajos ingresos. No atienden casos criminales.",
+      "eligibility_summary_es": "Residentes de bajos ingresos de los condados de Bosque, Falls, Freestone, Hill, Limestone, McLennan y Navarro que cumplen las reglas de ingresos y estatus legal (por lo general, hasta el 125% del nivel federal de pobreza).",
+      "how_to_apply_es": "Aplique en línea en el sitio web de Lone Star Legal Aid o llame gratis al (800) 733-8394. Las llamadas son confidenciales.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "max_income_pct_fpl": 125
+      },
+      "documents_needed": [],
+      "apply_url": "https://www.lonestarlegal.org/get-help/",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": "Belton",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "medium",
+      "notes": "Local office street address and phone were not shown on the offices page; use the toll-free intake line. Some special projects allow higher income. Income info from https://www.lonestarlegal.org/get-help/.",
+      "id": "lone-star-legal-aid-belton",
+      "name": "Lone Star Legal Aid - Belton Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil (non-criminal) legal help for low-income people. They do not handle criminal cases.",
+      "eligibility_summary_en": "Low-income residents of Bell, Coryell, Hamilton, Lampasas, and Milam counties who meet income and legal status rules (generally up to 125% of the federal poverty level).",
+      "how_to_apply": "Apply online through Lone Star Legal Aid's website or call toll-free (800) 733-8394. Calls are confidential.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "description_es": "Ayuda legal civil gratis (no criminal) para personas de bajos ingresos. No atienden casos criminales.",
+      "eligibility_summary_es": "Residentes de bajos ingresos de los condados de Bell, Coryell, Hamilton, Lampasas y Milam que cumplen las reglas de ingresos y estatus legal (por lo general, hasta el 125% del nivel federal de pobreza).",
+      "how_to_apply_es": "Aplique en línea en el sitio web de Lone Star Legal Aid o llame gratis al (800) 733-8394. Las llamadas son confidenciales.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {
+        "max_income_pct_fpl": 125
+      },
+      "documents_needed": [],
+      "apply_url": "https://www.lonestarlegal.org/get-help/",
+      "phone": "(800) 733-8394",
+      "address": null,
+      "city": "Bryan",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "confidence": "medium",
+      "notes": "Local office street address and phone were not shown on the offices page; use the toll-free intake line. Some special projects allow higher income. Income info from https://www.lonestarlegal.org/get-help/.",
+      "id": "lone-star-legal-aid-bryan",
+      "name": "Lone Star Legal Aid - Bryan Office",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil (non-criminal) legal help for low-income people. They do not handle criminal cases.",
+      "eligibility_summary_en": "Low-income residents of Brazos, Burleson, Grimes, Lee, Leon, Madison, and Robertson counties who meet income and legal status rules (generally up to 125% of the federal poverty level).",
+      "how_to_apply": "Apply online through Lone Star Legal Aid's website or call toll-free (800) 733-8394. Calls are confidential.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.lonestarlegal.org/offices/",
+      "description_es": "Ayuda legal civil gratis (no criminal) para personas de bajos ingresos. No atienden casos criminales.",
+      "eligibility_summary_es": "Residentes de bajos ingresos de los condados de Brazos, Burleson, Grimes, Lee, Leon, Madison y Robertson que cumplen las reglas de ingresos y estatus legal (por lo general, hasta el 125% del nivel federal de pobreza).",
+      "how_to_apply_es": "Aplique en línea en el sitio web de Lone Star Legal Aid o llame gratis al (800) 733-8394. Las llamadas son confidenciales.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(254) 750-1900",
+      "address": "301 S. 8th Street, Suite 100",
+      "city": "Waco",
+      "zip": "76701",
+      "hours": "Mon-Fri 5 a.m.-7 p.m.; Sat 6 a.m.-8 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$1.50 full fare; $0.50 reduced; paratransit $3 per trip",
+      "confidence": "high",
+      "notes": "Closed on major holidays. Fixed routes (254) 750-1613; demand response/paratransit (254) 750-1620. Same-day paratransit trip $4.",
+      "id": "waco-transit-reduced-fare",
+      "name": "Waco Transit System (Reduced Fares & Paratransit)",
+      "organization": "City of Waco - Waco Transit System",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "City buses, on-demand rides, county routes, and paratransit in Waco, with reduced fares for seniors, Medicare holders, and riders with disabilities.",
+      "eligibility_summary_en": "Seniors and Medicare cardholders ride for $0.50 with a Waco Transit ID; riders with disabilities pay $0.50 after approval. Children 5 and under ride free; students at Baylor, MCC, TSTC, and Waco ISD ride free with school ID.",
+      "how_to_apply": "Call (254) 750-1900 to get a Waco Transit reduced-fare ID or apply for disabled fare or paratransit.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "McLennan"
+      ],
+      "source_url": "https://www.waco-texas.com/Departments/Transit-System",
+      "description_es": "Autobuses de la ciudad, viajes a pedido, rutas del condado y paratránsito en Waco, con tarifas reducidas para personas mayores, personas con Medicare y pasajeros con discapacidad.",
+      "eligibility_summary_es": "Personas mayores y quienes tienen tarjeta de Medicare pagan $0.50 con una identificación de Waco Transit; pasajeros con discapacidad pagan $0.50 después de ser aprobados. Niños de 5 años o menos viajan gratis; estudiantes de Baylor, MCC, TSTC y Waco ISD viajan gratis con su identificación escolar.",
+      "how_to_apply_es": "Llame al (254) 750-1900 para sacar una identificación de tarifa reducida de Waco Transit o para solicitar la tarifa por discapacidad o el paratránsito.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": "https://takethehop.com/",
+      "phone": "(254) 933-3700",
+      "address": "4515 W US 190",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Fares vary; reduced fares available",
+      "confidence": "high",
+      "notes": "Specific reduced-fare eligibility not detailed on home page.",
+      "id": "hill-country-transit-the-hop",
+      "name": "The HOP - Hill Country Transit District",
+      "organization": "Hill Country Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public buses, microtransit, commuter routes, rural demand-response rides, and ADA paratransit in Bell, Coryell, and Milam counties.",
+      "eligibility_summary_en": "Open to the public in Killeen, Temple, Belton, Copperas Cove, Harker Heights, and rural areas. Reduced fares are available; call for rules.",
+      "how_to_apply": "Book rides with the HOP app or online booking tool, or call (254) 933-3700.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell"
+      ],
+      "source_url": "https://takethehop.com/",
+      "description_es": "Autobuses públicos, microtránsito, rutas para quienes viajan al trabajo, viajes a pedido en zonas rurales y paratránsito ADA en los condados de Bell, Coryell y Milam.",
+      "eligibility_summary_es": "Abierto al público en Killeen, Temple, Belton, Copperas Cove, Harker Heights y zonas rurales. Hay tarifas reducidas; llame para saber las reglas.",
+      "how_to_apply_es": "Reserve viajes con la aplicación de The HOP o la herramienta de reservas en línea, o llame al (254) 933-3700.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": "https://www.btd.org/",
+      "phone": "(979) 778-0607",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fares vary; reduced senior/disabled passes",
+      "confidence": "high",
+      "notes": "Existing clients can book at https://portal.btd.org.",
+      "id": "brazos-transit-district",
+      "name": "Brazos Transit District",
+      "organization": "Brazos Transit District",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Public buses, ADA paratransit, and demand-response rides in Bryan, College Station, and rural areas, with reduced-fare senior and disabled passes.",
+      "eligibility_summary_en": "Open to the public. Seniors and people with disabilities can apply for a reduced-fare pass.",
+      "how_to_apply": "New demand-response riders call the Dispatch Center at (979) 778-4480 or (800) 272-0039. Apply for a Senior & Disabled Pass using the application on the website.",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.btd.org/",
+      "description_es": "Autobuses públicos, paratránsito ADA y viajes a pedido en Bryan, College Station y zonas rurales, con pases de tarifa reducida para personas mayores y con discapacidad.",
+      "eligibility_summary_es": "Abierto al público. Las personas mayores y las personas con discapacidad pueden solicitar un pase de tarifa reducida.",
+      "how_to_apply_es": "Si es pasajero nuevo de viajes a pedido, llame al Centro de Despacho al (979) 778-4480 o al (800) 272-0039. Para el pase de personas mayores y con discapacidad, use la solicitud del sitio web.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "apply_url": null,
+      "phone": "(979) 595-2809",
+      "address": "4001 E. 29th St. Suite 180",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "confidence": "medium",
+      "notes": "Cost and eligibility not stated on site. Email info@BVAHC.org.",
+      "id": "brazos-valley-affordable-housing-corp",
+      "name": "Brazos Valley Affordable Housing Corporation - Homebuyer Counseling & Financial Fitness Center",
+      "organization": "Brazos Valley Affordable Housing Corp.",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Homebuyer counseling, affordable homes for sale, and one-on-one financial coaching.",
+      "eligibility_summary_en": "People in the Brazos Valley who want to buy a home or improve their finances. Call to ask about eligibility.",
+      "how_to_apply": "Call (979) 595-2809 to schedule counseling or coaching.",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Brazos"
+      ],
+      "source_url": "https://www.bvahc.org/",
+      "description_es": "Consejería para comprar casa, casas a precio accesible a la venta y asesoría financiera personal.",
+      "eligibility_summary_es": "Personas en Brazos Valley que quieren comprar casa o mejorar sus finanzas. Llame para preguntar si califica.",
+      "how_to_apply_es": "Llame al (979) 595-2809 para hacer una cita de consejería o asesoría.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

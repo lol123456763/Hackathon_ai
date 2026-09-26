@@ -1,0 +1,1175 @@
+{
+  "scope": "Bexar, Comal & Guadalupe counties (San Antonio region): healthcare, mental health, school/childcare, employment, legal (plus related local housing, utility and transit help)",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "chcs-bexar-local-mental-health-authority",
+      "name": "The Center for Health Care Services (Bexar County Local Mental Health Authority)",
+      "organization": "The Center for Health Care Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health and substance use treatment for adults and children in Bexar County. Also offers intellectual and developmental disability services, peer support, and supportive housing help.",
+      "eligibility_summary_en": "Bexar County residents who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {
+        "residency_required": "Bexar County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the routine appointments line at 1-833-501-2427 to set up care. In a crisis, call the 24/7 crisis line.",
+      "apply_url": null,
+      "phone": "(833) 501-2427",
+      "address": "6800 Park Ten Blvd, Ste 200-S",
+      "city": "San Antonio",
+      "zip": "78213",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://chcsbc.org/",
+      "confidence": "high",
+      "notes": "CHCS is the Local Mental Health Authority for Bexar County. Treats anxiety, depression, PTSD, bipolar disorder, schizophrenia, postpartum depression, and alcohol/drug use.",
+      "description_es": "Tratamiento de salud mental y de uso de drogas o alcohol para adultos y niños en el condado de Bexar. También ayuda a personas con discapacidades intelectuales o del desarrollo, ofrece apoyo de compañeros y ayuda con vivienda.",
+      "eligibility_summary_es": "Personas que viven en el condado de Bexar y necesitan servicios de salud mental, uso de sustancias o discapacidad del desarrollo.",
+      "how_to_apply_es": "Llame a la línea de citas al 1-833-501-2427 para empezar. Si es una crisis, llame a la línea de crisis, abierta las 24 horas.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "chcs-bexar-crisis-line",
+      "name": "CHCS 24/7 Crisis Line",
+      "organization": "The Center for Health Care Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A phone line for anyone in Bexar County having a mental health or substance use crisis. Trained staff can talk with you and connect you to help.",
+      "eligibility_summary_en": "Anyone in Bexar County in a mental health crisis, or someone calling for them.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (210) 223-7233 or 1-800-316-9241. If someone is in immediate danger, call 911.",
+      "apply_url": null,
+      "phone": "(210) 223-7233",
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://chcsbc.org/",
+      "confidence": "high",
+      "notes": "Toll-free alternate: 1-800-316-9241. The 988 Suicide & Crisis Lifeline is also available nationally.",
+      "description_es": "Una línea telefónica para cualquier persona en el condado de Bexar que esté pasando por una crisis de salud mental o de uso de drogas o alcohol. Personal capacitado habla con usted y le conecta con ayuda.",
+      "eligibility_summary_es": "Cualquier persona en el condado de Bexar en una crisis de salud mental, o alguien que llama por ella.",
+      "how_to_apply_es": "Llame al (210) 223-7233 o al 1-800-316-9241. Si alguien está en peligro inmediato, llame al 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-comal-county-mental-health",
+      "name": "Hill Country MHDD Centers - Comal County Mental Health",
+      "organization": "Hill Country Mental Health and Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Public mental health clinic in New Braunfels for adults and children. The agency also offers substance use services, crisis care, and developmental disability services.",
+      "eligibility_summary_en": "People living in Comal County who need mental health care.",
+      "eligibility_rules": {
+        "residency_required": "Comal County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Comal County Mental Health clinic at (830) 620-6221. For a crisis, call 1-877-466-0660 any time.",
+      "apply_url": null,
+      "phone": "(830) 620-6221",
+      "address": "358 Landa Street, Suite 300",
+      "city": "New Braunfels",
+      "zip": "78130",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Comal"
+      ],
+      "source_url": "https://hillcountry.org/all-locations/",
+      "confidence": "high",
+      "notes": "Hill Country MHDD serves Comal County among 19 Hill Country counties. Intellectual/developmental disability (LIDDA) office is at 358 Landa Street, Suite 100, (830) 625-7394. Main agency line: (830) 792-3300.",
+      "description_es": "Clínica pública de salud mental en New Braunfels para adultos y niños. La agencia también ofrece servicios para el uso de sustancias, atención en crisis y servicios para discapacidades del desarrollo.",
+      "eligibility_summary_es": "Personas que viven en el condado de Comal y necesitan atención de salud mental.",
+      "how_to_apply_es": "Llame a la clínica de salud mental del condado de Comal al (830) 620-6221. Si es una crisis, llame al 1-877-466-0660 a cualquier hora.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "hill-country-mhdd-crisis-line",
+      "name": "Hill Country MHDD 24/7 Crisis Hotline",
+      "organization": "Hill Country Mental Health and Developmental Disabilities Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "A crisis phone line for people in a mental health emergency in the Hill Country area, including Comal County. It connects to crisis staff and the Mobile Crisis Outreach Team.",
+      "eligibility_summary_en": "Anyone in the Hill Country MHDD service area, including Comal County, having a mental health crisis.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-877-466-0660. If someone is in immediate danger, call 911.",
+      "apply_url": null,
+      "phone": "(877) 466-0660",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Comal"
+      ],
+      "source_url": "https://www.hillcountry.org/",
+      "confidence": "medium",
+      "notes": "Hill Country MHDD serves Comal County and other Hill Country counties. Administrative office: (830) 792-3300.",
+      "description_es": "Una línea de crisis para personas con una emergencia de salud mental en la región de Hill Country, incluido el condado de Comal. Le conecta con personal de crisis y con el equipo móvil de crisis.",
+      "eligibility_summary_es": "Cualquier persona en el área de servicio de Hill Country MHDD, incluido el condado de Comal, que esté en una crisis de salud mental.",
+      "how_to_apply_es": "Llame al 1-877-466-0660. Si alguien está en peligro inmediato, llame al 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bluebonnet-trails-seguin",
+      "name": "Bluebonnet Trails Community Services - Seguin",
+      "organization": "Bluebonnet Trails Community Services",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Public mental health, substance use, and crisis services in Seguin. It also offers autism help, early childhood intervention, developmental disability services, supportive housing and job help, and peer and veteran services.",
+      "eligibility_summary_en": "People in Guadalupe County who need mental health, substance use, or developmental disability services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 1-844-309-6385 for appointments and services. For a crisis, call 1-800-841-1255 any time.",
+      "apply_url": null,
+      "phone": "(844) 309-6385",
+      "address": "1104 Jefferson Ave.",
+      "city": "Seguin",
+      "zip": "78155",
+      "hours": "Crisis line 24/7; office hours not listed",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Guadalupe"
+      ],
+      "source_url": "https://www.bbtrails.org/locations/seguin/",
+      "confidence": "high",
+      "notes": "24/7 crisis line: 1-800-841-1255. Bluebonnet Trails serves several Central Texas counties; the Seguin office serves Guadalupe County.",
+      "description_es": "Servicios públicos de salud mental, uso de sustancias y crisis en Seguin. También ofrece ayuda para autismo, intervención temprana para niños pequeños, servicios para discapacidades del desarrollo, ayuda con vivienda y empleo, y apoyo para veteranos.",
+      "eligibility_summary_es": "Personas en el condado de Guadalupe que necesitan servicios de salud mental, uso de sustancias o discapacidad del desarrollo.",
+      "how_to_apply_es": "Llame al 1-844-309-6385 para citas y servicios. Si es una crisis, llame al 1-800-841-1255 a cualquier hora.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "clarity-child-guidance-center",
+      "name": "Clarity Child Guidance Center",
+      "organization": "Clarity Child Guidance Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health care for children and teens, including 24/7 crisis help, hospital care, day programs, and outpatient therapy.",
+      "eligibility_summary_en": "Children and teens ages 3 to 17. Financial aid is available, and in a crisis families are served no matter their ability to pay.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "min_age": 3,
+        "max_age": 17
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (210) 616-0300 or walk in to the crisis center any time.",
+      "apply_url": null,
+      "phone": "(210) 616-0300",
+      "address": "8535 Tom Slick",
+      "city": "San Antonio",
+      "zip": "78229",
+      "hours": "Crisis services open 24/7",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Financial aid available; works with families regardless of ability to pay during a crisis",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.claritycgc.org/",
+      "confidence": "high",
+      "notes": "Walk-ins welcome for crisis assessment 24/7.",
+      "description_es": "Atención de salud mental para niños y adolescentes, con ayuda en crisis las 24 horas, hospitalización, programas de día y terapia.",
+      "eligibility_summary_es": "Niños y adolescentes de 3 a 17 años. Hay ayuda financiera, y en una crisis se atiende a las familias aunque no puedan pagar.",
+      "how_to_apply_es": "Llame al (210) 616-0300 o vaya al centro de crisis sin cita, a cualquier hora.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "centromed-community-health-centers",
+      "name": "CentroMed Community Health Centers",
+      "organization": "CentroMed",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health centers offering family medicine, children's care, women's health, dental, eye care, pharmacy, lab work, behavioral health, and WIC. Fees can be lowered based on income.",
+      "eligibility_summary_en": "Open to everyone. A sliding fee based on income and family size is available, and no one is turned away for inability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (driver's license, government ID, resident card, birth certificate, or passport)",
+        "Proof of address (utility bill or any mail with your name and address)",
+        "Proof of income for the last 30 days (pay stubs, tax return if self-employed, Social Security or unemployment letters, TANF/SNAP papers)",
+        "Proof of family members (birth certificates or Medicaid/CHIP/SNAP/WIC papers)"
+      ],
+      "how_to_apply": "Call (210) 922-7000 for an appointment. To apply for the sliding fee, apply online or call (210) 334-3745 to meet with an eligibility specialist.",
+      "apply_url": "https://ola.veritysource.com/centromed",
+      "phone": "(210) 922-7000",
+      "address": "3750 Commercial Ave",
+      "city": "San Antonio",
+      "zip": "78221",
+      "hours": "Scheduling line Monday-Friday, 8:00 AM - 5:00 PM; appointment support 24/7 (after hours, option 3)",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Sliding fee scale based on income; no one denied for inability to pay",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Comal"
+      ],
+      "source_url": "https://centromedsa.com/eligibility/",
+      "confidence": "high",
+      "notes": "Address shown is the Southside Medical clinic. In-person eligibility help at six clinics: South Park Medical (6315 S Zarzamora 78211), Southside Medical (3750 Commercial Ave 78221), Thousand Oaks (4300 Thousand Oaks Dr Ste 104 78217), Noemi Galvan Eling (5542 Walzem Rd 78218), Berto Guerra Jr. (5439 Ray Ellison Blvd 78242), and Pediatrics at Rivercrest (955 Loop 337, New Braunfels 78130). Spanish interpretation available at all locations.",
+      "description_es": "Centros de salud comunitarios con medicina familiar, atención para niños, salud de la mujer, dental, cuidado de los ojos, farmacia, análisis de laboratorio, salud mental y WIC. El costo puede bajar según sus ingresos.",
+      "eligibility_summary_es": "Abierto para todos. Hay una tarifa reducida según sus ingresos y el tamaño de su familia, y a nadie se le niega el servicio por no poder pagar.",
+      "how_to_apply_es": "Llame al (210) 922-7000 para hacer una cita. Para pedir la tarifa reducida, llene la solicitud en línea o llame al (210) 334-3745 para hablar con un especialista.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communicare-health-centers-san-antonio",
+      "name": "CommuniCare Health Centers - San Antonio",
+      "organization": "CommuniCare Health Centers",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "Community health centers with 20+ clinics in San Antonio offering primary care for kids and adults, women's health, dental, behavioral health, pharmacy, and WIC. Uninsured patients can get a sliding fee discount.",
+      "eligibility_summary_en": "Open to everyone. The sliding fee discount is for families with income under 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Photo ID (driver's license, state ID, passport, or school ID with picture)",
+        "For children: birth certificate and Social Security card",
+        "Insurance card, if you have one",
+        "List of current medicines and doses"
+      ],
+      "how_to_apply": "New patients call (210) 233-7000 to set up a first visit. For the sliding fee discount or help with Medicaid/Marketplace, call the Medical Eligibility team at (210) 233-7076.",
+      "apply_url": "https://communicaresa.org/become-a-patient/",
+      "phone": "(210) 233-7000",
+      "address": "431 Wolfe Road",
+      "city": "San Antonio",
+      "zip": "78216",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding fee discount for uninsured patients under 200% FPL",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://communicaresa.org/become-a-patient/",
+      "confidence": "high",
+      "notes": "Address is the corporate campus; clinic list at https://communicaresa.org/locations/san-antonio-locations/. Payment by debit/credit card; cash not accepted. Sliding fee eligibility must be renewed every year.",
+      "description_es": "Centros de salud comunitarios con más de 20 clínicas en San Antonio. Ofrecen atención médica para niños y adultos, salud de la mujer, dental, salud mental, farmacia y WIC. Las personas sin seguro pueden recibir un descuento.",
+      "eligibility_summary_es": "Abierto para todos. El descuento es para familias con ingresos menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Si es paciente nuevo, llame al (210) 233-7000 para su primera cita. Para el descuento o ayuda con Medicaid o el Mercado de Seguros, llame al equipo de elegibilidad al (210) 233-7076.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "communicare-new-braunfels-campus",
+      "name": "CommuniCare Health Centers - New Braunfels Campus",
+      "organization": "CommuniCare Health Centers",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Community health center in New Braunfels offering sick visits, adult and child care, senior care, chronic disease care, and shots.",
+      "eligibility_summary_en": "Open to new patients. Sliding fee discount for families with income under 200% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Insurance card, if you have one",
+        "List of current medicines"
+      ],
+      "how_to_apply": "Call (210) 233-7000 to book, or book online through healow.",
+      "apply_url": "https://communicaresa.org/locations/new-braunfels-campus/",
+      "phone": "(210) 233-7000",
+      "address": "169 Interstate 35 S, Suite 169",
+      "city": "New Braunfels",
+      "zip": "78130",
+      "hours": "Monday to Friday 8:00 AM - 7:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Sliding fee discount for uninsured patients under 200% FPL",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Comal"
+      ],
+      "source_url": "https://communicaresa.org/locations/new-braunfels-campus/",
+      "confidence": "high",
+      "notes": "Accepting new patients. Sliding fee questions: (210) 233-7076.",
+      "description_es": "Centro de salud comunitario en New Braunfels con citas por enfermedad, atención para adultos y niños, cuidado de personas mayores, control de enfermedades crónicas y vacunas.",
+      "eligibility_summary_es": "Acepta pacientes nuevos. Hay descuento para familias con ingresos menores al 200% del nivel federal de pobreza.",
+      "how_to_apply_es": "Llame al (210) 233-7000 para hacer una cita, o haga su cita en línea en healow.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "university-health-carelink",
+      "name": "CareLink",
+      "organization": "University Health (Bexar County Hospital District)",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "A financial help program that makes care at University Health cheaper for uninsured Bexar County families. It is not insurance.",
+      "eligibility_summary_en": "Bexar County residents with income at or below 250% of the federal poverty level who do not have and cannot get health insurance.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 250,
+        "uninsured": true,
+        "residency_required": "Bexar County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Fill out the CareLink enrollment application online (English or Spanish), then schedule an enrollment appointment. Call CareLink Member Services at (210) 358-3350 with questions.",
+      "apply_url": "https://forms.uhstx.com/CLMemberApp.html",
+      "phone": "(210) 358-3350",
+      "address": "4502 Medical Drive",
+      "city": "San Antonio",
+      "zip": "78229",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Reduced cost based on income",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.universityhealth.com/carelink",
+      "confidence": "high",
+      "notes": "Spanish application: https://forms.uhstx.com/CLMemberApp-SP.html. University Health main line: (210) 358-4000. Call CareLink to ask which documents to bring.",
+      "description_es": "Un programa de ayuda financiera que hace más barata la atención médica en University Health para familias sin seguro del condado de Bexar. No es un seguro médico.",
+      "eligibility_summary_es": "Personas que viven en el condado de Bexar, con ingresos iguales o menores al 250% del nivel federal de pobreza, y que no tienen ni pueden conseguir seguro médico.",
+      "how_to_apply_es": "Llene la solicitud de CareLink en línea (en inglés o español) y luego haga una cita de inscripción. Si tiene preguntas, llame a Servicios para Miembros de CareLink al (210) 358-3350.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "metro-health-immunization-clinic",
+      "name": "Metro Health Immunization Clinic",
+      "organization": "San Antonio Metropolitan Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Low-cost vaccines for children and uninsured adults. Children can get shots through Texas Vaccines for Children and adults through the Adult Safety Net program.",
+      "eligibility_summary_en": "Children and adults in the San Antonio area. Uninsured children under 18 may qualify for Texas Vaccines for Children, and uninsured adults 19 and older may qualify for the Adult Safety Net program.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (210) 207-8790 to make an appointment. Appointments are required.",
+      "apply_url": null,
+      "phone": "(210) 207-8790",
+      "address": "210 N. Mel Waiters Way",
+      "city": "San Antonio",
+      "zip": "78202",
+      "hours": "Monday - Friday 8 a.m. - 3 p.m. (closed 12-1 p.m. for lunch); may close early without notice if full",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Children: $13.75 admin fee per visit. Adults: $22 admin fee per visit. Vaccine prices vary by vaccine.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/SAMHD/Health-Services/Immunizations/Clinic",
+      "confidence": "high",
+      "notes": "Accepts Medicaid and Community First / Superior Health CHIP only; private insurance is not accepted.",
+      "description_es": "Vacunas a bajo costo para niños y adultos sin seguro. Los niños pueden recibir vacunas por el programa Texas Vaccines for Children y los adultos por el programa Adult Safety Net.",
+      "eligibility_summary_es": "Niños y adultos del área de San Antonio. Los niños menores de 18 años sin seguro pueden calificar para Texas Vaccines for Children, y los adultos de 19 años o más sin seguro pueden calificar para Adult Safety Net.",
+      "how_to_apply_es": "Llame al (210) 207-8790 para hacer una cita. Solo atienden con cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "metro-health-sti-hiv-clinic",
+      "name": "Metro Health STI/HIV Clinic and PrEP Clinic",
+      "organization": "San Antonio Metropolitan Health District",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Walk-in testing and treatment for sexually transmitted infections, plus a PrEP clinic to help prevent HIV.",
+      "eligibility_summary_en": "San Antonio and Bexar County residents who need STI testing or treatment, or want PrEP to prevent HIV. The PrEP team helps people regardless of their finances.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID (anonymous testing is not available)"
+      ],
+      "how_to_apply": "Walk in to the STI clinic (last check-in 3 p.m. Mon-Thu, 10:30 a.m. Fri). For PrEP, call (210) 207-7292 to schedule; PrEP walk-ins are accepted but appointments are encouraged.",
+      "apply_url": null,
+      "phone": "(210) 207-8830",
+      "address": "512 E. Highland Blvd., Ste. 150",
+      "city": "San Antonio",
+      "zip": "78210",
+      "hours": "STI walk-in: Mon-Thu 7:45 a.m. - 4:30 p.m. (last check-in 3 p.m.); Fri 7:45 a.m. - 12 p.m. (last check-in 10:30 a.m.)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$15 office visit admin fee; other fees depend on services. Special arrangements may be considered.",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/SAMHD/Health-Services/STI-HIV/STI-Walk-in-Clinic",
+      "confidence": "high",
+      "notes": "PrEP line: (210) 207-7292. Counseling line (210) 207-2816, Mon-Thu 8-4:30, Fri 8-12. PrEP info: https://www.sa.gov/Directory/Departments/SAMHD/Health-Services/STI-HIV",
+      "description_es": "Pruebas y tratamiento sin cita para infecciones de transmisión sexual, y una clínica de PrEP para ayudar a prevenir el VIH.",
+      "eligibility_summary_es": "Personas que viven en San Antonio y el condado de Bexar y necesitan pruebas o tratamiento de ITS, o quieren PrEP para prevenir el VIH. El equipo de PrEP ayuda sin importar su situación económica.",
+      "how_to_apply_es": "Vaya a la clínica de ITS sin cita (última entrada a las 3 p.m. de lunes a jueves y a las 10:30 a.m. los viernes). Lleve una identificación con foto. Para PrEP, llame al (210) 207-7292; también aceptan sin cita, pero se recomienda hacer cita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "metro-health-wic-san-antonio",
+      "name": "San Antonio Metro Health WIC",
+      "organization": "San Antonio Metropolitan Health District",
+      "categories": [
+        "food",
+        "healthcare",
+        "school_childcare"
+      ],
+      "description_en": "WIC gives healthy food benefits, nutrition classes, and breastfeeding support to moms and young kids at 10 clinics around San Antonio.",
+      "eligibility_summary_en": "Pregnant, postpartum, and breastfeeding women, infants, and children younger than 5.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call Metro Health at (210) 207-6000 or 3-1-1, or contact the nearest WIC clinic.",
+      "apply_url": "https://www.sa.gov/Directory/Departments/SAMHD/Health-Services/Family-Health/WIC/WIC-Clinics",
+      "phone": "(210) 207-6000",
+      "address": "2315 Buena Vista",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": "Most clinics Mon-Thu 7:45 a.m.-4:30 p.m. with one evening until 7:30 p.m.; Fridays 7:45 a.m.-12:45 p.m.; some Saturday mornings; closed the first Friday of each month for training",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/SAMHD/Health-Services/Family-Health/WIC/WIC-Clinics",
+      "confidence": "high",
+      "notes": "Address shown is Buena Vista clinic (210-207-4906). Other clinics: Callaghan 4412 Callaghan Rd 78228 (210-207-4694); Grissom 9179 Grissom Rd Ste 147 78251 (210-207-4754); Marbach 7452 Military Dr W 78227 (210-207-4690); Naco-Perrin 4020 Naco-Perrin 78217 (210-207-4742); Pecan Valley 802 Pecan Valley 78220 (210-207-4715); Rittiman 4343 Rittiman Rd 78218 (210-207-4750); Salinas 630 S General McMullen 78237 (210-207-4700); South Flores 6723 S Flores #106 78221 (210-207-4555); Zarzamora 4503 S Zarzamora 78211 (210-207-4720). CentroMed and CommuniCare also run WIC.",
+      "description_es": "WIC da beneficios para comprar alimentos sanos, clases de nutrición y apoyo para la lactancia a mamás y niños pequeños, en 10 clínicas de San Antonio.",
+      "eligibility_summary_es": "Mujeres embarazadas, mujeres que acaban de dar a luz o que dan pecho, bebés y niños menores de 5 años.",
+      "how_to_apply_es": "Llame a Metro Health al (210) 207-6000 o al 3-1-1, o comuníquese con la clínica de WIC más cercana.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-alamo-child-care-services",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Workforce Solutions Alamo",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work or go to school or training.",
+      "eligibility_summary_en": "Parents in the 13-county Alamo region who are working or in training and meet program income rules.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply for a child care scholarship through Texas Child Care Connection online. Call (210) 230-6300 for help.",
+      "apply_url": "https://www.childcare.texas.gov/for-families/child-care-scholarships",
+      "phone": "(210) 230-6300",
+      "address": "100 N Santa Rosa Street",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": "8:00 AM to 4:00 PM, Monday-Friday",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Subsidized; parent share may apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.workforcesolutionsalamo.org/childcare-main/",
+      "confidence": "high",
+      "notes": "Toll-free (800) 204-7905; email ccs@wsalamo.org. Region also includes Atascosa, Bandera, Frio, Gillespie, Karnes, Kendall, Kerr, McMullen, Medina and Wilson counties. Income limits are set on the state Texas Child Care Connection portal.",
+      "description_es": "Ayuda a pagar el cuidado de niños para que los padres puedan trabajar, estudiar o recibir capacitación.",
+      "eligibility_summary_es": "Padres en la región Alamo de 13 condados que trabajan o están en capacitación y cumplen con los límites de ingresos del programa.",
+      "how_to_apply_es": "Solicite una beca de cuidado infantil en línea por Texas Child Care Connection. Si necesita ayuda, llame al (210) 230-6300.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-alamo-career-centers",
+      "name": "Workforce Solutions Alamo Career Centers",
+      "organization": "Workforce Solutions Alamo",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, resume and interview help, hiring events, and training for in-demand jobs like IT, construction, and healthcare.",
+      "eligibility_summary_en": "Job seekers in the 13-county Alamo region, including Bexar, Comal, and Guadalupe counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Register on WorkInTexas.com and visit a local career center for free help. Call (210) 438-0581 or email info@wsalamo.org with questions.",
+      "apply_url": "https://www.workforcesolutionsalamo.org/job-seekers/",
+      "phone": "(210) 438-0581",
+      "address": "100 N Santa Rosa Street",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.workforcesolutionsalamo.org/job-seekers/",
+      "confidence": "medium",
+      "notes": "Address is the administrative office, not a career center. Find a center: https://www.workforcesolutionsalamo.org/locations/. The 210-224-HELP (4357) line is also used by Workforce Solutions Alamo programs. Also has programs for veterans, youth, and people with disabilities.",
+      "description_es": "Ayuda gratis para buscar trabajo, preparar su currículum y practicar entrevistas, ferias de empleo y capacitación para trabajos con mucha demanda, como tecnología, construcción y salud.",
+      "eligibility_summary_es": "Personas que buscan trabajo en la región Alamo de 13 condados, incluidos Bexar, Comal y Guadalupe.",
+      "how_to_apply_es": "Regístrese en WorkInTexas.com y visite un centro de empleo para recibir ayuda gratis. Si tiene preguntas, llame al (210) 438-0581 o escriba a info@wsalamo.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-alamo-youth-empowerment-services",
+      "name": "Youth Empowerment Services (YES)",
+      "organization": "Workforce Solutions Alamo",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Helps young people finish school, get paid work experience, job training, mentoring, and money skills.",
+      "eligibility_summary_en": "Youth ages 16-24 who face barriers to school, training, or work and meet program rules.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 24
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online or go to a free info session, no sign-up needed: Mon East Houston, Tue O'Connor, Wed South Flores, Thu Datapoint, Fri Port S.A. career centers, all at 2:00 PM; or online Fridays at 10:00 AM. Call (210) 224-4357 or text (210) 457-2366.",
+      "apply_url": "https://www.workforcesolutionsalamo.org/job-seekers/youth-empowerment-service/",
+      "phone": "(210) 224-4357",
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.workforcesolutionsalamo.org/job-seekers/youth-empowerment-service/",
+      "confidence": "high",
+      "notes": "Email yes@wsalamo.org. No registration needed for info sessions.",
+      "description_es": "Ayuda a jóvenes a terminar la escuela, conseguir experiencia de trabajo pagada, capacitación, mentores y aprender a manejar su dinero.",
+      "eligibility_summary_es": "Jóvenes de 16 a 24 años que tienen obstáculos para estudiar, capacitarse o trabajar y que cumplen con las reglas del programa.",
+      "how_to_apply_es": "Solicite en línea o vaya a una sesión informativa gratis, sin registrarse: lunes en East Houston, martes en O'Connor, miércoles en South Flores, jueves en Datapoint y viernes en Port S.A., todas a las 2:00 p.m.; o en línea los viernes a las 10:00 a.m. Llame al (210) 224-4357 o mande un texto al (210) 457-2366.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-alamo-veteran-services",
+      "name": "Veteran Employment Services",
+      "organization": "Workforce Solutions Alamo",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Job placement, training, resume help, and priority service for veterans. Some military spouses can also get help.",
+      "eligibility_summary_en": "Veterans in the 13-county Alamo region. Military spouses who lost a job due to relocation or are unemployed/underemployed may also qualify.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call (210) 224-4357 or email veteranservices@wsalamo.org, or visit any career center.",
+      "apply_url": "https://www.workforcesolutionsalamo.org/job-seekers/veterans/",
+      "phone": "(210) 224-4357",
+      "address": "100 N Santa Rosa Street",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.workforcesolutionsalamo.org/job-seekers/veterans/",
+      "confidence": "high",
+      "notes": "Military Family Support Program: (210) 745-8695, MFSP@wsalamo.org. Main office line (210) 438-0581.",
+      "description_es": "Ayuda para encontrar trabajo, capacitación, ayuda con el currículum y atención con prioridad para veteranos. Algunos cónyuges de militares también pueden recibir ayuda.",
+      "eligibility_summary_es": "Veteranos en la región Alamo de 13 condados. Los cónyuges de militares en servicio activo que perdieron su trabajo por una mudanza, o que no tienen trabajo o ganan poco, también pueden calificar.",
+      "how_to_apply_es": "Llame al (210) 224-4357, escriba a veteranservices@wsalamo.org o visite cualquier centro de empleo.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "city-of-san-antonio-head-start",
+      "name": "City of San Antonio Head Start and Early Head Start",
+      "organization": "City of San Antonio Department of Human Services",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Early learning and child care programs for babies, toddlers, and preschoolers, with health screenings, meals, and family support.",
+      "eligibility_summary_en": "Children 6 weeks to 5 years old. Early Head Start is for 6 weeks to 35 months; Head Start is for ages 3-5.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the ChildPlus application in English or Spanish, or call (210) 206-5500.",
+      "apply_url": "https://saheadstart.org/",
+      "phone": "(210) 206-5500",
+      "address": "1227 Brady Blvd.",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://saheadstart.org/",
+      "confidence": "high",
+      "notes": "Separate online applications for Edgewood ISD (210-898-2043) and San Antonio ISD (210-554-2410) Head Start programs, found on the website. Income rules and cost are not stated on the page.",
+      "description_es": "Programas de aprendizaje temprano y cuidado infantil para bebés, niños pequeños y preescolares, con revisiones de salud, comidas y apoyo para la familia.",
+      "eligibility_summary_es": "Niños de 6 semanas a 5 años. Early Head Start es para bebés de 6 semanas a 35 meses; Head Start es para niños de 3 a 5 años.",
+      "how_to_apply_es": "Solicite en línea por ChildPlus, en inglés o español, o llame al (210) 206-5500.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ccsct-head-start-comal-guadalupe",
+      "name": "Head Start and Early Head Start (Comal & Guadalupe)",
+      "organization": "Community Council of South Central Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Early learning programs for babies, toddlers, and preschoolers from low-income families.",
+      "eligibility_summary_en": "Low-income families with children from birth to age 5 in Comal and Guadalupe counties.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call (830) 327-4990.",
+      "apply_url": "https://www.ccsct.org/head-start-apply-services/",
+      "phone": "(830) 327-4990",
+      "address": "2386 W. San Antonio St.",
+      "city": "New Braunfels",
+      "zip": "78130",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.ccsct.org/program/head-start/",
+      "confidence": "high",
+      "notes": null,
+      "description_es": "Programas de aprendizaje temprano para bebés, niños pequeños y preescolares de familias de bajos ingresos.",
+      "eligibility_summary_es": "Familias de bajos ingresos con niños desde el nacimiento hasta los 5 años en los condados de Comal y Guadalupe.",
+      "how_to_apply_es": "Solicite en línea o llame al (830) 327-4990.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "city-of-san-antonio-after-school-challenge",
+      "name": "After School Challenge",
+      "organization": "City of San Antonio Department of Human Services",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "After-school program at participating schools with homework help, tutoring, and fun activities.",
+      "eligibility_summary_en": "Elementary and middle school students at participating school sites. Fees are based on family income and size.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "student": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your child's school or the program office for your school district.",
+      "apply_url": "https://www.sa.gov/Directory/Departments/DHS/Childcare-Assistance/After-School-Challenge",
+      "phone": null,
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale based on family income, size, and number of children",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/DHS/Childcare-Assistance/After-School-Challenge",
+      "confidence": "medium",
+      "notes": "District contacts: Edgewood ISD (210) 229-7827; Harlandale ISD (210) 436-0686; San Antonio ISD (210) 554-2605; South San ISD (210) 433-9922; Southwest ISD (210) 622-4335. Fee schedule: https://www.sa.gov/files/assets/main/v/2/dhs/documents/asc-sliding-scale-fee.pdf",
+      "description_es": "Programa después de clases en escuelas participantes, con ayuda con la tarea, tutoría y actividades divertidas.",
+      "eligibility_summary_es": "Estudiantes de primaria y secundaria en escuelas participantes. El costo depende de los ingresos y el tamaño de la familia.",
+      "how_to_apply_es": "Comuníquese con la escuela de su hijo o con la oficina del programa en su distrito escolar.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "project-quest-san-antonio",
+      "name": "Project QUEST",
+      "organization": "Project QUEST",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Career training in healthcare, trades/manufacturing, and IT, with tuition help, emergency financial support, and one-on-one career coaching.",
+      "eligibility_summary_en": "San Antonio-area adults who want training for a new career. Call or attend an info session to check eligibility.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Sign up for a free virtual or in-person information session, then apply through the services page. Call (210) 630-4607 with questions.",
+      "apply_url": "https://questsa.org/services/",
+      "phone": "(210) 630-4607",
+      "address": "800 Quintana Rd, Bldg 8",
+      "city": "San Antonio",
+      "zip": "78211",
+      "hours": "Monday-Friday 8:30 a.m. - 5:30 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.questsa.org/",
+      "confidence": "high",
+      "notes": "Alternate phone (210) 630-4619. Info sessions every two weeks, virtual or in person. Eligibility rules not listed on the homepage.",
+      "description_es": "Capacitación para una nueva carrera en salud, oficios y manufactura, o tecnología, con ayuda para pagar los estudios, apoyo económico en emergencias y un consejero personal.",
+      "eligibility_summary_es": "Adultos del área de San Antonio que quieren capacitarse para una nueva carrera. Llame o vaya a una sesión informativa para saber si califica.",
+      "how_to_apply_es": "Inscríbase en una sesión informativa gratis, en línea o en persona, y luego solicite en la página de servicios. Si tiene preguntas, llame al (210) 630-4607.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "sa-ready-to-work",
+      "name": "San Antonio Ready to Work",
+      "organization": "City of San Antonio Workforce Development Office",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays tuition for approved job training and college courses, with coaching and emergency help for rent, utilities, child care, food, and transportation while you train.",
+      "eligibility_summary_en": "Adults 18+ living inside San Antonio city limits who can work in the U.S. and have income at or below 250% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 250,
+        "min_age": 18,
+        "residency_required": "San Antonio city limits resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online, call 3-1-1 or (210) 207-6000, or visit a Ready to Work partner agency.",
+      "apply_url": "https://alamoareacommunitynetwork.my.site.com/RTWPortal/",
+      "phone": "(210) 207-6000",
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free (tuition covered for approved training)",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://readytoworksa.com/",
+      "confidence": "high",
+      "notes": "Residents of suburban cities outside San Antonio limits do not qualify (some military members in Bexar County may). Bachelor's degree holders can earn credentials but not tuition for degree programs. Also helps with barriers like mental health, family violence, legal issues, and English classes.",
+      "description_es": "Paga la matrícula de cursos de capacitación y universidad aprobados, con un consejero y ayuda de emergencia para renta, servicios, cuidado de niños, comida y transporte mientras estudia.",
+      "eligibility_summary_es": "Adultos de 18 años o más que viven dentro de los límites de la ciudad de San Antonio, que pueden trabajar en EE. UU. y tienen ingresos iguales o menores al 250% del nivel federal de pobreza.",
+      "how_to_apply_es": "Solicite en línea, llame al 3-1-1 o al (210) 207-6000, o visite una agencia asociada de Ready to Work.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-riogrande-legal-aid-san-antonio",
+      "name": "Texas RioGrande Legal Aid - San Antonio",
+      "organization": "Texas RioGrande Legal Aid (TRLA)",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free civil legal help with housing and evictions, public benefits, family law, employment, education, taxes, wills, and disaster issues.",
+      "eligibility_summary_en": "Low-income people in TRLA's 68-county service area, which includes Bexar, Comal, and Guadalupe counties. Call to see if you qualify.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line at (956) 996-8752 or toll-free (833) 329-8752, Monday-Friday 9 a.m.-5 p.m. Central.",
+      "apply_url": null,
+      "phone": "(833) 329-8752",
+      "address": "9501 Console Dr.",
+      "city": "San Antonio",
+      "zip": "78229",
+      "hours": "Intake Monday-Friday 9:00 a.m. - 5:00 p.m. Central",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bexar",
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.trla.org/offices",
+      "confidence": "high",
+      "notes": "Intake also at (956) 996-8752. No dedicated New Braunfels or Seguin office listed; those counties are served from the regional network.",
+      "description_es": "Ayuda legal gratis en casos civiles: vivienda y desalojos, beneficios públicos, derecho familiar, empleo, educación, impuestos, testamentos y desastres.",
+      "eligibility_summary_es": "Personas de bajos ingresos en los 68 condados que atiende TRLA, incluidos Bexar, Comal y Guadalupe. Llame para saber si califica.",
+      "how_to_apply_es": "Llame a la línea de admisión al (956) 996-8752 o gratis al (833) 329-8752, de lunes a viernes de 9 a.m. a 5 p.m. (hora del centro).",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cosa-tenant-landlord-mediation",
+      "name": "Tenant/Landlord Mediation and Fair Housing Counseling",
+      "organization": "City of San Antonio Neighborhood & Housing Services Department",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free help from HUD-certified housing counselors to settle problems between tenants and landlords, like repairs, deposits, lease disputes, code violations, utilities, and evictions.",
+      "eligibility_summary_en": "San Antonio tenants and landlords with a housing dispute. Counselors are not lawyers and do not give legal advice.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (210) 207-5309.",
+      "apply_url": null,
+      "phone": "(210) 207-5309",
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/NHSD/Housing-Support/Counseling-Mediation/Mediation",
+      "confidence": "medium",
+      "notes": "Housing discrimination complaints: https://www.sa.gov/Directory/Departments/NHSD/Housing-Support/Counseling-Mediation/Discrimination-Complaints",
+      "description_es": "Ayuda gratis de consejeros de vivienda certificados por HUD para resolver problemas entre inquilinos y dueños, como reparaciones, depósitos, contratos, violaciones de código, servicios y desalojos.",
+      "eligibility_summary_es": "Inquilinos y dueños en San Antonio con un problema de vivienda. Los consejeros no son abogados y no dan consejos legales.",
+      "how_to_apply_es": "Llame al (210) 207-5309.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cosa-eviction-prevention",
+      "name": "Eviction Prevention Help",
+      "organization": "City of San Antonio Neighborhood & Housing Services Department",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "The city answers eviction questions, shares tenant rights guides, and connects renters to rent and utility help.",
+      "eligibility_summary_en": "San Antonio renters facing eviction or behind on rent.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call (210) 207-5910 or use the eviction help online form on the city website.",
+      "apply_url": "https://www.sa.gov/Directory/Departments/NHSD/Housing-Support/Renter-Support/Eviction-Prevention",
+      "phone": "(210) 207-5910",
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/NHSD/Housing-Support/Renter-Support/Eviction-Prevention",
+      "confidence": "high",
+      "notes": "Other rent/utility help listed by the city: Bexar County Housing Authority (210) 225-0071; Bexar County Community Resources (210) 335-3666; Catholic Charities (utilities) (210) 226-6171; Christian Assistance Ministry (210) 223-4099; Salvation Army (210) 352-2020; St. Vincent de Paul (210) 225-7837; SAWS Project Agua (water) (210) 207-7830.",
+      "description_es": "La ciudad responde preguntas sobre desalojos, comparte guías sobre los derechos de los inquilinos y le conecta con ayuda para pagar la renta y los servicios.",
+      "eligibility_summary_es": "Inquilinos en San Antonio que enfrentan un desalojo o están atrasados con la renta.",
+      "how_to_apply_es": "Llame al (210) 207-5910 o use el formulario de ayuda para desalojos en el sitio web de la ciudad.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cosa-emergency-rental-assistance",
+      "name": "City of San Antonio Rental Assistance Program",
+      "organization": "City of San Antonio Neighborhood & Housing Services Department",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Helps renters with a hardship pay up to 3 months of rent (up to $3,500) and utilities (up to $1,500).",
+      "eligibility_summary_en": "San Antonio city renters (Council Districts 1-10) with household income at or below 80% of Area Median Income and a financial hardship. Once per 12 months.",
+      "eligibility_rules": {
+        "residency_required": "San Antonio city limits (Council Districts 1-10)"
+      },
+      "documents_needed": [
+        "Photo ID for adults (driver's license, state ID, passport, or matricula consular); birth certificate or similar for children",
+        "Social Security cards for household members who have them",
+        "Current lease with your address inside San Antonio city limits",
+        "Proof of income from the last 60 days for everyone 18+",
+        "Proof of hardship in the last 12 months (lost income, big unexpected costs, etc.)",
+        "Asset papers if someone has over $5,000 in savings, investments, or property"
+      ],
+      "how_to_apply": "Apply online on the second Wednesday of each month; the portal is open only from 1 p.m. to 2 p.m. Applications do not carry over to the next month. Call (210) 207-6459 or 3-1-1 for help.",
+      "apply_url": "https://dhs.mendixcloud.com/p/Kinetech/GovTech/HousingAssistance",
+      "phone": "(210) 207-6459",
+      "address": null,
+      "city": "San Antonio",
+      "zip": null,
+      "hours": "Application portal: second Wednesday of each month, 1 p.m. - 2 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/NHSD/Housing-Support/Renter-Support/Rental-Assistance",
+      "confidence": "high",
+      "notes": "Limit is based on Area Median Income, not FPL (2026 80% AMI: $56,350 for 1 person, $80,500 for 4, $106,300 for 8). Not for RV parks or single-room rentals. Landlord must also submit forms.",
+      "description_es": "Ayuda a inquilinos que pasan por un momento difícil a pagar hasta 3 meses de renta (hasta $3,500) y servicios (hasta $1,500).",
+      "eligibility_summary_es": "Inquilinos dentro de la ciudad de San Antonio (Distritos 1 al 10) con ingresos iguales o menores al 80% del ingreso medio del área y un problema económico. Solo una vez cada 12 meses.",
+      "how_to_apply_es": "Solicite en línea el segundo miércoles de cada mes; el portal abre solo de 1 p.m. a 2 p.m. Las solicitudes no pasan al mes siguiente. Si necesita ayuda, llame al (210) 207-6459 o al 3-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "cosa-utility-assistance",
+      "name": "City of San Antonio Utility Assistance",
+      "organization": "City of San Antonio Department of Human Services",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income San Antonio households pay their CPS Energy bill.",
+      "eligibility_summary_en": "Households with income at or below 150% of the federal poverty level. Priority for families with children under 17, people with disabilities, and seniors 60+.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Social Security numbers for the household",
+        "Proof of residency",
+        "Proof of income for the last 30 days",
+        "Award letters if you get benefits",
+        "CPS Energy bill and account number"
+      ],
+      "how_to_apply": "Apply online or visit the Willie Velasquez Learning Center. Call (210) 207-8198 with questions. Processing can take 30 days or more.",
+      "apply_url": "https://dhs.mendixcloud.com/",
+      "phone": "(210) 207-8198",
+      "address": "1302 N. Zarzamora St.",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": "Monday-Friday, 7:45 a.m. - 4:30 p.m.",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.sa.gov/Directory/Departments/DHS/Financial-Assistance/Utility-Assistance",
+      "confidence": "high",
+      "notes": "This is the local CEAP-type utility program for San Antonio.",
+      "description_es": "Ayuda a familias de bajos ingresos en San Antonio a pagar su factura de CPS Energy.",
+      "eligibility_summary_es": "Hogares con ingresos iguales o menores al 150% del nivel federal de pobreza. Se da prioridad a familias con niños menores de 17 años, personas con discapacidad y adultos de 60 años o más.",
+      "how_to_apply_es": "Solicite en línea o vaya al Centro de Aprendizaje Willie Velasquez. Si tiene preguntas, llame al (210) 207-8198. El trámite puede tardar 30 días o más.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "ccsct-utility-assistance-ceap",
+      "name": "Utility Assistance (CEAP) - Comal & Guadalupe",
+      "organization": "Community Council of South Central Texas",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay electric and gas bills. Help can be up to $1,800 depending on income.",
+      "eligibility_summary_en": "Households at or below 150% of the federal poverty level in the service area, including Comal and Guadalupe counties. Priority for seniors 60+, people with disabilities, and families with children under 5.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150
+      },
+      "documents_needed": [],
+      "how_to_apply": "Follow the apply instructions on the website and email your application to your county's office, or call (830) 767-2019.",
+      "apply_url": "https://www.ccsct.org/utility-assistance-apply-for-services/",
+      "phone": "(830) 767-2019",
+      "address": "1220 Simmons Ave",
+      "city": "Jourdanton",
+      "zip": "78026",
+      "hours": "Monday-Friday 8:00 am - 5:00 pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Comal",
+        "Guadalupe"
+      ],
+      "source_url": "https://www.ccsct.org/program/utility-assistance/",
+      "confidence": "medium",
+      "notes": "Up to $1,800 (0-50% FPL), $1,500 (51-75%), $1,200 (76-150%). Address shown is the program contact office in Jourdanton; the program serves 26 counties including Comal and Guadalupe. Heating/cooling repair help may be available for priority households.",
+      "description_es": "Ayuda a hogares de bajos ingresos a pagar la luz y el gas. La ayuda puede llegar hasta $1,800, según sus ingresos.",
+      "eligibility_summary_es": "Hogares con ingresos iguales o menores al 150% del nivel federal de pobreza en el área de servicio, incluidos los condados de Comal y Guadalupe. Se da prioridad a personas de 60 años o más, personas con discapacidad y familias con niños menores de 5 años.",
+      "how_to_apply_es": "Siga las instrucciones para solicitar en el sitio web y mande su solicitud por correo electrónico a la oficina de su condado, o llame al (830) 767-2019.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "via-reduced-fare-program",
+      "name": "VIA Reduced Fare Program",
+      "organization": "VIA Metropolitan Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Lower bus fares for seniors, students, children, people with disabilities, disabled veterans, active military, and Medicare/SSDI recipients.",
+      "eligibility_summary_en": "Seniors 62+, students 12+, children 5-13, people with certain disabilities, veterans with a disability rating, active-duty military, and Medicare or SSDI recipients.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Seniors: government photo ID with birth date",
+        "Students: proof of registration or paid tuition",
+        "Disability: completed Reduced Fare Application (veterans: VA disability papers)",
+        "Active-duty military: proof of active-duty status",
+        "Medicare/SSDI: Medicare card, government ID, or benefit letter"
+      ],
+      "how_to_apply": "Get a Reduced Fare ID at any VIA Information Center (except Randolph Transit Center). Call (210) 362-2020 for help.",
+      "apply_url": "https://www.viainfo.net/reduced-fares/",
+      "phone": "(210) 362-2020",
+      "address": "123 N. Medina St.",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Reduced fare; seniors 62+ pay 25 cents Mon-Fri 9 a.m.-3 p.m. and ride free on weekends; students 12-18 can get a free semester pass; very young children ride free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.viainfo.net/reduced-fares/",
+      "confidence": "high",
+      "notes": "Students may apply online.",
+      "description_es": "Pasajes de autobús más baratos para personas mayores, estudiantes, niños, personas con discapacidad, veteranos con discapacidad, militares en servicio activo y personas con Medicare o SSDI.",
+      "eligibility_summary_es": "Personas de 62 años o más, estudiantes de 12 años o más, niños de 5 a 13 años, personas con ciertas discapacidades, veteranos con calificación de discapacidad, militares en servicio activo y personas con Medicare o SSDI.",
+      "how_to_apply_es": "Saque su identificación de tarifa reducida en cualquier Centro de Información de VIA (menos el de Randolph). Si necesita ayuda, llame al (210) 362-2020.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "haven-for-hope",
+      "name": "Haven for Hope",
+      "organization": "Haven for Hope of Bexar County",
+      "categories": [
+        "housing",
+        "healthcare",
+        "employment"
+      ],
+      "description_en": "A campus for people experiencing homelessness with a low-barrier shelter, street and jail outreach, and longer-term support services.",
+      "eligibility_summary_en": "People experiencing homelessness in San Antonio/Bexar County. Contact intake for requirements.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Go to the campus or call (210) 220-2100 and ask about intake.",
+      "apply_url": null,
+      "phone": "(210) 220-2100",
+      "address": "1 Haven for Hope Way",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Bexar"
+      ],
+      "source_url": "https://www.havenforhope.org/",
+      "confidence": "high",
+      "notes": "South Campus is a low-barrier shelter with indoor sleeping; North Campus offers transformational services with an average 50-day stay. Intake hours not stated on the homepage; Spanish info available on the website.",
+      "description_es": "Un centro para personas sin hogar con albergue de fácil acceso, alcance en la calle y en la cárcel, y servicios de apoyo a largo plazo.",
+      "eligibility_summary_es": "Personas sin hogar en San Antonio y el condado de Bexar. Pregunte en admisión por los requisitos.",
+      "how_to_apply_es": "Vaya al centro o llame al (210) 220-2100 y pregunte por el proceso de admisión.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

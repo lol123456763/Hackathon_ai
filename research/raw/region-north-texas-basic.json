@@ -1,0 +1,1205 @@
+{
+  "scope": "North Texas (Wichita, Grayson, Parker, Hunt counties) - basic needs",
+  "generated": "2026-09-26",
+  "records": [
+    {
+      "id": "wichita-falls-area-food-bank",
+      "name": "Wichita Falls Area Food Bank",
+      "organization": "Wichita Falls Area Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank supplies more than 90 partner food pantries and runs mobile pantries, senior food boxes, and Kids Cafe meals.",
+      "eligibility_summary_en": "For people in the food bank's 12-county area who need food, including Wichita County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the food bank or download the pantry schedule on its Find Food page to find a pantry or mobile pantry near you.",
+      "apply_url": "https://www.wfafb.org/find-food",
+      "phone": "(940) 766-2322",
+      "address": "1230 Midwestern Parkway",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.wfafb.org/find-food",
+      "confidence": "high",
+      "notes": "Serves Archer, Baylor, Clay, Foard, Haskell, Jack, Knox, Montague, Throckmorton, Wichita, Wilbarger and Young counties. Programs include Mobile Pantry (with United Regional), Senior boxes (CSFP), Kids Cafe, and a Farmers Market program for WIC participants and qualifying seniors. The main office is a distribution hub; people usually get food at partner pantries."
+    },
+    {
+      "id": "north-texas-food-bank-grayson-hunt",
+      "name": "North Texas Food Bank - Pantry Network",
+      "organization": "North Texas Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank works with more than 500 food pantries and partners and runs mobile food distributions.",
+      "eligibility_summary_en": "For people who need food in the food bank's 12-county area, which includes Grayson and Hunt counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find a Food Pantry locator or mobile pantry schedule on the website, or call the food bank.",
+      "apply_url": "https://www.ntfb.org/get-help/",
+      "phone": "(214) 330-1396",
+      "address": "3677 Mapleshade Lane",
+      "city": "Plano",
+      "zip": "75075",
+      "hours": "Monday-Friday 8:30 AM-4:30 PM; Saturday 8:30 AM-3:30 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson",
+        "Hunt"
+      ],
+      "source_url": "https://ntfb.org/about/",
+      "confidence": "high",
+      "notes": "Service area: Dallas, Collin, Fannin, Rockwall, Hunt, Grayson, Kaufman, Ellis, Navarro, Lamar, Delta and Hopkins counties. The Plano address is the headquarters, not a local pantry; refer clients to a nearby partner pantry."
+    },
+    {
+      "id": "north-texas-food-bank-snap-help",
+      "name": "North Texas Food Bank SNAP and Benefits Application Help",
+      "organization": "North Texas Food Bank",
+      "categories": [
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "Food bank staff help people apply for SNAP food benefits and other state and federal benefits.",
+      "eligibility_summary_en": "For residents of the food bank's service area, including Grayson and Hunt counties, who want help applying for benefits.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or email the SNAP team, or fill out the online referral form, and staff will contact you.",
+      "apply_url": "https://www.ntfb.org/get-help/",
+      "phone": "(214) 269-0906",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson",
+        "Hunt"
+      ],
+      "source_url": "https://www.ntfb.org/get-help/",
+      "confidence": "high",
+      "notes": "Email: snap@ntfb.org"
+    },
+    {
+      "id": "tarrant-area-food-bank-west-weatherford",
+      "name": "Tarrant Area Food Bank - TAFB West",
+      "organization": "Tarrant Area Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "The food bank has a west branch in Weatherford and a Find Food Map to locate partner food pantries.",
+      "eligibility_summary_en": "For people in the Fort Worth area and surrounding counties who need food.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use the Find Food Map on the website to find a pantry near you, or call the main number.",
+      "apply_url": "https://tafb.org/find-food/",
+      "phone": "(817) 857-7100",
+      "address": "112 Winners Circle",
+      "city": "Weatherford",
+      "zip": "76087",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Parker"
+      ],
+      "source_url": "https://tafb.org/find-food/",
+      "confidence": "medium",
+      "notes": "The TAFB West branch address is confirmed in Weatherford (Parker County), but the pages read did not list Parker County by name in the service area. The phone is the main Fort Worth line. The branch is a distribution site; clients should use the Find Food Map for pantries."
+    },
+    {
+      "id": "manna-storehouse-weatherford",
+      "name": "Manna Storehouse Food Pantry and Emergency Assistance",
+      "organization": "Manna Storehouse",
+      "categories": [
+        "food",
+        "utilities"
+      ],
+      "description_en": "A volunteer-run food pantry that also gives emergency help with utility bills and prescriptions and runs a low-cost thrift store.",
+      "eligibility_summary_en": "For people in need who live in Parker County.",
+      "eligibility_rules": {
+        "residency_required": "Parker County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Visit during client hours or call to ask for help.",
+      "apply_url": null,
+      "phone": "(817) 599-6569",
+      "address": "129 E Spring St",
+      "city": "Weatherford",
+      "zip": "76086",
+      "hours": "Monday-Friday 10:00 AM-2:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Parker"
+      ],
+      "source_url": "https://www.mannastorehouse.org/",
+      "confidence": "high",
+      "notes": "Faith-based, all-volunteer nonprofit operating since 1986. The site does not list documents or formal eligibility rules; call ahead."
+    },
+    {
+      "id": "tcog-utility-assistance-ceap",
+      "name": "Utility Assistance Program (CEAP)",
+      "organization": "Texoma Council of Governments",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps low-income households pay part of their electric, gas, or propane bills and teaches ways to save energy.",
+      "eligibility_summary_en": "For low-income households in Collin, Cooke, Denton, Fannin, Grayson, Hunt, or Rockwall County with income at or below 150% of the poverty level (for example, up to $49,500 a year for a family of 4 as of January 26, 2026).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150
+      },
+      "documents_needed": [
+        "Photo ID for all household members",
+        "Birth certificates or citizenship documents (passport, naturalization certificate, or tribal ID)",
+        "Proof of income for all adults for the last 30 days (pay stubs, Social Security award letters, etc.)",
+        "Current utility bill (electric, gas, or propane)"
+      ],
+      "how_to_apply": "Get the application packet from the TCOG Energy Services page and mail it to TCOG Energy Services, 1117 Gallagher Drive, Suite 200, Sherman, TX 75090, or drop it off at 900 East Park Blvd. Suite 155, Plano, TX 75074. Applications are not accepted by email, fax, or online.",
+      "apply_url": "https://tcog.com/energy-services/#apply",
+      "phone": "(903) 893-2161",
+      "address": "1117 Gallagher Drive, Suite 200",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson",
+        "Hunt"
+      ],
+      "source_url": "https://tcog.com/energy-services/",
+      "confidence": "high",
+      "notes": "Phone extension 3541; email energyapp@tcog.com. Processing takes about 8 weeks, so apply early before a disconnection. This is the CEAP provider for Grayson and Hunt counties."
+    },
+    {
+      "id": "tcog-weatherization",
+      "name": "Weatherization Assistance Program",
+      "organization": "Texoma Council of Governments",
+      "categories": [
+        "utilities",
+        "housing"
+      ],
+      "description_en": "Makes free energy-saving repairs and improvements to homes so utility bills go down.",
+      "eligibility_summary_en": "For low-income homeowners and renters in the TCOG service area; call to confirm eligibility.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call TCOG Energy Services to ask about applying.",
+      "apply_url": "https://tcog.com/energy-services/",
+      "phone": "(903) 893-2161",
+      "address": "1117 Gallagher Drive",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://tcog.com/",
+      "confidence": "high",
+      "notes": "TCOG's main region is Cooke, Fannin, and Grayson counties; the weatherization service area was not separately confirmed. Toll-free (800) 677-8264."
+    },
+    {
+      "id": "tcog-section-8-housing-choice-voucher",
+      "name": "Section 8 Housing Choice Voucher Program",
+      "organization": "Texoma Council of Governments",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps very low-income families pay rent so they pay no more than 40% of their income for rent and utilities.",
+      "eligibility_summary_en": "For very low-income families in Grayson and Fannin counties.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Social Security cards",
+        "Birth certificates",
+        "Proof of income for the last 90 days",
+        "Proof of special program eligibility, if it applies"
+      ],
+      "how_to_apply": "Call TCOG or pick up an application in person at the TCOG office between 8-11 AM or 1-4 PM.",
+      "apply_url": "https://tcog.com/client-services/section-8/",
+      "phone": "(903) 893-2161",
+      "address": "1117 Gallagher Drive, Suite 200",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": "Applications accepted 8:00-11:00 AM and 1:00-4:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to apply; tenant pays part of rent",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://tcog.com/client-services/section-8/",
+      "confidence": "high",
+      "notes": "Phone extension 3536; toll-free (800) 677-8264. Tenant-based voucher waiting list is CLOSED; project-based voucher lists are open in several cities (e.g., Howe, Van Alstyne)."
+    },
+    {
+      "id": "wichita-falls-housing-choice-voucher",
+      "name": "Housing Choice Voucher Program (Section 8)",
+      "organization": "City of Wichita Falls Development Services - Housing Division",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Gives rental assistance to eligible residents, including project-based Section 8 rental help.",
+      "eligibility_summary_en": "For eligible low-income residents of Wichita Falls; the program keeps a waiting list.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Housing Division to ask about the waiting list and how to apply.",
+      "apply_url": null,
+      "phone": "(940) 761-7454",
+      "address": "1300 7th Street",
+      "city": "Wichita Falls",
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to apply; tenant pays part of rent",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.wichitafallstx.gov/1316/Community-Development",
+      "confidence": "high",
+      "notes": "The Development Services department also runs a Minor/Emergency Home Repair Program and HOME program; Neighborhood Resources line is (940) 761-7448. City lists the address as 1300 7th Street, Wichita Falls, TX 76307-7531."
+    },
+    {
+      "id": "nortex-housing-homeless-services",
+      "name": "Homeless Prevention, Rapid Re-Housing and Supportive Housing",
+      "organization": "Nortex Regional Planning Commission",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Offers homelessness prevention and rapid re-housing help, plus permanent supportive housing with case management for chronically homeless people with disabilities.",
+      "eligibility_summary_en": "For people in the Nortex region who are homeless or at risk of losing housing; supportive housing is for chronically homeless individuals and families with a disability.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Nortex or download the intake application from the Housing and HIV Services page.",
+      "apply_url": "https://nortexrpc.org/housing/",
+      "phone": "(940) 322-5281",
+      "address": "4309 Old Jacksboro Hwy, Suite 200",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://nortexrpc.org/housing/",
+      "confidence": "high",
+      "notes": "Mailing: PO Box 5144, Wichita Falls, TX 76307. Funded through ESG (Emergency Solutions Grants). The full list of Nortex counties was not confirmed on the page read; Wichita County is the core."
+    },
+    {
+      "id": "nortex-hiv-services",
+      "name": "Ryan White and HOPWA HIV Services",
+      "organization": "Nortex Regional Planning Commission",
+      "categories": [
+        "healthcare",
+        "housing"
+      ],
+      "description_en": "Helps people living with HIV get outpatient care, medicine, dental care, transportation, counseling, insurance help, and housing help.",
+      "eligibility_summary_en": "For individuals and families affected by HIV in the Nortex region.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Nortex or download the intake application and client questionnaire from the Housing and HIV Services page.",
+      "apply_url": "https://nortexrpc.org/housing/",
+      "phone": "(940) 322-5281",
+      "address": "4309 Old Jacksboro Hwy, Suite 200",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://nortexrpc.org/housing/",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "faith-mission-mens-shelter-wichita-falls",
+      "name": "Faith Mission Men's Emergency Shelter",
+      "organization": "Wichita Falls Faith Mission",
+      "categories": [
+        "housing",
+        "food",
+        "employment"
+      ],
+      "description_en": "Emergency shelter open 365 days a year with beds, showers, meals, and clothing, plus case management and job readiness help.",
+      "eligibility_summary_en": "For men who are homeless in Wichita Falls.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Go to the shelter or call to ask about intake.",
+      "apply_url": "https://www.faithmissionwf.org/",
+      "phone": "(940) 723-5663",
+      "address": "1300 Travis Street",
+      "city": "Wichita Falls",
+      "zip": "76301",
+      "hours": "Open 365 days a year",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.faithmissionwf.org/",
+      "confidence": "high",
+      "notes": "Christ-centered program. Also offers a 13-month residential addiction recovery program (New Beginnings) and transitional sober-living homes. Intake hours were not listed."
+    },
+    {
+      "id": "faith-refuge-women-children-wichita-falls",
+      "name": "Faith Refuge Women and Children's Shelter",
+      "organization": "Wichita Falls Faith Mission",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Emergency shelter for women and children with beds, showers, meals, clothing, and case management.",
+      "eligibility_summary_en": "For women and children who are homeless in Wichita Falls.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the shelter to ask about space and intake.",
+      "apply_url": "https://www.faithmissionwf.org/",
+      "phone": "(940) 322-4673",
+      "address": "710 E. Hatton Road",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.faithmissionwf.org/",
+      "confidence": "high",
+      "notes": "Intake hours were not listed on the page."
+    },
+    {
+      "id": "salvation-army-wichita-falls",
+      "name": "The Salvation Army Wichita Falls",
+      "organization": "The Salvation Army",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Provides shelter services and other help for people in need, plus a thrift store.",
+      "eligibility_summary_en": "For people in need in Wichita Falls.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the office to ask what help is available now.",
+      "apply_url": null,
+      "phone": "(940) 322-9822",
+      "address": "403 7th Street",
+      "city": "Wichita Falls",
+      "zip": "76301",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://southernusa.salvationarmy.org/wichita-falls/",
+      "confidence": "high",
+      "notes": "Corps (church) location: 2900 Seymour Hwy. The page did not list food or rent/utility programs or hours; call first."
+    },
+    {
+      "id": "salvation-army-sherman",
+      "name": "The Salvation Army Sherman",
+      "organization": "The Salvation Army",
+      "categories": [
+        "housing",
+        "food",
+        "cash_assistance"
+      ],
+      "description_en": "Offers emergency financial help, shelter services, and a food pantry.",
+      "eligibility_summary_en": "For people in need in the Sherman area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Sherman Corps to ask for help.",
+      "apply_url": null,
+      "phone": "(903) 868-9602",
+      "address": "5700 Texoma Parkway",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://southernusa.salvationarmy.org/sherman/",
+      "confidence": "high",
+      "notes": "Hours for assistance were not listed. Family Thrift Store: 426 W. Houston St., Mon-Sat 10 AM-4 PM."
+    },
+    {
+      "id": "grayson-crisis-center",
+      "name": "Grayson Crisis Center",
+      "organization": "Grayson Crisis Center",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Helps survivors of domestic violence and sexual assault with a 24/7 hotline, emergency shelter, housing help, crisis counseling, and advocacy.",
+      "eligibility_summary_en": "For survivors of domestic violence or sexual assault in Grayson County.",
+      "eligibility_rules": {
+        "residency_required": "Grayson County"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 hotline for immediate help, or call the main office.",
+      "apply_url": null,
+      "phone": "(903) 893-5615",
+      "address": null,
+      "city": "Sherman",
+      "zip": null,
+      "hours": "Hotline 24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.graysoncrisiscenter.org/",
+      "confidence": "high",
+      "notes": "24/7 hotline (903) 893-5615 (listed for sexual assault survivors); main office (903) 893-3909. Office address 4200 N Travis St., Sherman, TX 75092 is published on the site, but shelter locations are confidential - do not share shelter addresses."
+    },
+    {
+      "id": "wichita-falls-wic",
+      "name": "WIC - Wichita Falls-Wichita County Public Health District",
+      "organization": "City of Wichita Falls / Wichita Falls-Wichita County Public Health District",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition advice, and breastfeeding support to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "For pregnant women, new mothers, infants, and children under 5 who meet WIC income rules.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or text the WIC office to make an appointment.",
+      "apply_url": "https://www.wichitafallstx.gov/359/Women-Infants-Children-WIC",
+      "phone": "(940) 761-7815",
+      "address": "1700 Third St",
+      "city": "Wichita Falls",
+      "zip": "76301",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.wichitafallstx.gov/359/Women-Infants-Children-WIC",
+      "confidence": "high",
+      "notes": "Text line: (940) 247-7688. Fax (940) 761-8803."
+    },
+    {
+      "id": "wichita-falls-wichita-county-public-health-district",
+      "name": "Wichita Falls-Wichita County Public Health District",
+      "organization": "City of Wichita Falls",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The local public health district offers personal health services and WIC.",
+      "eligibility_summary_en": "For residents of Wichita Falls and Wichita County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Health District to ask about services and appointments.",
+      "apply_url": null,
+      "phone": "(940) 761-7800",
+      "address": null,
+      "city": "Wichita Falls",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.wichitafallstx.gov/Directory.aspx",
+      "confidence": "high",
+      "notes": "Personal Health Services line: (940) 761-7892. Street address and hours were not confirmed on the directory page."
+    },
+    {
+      "id": "grayson-county-wic",
+      "name": "Grayson County WIC",
+      "organization": "Grayson County Health Department",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "WIC gives healthy food, nutrition help, and breastfeeding support to pregnant women, new moms, babies, and young children.",
+      "eligibility_summary_en": "For pregnant women, new mothers, infants, and children under 5 in Grayson County who meet WIC rules.",
+      "eligibility_rules": {
+        "child_under_5": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Sherman or Denison WIC clinic to make an appointment.",
+      "apply_url": "https://www.co.grayson.tx.us/page/wic.home",
+      "phone": "(903) 893-0131",
+      "address": "515 N Walnut St.",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": "Monday-Thursday 8:00 AM-7:00 PM (closed 1:00-2:00 PM for lunch)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.co.grayson.tx.us/page/wic.home",
+      "confidence": "high",
+      "notes": "Sherman phone ext. 1238. Denison clinic: 205 N Houston St., Denison, (903) 465-2878 ext. 1338, same hours."
+    },
+    {
+      "id": "grayson-county-health-department",
+      "name": "Grayson County Health Department Clinic",
+      "organization": "Grayson County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The county health department offers clinic services, immunization records, and WIC.",
+      "eligibility_summary_en": "For Grayson County residents.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the Sherman office to ask about clinic services and costs.",
+      "apply_url": "https://www.co.grayson.tx.us/page/hlth.home",
+      "phone": "(903) 893-0131",
+      "address": "515 North Walnut St.",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM (closed 12:00-1:00 PM)",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Fees vary; prices subject to change",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.co.grayson.tx.us/page/hlth.home",
+      "confidence": "high",
+      "notes": "Denison office: 205 North Houston, (903) 465-2878."
+    },
+    {
+      "id": "hunt-county-health-clinic",
+      "name": "Hunt County Health Clinic (Immunizations and Adult Safety Net)",
+      "organization": "Hunt County",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "The county clinic gives low- or no-cost child vaccines, adult vaccines for uninsured adults through the Adult Safety Net program, and TB testing.",
+      "eligibility_summary_en": "Child vaccines are for eligible children; Adult Safety Net vaccines are for uninsured adults age 19 and older.",
+      "eligibility_rules": {
+        "uninsured": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the clinic to ask about services and appointments.",
+      "apply_url": null,
+      "phone": "(903) 455-4433",
+      "address": "4907 Stonewall, Unit A",
+      "city": "Greenville",
+      "zip": "75401",
+      "hours": "Monday-Thursday 8:00 AM-5:00 PM; Friday 8:30 AM-4:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Low or no cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hunt"
+      ],
+      "source_url": "https://www.huntcounty.net/page/medicalservices",
+      "confidence": "high",
+      "notes": "Child vaccines through the Texas Vaccines for Children Program. The page did not describe a county indigent health care program."
+    },
+    {
+      "id": "helen-farabee-centers",
+      "name": "Helen Farabee Centers",
+      "organization": "Helen Farabee Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "The local mental health authority offers treatment and support for serious mental illness, substance use, and intellectual and developmental disabilities, plus a 24/7 crisis line.",
+      "eligibility_summary_en": "For people in its 19-county area, including Wichita County, who need mental health, substance use, or IDD services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the main office to start services, or call the 24/7 crisis line in an emergency.",
+      "apply_url": null,
+      "phone": "(940) 397-3100",
+      "address": "1000 Brook Ave",
+      "city": "Wichita Falls",
+      "zip": "76301",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.helenfarabee.org/locations",
+      "confidence": "high",
+      "notes": "24/7 crisis line: 1-800-621-8504. Adult behavioral health center: 500 Broad Street, Wichita Falls. Early Childhood Intervention: 1709 10th St, Wichita Falls."
+    },
+    {
+      "id": "texoma-community-center",
+      "name": "Texoma Community Center",
+      "organization": "Texoma Community Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Provides mental health and substance use care for children, teens, and adults, plus intellectual and developmental disability services.",
+      "eligibility_summary_en": "For people in Cooke, Fannin, and Grayson counties. No one is turned away for inability to pay; fees are based on income.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Sherman office during business hours, or call the crisis line anytime.",
+      "apply_url": null,
+      "phone": "(903) 957-4700",
+      "address": "315 W. McLain Drive",
+      "city": "Sherman",
+      "zip": "75092",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM (flexible hours available)",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Income-based discounts",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.texomacc.org/",
+      "confidence": "high",
+      "notes": "Crisis line: (877) 277-2226 (24 hours). Toll free: (877) 530-2228."
+    },
+    {
+      "id": "pecan-valley-centers-weatherford",
+      "name": "Pecan Valley Centers - Weatherford",
+      "organization": "Pecan Valley Centers",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Offers mental health, substance use, and developmental disability services, including assessment, counseling, and youth services.",
+      "eligibility_summary_en": "For people in Johnson, Somervell, Hood, Erath, Parker, and Palo Pinto counties. Fees use a sliding scale and no one is denied for inability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call or visit Weatherford Intake for an assessment and referral.",
+      "apply_url": null,
+      "phone": "(817) 594-3180",
+      "address": "1510 Santa Fe Drive Ste. 600",
+      "city": "Weatherford",
+      "zip": "76086",
+      "hours": "8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Parker"
+      ],
+      "source_url": "https://www.pecanvalley.org/locations",
+      "confidence": "high",
+      "notes": "24/7 crisis hotline: 1-800-772-5987; IDD intake: 1-866-948-7198. Weatherford Clinic (counseling): 1715 Santa Fe Dr, (817) 599-7634, late hours Mondays until 7 PM. Youth Services: 114 North Waco St, (817) 594-3052."
+    },
+    {
+      "id": "lakes-regional-community-center-hunt",
+      "name": "Lakes Regional Community Center - Hunt County",
+      "organization": "Lakes Regional Community Center",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Provides mental health, substance use, intellectual and developmental disability, and early childhood intervention services.",
+      "eligibility_summary_en": "For people in its 10-county area, which includes Hunt County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the non-emergency line to find the nearest location and start services; for a crisis in Hunt County call the NTBHA crisis hotline.",
+      "apply_url": null,
+      "phone": "(877) 505-2537",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Varies",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hunt"
+      ],
+      "source_url": "https://www.lakesregional.org/location-map/",
+      "confidence": "high",
+      "notes": "Hunt County 24/7 crisis line: NTBHA Crisis Hotline (866) 260-8000. A specific Greenville office address was not confirmed."
+    },
+    {
+      "id": "legal-aid-nwtx-wichita-falls",
+      "name": "Legal Aid of NorthWest Texas - Wichita Falls Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help with eviction and housing, family law and domestic violence, debt, public benefits, wills, and more.",
+      "eligibility_summary_en": "For low-income people in the organization's 114-county service area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the Legal Aid Line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(940) 723-5542",
+      "address": "710 Lamar St., Ste. 300",
+      "city": "Wichita Falls",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll-free for this office: (800) 926-5542. Main intake: 1-888-529-5277. Formerly lanwt.org, now legalaidtx.org. ZIP not stated on the page."
+    },
+    {
+      "id": "legal-aid-nwtx-weatherford",
+      "name": "Legal Aid of NorthWest Texas - Weatherford Office",
+      "organization": "Legal Aid of NorthWest Texas",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help with eviction and housing, family law and domestic violence, debt, public benefits, wills, and more.",
+      "eligibility_summary_en": "For low-income people in the organization's service area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online or call the Legal Aid Line at 1-888-529-5277.",
+      "apply_url": "https://lanwtoi.legalserver.org/modules/matter/extern_intake.php?pid=132&h=f0baaf&",
+      "phone": "(817) 594-6332",
+      "address": "100 Austin Ave., Ste. 201",
+      "city": "Weatherford",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Parker"
+      ],
+      "source_url": "https://legalaidtx.org/locations/",
+      "confidence": "high",
+      "notes": "Toll-free for this office: (800) 967-6708. Main intake: 1-888-529-5277. The locations page did not list a Sherman or Greenville office; Grayson/Hunt residents can use the main intake line (county coverage not confirmed)."
+    },
+    {
+      "id": "workforce-solutions-north-texas-wichita-falls",
+      "name": "Workforce Solutions North Texas - Wichita Falls",
+      "organization": "Workforce Solutions North Texas",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job search help, skills training, vocational rehabilitation, and veteran services.",
+      "eligibility_summary_en": "For job seekers in 11 North Texas counties, including Wichita County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Wichita Falls office or call for help.",
+      "apply_url": "https://ntxworksolutions.org/",
+      "phone": "(940) 322-1801",
+      "address": "4309 Old Jacksboro Highway (Galaxy Center, Entrance 5)",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://ntxworksolutions.org/",
+      "confidence": "high",
+      "notes": "Toll-free: (800) 333-8209."
+    },
+    {
+      "id": "workforce-solutions-north-texas-child-care",
+      "name": "Child Care Services (CCS) Scholarships",
+      "organization": "Workforce Solutions North Texas",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, go to school, or train for a job.",
+      "eligibility_summary_en": "For Texas families with a child under 13 (or under 19 with a disability) who meet work, school, and income rules.",
+      "eligibility_rules": {
+        "requires_children": true,
+        "max_age": 12
+      },
+      "documents_needed": [],
+      "how_to_apply": "Apply online through the Texas child care portal, then send paperwork by upload, email, fax, or the drop box at the Galaxy Center.",
+      "apply_url": "https://childcare.twc.texas.gov/find/register?mode=signup",
+      "phone": "(940) 723-8774",
+      "address": "4309 Old Jacksboro Hwy",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Parent pays a share based on income",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://ntxworksolutions.org/child-care-parent/",
+      "confidence": "high",
+      "notes": "There is a waitlist; waits generally range from 6 months to a year. Fax: (940) 723-1818. Child must be a U.S. citizen or have legal immigration status."
+    },
+    {
+      "id": "workforce-solutions-texoma-denison",
+      "name": "Workforce Solutions Texoma - Grayson County (Denison)",
+      "organization": "Workforce Solutions Texoma",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career training, and child care assistance.",
+      "eligibility_summary_en": "For job seekers and families in Grayson, Cooke, and Fannin counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the Denison office or call for help.",
+      "apply_url": "https://www.workforcesolutionstexoma.com/",
+      "phone": "(903) 463-9997",
+      "address": "2415 S. Austin Ave Suite 105",
+      "city": "Denison",
+      "zip": null,
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.workforcesolutionstexoma.com/child-care",
+      "confidence": "high",
+      "notes": "Phone listed as the Grayson County office number on the child care page. Child care income limits not stated on the page."
+    },
+    {
+      "id": "weatherford-workforce-center",
+      "name": "Weatherford Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help for job seekers, training resources, and child care help for families.",
+      "eligibility_summary_en": "For job seekers and families in Parker and Palo Pinto counties.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call; services are also offered by phone, email, and online.",
+      "apply_url": "https://www.dfwjobs.com/Find-a-Workforce-Center/Weatherford-Workforce-Center",
+      "phone": "(817) 594-0049",
+      "address": "225 College Park Drive",
+      "city": "Weatherford",
+      "zip": "76086",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Parker"
+      ],
+      "source_url": "https://www.dfwjobs.com/Find-a-Workforce-Center/Weatherford-Workforce-Center",
+      "confidence": "high",
+      "notes": "Email: weatherfordworkforce@dfwjobs.com."
+    },
+    {
+      "id": "greenville-workforce-center",
+      "name": "Greenville Workforce Center",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free help for job seekers, training resources, and child care help for families.",
+      "eligibility_summary_en": "For job seekers and families in Hunt County.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit the center or call; services are also offered by phone, email, and online.",
+      "apply_url": "https://www.dfwjobs.com/Find-a-Workforce-Center/Greenville-Workforce-Center",
+      "phone": "(903) 454-9350",
+      "address": "4609 King St.",
+      "city": "Greenville",
+      "zip": "75401",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hunt"
+      ],
+      "source_url": "https://www.dfwjobs.com/Find-a-Workforce-Center/Greenville-Workforce-Center",
+      "confidence": "high",
+      "notes": "Email: greenvilleworkforce@dfwjobs.com."
+    },
+    {
+      "id": "taps-public-transit",
+      "name": "TAPS Public Transit Demand-Response Rides",
+      "organization": "TAPS Public Transit",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Curb-to-curb rides you book ahead, to work, medical visits, school, and errands. Seniors 60+, people with disabilities, and students pay reduced fares, and veterans ride free.",
+      "eligibility_summary_en": "Open to the general public in the TAPS service area. Reduced fares for seniors 60+, people with disabilities, and students; free rides for verified veterans.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call at least 48 hours before your trip to schedule a ride.",
+      "apply_url": "https://www.tapsbus.com/",
+      "phone": "(844) 603-6048",
+      "address": null,
+      "city": "Sherman",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "In-town $2 one-way ($1 seniors/disabled/students); out-of-town $3 ($1.50); out-of-county $4 ($2)",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.tapsbus.com/fares",
+      "confidence": "medium",
+      "notes": "TAPS describes itself as a regional provider in the Texoma area based in Sherman; its exact county list was not stated on the pages read."
+    },
+    {
+      "id": "wichita-falls-public-transportation",
+      "name": "Wichita Falls Public Transportation",
+      "organization": "City of Wichita Falls",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "The city runs public transportation in Wichita Falls.",
+      "eligibility_summary_en": "For riders in Wichita Falls.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the city's public transportation office for routes, fares, and reduced-fare or paratransit options.",
+      "apply_url": null,
+      "phone": "(940) 761-7433",
+      "address": null,
+      "city": "Wichita Falls",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.wichitafallstx.gov/Directory.aspx",
+      "confidence": "medium",
+      "notes": "Only the phone number was confirmed (city staff directory). Fares, reduced fares, and paratransit details were not confirmed. Travel center: (940) 761-7925."
+    },
+    {
+      "id": "tcog-area-agency-on-aging",
+      "name": "Area Agency on Aging of Texoma",
+      "organization": "Texoma Council of Governments",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Helps older adults and people with disabilities with benefits counseling (including Medicare), care coordination, caregiver support, nutrition services, and ombudsman help.",
+      "eligibility_summary_en": "For people age 60 and older and people with disabilities in Cooke, Fannin, and Grayson counties.",
+      "eligibility_rules": {
+        "min_age": 60,
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the Information, Referral and Assistance line or email TCOG.",
+      "apply_url": "https://tcog.com/aging-services/",
+      "phone": "(903) 813-3505",
+      "address": "1117 Gallagher Drive",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://tcog.com/aging-services/",
+      "confidence": "high",
+      "notes": "Email info@texoma.cog.tx.us. Also home to the ADRC (Aging and Disability Resource Center) of Texoma. Medicare Open Enrollment appointments Oct 15-Dec 7."
+    },
+    {
+      "id": "grayson-county-veterans-services",
+      "name": "Grayson County Veterans Services Office",
+      "organization": "Grayson County",
+      "categories": [
+        "cash_assistance",
+        "healthcare"
+      ],
+      "description_en": "Helps veterans and their families learn about and apply for VA benefits and other resources.",
+      "eligibility_summary_en": "For veterans and their dependents in Grayson County.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Veterans Services Office.",
+      "apply_url": "https://www.co.grayson.tx.us/page/va.home",
+      "phone": "(903) 813-4254",
+      "address": "100 W. Houston",
+      "city": "Sherman",
+      "zip": "75090",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Grayson"
+      ],
+      "source_url": "https://www.co.grayson.tx.us/page/va.home",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "hunt-county-veterans-services",
+      "name": "Hunt County Veterans Services Office",
+      "organization": "Hunt County",
+      "categories": [
+        "cash_assistance",
+        "healthcare"
+      ],
+      "description_en": "Helps veterans and their dependents apply for benefits from the U.S. Department of Veterans Affairs and the Texas Veterans Commission.",
+      "eligibility_summary_en": "For veterans and their dependents in Hunt County.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call or visit the Veterans Services Office.",
+      "apply_url": "https://www.huntcounty.net/page/veteransservices",
+      "phone": "(903) 454-2552",
+      "address": "2824 Terrell Street Suite 304",
+      "city": "Greenville",
+      "zip": "75402",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Hunt"
+      ],
+      "source_url": "https://www.huntcounty.net/page/veteransservices",
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "id": "north-texas-area-united-way",
+      "name": "North Texas Area United Way (2-1-1, Free Tax Prep, Family Programs)",
+      "organization": "North Texas Area United Way",
+      "categories": [
+        "cash_assistance",
+        "school_childcare"
+      ],
+      "description_en": "Connects people to local help through 2-1-1, offers free tax preparation (VITA), and runs family programs like Help Me Grow and home visiting.",
+      "eligibility_summary_en": "For families and residents in the Wichita Falls area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the office or dial 2-1-1 for referrals.",
+      "apply_url": null,
+      "phone": "(940) 322-8638",
+      "address": "3401 B Armory Road",
+      "city": "Wichita Falls",
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Wichita"
+      ],
+      "source_url": "https://www.ntauw.org/",
+      "confidence": "high",
+      "notes": "Programs include Help Me Grow! Wichita County, Texas Home Visiting, Texas School Ready!, VITA free taxes (seasonal), and the Wichita County Parent Talk Line."
+    }
+  ]
+}

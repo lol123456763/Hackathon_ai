@@ -1,0 +1,2290 @@
+{
+  "scope": "employment",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "texas-workforce-commission",
+      "name": "Texas Workforce Commission",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "The state agency for jobs, job training, unemployment benefits, and job help for people with disabilities. It works with 28 local Workforce Solutions boards and more than 170 offices.",
+      "description_es": "La agencia del estado que ayuda con empleos, capacitación para el trabajo, beneficios de desempleo y ayuda de empleo para personas con discapacidades. Trabaja con 28 juntas locales de Workforce Solutions y más de 170 oficinas.",
+      "eligibility_summary_en": "Any Texas worker, job seeker, or employer can use TWC services.",
+      "eligibility_summary_es": "Cualquier trabajador, persona que busca trabajo o empleador en Texas puede usar los servicios de TWC.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the TWC main line or go to twc.texas.gov. Find a local Workforce Solutions office at twc.texas.gov/find-locations.",
+      "how_to_apply_es": "Llame a la línea principal de TWC o visite twc.texas.gov. Busque una oficina local de Workforce Solutions en twc.texas.gov/find-locations.",
+      "apply_url": "https://www.twc.texas.gov/",
+      "phone": "(800) 628-5115",
+      "address": "101 E 15th Street",
+      "city": "Austin",
+      "zip": "78778",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/wioa",
+      "confidence": "high",
+      "notes": "The Austin address is the headquarters. Job seekers get in-person help at local Workforce Solutions offices.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workintexas",
+      "name": "WorkInTexas.com",
+      "organization": "Texas Workforce Commission / Texas Workforce Solutions",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "A free state job website. You can search jobs, including state government jobs, and build a resume. There is also a phone app.",
+      "description_es": "Un sitio web gratis del estado para buscar trabajo. Puede buscar empleos, incluso trabajos del gobierno estatal, y hacer su currículum. También hay una aplicación para el teléfono.",
+      "eligibility_summary_en": "Anyone looking for work in Texas. People getting unemployment benefits must register here.",
+      "eligibility_summary_es": "Para cualquier persona que busca trabajo en Texas. Si recibe beneficios de desempleo, tiene que registrarse aquí.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Email address",
+        "Work history for your resume"
+      ],
+      "how_to_apply": "Go to WorkInTexas.com and make a free account. Then search jobs and build or upload your resume.",
+      "how_to_apply_es": "Vaya a WorkInTexas.com y cree una cuenta gratis. Después busque empleos y haga o suba su currículum.",
+      "apply_url": "https://www.workintexas.com/",
+      "phone": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.workintexas.com/",
+      "confidence": "high",
+      "notes": "Local Workforce Solutions offices can help people who need help using the site. The unemployment benefits page confirms that claimants must register. The site offers English and Espanol, a State of Texas jobs search, a resume tool, and a mobile app.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-unemployment-benefits",
+      "name": "Unemployment Benefits",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment",
+        "cash_assistance"
+      ],
+      "description_en": "Short-term payments that replace part of your pay if you lost your job or your hours were cut through no fault of your own.",
+      "description_es": "Pagos por un tiempo corto que reemplazan parte de su sueldo si perdió su trabajo o le bajaron las horas sin que fuera su culpa.",
+      "eligibility_summary_en": "For workers who earned enough in the past, lost a job or hours through no fault of their own, can work, and are looking for work.",
+      "eligibility_summary_es": "Para trabajadores que ganaron lo suficiente en el pasado, que perdieron su trabajo o sus horas sin que fuera su culpa, que pueden trabajar y que están buscando trabajo.",
+      "eligibility_rules": {
+        "job_loss": true
+      },
+      "documents_needed": [
+        "Social Security number",
+        "Names, addresses, and work dates for your past employers",
+        "Reason you left each job"
+      ],
+      "how_to_apply": "Apply online through TWC Unemployment Benefit Services (UBS) or call the Unemployment Tele-Center. You must also register on WorkInTexas.com.",
+      "how_to_apply_es": "Solicite en línea en el sistema de Beneficios de Desempleo (UBS) de TWC o llame al Tele-Centro de Desempleo. También tiene que registrarse en WorkInTexas.com.",
+      "apply_url": "https://apps.twc.texas.gov/UBS/security/logon.do",
+      "phone": "(800) 939-6631",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/unemployment-benefits",
+      "confidence": "high",
+      "notes": "Apply soon after your job ends or your hours are cut. Claimants must keep looking for work. Tele-Center hours were not stated on the source page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-vocational-rehabilitation",
+      "name": "Vocational Rehabilitation (VR) Program",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Helps people with disabilities get ready for, find, or keep a job. Services include career counseling, training, help with school, and job placement.",
+      "description_es": "Ayuda a personas con discapacidades a prepararse para un trabajo, encontrarlo o mantenerlo. Ofrece consejería de carrera, capacitación, ayuda con los estudios y ayuda para conseguir empleo.",
+      "eligibility_summary_en": "For adults and students with disabilities who want to work. There are also services for people who are blind or losing their vision.",
+      "eligibility_summary_es": "Para adultos y estudiantes con discapacidades que quieren trabajar. También hay servicios para personas ciegas o que están perdiendo la vista.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Records about your disability (if you have them)"
+      ],
+      "how_to_apply": "Fill out the online Start My VR self-referral form, or use the TWC VR office lookup to find and call a nearby VR office.",
+      "how_to_apply_es": "Llene el formulario en línea \"Start My VR\" para pedir información, o use el buscador de oficinas de VR de TWC para encontrar y llamar a una oficina cerca de usted.",
+      "apply_url": "https://twcgov.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?v=1&sysparm_id=e05bd29c1bf5e41016a1caab234bcb94",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Not stated on source; ask VR staff",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/vocational-rehabilitation",
+      "confidence": "high",
+      "notes": "VR office lookup: https://webp.twc.state.tx.us/services/VRLookup/ . Also covers transition services for students with disabilities and the Criss Cole Rehabilitation Center for adults who lost their vision. VR Ombudsman: vrombudsman@twc.texas.gov. Client Assistance Program (Disability Rights Texas): (800) 252-9108. Older Individuals Who Are Blind (OIB) serves people 55+ with vision loss.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-snap-employment-and-training",
+      "name": "SNAP Employment and Training (SNAP E&T)",
+      "organization": "Texas Workforce Commission with Texas Health and Human Services Commission",
+      "categories": [
+        "employment",
+        "food"
+      ],
+      "description_en": "A work program for people who get SNAP food benefits. It helps you look for work or take part in training so you can keep your food benefits.",
+      "description_es": "Un programa de trabajo para personas que reciben beneficios de comida SNAP. Le ayuda a buscar trabajo o a tomar una capacitación para que pueda seguir recibiendo su ayuda de comida.",
+      "eligibility_summary_en": "For SNAP recipients ages 16 to 59 who can work. Adults ages 18 to 64 with no children under 14 at home can get SNAP for only 3 months in 3 years unless they work or join a work program at least 80 hours a month.",
+      "eligibility_summary_es": "Para personas con SNAP de 16 a 59 años que pueden trabajar. Los adultos de 18 a 64 años sin niños menores de 14 en casa solo pueden recibir SNAP por 3 meses cada 3 años, a menos que trabajen o participen en un programa de trabajo por lo menos 80 horas al mes.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 59
+      },
+      "documents_needed": [
+        "Any letters from TWC or HHSC about SNAP E&T"
+      ],
+      "how_to_apply": "If you get SNAP, answer any letters from the Texas Workforce Commission about SNAP E&T. Contact your local Workforce Solutions office to take part.",
+      "how_to_apply_es": "Si recibe SNAP, conteste las cartas que le mande la Comisión de la Fuerza Laboral de Texas (TWC) sobre SNAP E&T. Comuníquese con su oficina local de Workforce Solutions para participar.",
+      "apply_url": null,
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.hhs.texas.gov/services/food/snap-food-benefits/snap-work-rules",
+      "confidence": "high",
+      "notes": "People who do not have to follow basic work rules include those caring for a child under 6 or a dependent who needs help, working 30+ hours a week, getting unemployment, unable to work for health reasons, in school at least half-time, or in TANF or substance use treatment. TWC coordinates E&T through local Workforce Solutions offices. The HHSC source page does not list a phone number; the number shown is the TWC main line. HHSC points people to YourTexasBenefits.com and 2-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-choices-tanf-employment",
+      "name": "Choices (TANF Employment Program)",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment",
+        "cash_assistance"
+      ],
+      "description_en": "Job help for families who get or apply for TANF cash help. It offers job search help, training, and help paying for work clothes, child care, and transportation.",
+      "description_es": "Ayuda de empleo para familias que reciben o solicitan la ayuda en efectivo de TANF. Ofrece ayuda para buscar trabajo, capacitación y ayuda para pagar ropa de trabajo, cuidado de niños y transporte.",
+      "eligibility_summary_en": "For parents applying for or getting TANF cash benefits, and some parents who recently stopped getting TANF.",
+      "eligibility_summary_es": "Para padres que solicitan o reciben beneficios en efectivo de TANF, y algunos padres que dejaron de recibir TANF hace poco.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact your local Workforce Solutions office. You may be sent to Choices after you apply for TANF.",
+      "how_to_apply_es": "Comuníquese con su oficina local de Workforce Solutions. Es posible que lo envíen a Choices después de solicitar TANF.",
+      "apply_url": "https://www.twc.texas.gov/programs/choices",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/choices",
+      "confidence": "high",
+      "notes": "In two-parent families, at least one parent must meet work requirements.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-wioa-workforce-services",
+      "name": "WIOA Adult, Dislocated Worker, and Youth Services",
+      "organization": "Texas Workforce Commission and local Workforce Development Boards",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Federally funded job training and job search help. It can pay for training, help you find a job, and connect you to education.",
+      "description_es": "Capacitación para el trabajo y ayuda para buscar empleo, pagada con fondos federales. Puede pagar su capacitación, ayudarle a encontrar trabajo y conectarle con estudios.",
+      "eligibility_summary_en": "For adults, workers who lost their jobs, and young people. Each local board sets who gets training money first.",
+      "eligibility_summary_es": "Para adultos, trabajadores que perdieron su empleo y jóvenes. Cada junta local decide quién recibe primero el dinero para capacitación.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Proof you can work in the U.S.",
+        "Proof of income or layoff (for some services)"
+      ],
+      "how_to_apply": "Visit a local Workforce Solutions office. There are more than 170 offices across 28 local boards.",
+      "how_to_apply_es": "Visite una oficina local de Workforce Solutions. Hay más de 170 oficinas en 28 juntas locales.",
+      "apply_url": "https://www.twc.texas.gov/programs/wioa",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/wioa",
+      "confidence": "high",
+      "notes": "The source page does not list age or income rules; check with the local board. Approved schools are on TWC's Eligible Training Provider list.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-employment-service",
+      "name": "Employment Service (Wagner-Peyser)",
+      "organization": "Texas Workforce Commission and local Workforce Solutions offices",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free job matching and job search help at Workforce Solutions offices and on WorkInTexas.com, plus help getting back to work after a layoff.",
+      "description_es": "Ayuda gratis para encontrar trabajo en las oficinas de Workforce Solutions y en WorkInTexas.com, además de ayuda para volver a trabajar después de un despido.",
+      "eligibility_summary_en": "Open to all job seekers.",
+      "eligibility_summary_es": "Abierto para todas las personas que buscan trabajo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Sign up on WorkInTexas.com or visit a local Workforce Solutions office.",
+      "how_to_apply_es": "Regístrese en WorkInTexas.com o visite una oficina local de Workforce Solutions.",
+      "apply_url": "https://www.workintexas.com/",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/employment-service",
+      "confidence": "high",
+      "notes": "To report fraud, call (800) 252-3642.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-adult-education-and-literacy",
+      "name": "Adult Education and Literacy (AEL)",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Classes in reading, writing, math, and English. Helps adults earn a GED or high school equivalency and get ready for jobs or college.",
+      "description_es": "Clases de lectura, escritura, matemáticas e inglés. Ayuda a los adultos a sacar el GED o su equivalente de preparatoria y a prepararse para un trabajo o la universidad.",
+      "eligibility_summary_en": "For people 16 or older who are not in school (and not required to be), and who need basic skills, have no high school diploma or GED, or need to learn English.",
+      "eligibility_summary_es": "Para personas de 16 años o más que no están en la escuela (y no tienen que estarlo), y que necesitan habilidades básicas, no tienen diploma de preparatoria ni GED, o necesitan aprender inglés.",
+      "eligibility_rules": {
+        "min_age": 16
+      },
+      "documents_needed": [
+        "Photo ID"
+      ],
+      "how_to_apply": "Call the provider hotline at (800) 441-7323 or search the Literacy Providers Directory to find a class near you.",
+      "how_to_apply_es": "Llame a la línea de ayuda al (800) 441-7323 o busque en el Directorio de Proveedores de Alfabetización para encontrar una clase cerca de usted.",
+      "apply_url": "https://tcall.tamu.edu/search.aspx",
+      "phone": "(800) 441-7323",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Not stated on source; ask the local provider",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/adult-education-literacy",
+      "confidence": "high",
+      "notes": "Also offers Integrated Education and Training (IET), digital literacy, workplace literacy, family literacy, and help for internationally trained professionals. AEL program office: (737) 270-7346, AdultEducation@twc.texas.gov.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-skills-development-fund",
+      "name": "Skills Development Fund",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "State grants that pay for custom job training for workers at Texas businesses. Colleges and partners teach the training.",
+      "description_es": "Subvenciones del estado que pagan capacitación especial para trabajadores de empresas en Texas. Los colegios comunitarios y sus socios dan la capacitación.",
+      "eligibility_summary_en": "For businesses working with a community or technical college, TEEX, or a workforce board. Trainees must be full-time W-2 employees.",
+      "eligibility_summary_es": "Para empresas que trabajan con un colegio comunitario o técnico, TEEX o una junta de Workforce Solutions. Los participantes tienen que ser empleados de tiempo completo con formulario W-2.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Employers contact a TWC regional business liaison. TWC takes proposals all year.",
+      "how_to_apply_es": "Los empleadores se comunican con un enlace de negocios regional de TWC. TWC recibe propuestas todo el año. Las personas no pueden solicitar directamente.",
+      "apply_url": "https://www.twc.texas.gov/programs/skills-development-fund",
+      "phone": "(877) 463-1777",
+      "address": "101 E 15th Street",
+      "city": "Austin",
+      "zip": "78778",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "No cost to trainees (employer grant)",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/skills-development-fund",
+      "confidence": "high",
+      "notes": "Employer-driven; individuals cannot apply directly. Businesses can get up to $500,000; average cost per trainee is $2,400; grants usually last 12 months.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-skills-for-small-business",
+      "name": "Skills for Small Business",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Pays for training at community or technical colleges for new and current workers at small businesses.",
+      "description_es": "Paga capacitación en colegios comunitarios o técnicos para trabajadores nuevos y actuales de empresas pequeñas.",
+      "eligibility_summary_en": "For businesses with fewer than 100 employees. Training is for full-time employees.",
+      "eligibility_summary_es": "Para empresas con menos de 100 empleados. La capacitación es para empleados de tiempo completo.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Employers apply online through the Skills for Small Business application on the TWC page.",
+      "how_to_apply_es": "Los empleadores solicitan en línea con la solicitud de Skills for Small Business en la página de TWC. Las personas no pueden solicitar directamente.",
+      "apply_url": "https://www.twc.texas.gov/programs/skills-small-business",
+      "phone": "(877) 463-1777",
+      "address": "101 E 15th Street",
+      "city": "Austin",
+      "zip": "78778",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English"
+      ],
+      "cost": "No cost to trainees (employer grant)",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/skills-small-business",
+      "confidence": "high",
+      "notes": "Employer-driven. Up to $2,000 per new employee and $1,000 per current employee.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-self-sufficiency-fund",
+      "name": "Self-Sufficiency Fund",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Training grants that help people on public help or with low incomes earn job credentials through colleges and nonprofits.",
+      "description_es": "Subvenciones de capacitación que ayudan a personas que reciben ayuda pública o que ganan poco a obtener certificados de trabajo por medio de colegios y organizaciones sin fines de lucro.",
+      "eligibility_summary_en": "For adults on SNAP or TANF, people at risk of needing public help, workers earning under $37,000 a year with a dependent child, and low-income youth ages 18 to 24.",
+      "eligibility_summary_es": "Para adultos con SNAP o TANF, personas en riesgo de necesitar ayuda pública, trabajadores que ganan menos de $37,000 al año y tienen un hijo que depende de ellos, y jóvenes de 18 a 24 años de familias de bajos ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Trainees sign up through a community or technical college or nonprofit that has a Self-Sufficiency Fund grant. Organizations apply to TWC.",
+      "how_to_apply_es": "Los participantes se inscriben por medio de un colegio comunitario o técnico, o una organización sin fines de lucro, que tenga una subvención del Self-Sufficiency Fund. Las organizaciones son las que solicitan a TWC.",
+      "apply_url": "https://www.twc.texas.gov/programs/self-sufficiency-fund",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "No cost to trainees (grant-funded)",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/self-sufficiency-fund",
+      "confidence": "high",
+      "notes": "Grants go to colleges and 501(c)(3) nonprofits, not directly to individuals.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-registered-apprenticeship",
+      "name": "Registered Apprenticeship Programs",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Earn money while you learn a skilled trade. Apprenticeships mix paid on-the-job training with classes.",
+      "description_es": "Gane dinero mientras aprende un oficio. Los programas de aprendiz combinan capacitación pagada en el trabajo con clases.",
+      "eligibility_summary_en": "For job seekers who want to learn a trade while working. TWC says apprentices are usually at least 16 and have a high school diploma or GED. Each program sets its own rules.",
+      "eligibility_summary_es": "Para personas que quieren aprender un oficio mientras trabajan. TWC dice que los aprendices por lo general tienen 16 años o más y tienen diploma de preparatoria o GED. Cada programa pone sus propias reglas.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit TWC's find-apprenticeships page, use the Apprenticeship Finder at apprenticeship.gov, or ask a local Workforce Solutions office for help.",
+      "how_to_apply_es": "Visite la página de TWC para encontrar programas de aprendiz, use el buscador en apprenticeship.gov, o pida ayuda en una oficina local de Workforce Solutions.",
+      "apply_url": "https://www.twc.texas.gov/services/job-training/find-apprenticeships",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Not stated on source",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/apprenticeship",
+      "confidence": "high",
+      "notes": "Email: apprenticeshiptexas@twc.texas.gov.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-twc-veteran-services",
+      "name": "Veteran Employment Services",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Veterans get priority job help, training, and career support at Workforce Solutions offices. Programs include the Texas Veterans Leadership Program and College Credit for Heroes.",
+      "description_es": "Los veteranos reciben prioridad en ayuda de empleo, capacitación y apoyo de carrera en las oficinas de Workforce Solutions. Incluye el Texas Veterans Leadership Program y College Credit for Heroes.",
+      "eligibility_summary_en": "For veterans and military service members.",
+      "eligibility_summary_es": "Para veteranos y miembros del servicio militar.",
+      "eligibility_rules": {
+        "veteran_only": true
+      },
+      "documents_needed": [
+        "DD-214 or other proof of service"
+      ],
+      "how_to_apply": "Visit a local Workforce Solutions office and tell staff you are a veteran, or contact the Texas Veterans Leadership Program.",
+      "how_to_apply_es": "Visite una oficina local de Workforce Solutions y diga que es veterano, o comuníquese con el Texas Veterans Leadership Program.",
+      "apply_url": "https://www.twc.texas.gov/programs/veterans",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/veterans",
+      "confidence": "high",
+      "notes": "Texas Veterans Leadership Program: (512) 466-7867, tvlp@twc.texas.gov. A Homeless Veterans' Reintegration Program is also listed on the page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-foster-youth-transition-centers",
+      "name": "Foster Youth Transition Centers and Foster Youth Services",
+      "organization": "Texas Workforce Commission (TWC)",
+      "categories": [
+        "employment",
+        "housing"
+      ],
+      "description_en": "Help with jobs, school, and housing resources for young people in or leaving foster care, or youth who are homeless.",
+      "description_es": "Ayuda con empleo, estudios y recursos de vivienda para jóvenes que están o estuvieron en cuidado de crianza (foster care), o jóvenes sin hogar.",
+      "eligibility_summary_en": "Transition Centers serve youth ages 16 to 25 who are or were in foster care, are homeless, or are otherwise at risk.",
+      "eligibility_summary_es": "Los Centros de Transición atienden a jóvenes de 16 a 25 años que están o estuvieron en cuidado de crianza, que no tienen hogar o que están en riesgo.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 25
+      },
+      "documents_needed": [],
+      "how_to_apply": "To find a Foster Youth Transition Center near you, contact the Texas Department of Family and Protective Services (DFPS) Transitional Living program, your local Workforce Solutions office, or call TWC.",
+      "how_to_apply_es": "Para encontrar un Centro de Transición cerca de usted, comuníquese con el programa de Vida Independiente (Transitional Living) del Departamento de Servicios para la Familia y de Protección de Texas (DFPS), con su oficina local de Workforce Solutions, o llame a TWC.",
+      "apply_url": "https://www.twc.texas.gov/programs/foster-youth",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/foster-youth",
+      "confidence": "high",
+      "notes": "Related benefits include the Education and Training Voucher program and the State College Tuition Waiver (with DFPS). The TWC page sends people to the DFPS Foster Care Transitional Living webpage for center locations.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-scsep-senior-employment",
+      "name": "Senior Community Service Employment Program (SCSEP)",
+      "organization": "Texas Workforce Commission and SCSEP grantees",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Paid part-time job training at nonprofits or government agencies for older adults, plus help finding a regular job.",
+      "description_es": "Capacitación de trabajo pagada de medio tiempo en organizaciones sin fines de lucro o agencias de gobierno para adultos mayores, además de ayuda para encontrar un trabajo regular.",
+      "eligibility_summary_en": "For unemployed people age 55 or older with income at or below 125% of the federal poverty level (the source lists $13,590 a year for one person).",
+      "eligibility_summary_es": "Para personas de 55 años o más sin empleo, con ingresos de 125% o menos del nivel federal de pobreza (la fuente dice $13,590 al año para una persona).",
+      "eligibility_rules": {
+        "min_age": 55,
+        "max_income_pct_fpl": 125,
+        "senior": true
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of age",
+        "Proof of income"
+      ],
+      "how_to_apply": "Contact the SCSEP provider for your county using the provider contact list on the TWC SCSEP page.",
+      "how_to_apply_es": "Comuníquese con el proveedor de SCSEP de su condado usando la lista de contactos en la página de SCSEP de TWC.",
+      "apply_url": "https://www.twc.texas.gov/programs/senior-community-service-employment",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/senior-community-service-employment",
+      "confidence": "high",
+      "notes": "Texas providers: AARP Foundation, The Center for Workforce Inclusion, National Asian Pacific Center on Aging, SER-Jobs for Progress National, and Institute for Indian Development. Priority for people 65+, veterans, people with disabilities, limited English speakers, rural residents, homeless people, and people recently released from incarceration.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "aarp-foundation-scsep",
+      "name": "AARP Foundation SCSEP",
+      "organization": "AARP Foundation",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Paid on-the-job training, about 20 hours a week at local nonprofits and public agencies, plus job placement help for older adults.",
+      "description_es": "Capacitación pagada en el trabajo, unas 20 horas por semana, en organizaciones sin fines de lucro y agencias públicas locales, además de ayuda para conseguir empleo para adultos mayores.",
+      "eligibility_summary_en": "For people age 55 or older who are unemployed and have low income.",
+      "eligibility_summary_es": "Para personas de 55 años o más que no tienen trabajo y tienen bajos ingresos.",
+      "eligibility_rules": {
+        "min_age": 55,
+        "senior": true
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call AARP Foundation SCSEP to see if you qualify and to find your local office.",
+      "how_to_apply_es": "Llame a AARP Foundation SCSEP para ver si califica y encontrar su oficina local.",
+      "apply_url": "https://www.aarp.org/aarp-foundation/our-work/income/scsep/",
+      "phone": "(800) 775-6776",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English"
+      ],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.aarp.org/aarp-foundation/our-work/income/scsep/",
+      "confidence": "high",
+      "notes": "TWC says AARP Foundation runs SCSEP in 82 Texas counties; the county list is in TWC's SCSEP provider contact file (not captured here). Online locator: https://my.aarpfoundation.org/locator/scsep/ .",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "job-corps",
+      "name": "Job Corps",
+      "organization": "U.S. Department of Labor",
+      "categories": [
+        "employment",
+        "housing"
+      ],
+      "description_en": "Free job training and education for young adults. Students can get free housing, meals, basic medical care, and a living allowance.",
+      "description_es": "Capacitación para el trabajo y estudios gratis para jóvenes adultos. Los estudiantes pueden recibir vivienda, comidas, atención médica básica y un pago para gastos, todo gratis.",
+      "eligibility_summary_en": "For low-income young adults ages 16 through 24 who meet income, citizenship, residency, and background rules.",
+      "eligibility_summary_es": "Para jóvenes de 16 a 24 años con bajos ingresos que cumplan con las reglas de ingresos, ciudadanía, residencia y antecedentes.",
+      "eligibility_rules": {
+        "min_age": 16,
+        "max_age": 24
+      },
+      "documents_needed": [
+        "Photo ID",
+        "Proof of age",
+        "Proof of income"
+      ],
+      "how_to_apply": "Apply online at enroll.jobcorps.gov or call 1-800-733-JOBS.",
+      "how_to_apply_es": "Solicite en línea en enroll.jobcorps.gov o llame al 1-800-733-JOBS (1-800-733-5627).",
+      "apply_url": "https://enroll.jobcorps.gov/",
+      "phone": "(800) 733-5627",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "national",
+      "coverage_counties": [],
+      "source_url": "https://www.jobcorps.gov/",
+      "confidence": "medium",
+      "notes": "TTY: (877) 889-5627. On 2026-09-26 jobcorps.gov and the DOL Job Corps page showed no pause or closure notice and the Apply Now link worked. Federal funding for Job Corps was in flux in 2025, so confirm a nearby Texas campus is enrolling before referring. Texas campus locations were not confirmed.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-twc-wage-claim",
+      "name": "Wage Claims (Texas Payday Law)",
+      "organization": "Texas Workforce Commission, Wage and Hour Department",
+      "categories": [
+        "employment",
+        "legal"
+      ],
+      "description_en": "If your employer did not pay you correctly, you can file a free wage claim with TWC to try to get your pay.",
+      "description_es": "Si su empleador no le pagó bien, puede presentar un reclamo de salario gratis con TWC para tratar de recibir su pago.",
+      "eligibility_summary_en": "For workers in Texas who were not paid wages they earned.",
+      "eligibility_summary_es": "Para trabajadores en Texas a quienes no les pagaron el sueldo que ganaron.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Pay stubs or records of hours worked",
+        "Employer name and address"
+      ],
+      "how_to_apply": "File a wage claim online through the TWC Wage Claim System or call the Wage and Hour Department.",
+      "how_to_apply_es": "Presente un reclamo de salario en línea en el sistema de reclamos de TWC o llame al Departamento de Salarios y Horas (Wage and Hour).",
+      "apply_url": "https://twcgov.appianportalsgov.com/LoginRequest",
+      "phone": "(800) 832-9243",
+      "address": "101 E 15th Street, Rm 514",
+      "city": "Austin",
+      "zip": "78778",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/wage-and-hour",
+      "confidence": "high",
+      "notes": "The Texas Payday Law has a filing deadline that was not stated on the overview page; tell clients to file quickly.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-twc-employment-discrimination",
+      "name": "Employment Discrimination Complaints",
+      "organization": "Texas Workforce Commission, Civil Rights Division",
+      "categories": [
+        "employment",
+        "legal"
+      ],
+      "description_en": "Looks into complaints of job discrimination under Texas and federal law.",
+      "description_es": "Investiga quejas de discriminación en el trabajo bajo las leyes de Texas y las leyes federales.",
+      "eligibility_summary_en": "For workers or job applicants in Texas who think they faced discrimination at work or in hiring.",
+      "eligibility_summary_es": "Para trabajadores o personas que solicitan trabajo en Texas que creen que fueron discriminados en el trabajo o al buscar empleo.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Notes, dates, and any records about what happened"
+      ],
+      "how_to_apply": "Use the Civil Rights Division complaint form on the TWC website or call TWC.",
+      "how_to_apply_es": "Use el formulario de quejas de la División de Derechos Civiles en el sitio web de TWC o llame a TWC.",
+      "apply_url": "https://www.twc.texas.gov/programs/civil-rights",
+      "phone": "(800) 628-5115",
+      "address": "101 E 15th Street",
+      "city": "Austin",
+      "zip": "78778",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/civil-rights",
+      "confidence": "high",
+      "notes": "Works with the U.S. EEOC. Filing deadlines apply but were not stated on the overview page.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "texas-child-care-services-scholarships",
+      "name": "Child Care Services (Child Care Scholarships)",
+      "organization": "Texas Workforce Commission and local Workforce Solutions boards",
+      "categories": [
+        "school_childcare",
+        "employment"
+      ],
+      "description_en": "Helps low-income families pay for child care so parents can work, look for work, or go to school.",
+      "description_es": "Ayuda a familias de bajos ingresos a pagar el cuidado de niños para que los padres puedan trabajar, buscar trabajo o estudiar.",
+      "eligibility_summary_en": "For low-income Texas families with children who need care while parents work or go to school. Full rules are on the Texas Child Care Connection website.",
+      "eligibility_summary_es": "Para familias de bajos ingresos en Texas con niños que necesitan cuidado mientras los padres trabajan o estudian. Las reglas completas están en el sitio web Texas Child Care Connection.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Proof of income",
+        "Proof of work or school",
+        "Child's birth certificate or ID"
+      ],
+      "how_to_apply": "Create a Parent Central account on childcare.texas.gov and fill out the Eligibility Screener and Waitlist Application. If you may qualify, you will be asked to finish a full application. You can also contact your local Workforce Solutions child care office.",
+      "how_to_apply_es": "Cree una cuenta en Parent Central en childcare.texas.gov y llene la Evaluación de Elegibilidad y Solicitud de Lista de Espera. Si puede calificar, le pedirán llenar una solicitud completa. También puede comunicarse con la oficina local de cuidado de niños de Workforce Solutions.",
+      "apply_url": "https://www.childcare.texas.gov/for-families/child-care-scholarships",
+      "phone": "(800) 628-5115",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Families may pay a share of the cost (no more than 7% of household income)",
+      "coverage_type": "state",
+      "coverage_counties": [],
+      "source_url": "https://www.twc.texas.gov/programs/child-care",
+      "confidence": "high",
+      "notes": "Office locator: https://www.childcare.texas.gov/office-locator . Email: ccel@twc.texas.gov. Income limits are updated each year (current limits effective Oct 1, 2026 - Sept 30, 2027) and are posted on the scholarships page. The program also serves families experiencing homelessness and families with deployed military parents. There may be a waitlist.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-alamo",
+      "name": "Workforce Solutions Alamo",
+      "organization": "Workforce Solutions Alamo",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Atascosa, Bandera, Bexar, Comal, Frio, Gillespie, Guadalupe, Karnes, Kendall, Kerr, McMullen, Medina and Wilson counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Atascosa, Bandera, Bexar, Comal, Frio, Gillespie, Guadalupe, Karnes, Kendall, Kerr, McMullen, Medina y Wilson. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesolutionsalamo.org",
+      "phone": "(210) 581-1091",
+      "address": "100 North Santa Rosa Street, Suite 120",
+      "city": "San Antonio",
+      "zip": "78207",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Atascosa",
+        "Bandera",
+        "Bexar",
+        "Comal",
+        "Frio",
+        "Gillespie",
+        "Guadalupe",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "McMullen",
+        "Medina",
+        "Wilson"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-borderplex",
+      "name": "Workforce Solutions Borderplex",
+      "organization": "Workforce Solutions Borderplex",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Brewster, Culberson, El Paso, Hudspeth, Jeff Davis and Presidio counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Brewster, Culberson, El Paso, Hudspeth, Jeff Davis y Presidio. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://borderplexjobs.com",
+      "phone": "(915) 887-2274",
+      "address": "304 Texas Avenue, Suite 1400",
+      "city": "El Paso",
+      "zip": "79901",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brewster",
+        "Culberson",
+        "El Paso",
+        "Hudspeth",
+        "Jeff Davis",
+        "Presidio"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-brazos-valley",
+      "name": "Workforce Solutions Brazos Valley",
+      "organization": "Workforce Solutions Brazos Valley",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Brazos, Burleson, Grimes, Leon, Madison, Robertson and Washington counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Brazos, Burleson, Grimes, Leon, Madison, Robertson y Washington. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://bvjobs.org",
+      "phone": "(979) 595-2801 ext. 2001",
+      "address": "3991 East 29th Street",
+      "city": "Bryan",
+      "zip": "77802",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brazos",
+        "Burleson",
+        "Grimes",
+        "Leon",
+        "Madison",
+        "Robertson",
+        "Washington"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-cameron",
+      "name": "Workforce Solutions Cameron",
+      "organization": "Workforce Solutions Cameron",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Cameron County. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en el condado de Cameron. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wfscameron.org",
+      "phone": "(956) 548-6700 ext. 4507",
+      "address": "700 Ruben M. Torres Boulevard, 3rd Floor",
+      "city": "Brownsville",
+      "zip": "78520",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cameron"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-capital-area",
+      "name": "Workforce Solutions Capital Area",
+      "organization": "Workforce Solutions Capital Area",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Travis County. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en el condado de Travis. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wfscapitalarea.com",
+      "phone": "(512) 597-7124",
+      "address": "9001 North I-35, Suite 110E",
+      "city": "Austin",
+      "zip": "78753",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Travis"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-of-central-texas",
+      "name": "Workforce Solutions of Central Texas",
+      "organization": "Workforce Solutions of Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Bell, Coryell, Hamilton, Lampasas, Milam, Mills and San Saba counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Bell, Coryell, Hamilton, Lampasas, Milam, Mills y San Saba. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesolutionsctx.com",
+      "phone": "(254) 742-4514",
+      "address": "200 North Main Street",
+      "city": "Belton",
+      "zip": "76513",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bell",
+        "Coryell",
+        "Hamilton",
+        "Lampasas",
+        "Milam",
+        "Mills",
+        "San Saba"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-coastal-bend",
+      "name": "Workforce Solutions Coastal Bend",
+      "organization": "Workforce Solutions Coastal Bend",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Aransas, Bee, Brooks, Duval, Jim Wells, Kenedy, Kleberg, Live Oak, Nueces, Refugio and San Patricio counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Aransas, Bee, Brooks, Duval, Jim Wells, Kenedy, Kleberg, Live Oak, Nueces, Refugio y San Patricio. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesolutionscb.org",
+      "phone": "(361) 885-3000",
+      "address": "400 Mann Street, Suite 800",
+      "city": "Corpus Christi",
+      "zip": "78401",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Aransas",
+        "Bee",
+        "Brooks",
+        "Duval",
+        "Jim Wells",
+        "Kenedy",
+        "Kleberg",
+        "Live Oak",
+        "Nueces",
+        "Refugio",
+        "San Patricio"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-concho-valley",
+      "name": "Workforce Solutions Concho Valley",
+      "organization": "Workforce Solutions Concho Valley",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Coke, Concho, Crockett, Irion, Kimble, Mason, McCulloch, Menard, Reagan, Schleicher, Sterling, Sutton and Tom Green counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Coke, Concho, Crockett, Irion, Kimble, Mason, McCulloch, Menard, Reagan, Schleicher, Sterling, Sutton y Tom Green. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://cvworkforce.org",
+      "phone": "(325) 703-2451 ext. 301",
+      "address": "36 East Twohig Avenue, Suite 805",
+      "city": "San Angelo",
+      "zip": "76903",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Coke",
+        "Concho",
+        "Crockett",
+        "Irion",
+        "Kimble",
+        "Mason",
+        "McCulloch",
+        "Menard",
+        "Reagan",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-deep-east-texas",
+      "name": "Workforce Solutions Deep East Texas",
+      "organization": "Workforce Solutions Deep East Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Angelina, Houston, Jasper, Nacogdoches, Newton, Polk, Sabine, San Augustine, San Jacinto, Shelby, Trinity and Tyler counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Angelina, Houston, Jasper, Nacogdoches, Newton, Polk, Sabine, San Augustine, San Jacinto, Shelby, Trinity y Tyler. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://detwork.org",
+      "phone": "(936) 631-8610 ext. 5930",
+      "address": "415 South First Street, Suite 110B",
+      "city": "Lufkin",
+      "zip": "75901",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Angelina",
+        "Houston",
+        "Jasper",
+        "Nacogdoches",
+        "Newton",
+        "Polk",
+        "Sabine",
+        "San Augustine",
+        "San Jacinto",
+        "Shelby",
+        "Trinity",
+        "Tyler"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-east-texas",
+      "name": "Workforce Solutions East Texas",
+      "organization": "Workforce Solutions East Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Anderson, Camp, Cherokee, Gregg, Harrison, Henderson, Marion, Panola, Rains, Rusk, Smith, Upshur, Van Zandt and Wood counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Anderson, Camp, Cherokee, Gregg, Harrison, Henderson, Marion, Panola, Rains, Rusk, Smith, Upshur, Van Zandt y Wood. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://easttexasworkforce.org",
+      "phone": "(903) 218-6425",
+      "address": "3800 Stone Road",
+      "city": "Kilgore",
+      "zip": "75662",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Anderson",
+        "Camp",
+        "Cherokee",
+        "Gregg",
+        "Harrison",
+        "Henderson",
+        "Marion",
+        "Panola",
+        "Rains",
+        "Rusk",
+        "Smith",
+        "Upshur",
+        "Van Zandt",
+        "Wood"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-golden-crescent",
+      "name": "Workforce Solutions Golden Crescent",
+      "organization": "Workforce Solutions Golden Crescent",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Calhoun, DeWitt, Goliad, Gonzales, Jackson, Lavaca and Victoria counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Calhoun, DeWitt, Goliad, Gonzales, Jackson, Lavaca y Victoria. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://gcworkforce.org",
+      "phone": "(361) 576-5872",
+      "address": "1905 Leary Ln.",
+      "city": "Victoria",
+      "zip": "77901",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Calhoun",
+        "DeWitt",
+        "Goliad",
+        "Gonzales",
+        "Jackson",
+        "Lavaca",
+        "Victoria"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-greater-dallas",
+      "name": "Workforce Solutions Greater Dallas",
+      "organization": "Workforce Solutions Greater Dallas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Dallas County. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en el condado de Dallas. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wfsdallas.com",
+      "phone": "(214) 290-1000",
+      "address": "500 North Akard Street, Suite 3030 (Ross Tower)",
+      "city": "Dallas",
+      "zip": "75201",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dallas"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-gulf-coast",
+      "name": "Workforce Solutions Gulf Coast",
+      "organization": "Workforce Solutions Gulf Coast",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Austin, Brazoria, Chambers, Colorado, Fort Bend, Galveston, Harris, Liberty, Matagorda, Montgomery, Walker, Waller and Wharton counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Austin, Brazoria, Chambers, Colorado, Fort Bend, Galveston, Harris, Liberty, Matagorda, Montgomery, Walker, Waller y Wharton. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wrksolutions.com",
+      "phone": "(713) 993-4524",
+      "address": "3555 Timmons Lane, Suite 120",
+      "city": "Houston",
+      "zip": "77027",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Austin",
+        "Brazoria",
+        "Chambers",
+        "Colorado",
+        "Fort Bend",
+        "Galveston",
+        "Harris",
+        "Liberty",
+        "Matagorda",
+        "Montgomery",
+        "Walker",
+        "Waller",
+        "Wharton"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-for-the-heart-of-texas",
+      "name": "Workforce Solutions for the Heart of Texas",
+      "organization": "Workforce Solutions for the Heart of Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Bosque, Falls, Freestone, Hill, Limestone and McLennan counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Bosque, Falls, Freestone, Hill, Limestone y McLennan. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://hotworkforce.com",
+      "phone": "(254) 296-5389",
+      "address": "801 Washington Avenue, Suite 700",
+      "city": "Waco",
+      "zip": "76701",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bosque",
+        "Falls",
+        "Freestone",
+        "Hill",
+        "Limestone",
+        "McLennan"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-lower-rio-grande-valley",
+      "name": "Workforce Solutions Lower Rio Grande Valley",
+      "organization": "Workforce Solutions Lower Rio Grande Valley",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Hidalgo, Starr and Willacy counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Hidalgo, Starr y Willacy. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wfsolutions.org",
+      "phone": "(956) 928-5000 ext. 3701",
+      "address": "3101 West Business 83",
+      "city": "McAllen",
+      "zip": "78501",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hidalgo",
+        "Starr",
+        "Willacy"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-middle-rio-grande",
+      "name": "Workforce Solutions Middle Rio Grande",
+      "organization": "Workforce Solutions Middle Rio Grande",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Dimmit, Edwards, Kinney, La Salle, Maverick, Real, Uvalde, Val Verde and Zavala counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Dimmit, Edwards, Kinney, La Salle, Maverick, Real, Uvalde, Val Verde y Zavala. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wfsmrg.org",
+      "phone": "(830) 486-7507",
+      "address": "216 West Main, Suite B",
+      "city": "Uvalde",
+      "zip": "78801",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Dimmit",
+        "Edwards",
+        "Kinney",
+        "La Salle",
+        "Maverick",
+        "Real",
+        "Uvalde",
+        "Val Verde",
+        "Zavala"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-for-north-central-texas",
+      "name": "Workforce Solutions for North Central Texas",
+      "organization": "Workforce Solutions for North Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Collin, Denton, Ellis, Erath, Hood, Hunt, Johnson, Kaufman, Navarro, Palo Pinto, Parker, Rockwall, Somervell and Wise counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Collin, Denton, Ellis, Erath, Hood, Hunt, Johnson, Kaufman, Navarro, Palo Pinto, Parker, Rockwall, Somervell y Wise. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://dfwjobs.com",
+      "phone": "(817) 695-9144",
+      "address": "616 Six Flags Drive, Suite 300",
+      "city": "Arlington",
+      "zip": "76011",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Collin",
+        "Denton",
+        "Ellis",
+        "Erath",
+        "Hood",
+        "Hunt",
+        "Johnson",
+        "Kaufman",
+        "Navarro",
+        "Palo Pinto",
+        "Parker",
+        "Rockwall",
+        "Somervell",
+        "Wise"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-north-texas",
+      "name": "Workforce Solutions North Texas",
+      "organization": "Workforce Solutions North Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Archer, Baylor, Clay, Cottle, Foard, Hardeman, Jack, Montague, Wichita, Wilbarger and Young counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Archer, Baylor, Clay, Cottle, Foard, Hardeman, Jack, Montague, Wichita, Wilbarger y Young. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://ntxworksolutions.org",
+      "phone": "(940) 767-1432",
+      "address": "1501 Midwestern Parkway, Suite 101",
+      "city": "Wichita Falls",
+      "zip": "76302",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Archer",
+        "Baylor",
+        "Clay",
+        "Cottle",
+        "Foard",
+        "Hardeman",
+        "Jack",
+        "Montague",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-northeast-texas",
+      "name": "Workforce Solutions Northeast Texas",
+      "organization": "Workforce Solutions Northeast Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Bowie, Cass, Delta, Franklin, Hopkins, Lamar, Morris, Red River and Titus counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Bowie, Cass, Delta, Franklin, Hopkins, Lamar, Morris, Red River y Titus. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://netxworkforce.org",
+      "phone": "(903) 794-9490 ext. 508",
+      "address": "911 North Bishop, Suite A100",
+      "city": "Wake Village",
+      "zip": "75501",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bowie",
+        "Cass",
+        "Delta",
+        "Franklin",
+        "Hopkins",
+        "Lamar",
+        "Morris",
+        "Red River",
+        "Titus"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-panhandle",
+      "name": "Workforce Solutions Panhandle",
+      "organization": "Workforce Solutions Panhandle",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Armstrong, Briscoe, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher and Wheeler counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Armstrong, Briscoe, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher y Wheeler. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wspanhandle.com",
+      "phone": "(806) 372-3381",
+      "address": "415 Southwest 8th Avenue",
+      "city": "Amarillo",
+      "zip": "79101",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Armstrong",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-permian-basin",
+      "name": "Workforce Solutions Permian Basin",
+      "organization": "Workforce Solutions Permian Basin",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Andrews, Borden, Crane, Dawson, Ector, Gaines, Glasscock, Howard, Loving, Martin, Midland, Pecos, Reeves, Terrell, Upton, Ward and Winkler counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Andrews, Borden, Crane, Dawson, Ector, Gaines, Glasscock, Howard, Loving, Martin, Midland, Pecos, Reeves, Terrell, Upton, Ward y Winkler. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcepb.org",
+      "phone": "(432) 563-5239",
+      "address": "2911 La Force Boulevard",
+      "city": "Midland",
+      "zip": "79706",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Andrews",
+        "Borden",
+        "Crane",
+        "Dawson",
+        "Ector",
+        "Gaines",
+        "Glasscock",
+        "Howard",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Pecos",
+        "Reeves",
+        "Terrell",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-rural-capital-area",
+      "name": "Workforce Solutions Rural Capital Area",
+      "organization": "Workforce Solutions Rural Capital Area",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano and Williamson counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Bastrop, Blanco, Burnet, Caldwell, Fayette, Hays, Lee, Llano y Williamson. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesolutionsrca.com",
+      "phone": "(512) 244-7966 ext. 5017",
+      "address": "701 East Whitestone Boulevard, Suite 200",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bastrop",
+        "Blanco",
+        "Burnet",
+        "Caldwell",
+        "Fayette",
+        "Hays",
+        "Lee",
+        "Llano",
+        "Williamson"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-south-plains",
+      "name": "Workforce Solutions South Plains",
+      "organization": "Workforce Solutions South Plains",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Bailey, Cochran, Crosby, Dickens, Floyd, Garza, Hale, Hockley, King, Lamb, Lubbock, Lynn, Motley, Terry and Yoakum counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Bailey, Cochran, Crosby, Dickens, Floyd, Garza, Hale, Hockley, King, Lamb, Lubbock, Lynn, Motley, Terry y Yoakum. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesouthplains.org",
+      "phone": "(806) 744-1987",
+      "address": "1500 Broadway, Suite 800",
+      "city": "Lubbock",
+      "zip": "79401",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Bailey",
+        "Cochran",
+        "Crosby",
+        "Dickens",
+        "Floyd",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "King",
+        "Lamb",
+        "Lubbock",
+        "Lynn",
+        "Motley",
+        "Terry",
+        "Yoakum"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-for-south-texas",
+      "name": "Workforce Solutions for South Texas",
+      "organization": "Workforce Solutions for South Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Jim Hogg, Webb and Zapata counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Jim Hogg, Webb y Zapata. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://southtexasworkforce.org",
+      "phone": "(956) 722-3973",
+      "address": "500 East Mann Road, Suite B5",
+      "city": "Laredo",
+      "zip": "78041",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Jim Hogg",
+        "Webb",
+        "Zapata"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-southeast-texas",
+      "name": "Workforce Solutions Southeast Texas",
+      "organization": "Workforce Solutions Southeast Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Hardin, Jefferson and Orange counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Hardin, Jefferson y Orange. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://setworks.org",
+      "phone": "(409) 719-4785",
+      "address": "510 Park Street, Suite 500",
+      "city": "Beaumont",
+      "zip": "77701",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Hardin",
+        "Jefferson",
+        "Orange"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-for-tarrant-county",
+      "name": "Workforce Solutions for Tarrant County",
+      "organization": "Workforce Solutions for Tarrant County",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Tarrant County. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en el condado de Tarrant. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesolutions.net",
+      "phone": "(817) 413-4000",
+      "address": "1320 South University Drive, Suite 600",
+      "city": "Fort Worth",
+      "zip": "76107",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Tarrant"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-texoma",
+      "name": "Workforce Solutions Texoma",
+      "organization": "Workforce Solutions Texoma",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Cooke, Fannin and Grayson counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Cooke, Fannin y Grayson. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://workforcesolutionstexoma.com",
+      "phone": "(903) 957-7408",
+      "address": "2415 South Austin Avenue, Suite 107",
+      "city": "Denison",
+      "zip": "75020",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Cooke",
+        "Fannin",
+        "Grayson"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-of-west-central-texas",
+      "name": "Workforce Solutions of West Central Texas",
+      "organization": "Workforce Solutions of West Central Texas",
+      "categories": [
+        "employment",
+        "school_childcare"
+      ],
+      "description_en": "Free job search help, career advice, and job training money through local Workforce Solutions career centers. The board also runs child care scholarships for working parents in its area.",
+      "description_es": "Ayuda gratis para buscar trabajo, consejos de carrera y dinero para capacitación por medio de los centros de carrera locales de Workforce Solutions. La junta también maneja becas de cuidado de niños para padres que trabajan en su área.",
+      "eligibility_summary_en": "Serves job seekers and employers in Brown, Callahan, Coleman, Comanche, Eastland, Fisher, Haskell, Jones, Kent, Knox, Mitchell, Nolan, Runnels, Scurry, Shackelford, Stephens, Stonewall, Taylor and Throckmorton counties. Training money and support services have extra rules, such as income limits.",
+      "eligibility_summary_es": "Atiende a personas que buscan trabajo y a empleadores en los condados de Brown, Callahan, Coleman, Comanche, Eastland, Fisher, Haskell, Jones, Kent, Knox, Mitchell, Nolan, Runnels, Scurry, Shackelford, Stephens, Stonewall, Taylor y Throckmorton. El dinero para capacitación y los servicios de apoyo tienen reglas adicionales, como límites de ingresos.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Photo ID",
+        "Social Security card or number",
+        "Proof of address",
+        "Proof of income (for training or support programs)"
+      ],
+      "how_to_apply": "Go to the board website to find the nearest Workforce Solutions career center, or call the board office. Sign up on WorkInTexas.com to search jobs.",
+      "how_to_apply_es": "Visite el sitio web de la junta para encontrar el centro de carrera de Workforce Solutions más cercano, o llame a la oficina de la junta. Regístrese en WorkInTexas.com para buscar empleos.",
+      "apply_url": "https://wfswct.org",
+      "phone": "(325) 795-4364",
+      "address": "500 Chestnut Street, Suite 1200",
+      "city": "Abilene",
+      "zip": "79602",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "Fisher",
+        "Haskell",
+        "Jones",
+        "Kent",
+        "Knox",
+        "Mitchell",
+        "Nolan",
+        "Runnels",
+        "Scurry",
+        "Shackelford",
+        "Stephens",
+        "Stonewall",
+        "Taylor",
+        "Throckmorton"
+      ],
+      "source_url": "https://www.twc.texas.gov/sites/default/files/wf/docs/workforce-board-directory-twc.pdf",
+      "confidence": "high",
+      "notes": "Counties, address, and phone are from the TWC Workforce Development Board Directory dated July 16, 2026. The phone (board director's line in the directory) and address are for the board's main office, which may not be a walk-in career center. Use the website to find career center locations and hours. The website is listed on twc.texas.gov/partners/workforce-development-boards.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}
