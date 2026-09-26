@@ -28,8 +28,9 @@ export function ImpactPage() {
         <LoopRing size={32} /> {t('impact.title')}
       </h1>
       <Counters impact={imp} compact />
-      <dl className="grid grid-cols-2 gap-2">
+      <dl className="grid grid-cols-3 gap-2">
         {[
+          ['projects', imp?.projects],
           ['plans', imp?.plans],
           ['volunteers', imp?.volunteers],
         ].map(([k, v]) => (
@@ -108,6 +109,10 @@ export function AboutPage() {
           ))}
         </ol>
       </section>
+      <Card className="p-4">
+        <h2 className="font-extrabold">{t('about.coordTitle')}</h2>
+        <p className="mt-2 text-sm">{t('about.coordBody')}</p>
+      </Card>
       <Card className="p-4">
         <h2 className="flex items-center gap-2 font-extrabold">
           <Globe2 className="h-5 w-5 text-primary" aria-hidden="true" /> {t('about.dataTitle')}

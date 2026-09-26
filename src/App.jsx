@@ -15,6 +15,7 @@ const MyPosts = lazy(() => import('@/pages/give/MyPosts'));
 const Missions = lazy(() => import('@/pages/volunteer/Missions'));
 const MissionDetail = lazy(() => import('@/pages/volunteer/MissionDetail'));
 const MyHours = lazy(() => import('@/pages/volunteer/MyHours'));
+const MyWeek = lazy(() => import('@/pages/volunteer/MyWeek'));
 const HubToday = lazy(() => import('@/pages/hub/HubToday'));
 const HubPulse = lazy(() => import('@/pages/hub/HubPulse'));
 const HubEvents = lazy(() => import('@/pages/hub/HubEvents'));
@@ -61,6 +62,7 @@ export default function App() {
                     <Route path="missions" element={<Missions />} />
                     <Route path="missions/:key" element={<MissionDetail />} />
                     <Route path="hours" element={<MyHours />} />
+                    <Route path="week" element={<MyWeek />} />
                     <Route path="hub" element={<HubToday />} />
                     <Route path="hub/pulse" element={<HubPulse />} />
                     <Route path="hub/events" element={<HubEvents />} />

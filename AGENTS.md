@@ -23,6 +23,8 @@ Official Base44 agent docs are in `.claude/skills/` (`base44-sdk`, `base44-cli`,
 
 - `base44/shared/service.js` — every action (`dispatch(action, args, deps)`), the live `getState` snapshot, reset.
 - `base44/shared/matching.js` — program matching (spec 7A). `loop.js` — surplus matching, mission rules, hours (7B–7D).
+- `base44/shared/coordinator.js` + `coordinator-service.js` — the student calendar and AI coordinator (free time, conflict-free suggestions, predictions, buddies). `tests/coordinator.test.js` proves suggestions never overlap the calendar.
+- `legacy/` — the original BenefitBridge server; do not edit it for Loop features.
 - `base44/shared/golden.js` — the demo inputs and golden fallbacks. `seed.js` + `data/neighborhood.js` — the reset state.
 - `base44/functions/app/entry.ts` — the only backend function (thin wrapper around `dispatch`).
 - `src/api/backend.js` — picks Base44 (remote) or local mode. `src/state/app.jsx` — role, identity, live polling, toasts.

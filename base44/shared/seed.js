@@ -1,10 +1,11 @@
 // Builds the exact "Reset demo" starting state (spec Section 1 + 9B) as plain records.
 import { HUBS, GIVERS, TEAMS, VOLUNTEERS, EVENTS, SAMPLE_ACTIVITY, OPEN_PRODUCE_POST } from './data/neighborhood.js';
+import { VOLUNTEER_PROFILES, CALENDARS, PROJECTS, SCHOOLS } from './data/youth.js';
 import { distanceMiles } from './zip.js';
 import { centralParts, centralToEpoch, makeClock } from './time.js';
 
 export const NS = 'loop';
-export const SEEDED_ENTITIES = ['Hub', 'Giver', 'Team', 'Volunteer', 'Event', 'Activity', 'Donation', 'Mission', 'HelpRequest', 'PlanSession', 'DemoState'];
+export const SEEDED_ENTITIES = ['Hub', 'Giver', 'Team', 'Volunteer', 'Event', 'Activity', 'Donation', 'Mission', 'HelpRequest', 'PlanSession', 'DemoState', 'CalendarBlock', 'Project'];
 
 function eventDate(clock, dayOffset) {
   const today = clock.today;
@@ -29,7 +30,13 @@ export function buildSeed(resetAtMs) {
     };
   });
 
-  const volunteers = VOLUNTEERS.map((v) => ({ ns: NS, ...v, hours_log: [] }));
+  const volunteers = VOLUNTEERS.map((v) => {
+    const p = VOLUNTEER_PROFILES[v.key] || {};
+    return { ns: NS, ...v, school: SCHOOLS[p.school]?.name || v.school, school_key: p.school || null, interests: p.interests || [], weekly_goal_hours: p.weekly_goal_hours || 2, stats: p.stats || { committed: 0, completed: 0 }, declined: [], hours_log: [] };
+  });
+  let n = 0;
+  const calendar = Object.entries(CALENDARS).flatMap(([vk, blocks]) => blocks.map((b) => ({ ns: NS, key: `cal-seed-${++n}`, volunteer_key: vk, status: 'planned', source: 'seed', ...b })));
+  const projects = PROJECTS.map((p) => ({ ns: NS, ...p, remote: !!p.remote }));
 
   const events = EVENTS.map((e) => ({
     ns: NS, key: e.key, type: e.type, title_en: e.title_en, title_es: e.title_es, description_en: e.description_en, description_es: e.description_es,
@@ -87,5 +94,7 @@ export function buildSeed(resetAtMs) {
     HelpRequest: [],
     PlanSession: [],
     DemoState: [demo],
+    CalendarBlock: calendar,
+    Project: projects,
   };
 }

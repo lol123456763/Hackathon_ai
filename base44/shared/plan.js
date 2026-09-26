@@ -1,4 +1,5 @@
 // Action plans: the rule-based fallback plan (spec 6B fallback) and validation of AI plans.
+import { unsupportedFacts, allText } from './guard.js';
 
 const T = {
   en: {
@@ -112,7 +113,7 @@ export function buildRulePlan(match, language = 'en', { tonightAvailable = false
  * Validate an AI plan against the allowed resource ids. Steps that reference unknown resources are
  * dropped (the AI may not invent programs). Returns null if the plan is unusable.
  */
-export function sanitizeAiPlan(plan, allowedIds, { tonightAvailable = false } = {}) {
+export function sanitizeAiPlan(plan, allowedIds, { tonightAvailable = false, sourceText = null } = {}) {
   if (!plan || typeof plan !== 'object') return null;
   const ids = new Set(allowedIds);
   const str = (v, max = 400) => (typeof v === 'string' ? v.trim().slice(0, max) : '');
@@ -134,5 +135,7 @@ export function sanitizeAiPlan(plan, allowedIds, { tonightAvailable = false } = 
     source: 'ai',
   };
   if (!out.today.length) return null;
+  // Reject plans that mention a phone number, URL or dollar amount we did not supply.
+  if (sourceText !== null && unsupportedFacts(allText(out), sourceText).length) return null;
   return out;
 }

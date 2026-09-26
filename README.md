@@ -9,6 +9,8 @@ Loop connects two worlds of help that don't talk to each other:
 
 A neighbor describes their situation → AI builds a plan grounded in **real programs** → whatever the plan can't cover tonight becomes an **anonymous request** → a local business posts **surplus food** from a photo → Loop **matches** them and creates a **safe mission** for student volunteers → students carry the food to a **trusted hub** → the neighbor's plan flips to **"Tonight: covered ✓"** and pounds, meals and **verified service hours** are logged automatically.
 
+**For students, Loop is an AI coordinator, not a chatbot.** Add school, homework, clubs and personal time (type it in plain words, or import a Google/Apple `.ics` calendar). Loop finds your real free windows, fits food runs, events and project shifts into them with zero conflicts, predicts how likely you are to finish each one, pairs you with a compatible buddy who is also free, and puts urgent needs (a family waiting tonight) first. Accept, move or decline right from **My week**.
+
 Built for the **AI No-Code Hackathon** (Round Rock ISD), Community Activation track. Fully bilingual (English / Español), mobile-first, works at 375 px.
 
 ---
@@ -43,6 +45,9 @@ base44/                  Base44 backend (deployed with `base44 deploy`)
     service.js           every action (plans, requests, posts, missions, codes, reset…)
     matching.js          7A program matching (deterministic, before AI)
     loop.js              7B surplus matching, 7C who can take a mission, 7D hours/impact
+    coordinator.js       free-time finder, conflict-free planner, completion prediction, buddy matching, schedule/.ics parsing
+    coordinator-service.js  calendar + suggestion actions (accept / move / decline / check in)
+    guard.js, gemini.js  unsupported-fact guard + optional Gemini provider (from the original BenefitBridge server)
     prompts.js           AI prompts + JSON schemas (6A–6G)
     golden.js            golden-path examples + GoldenOutput fallbacks
     plan.js, extract.js  rule-based plan + intake (AI fallbacks)
@@ -74,6 +79,8 @@ npm run seed                     # loads data/resources.json into the Resource t
 
 Open the app URL that `deploy` prints. The demo neighborhood seeds itself on first load. After that, every merge to `main` is deployed with `npm run build && npx base44 deploy -y`.
 
+Optional: to use Gemini instead of Base44's built-in AI for text, set the `GEMINI_API_KEY` (and optionally `GEMINI_MODEL`) secret in the Base44 dashboard. Images always use Base44 AI.
+
 To make yourself an admin (for the entities dashboard), use the Base44 dashboard → Users.
 
 ## Team workflow
@@ -91,6 +98,10 @@ To make yourself an admin (for the entities dashboard), use the Base44 dashboard
 - `research/` — deep research of Texas resources by region, each record verified against its official source.
 - `npm run data:build` merges them into `data/resources.json` (curated programs always win on duplicates).
 - `npm run validate:data` checks every record (CI).
+
+## Legacy
+
+`legacy/benefitbridge-server/` is the original BenefitBridge Node + SQLite app from `main` (Deepam). It is kept intact and still runs on its own; see [legacy/README-LEGACY.md](legacy/README-LEGACY.md).
 
 ## License
 

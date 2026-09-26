@@ -2,11 +2,12 @@
 // All data access uses the service role; entity security rules keep private data (plans, requests,
 // codes) out of reach of direct browser queries.
 import { ServiceError } from './service.js';
+import { askGemini } from './gemini.js';
 
 const RESOURCE_CACHE_MS = 5 * 60 * 1000;
 let resourceCache = { at: 0, list: null };
 
-export function makeDeps(base44, { waitUntil } = {}) {
+export function makeDeps(base44, { waitUntil, geminiKey, geminiModel } = {}) {
   const sr = base44.asServiceRole;
   const E = (name) => sr.entities[name];
   return {
@@ -23,7 +24,17 @@ export function makeDeps(base44, { waitUntil } = {}) {
       resourceCache = { at: Date.now(), list: rows.map((r) => ({ ...r, id: r.slug })) };
       return resourceCache.list;
     },
-    invokeLLM: (params) => sr.integrations.Core.InvokeLLM(params),
+    // Gemini (if the GEMINI_API_KEY secret is set) for text; Base44 InvokeLLM for images and as backup.
+    invokeLLM: async (params) => {
+      if (geminiKey && !params.file_urls) {
+        try {
+          return await askGemini(params, { key: geminiKey, model: geminiModel || undefined });
+        } catch (e) {
+          console.log('Gemini failed, using InvokeLLM', e?.message);
+        }
+      }
+      return sr.integrations.Core.InvokeLLM(params);
+    },
     async uploadImage(dataUrl) {
       const m = /^data:(image\/(?:jpeg|png|webp));base64,(.+)$/.exec(dataUrl);
       if (!m) return null;

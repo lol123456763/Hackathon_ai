@@ -1,0 +1,131 @@
+// A block on a student calendar (school, homework, activity, personal) or an accepted Loop commitment. Only titles and times are stored.
+{
+  "name": "CalendarBlock",
+  "description": "A block on a student calendar (school, homework, activity, personal) or an accepted Loop commitment. Only titles and times are stored.",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string",
+      "description": "Namespace for demo data"
+    },
+    "key": {
+      "type": "string"
+    },
+    "volunteer_key": {
+      "type": "string"
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "school",
+        "homework",
+        "activity",
+        "personal",
+        "loop"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "title_es": {
+      "type": "string"
+    },
+    "days": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "description": "Weekdays for a weekly block (0 = Sunday)"
+    },
+    "date": {
+      "type": "string",
+      "description": "YYYY-MM-DD for a one-time block"
+    },
+    "start": {
+      "type": "string",
+      "description": "HH:MM"
+    },
+    "end": {
+      "type": "string",
+      "description": "HH:MM"
+    },
+    "skip_dates": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Dates skipped for a weekly block"
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "seed",
+        "manual",
+        "ai_text",
+        "ics",
+        "loop"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "done",
+        "cancelled"
+      ]
+    },
+    "opp_key": {
+      "type": "string",
+      "description": "Accepted opportunity id (type:ref:date)"
+    },
+    "opp_type": {
+      "type": "string",
+      "enum": [
+        "mission",
+        "event",
+        "project"
+      ]
+    },
+    "ref_key": {
+      "type": "string"
+    },
+    "place": {
+      "type": "string"
+    },
+    "hours_credit": {
+      "type": "number"
+    },
+    "buddy_key": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "key",
+    "volunteer_key",
+    "kind",
+    "start",
+    "end"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

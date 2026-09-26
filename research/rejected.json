@@ -32,6 +32,38 @@
   ]
  },
  {
+  "unit": "special-students-youth",
+  "id": "texas-college-work-study",
+  "name": "Texas College Work-Study Program",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "special-veterans",
+  "id": "tvc-fund-for-veterans-assistance",
+  "name": "Fund for Veterans' Assistance (FVA) Grant Programs",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "special-veterans",
+  "id": "military-veteran-peer-network",
+  "name": "Military Veteran Peer Network (MVPN)",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "special-veterans",
+  "id": "families-in-crisis-ssvf",
+  "name": "Supportive Services for Veteran Families (SSVF)",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
   "unit": "state-cash_assistance",
   "id": "dfps-permanency-care-assistance",
   "name": "Permanency Care Assistance (PCA)",
@@ -64,6 +96,22 @@
   ]
  },
  {
+  "unit": "state-food",
+  "id": "texas-senior-farmers-market-sfmnp",
+  "name": "Senior Farmers' Market Nutrition Program (SFMNP)",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-food",
+  "id": "texas-farmers-market-nutrition-fmnp",
+  "name": "Farmers' Market Nutrition Program (FMNP)",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
   "unit": "state-housing",
   "id": "tdhca-section-811-project-rental-assistance",
   "name": "Section 811 Project Rental Assistance",
@@ -91,6 +139,63 @@
   "unit": "state-housing",
   "id": "lone-star-legal-aid-housing",
   "name": "Lone Star Legal Aid - Eviction Defense and Housing",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-school_childcare",
+  "id": "texas-public-prekindergarten",
+  "name": "Texas Public School Pre-K",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-school_childcare",
+  "id": "tea-foster-care-student-success",
+  "name": "Foster Care and Student Success (School Foster Care Liaisons)",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-utilities",
+  "id": "texas-gas-service-share-the-warmth",
+  "name": "Share the Warmth",
+  "problems": [
+   "local resource without valid Texas counties",
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-utilities",
+  "id": "el-paso-electric-texas-low-income-rider",
+  "name": "El Paso Electric Texas Low-Income Rider",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-utilities",
+  "id": "el-paso-electric-bright-hearts-fund",
+  "name": "Bright Hearts Fund",
+  "problems": [
+   "no way to contact (phone, url or address)"
+  ]
+ },
+ {
+  "unit": "state-utilities",
+  "id": "centerpoint-energy-texas-payment-help",
+  "name": "CenterPoint Energy payment extensions and payment arrangements (Texas)",
+  "problems": [
+   "local resource without valid Texas counties"
+  ]
+ },
+ {
+  "unit": "state-utilities",
+  "id": "oncor-critical-care-chronic-condition",
+  "name": "Critical Care / Chronic Condition customer status",
   "problems": [
    "local resource without valid Texas counties"
   ]

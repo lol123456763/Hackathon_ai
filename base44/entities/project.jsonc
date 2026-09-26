@@ -1,0 +1,105 @@
+// A recurring volunteer project with weekly shift slots (tutoring, fridge restock, senior calls...).
+{
+  "name": "Project",
+  "description": "A recurring volunteer project with weekly shift slots (tutoring, fridge restock, senior calls...).",
+  "type": "object",
+  "properties": {
+    "ns": {
+      "type": "string"
+    },
+    "key": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "interests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "hub_key": {
+      "type": "string"
+    },
+    "place": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "lng": {
+      "type": "number"
+    },
+    "remote": {
+      "type": "boolean"
+    },
+    "slots": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "description": "{days:[0-6], start, end}"
+    },
+    "min_age": {
+      "type": "number"
+    },
+    "spots": {
+      "type": "number"
+    },
+    "need": {
+      "type": "number",
+      "description": "1-3 community need"
+    },
+    "hours_credit": {
+      "type": "number"
+    },
+    "checkin_code": {
+      "type": "string"
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "title_es": {
+      "type": "string"
+    },
+    "description_en": {
+      "type": "string"
+    },
+    "description_es": {
+      "type": "string"
+    },
+    "impact_en": {
+      "type": "string"
+    },
+    "impact_es": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "key",
+    "title_en"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

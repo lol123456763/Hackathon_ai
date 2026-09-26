@@ -61,6 +61,30 @@
         "type": "object"
       },
       "description": "Verified hours entries"
+    },
+    "school_key": {
+      "type": "string",
+      "description": "Where the student starts from (a school, never a home)"
+    },
+    "interests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "weekly_goal_hours": {
+      "type": "number"
+    },
+    "stats": {
+      "type": "object",
+      "description": "{committed, completed} for completion predictions"
+    },
+    "declined": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "description": "Declined suggestions"
     }
   },
   "required": [

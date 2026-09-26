@@ -1,0 +1,1344 @@
+{
+  "scope": "Harris County (Houston, Pasadena, Baytown) - food, housing, utilities, cash assistance, transportation",
+  "generated": "2026-09-26",
+  "verified_date": "2026-09-26",
+  "records": [
+    {
+      "id": "houston-food-bank-find-food",
+      "name": "Houston Food Bank - Find Food",
+      "organization": "Houston Food Bank",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Houston Food Bank gives food to people in need through more than 1,600 community partners. Use the Find Food Map to find a pantry or meal program near you.",
+      "eligibility_summary_en": "For anyone in the area who needs food. Each partner pantry may have its own rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Open the Find Food Map on the Houston Food Bank website and pick a pantry near you. Call the pantry or check its hours before you go.",
+      "apply_url": "https://www.houstonfoodbank.org/find-help/find-food-map/",
+      "phone": "(713) 223-3700",
+      "address": "535 Portwall St.",
+      "city": "Houston",
+      "zip": "77029",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish",
+        "Arabic",
+        "Vietnamese",
+        "Chinese"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonfoodbank.org/find-help/",
+      "confidence": "high",
+      "notes": "Address is the Houston Food Bank headquarters; food is given out at partner pantries. Call 832-369-9390 with questions about finding food. Also runs Senior Box, Kids Cafe, School Market, and summer meal programs. Languages listed are the languages of the website.",
+      "description_es": "El Houston Food Bank da comida a personas que la necesitan, a través de más de 1,600 organizaciones aliadas. Use el Mapa para Encontrar Comida y busque una despensa o comedor cerca de usted.",
+      "eligibility_summary_es": "Para cualquier persona de la zona que necesite comida. Cada despensa puede tener sus propias reglas.",
+      "how_to_apply_es": "Abra el Mapa para Encontrar Comida en el sitio web del Houston Food Bank y elija una despensa cerca de usted. Llame a la despensa o revise su horario antes de ir.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-food-bank-community-assistance-program",
+      "name": "Community Assistance Program (Benefits Application Help)",
+      "organization": "Houston Food Bank",
+      "categories": [
+        "food",
+        "cash_assistance",
+        "healthcare"
+      ],
+      "description_en": "Trained navigators help you apply for or renew SNAP food benefits, TANF cash help, Children's Medicaid, CHIP, and other state programs. They can also help with changes to your case.",
+      "eligibility_summary_en": "For anyone who needs help applying for state benefits. Each benefit program has its own income and citizenship rules.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Walk in during office hours, or schedule a SNAP application appointment on the website. You can also call 832-369-9390.",
+      "apply_url": "https://www.houstonfoodbank.org/find-help/cap/",
+      "phone": "(832) 369-9390",
+      "address": "535 Portwall St., 2nd Floor",
+      "city": "Houston",
+      "zip": "77029",
+      "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.; 4th Friday 8:00 a.m.-12:00 p.m.; Sat 9:00 a.m.-1:00 p.m.",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonfoodbank.org/find-help/cap/",
+      "confidence": "high",
+      "notes": "Walk-ins welcome. Interpreters available for other languages. Office is on the 2nd floor of the Houston Food Bank. The page did not list the documents to bring; ask when you call.",
+      "description_es": "Personas capacitadas le ayudan a solicitar o renovar SNAP (cupones de comida), ayuda en efectivo TANF, Medicaid para niños, CHIP y otros programas del estado. También le ayudan con cambios en su caso.",
+      "eligibility_summary_es": "Para cualquier persona que necesite ayuda para solicitar beneficios del estado. Cada programa tiene sus propias reglas de ingresos y ciudadanía.",
+      "how_to_apply_es": "Vaya sin cita durante el horario de oficina o haga una cita en línea para solicitar SNAP. También puede llamar al 832-369-9390.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "bakerripley-utility-assistance",
+      "name": "BakerRipley Utility Assistance Program",
+      "organization": "BakerRipley",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay electric, gas, or propane bills for low-income households. It does not pay water bills.",
+      "eligibility_summary_en": "For households in Harris, Brazoria, and Galveston counties with income at or below the limit (for example $23,940 a year for 1 person or $49,500 for 4, effective Jan 26, 2026).",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150
+      },
+      "documents_needed": [
+        "Social Security card for all household members",
+        "Proof of income from the last 30 days",
+        "Photo ID",
+        "Proof of citizenship or legal residency (passport, birth certificate, naturalization certificate, or permanent resident card)",
+        "Current electric, gas, or propane bill"
+      ],
+      "how_to_apply": "Apply on the BakerRipley utility assistance page when applications are open, or call the hotline. Track your application with your application number.",
+      "apply_url": "https://www.bakerripley.org/utility-assistance/",
+      "phone": "(713) 590-2327",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese",
+        "Chinese",
+        "Pashto",
+        "Persian"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris",
+        "Brazoria",
+        "Galveston"
+      ],
+      "source_url": "https://www.bakerripley.org/utility-assistance/",
+      "confidence": "high",
+      "notes": "As of 2026-09-26, online applications were CLOSED and expected to reopen Monday, November 9; in-person appointments begin October 27. Water bills are not covered. The 150% FPL value is inferred from the posted dollar limits.",
+      "description_es": "Ayuda a pagar las facturas de luz, gas o propano de familias de bajos ingresos. No paga facturas de agua.",
+      "eligibility_summary_es": "Para hogares en los condados de Harris, Brazoria y Galveston con ingresos dentro del límite (por ejemplo, $23,940 al año para 1 persona o $49,500 para 4, desde el 26 de enero de 2026).",
+      "how_to_apply_es": "Solicite en la página de ayuda con servicios de BakerRipley cuando las solicitudes estén abiertas, o llame a la línea de ayuda. Revise el estado de su solicitud con su número de solicitud.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-housing-support-intake-line",
+      "name": "Housing Support Intake Line",
+      "organization": "Harris County Housing & Community Development",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "A phone line for people who are homeless or will lose housing within days. Eligible people are put on a waitlist for housing referrals and get quick referrals to income programs.",
+      "eligibility_summary_en": "For Harris County residents living in a shelter or a place not meant for living, or who will be homeless within days. Not for people who are couch surfing.",
+      "eligibility_rules": {
+        "unhoused": true,
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the intake line Monday-Friday, 9 AM to 1 PM. For other needs, call 2-1-1.",
+      "apply_url": null,
+      "phone": "(832) 531-6041",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Mon-Fri 9:00 AM-1:00 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://hcd.harriscountytx.gov/Residents/Eviction-Prevention-Programs",
+      "confidence": "high",
+      "notes": "Also for people already assessed who want a housing status update or need to change contact info.",
+      "description_es": "Una línea telefónica para personas sin hogar o que perderán su vivienda en pocos días. Las personas que califican entran en una lista de espera para vivienda y reciben referidos rápidos a programas de ingresos.",
+      "eligibility_summary_es": "Para residentes del condado de Harris que viven en un refugio o en un lugar no apto para vivir, o que quedarán sin hogar en pocos días. No es para personas que se quedan temporalmente en casa de otros.",
+      "how_to_apply_es": "Llame a la línea de lunes a viernes, de 9 a.m. a 1 p.m. Para otras necesidades, llame al 2-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-community-resilience-rental-assistance",
+      "name": "Community Resilience Rental Assistance Program",
+      "organization": "Harris County Housing & Community Development",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Helps low- to moderate-income households at risk of eviction or homelessness stay housed through problem solving, case help, and connection to resources.",
+      "eligibility_summary_en": "For low- to moderate-income Harris County households at risk of eviction or homelessness.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 2-1-1 to be connected to the program.",
+      "apply_url": null,
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://hcd.harriscountytx.gov/Residents/Eviction-Prevention-Programs",
+      "confidence": "medium",
+      "notes": "The county page sends people to 2-1-1; exact income limits are not listed on the page.",
+      "description_es": "Ayuda a hogares de ingresos bajos a moderados que corren riesgo de desalojo o de quedarse sin hogar, con apoyo para resolver problemas, manejo de caso y conexión con recursos.",
+      "eligibility_summary_es": "Para hogares del condado de Harris de ingresos bajos a moderados en riesgo de desalojo o de quedarse sin hogar.",
+      "how_to_apply_es": "Llame al 2-1-1 para que lo conecten con el programa.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-eviction-defense-program",
+      "name": "Eviction Defense Program",
+      "organization": "Harris County Housing & Community Development",
+      "categories": [
+        "legal",
+        "housing"
+      ],
+      "description_en": "Free legal advice and court representation for renters facing eviction, including appeals and help negotiating with landlords.",
+      "eligibility_summary_en": "For Harris County residents with household income at or below 200% of the federal poverty guideline. Priority for people with lost income or financial hardship.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 200,
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Contact the listed legal provider, Lone Star Legal Aid, through Harris County HCD at 832-927-4955.",
+      "apply_url": null,
+      "phone": "(832) 927-4955",
+      "address": "1111 Fannin St., 9th Floor",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://hcd.harriscountytx.gov/Residents/Legal-Services/Eviction-Defense-Program",
+      "confidence": "high",
+      "notes": "Legal services are provided by outside vendors; Lone Star Legal Aid (832-927-4955, 1111 Fannin St., 9th Floor) is listed on the county page. Priority for people receiving unemployment, with reduced income, or facing eviction due to financial hardship.",
+      "description_es": "Consejos legales gratis y representación en la corte para inquilinos que enfrentan un desalojo, incluyendo apelaciones y ayuda para negociar con el dueño.",
+      "eligibility_summary_es": "Para residentes del condado de Harris con ingresos del hogar de hasta 200% del nivel federal de pobreza. Se da prioridad a quienes perdieron ingresos o tienen problemas económicos.",
+      "how_to_apply_es": "Comuníquese con Lone Star Legal Aid, el proveedor legal del programa, al 832-927-4955.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "housing-alliance-htx",
+      "name": "Public Housing and Housing Choice Vouchers",
+      "organization": "Housing Alliance Houston (Housing Alliance HTX)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Offers public housing, housing vouchers, and other affordable housing for low-income families, seniors, veterans, and people with disabilities in Houston.",
+      "eligibility_summary_en": "For eligible low-income households. Rules differ by program.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Use 'Apply for Housing' on the website (Rent Cafe portal) or call or visit the office. You can check your waitlist status online.",
+      "apply_url": "https://www.alliancehtx.org/housing-programs",
+      "phone": "(713) 260-0500",
+      "address": "2640 Fountain View Dr.",
+      "city": "Houston",
+      "zip": "77057",
+      "hours": "Lobby Mon-Fri 8:00 AM-6:00 PM; 2nd Wednesday 8:00 AM-1:30 PM",
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.alliancehtx.org/housing-programs",
+      "confidence": "high",
+      "notes": "Formerly known as the Houston Housing Authority (the name change was reported by earlier research; the checked page shows only the new name). Waitlist openings vary by program.",
+      "description_es": "Ofrece vivienda pública, vales de vivienda y otras opciones de vivienda económica para familias de bajos ingresos, personas mayores, veteranos y personas con discapacidades en Houston.",
+      "eligibility_summary_es": "Para hogares de bajos ingresos que califiquen. Las reglas cambian según el programa.",
+      "how_to_apply_es": "Use 'Apply for Housing' (Solicitar vivienda) en el sitio web, o llame o visite la oficina. Puede revisar su lugar en la lista de espera en línea.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-housing-authority",
+      "name": "Housing Choice Voucher Program",
+      "organization": "Harris County Housing Authority (HCHA)",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Gives rent help through Housing Choice Vouchers and runs affordable housing, including senior housing and HUD-VASH vouchers for homeless veterans.",
+      "eligibility_summary_en": "For low-income families in HCHA's service area of Harris County. Homeless veterans may qualify for HUD-VASH.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Check the waiting list page for openings. Check your status at waitlistcheck.com or email waitlist@hchatexas.org.",
+      "apply_url": "https://hchatexas.org/waitlist/",
+      "phone": "(713) 578-2100",
+      "address": "1933 Hussion St.",
+      "city": "Houston",
+      "zip": "77003",
+      "hours": "Mon-Thu 8am-5pm for appointments and document drop-off; Fri 8am-5pm document drop-off only",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.hchatexas.org/contact/",
+      "confidence": "medium",
+      "notes": "The waitlist page refers to the 2016 waiting list and gives no date for contacting applicants; it appears closed to new applicants. Waitlist questions go to waitlist@hchatexas.org. TDD: dial 711.",
+      "description_es": "Da ayuda con la renta por medio de vales de vivienda (Housing Choice Vouchers) y maneja vivienda económica, incluyendo vivienda para personas mayores y vales HUD-VASH para veteranos sin hogar.",
+      "eligibility_summary_es": "Para familias de bajos ingresos en el área de servicio de HCHA en el condado de Harris. Los veteranos sin hogar pueden calificar para HUD-VASH.",
+      "how_to_apply_es": "Revise la página de la lista de espera para ver si está abierta. Consulte su estado en waitlistcheck.com o escriba a waitlist@hchatexas.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "pasadena-housing-office-hcv",
+      "name": "Housing Choice Voucher (Section 8) Program",
+      "organization": "City of Pasadena Housing Office",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "Pays part of the rent to landlords for low-income families in Pasadena through Section 8 vouchers.",
+      "eligibility_summary_en": "For families with income generally at or below 50% of area median income who are U.S. citizens or eligible non-citizens.",
+      "eligibility_rules": {
+        "residency_required": "City of Pasadena (housing within city limits)"
+      },
+      "documents_needed": [],
+      "how_to_apply": "The waiting list is closed right now. The office will advertise when it opens.",
+      "apply_url": null,
+      "phone": "(713) 475-5544",
+      "address": "1149 Ellsworth Dr., 1st Floor",
+      "city": "Pasadena",
+      "zip": "77506",
+      "hours": "Mon-Thu 9 AM-12 PM and 1 PM-4 PM; Fri 8 AM-12 PM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free to apply",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.pasadenatx.gov/782/Housing-Services",
+      "confidence": "high",
+      "notes": "Waiting list CLOSED as of 2026-09-26. Check an existing application at waitlistcheck.com. TTY 800-735-2989. Email housing@pasadenatx.gov. Phone, hours, and TTY are from the Pasadena Housing Office page.",
+      "description_es": "Paga parte de la renta directamente al dueño para familias de bajos ingresos en Pasadena, por medio de vales de Sección 8.",
+      "eligibility_summary_es": "Para familias con ingresos, en general, de hasta el 50% del ingreso medio del área, que sean ciudadanos de EE. UU. o inmigrantes con estatus elegible.",
+      "how_to_apply_es": "La lista de espera está cerrada ahora. La oficina anunciará cuando vuelva a abrir.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "star-of-hope-mens-shelter",
+      "name": "Star of Hope Men's Shelter",
+      "organization": "Star of Hope Mission",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Free emergency shelter for men with a place to sleep, hot meals, and showers.",
+      "eligibility_summary_en": "For men experiencing homelessness. No ID is required.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "No ID required (bring ID and medicines if you have them)"
+      ],
+      "how_to_apply": "Go to the shelter; beds are first come, first served. Call the main number for help.",
+      "apply_url": null,
+      "phone": "(713) 748-0700",
+      "address": "1811 Ruiz St.",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.sohmission.org/get-help/",
+      "confidence": "high",
+      "notes": "Faith-based. Stays range from one night to 18 months. Space is not guaranteed. Phone is the Star of Hope main line; the Coalition for the Homeless directory lists 713-227-8900 for the Men's Development Center.",
+      "description_es": "Refugio de emergencia gratis para hombres, con cama, comidas calientes y duchas.",
+      "eligibility_summary_es": "Para hombres sin hogar. No se necesita identificación.",
+      "how_to_apply_es": "Vaya al refugio; las camas se dan por orden de llegada. Llame al número principal si necesita ayuda.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "star-of-hope-womens-family-shelter",
+      "name": "Star of Hope Women and Family Shelter",
+      "organization": "Star of Hope Mission",
+      "categories": [
+        "housing",
+        "food"
+      ],
+      "description_en": "Free shelter for women and single parents with children, with food, clothes, and childcare.",
+      "eligibility_summary_en": "For women and single-parent families with children who are homeless. No ID is required.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [
+        "No ID required (bring ID and medicines if you have them)"
+      ],
+      "how_to_apply": "Go to the shelter; space is first come, first served. Call the main number for help.",
+      "apply_url": null,
+      "phone": "(713) 748-0700",
+      "address": "2575 Reed Rd.",
+      "city": "Houston",
+      "zip": "77051",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.sohmission.org/get-help/",
+      "confidence": "high",
+      "notes": "Faith-based. Children welcome. Stays range from one night to 18 months. Space is not guaranteed. 713-748-0700 is the Star of Hope main line.",
+      "description_es": "Refugio gratis para mujeres y para padres o madres solteros con hijos, con comida, ropa y cuidado de niños.",
+      "eligibility_summary_es": "Para mujeres y familias de un solo padre o madre con hijos que no tienen hogar. No se necesita identificación.",
+      "how_to_apply_es": "Vaya al refugio; el espacio se da por orden de llegada. Llame al número principal si necesita ayuda.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "the-beacon-houston",
+      "name": "The Beacon Day Center",
+      "organization": "The Beacon",
+      "categories": [
+        "food",
+        "housing",
+        "legal"
+      ],
+      "description_en": "Free breakfast and lunch, showers, and laundry for people who are homeless. Also offers housing assessments, help getting benefits, mail service, and civil legal aid.",
+      "eligibility_summary_en": "For adults experiencing homelessness in Houston.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Enter through the Day Center on Caroline Street. For Coordinated Entry (Tue-Fri) or legal aid (Fri), sign up at intake at 7 AM; only the first 25 people are seen.",
+      "apply_url": null,
+      "phone": "(713) 220-9737",
+      "address": "1212 Prairie St.",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": "Meals, laundry, and showers Tue-Sat; breakfast 7-9:30 am, lunch 11 am-12 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.beaconhomeless.org/gethelp",
+      "confidence": "high",
+      "notes": "All services are first come, first served and not guaranteed. Mailing address: 1117 Texas Ave, Houston 77002. Newly homeless people can also call 2-1-1.",
+      "description_es": "Desayuno y almuerzo gratis, duchas y lavandería para personas sin hogar. También ofrece evaluaciones para vivienda, ayuda para obtener beneficios, servicio de correo y ayuda legal civil.",
+      "eligibility_summary_es": "Para adultos sin hogar en Houston.",
+      "how_to_apply_es": "Entre por el Centro de Día en la calle Caroline. Para Coordinated Entry (martes a viernes) o ayuda legal (viernes), anótese en la recepción a las 7 a.m.; solo atienden a las primeras 25 personas.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "search-homeless-services",
+      "name": "SEARCH Homeless Services",
+      "organization": "SEARCH Homeless Services",
+      "categories": [
+        "housing"
+      ],
+      "description_en": "A street outreach team brings food, water, and clothing to people living outside and helps them get housing, health care, and benefits.",
+      "eligibility_summary_en": "For people and families experiencing homelessness in Houston.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call SEARCH. If you need help right away, call 2-1-1.",
+      "apply_url": null,
+      "phone": "(713) 739-7752",
+      "address": "1712 Pease St.",
+      "city": "Houston",
+      "zip": "77003",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.searchhomeless.org/services/engage-stabilize/",
+      "confidence": "high",
+      "notes": "Mobile Outreach Team visits places where people who are homeless gather.",
+      "description_es": "Un equipo de alcance en la calle lleva comida, agua y ropa a personas que viven afuera, y les ayuda a conseguir vivienda, atención médica y beneficios.",
+      "eligibility_summary_es": "Para personas y familias sin hogar en Houston.",
+      "how_to_apply_es": "Llame a SEARCH. Si necesita ayuda de inmediato, llame al 2-1-1.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "coalition-for-the-homeless-houston",
+      "name": "The Way Home Coordinated Homeless Response",
+      "organization": "Coalition for the Homeless of Houston/Harris County",
+      "categories": [
+        "housing",
+        "transportation"
+      ],
+      "description_en": "Leads the local system that connects people who are homeless to shelter and housing. Offers an online Help Card directory and free Project Access rides to services.",
+      "eligibility_summary_en": "For people experiencing homelessness in Houston and Harris County.",
+      "eligibility_rules": {
+        "unhoused": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 2-1-1 to start. Use the Help Card directory on the Coalition website.",
+      "apply_url": "https://www.cfthhouston.org/gethelp",
+      "phone": "2-1-1",
+      "address": "2000 Crawford St., Suite 700",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.cfthhouston.org/",
+      "confidence": "high",
+      "notes": "The Coalition does not provide services on site; office phone (713) 739-7514 is for general questions.",
+      "description_es": "Dirige el sistema local que conecta a personas sin hogar con refugio y vivienda. Ofrece un directorio en línea (Help Card) y viajes gratis de Project Access para llegar a servicios.",
+      "eligibility_summary_es": "Para personas sin hogar en Houston y el condado de Harris.",
+      "how_to_apply_es": "Llame al 2-1-1 para empezar. Use el directorio Help Card en el sitio web de la Coalición.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "metro-discount-fare-card",
+      "name": "RideMETRO Discount Fare Card",
+      "organization": "Metropolitan Transit Authority of Harris County (METRO)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Half-price bus and rail fares for students, seniors 65-69, and people with disabilities. Free rides for seniors 70 and older and qualified veterans.",
+      "eligibility_summary_en": "For K-12 and college students, seniors 65 and older, people with disabilities, and qualified veterans (medal of valor or certain service-connected disability).",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Government-issued photo ID",
+        "Students: class schedule, report card, or enrollment letter",
+        "Disability: physician's statement or other proof",
+        "Veterans: VA-signed METRO Veterans Pass application"
+      ],
+      "how_to_apply": "Apply online at the METRO Online RideStore and upload documents, or bring them to a METRO RideStore. People with disabilities must apply in person.",
+      "apply_url": "https://www.ridemetro.org/fares/all-about-fares",
+      "phone": "(713) 635-4000",
+      "address": "1900 Main St.",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": true,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Discounted local fare $0.60 (regular $1.25); free for ages 70+ and qualified veterans",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.ridemetro.org/fares/all-about-fares",
+      "confidence": "high",
+      "notes": "Harris County jurors can ride free on jury days. TTY (713) 635-6993. RideStore at 1900 Main St.",
+      "description_es": "Pasajes de autobús y tren a mitad de precio para estudiantes, personas de 65 a 69 años y personas con discapacidades. Viajes gratis para personas de 70 años o más y veteranos que califiquen.",
+      "eligibility_summary_es": "Para estudiantes de kínder a 12.º grado y de universidad, personas de 65 años o más, personas con discapacidades y veteranos que califiquen (medalla al valor o cierta discapacidad por el servicio militar).",
+      "how_to_apply_es": "Solicite en línea en la METRO Online RideStore y suba sus documentos, o llévelos a una tienda METRO RideStore. Las personas con discapacidades deben solicitar en persona.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "metrolift-paratransit",
+      "name": "METROLift Paratransit",
+      "organization": "Metropolitan Transit Authority of Harris County (METRO)",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Shared-ride van service for people whose disability keeps them from using regular METRO buses and trains.",
+      "eligibility_summary_en": "For people with a disability who cannot get to a bus stop or use METRO's accessible services without help.",
+      "eligibility_rules": {
+        "disability": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Review eligibility and apply through METRO's METROLift application process, which includes an in-person interview. Call METROLift Customer Service for help.",
+      "apply_url": "https://www.ridemetro.org/riding-metro/transit-services/metrolift-paratransit",
+      "phone": "(713) 225-0119",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Customer Service Mon-Fri 10 a.m.-5 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "$1.25 per one-way trip in the base service area; $2.50 in the extended service area",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.ridemetro.org/riding-metro/transit-services/metrolift-paratransit",
+      "confidence": "high",
+      "notes": "TTY 713-652-8969. Scheduling live agent (713) 225-6716 Mon-Fri 8-5; automated line (713) 739-4690; same-day trips via zTrip (713) 255-7024. Eligibility decision in writing within 21 days of the interview.",
+      "description_es": "Servicio de camioneta compartida para personas cuya discapacidad no les permite usar los autobuses y trenes regulares de METRO.",
+      "eligibility_summary_es": "Para personas con una discapacidad que no pueden llegar a la parada o usar los servicios accesibles de METRO sin ayuda.",
+      "how_to_apply_es": "Revise los requisitos y solicite por medio de METROLift; el proceso incluye una entrevista en persona. Llame a Servicio al Cliente de METROLift si necesita ayuda.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-rides",
+      "name": "Harris County RIDES",
+      "organization": "Harris County Housing & Community Development - Transit Services",
+      "categories": [
+        "transportation"
+      ],
+      "description_en": "Discounted curb-to-curb rides by shared van, taxi, or Uber for seniors and people with disabilities. You pay 40% of the trip cost.",
+      "eligibility_summary_en": "For Harris County residents who are 65 or older OR have a disability, and cannot use METRO or have no other transportation.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [
+        "Proof of age (ID) or proof of disability (SSI award letter or doctor's letter)",
+        "Completed RIDES registration form"
+      ],
+      "how_to_apply": "Mail the registration form and documents to Harris County RIDES, or call 713-368-7433 to set an in-person appointment.",
+      "apply_url": "https://rides.harriscountytx.gov/Registration/How-to-Apply",
+      "phone": "(713) 368-7433",
+      "address": "8410 Lantern Point Drive",
+      "city": "Houston",
+      "zip": "77054",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Rider pays 40% of trip cost",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://rides.harriscountytx.gov/Registration/Registration-Information",
+      "confidence": "high",
+      "notes": "Age 65+ OR disability qualifies (either one). You can register with only one agency. No personal checks for loading the fare card (money orders, cashier's checks, and online credit cards accepted).",
+      "description_es": "Viajes de puerta a puerta con descuento, en camioneta compartida, taxi o Uber, para personas mayores y personas con discapacidades. Usted paga el 40% del costo del viaje.",
+      "eligibility_summary_es": "Para residentes del condado de Harris que tienen 65 años o más O una discapacidad, y que no pueden usar METRO o no tienen otro transporte.",
+      "how_to_apply_es": "Envíe por correo el formulario de registro y sus documentos a Harris County RIDES, o llame al 713-368-7433 para hacer una cita en persona.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-county-transit-nemt",
+      "name": "Non-Emergency Medical Transportation Program",
+      "organization": "Harris County Transit",
+      "categories": [
+        "transportation",
+        "healthcare"
+      ],
+      "description_en": "Free rides to medical appointments such as dialysis, chemotherapy, and radiation for eligible residents of East Harris County.",
+      "eligibility_summary_en": "For Harris County residents 62 or older OR with a disability who live in the unincorporated East Harris County service area (19 communities such as Channelview, Crosby, Humble, Deer Park) and cannot use METRO.",
+      "eligibility_rules": {
+        "residency_required": "East Harris County (HCMP service area)"
+      },
+      "documents_needed": [
+        "Valid ID",
+        "Proof of residency",
+        "Proof of disability (if under 62)",
+        "Completed intake packet"
+      ],
+      "how_to_apply": "Call 832-927-4952 to get an application.",
+      "apply_url": null,
+      "phone": "(832) 927-4952",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://transit.harriscountytx.gov/Maps-Services/Non-Emergency-Medical-Program",
+      "confidence": "high",
+      "notes": "Age 62+ OR disability qualifies. Only for medically necessary trips. Separate from ADA paratransit.",
+      "description_es": "Viajes gratis a citas médicas, como diálisis, quimioterapia y radiación, para residentes que califiquen en el este del condado de Harris.",
+      "eligibility_summary_es": "Para residentes del condado de Harris de 62 años o más O con una discapacidad, que viven en el área de servicio del este del condado (19 comunidades como Channelview, Crosby, Humble y Deer Park) y no pueden usar METRO.",
+      "how_to_apply_es": "Llame al 832-927-4952 para pedir una solicitud.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-health-financial-assistance",
+      "name": "Harris Health Financial Assistance Program",
+      "organization": "Harris Health",
+      "categories": [
+        "healthcare"
+      ],
+      "description_en": "Lowers the cost of care at Harris Health hospitals and clinics for low-income residents. It is not insurance.",
+      "eligibility_summary_en": "For Harris County residents with household income at or below 150% of the federal poverty level.",
+      "eligibility_rules": {
+        "max_income_pct_fpl": 150,
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [
+        "Proof of identity",
+        "Proof of income",
+        "Proof of Harris County residency (such as a lease, DMV record, or Residence Verification Form)"
+      ],
+      "how_to_apply": "Apply online, by mail (P.O. Box 300488, Houston, TX 77230), or call the Eligibility Call Center. There is no fee to apply.",
+      "apply_url": "https://ola.veritysource.com/harris",
+      "phone": "(713) 566-6509",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Call center Mon-Fri 8 a.m.-4 p.m.; 4th Friday 8 a.m.-2 p.m.",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese"
+      ],
+      "cost": "Reduced cost; a small payment is asked at visits (except pediatric and prenatal care)",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.harrishealth.org/access-care/patient-eligibility",
+      "confidence": "high",
+      "notes": "There is no fee to apply; never pay anyone to fill out the application and report it to the Compliance Hotline 844-565-0621. Fast-track applications are available at some health centers for recently discharged patients or scheduled surgeries.",
+      "description_es": "Baja el costo de la atención médica en los hospitales y clínicas de Harris Health para residentes de bajos ingresos. No es un seguro médico.",
+      "eligibility_summary_es": "Para residentes del condado de Harris con ingresos del hogar de hasta 150% del nivel federal de pobreza.",
+      "how_to_apply_es": "Solicite en línea, por correo (P.O. Box 300488, Houston, TX 77230) o llame al Centro de Llamadas de Elegibilidad. Solicitar no cuesta nada.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "harris-center-crisis-line",
+      "name": "The Harris Center 24/7 Crisis and Access Line",
+      "organization": "The Harris Center for Mental Health and IDD",
+      "categories": [
+        "mental_health"
+      ],
+      "description_en": "Mental health, crisis, and developmental disability services for Harris County. Crisis counselors answer 24 hours a day.",
+      "eligibility_summary_en": "For Harris County residents with mental health or IDD needs, including people who are uninsured or cannot pay.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 Crisis and Access Line to get help or start services.",
+      "apply_url": null,
+      "phone": "(713) 970-7000",
+      "address": "9401 Southwest Freeway",
+      "city": "Houston",
+      "zip": "77074",
+      "hours": "24/7 crisis line",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Care is offered to people who are uninsured or cannot pay, based on their financial situation",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.theharriscenter.org/",
+      "confidence": "high",
+      "notes": "Local Mental Health Authority for Harris County.",
+      "description_es": "Servicios de salud mental, crisis y discapacidades del desarrollo (IDD) en el condado de Harris. Consejeros de crisis contestan las 24 horas del día.",
+      "eligibility_summary_es": "Para residentes del condado de Harris con necesidades de salud mental o IDD, incluso si no tienen seguro o no pueden pagar.",
+      "how_to_apply_es": "Llame a la Línea de Crisis y Acceso, abierta 24/7, para recibir ayuda o empezar servicios.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-gulf-coast-career-offices",
+      "name": "Workforce Solutions Career Offices",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "employment"
+      ],
+      "description_en": "Free help finding a job, job training, and help with unemployment benefits. Offices across Houston and in Baytown.",
+      "eligibility_summary_en": "For job seekers, including veterans, people with disabilities, seniors, and youth.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit a career office or call 1-888-469-5627. East End office: 4450 Harrisburg Suite 100, Houston 77011, 713-228-8848. Baytown office: 4308-B Garth Road, Baytown 77521, 281-837-0079.",
+      "apply_url": "https://www.wrksolutions.com/find-a-career-office",
+      "phone": "(888) 469-5627",
+      "address": "4450 Harrisburg Suite 100",
+      "city": "Houston",
+      "zip": "77011",
+      "hours": "Mon-Fri 8:00 am-5:00 pm",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/find-a-career-office",
+      "confidence": "high",
+      "notes": "Other Harris County offices include Acres Homes, Cypress Station, Northeast, Northline, Southeast (12148-B Gulf Fwy, 713-576-2580), Southwest, and Willowbrook. East End office phone 713-228-8848.",
+      "description_es": "Ayuda gratis para encontrar trabajo, capacitación laboral y ayuda con beneficios de desempleo. Hay oficinas en todo Houston y en Baytown.",
+      "eligibility_summary_es": "Para personas que buscan trabajo, incluyendo veteranos, personas con discapacidades, personas mayores y jóvenes.",
+      "how_to_apply_es": "Visite una oficina o llame al 1-888-469-5627. Oficina East End: 4450 Harrisburg Suite 100, Houston 77011, 713-228-8848. Oficina de Baytown: 4308-B Garth Road, Baytown 77521, 281-837-0079.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "workforce-solutions-child-care-scholarships",
+      "name": "Child Care Scholarships (Child Care Financial Aid)",
+      "organization": "Workforce Solutions - Gulf Coast",
+      "categories": [
+        "school_childcare"
+      ],
+      "description_en": "Helps pay for child care so parents can work, go to school or training, or look for work. Families may get up to 12 months of help.",
+      "eligibility_summary_en": "For working, training, or job-seeking families earning up to 85% of State Median Income (for example $6,443 a month for 3 people, Oct 2025-Sep 2026). Children up to age 19 with a documented disability may qualify.",
+      "eligibility_rules": {
+        "requires_children": true
+      },
+      "documents_needed": [
+        "Proof of identity and citizenship or immigration status for the child",
+        "Income for the last 13 weeks for working household members",
+        "School or training details for adults in training",
+        "Licensed or registered child care provider information"
+      ],
+      "how_to_apply": "Create an account and apply in the statewide KinderConnect system. You may be placed on a waitlist.",
+      "apply_url": "https://www.wrksolutions.com/childcare-financial-assistance",
+      "phone": "(713) 334-5980",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "Financial Aid Support Center Mon-Fri 7:00 am-5:00 pm",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free to apply; parent share may apply",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.wrksolutions.com/childcare-financial-assistance",
+      "confidence": "high",
+      "notes": "There is currently a waitlist. Processing takes up to 20 days after all documents are received. Text line 346-249-7700. Child care referrals: 713-500-3725. The posted income chart is effective through Sep 30, 2026 and may change.",
+      "description_es": "Ayuda a pagar el cuidado de niños para que los padres puedan trabajar, estudiar, capacitarse o buscar trabajo. Las familias pueden recibir hasta 12 meses de ayuda.",
+      "eligibility_summary_es": "Para familias que trabajan, estudian o buscan trabajo y ganan hasta el 85% del ingreso medio del estado (por ejemplo, $6,443 al mes para 3 personas, de octubre de 2025 a septiembre de 2026). Niños con una discapacidad documentada pueden calificar hasta los 19 años.",
+      "how_to_apply_es": "Cree una cuenta y solicite en el sistema estatal KinderConnect. Es posible que lo pongan en una lista de espera.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "lone-star-legal-aid-houston",
+      "name": "Lone Star Legal Aid",
+      "organization": "Lone Star Legal Aid",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free civil legal help for low-income people, including eviction, family law, public benefits, consumer, veterans, and domestic violence cases.",
+      "eligibility_summary_en": "For low-income people who meet the financial and legal status rules. Civil cases only, not criminal.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Apply online from the website or call the Houston office or the toll-free line.",
+      "apply_url": "https://www.lonestarlegal.org/",
+      "phone": "(713) 652-0077",
+      "address": "1415 Fannin Street",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.lonestarlegal.org/",
+      "confidence": "high",
+      "notes": "Toll-free (800) 733-8394. Serves many East and Gulf Coast Texas counties.",
+      "description_es": "Ayuda legal civil gratis para personas de bajos ingresos, incluyendo desalojos, derecho familiar, beneficios públicos, casos de consumidores, veteranos y violencia doméstica.",
+      "eligibility_summary_es": "Para personas de bajos ingresos que cumplan con las reglas de ingresos y estatus legal. Solo casos civiles, no criminales.",
+      "how_to_apply_es": "Solicite en línea en el sitio web o llame a la oficina de Houston o a la línea gratuita.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-volunteer-lawyers",
+      "name": "Houston Volunteer Lawyers / HBA LegalLine",
+      "organization": "Houston Volunteer Lawyers",
+      "categories": [
+        "legal"
+      ],
+      "description_en": "Free legal help from volunteer lawyers on family, housing, wills, veterans, taxes, unpaid wages, and other non-criminal issues.",
+      "eligibility_summary_en": "For eligible low-income residents of the Greater Houston area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Take the online questionnaire at legalhelphouston.org to see if HVL can help, or call.",
+      "apply_url": "https://legalhelphouston.org/",
+      "phone": "(713) 228-0735",
+      "address": "1000 Louisiana St., Suite 3600",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://legalhelphouston.org/",
+      "confidence": "high",
+      "notes": "A service of the Houston Bar Association; runs the HBA LegalLine. Email info@hvlp.org.",
+      "description_es": "Ayuda legal gratis de abogados voluntarios en temas de familia, vivienda, testamentos, veteranos, impuestos, salarios no pagados y otros asuntos no criminales.",
+      "eligibility_summary_es": "Para residentes de bajos ingresos del área de Houston que califiquen.",
+      "how_to_apply_es": "Conteste el cuestionario en línea en legalhelphouston.org para saber si HVL le puede ayudar, o llame.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-health-department-wic",
+      "name": "Houston Health Department WIC",
+      "organization": "Houston Health Department",
+      "categories": [
+        "food",
+        "healthcare"
+      ],
+      "description_en": "Healthy foods, nutrition education, breastfeeding support, and health referrals for pregnant women, new moms, babies, and children under 5.",
+      "eligibility_summary_en": "For low-income pregnant, postpartum, or breastfeeding women, infants, and children up to age 5 who live in Texas. You do not have to be a U.S. citizen.",
+      "eligibility_rules": {
+        "child_under_5": true,
+        "pregnant": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call 832-393-5427 to apply and find a WIC clinic.",
+      "apply_url": "https://www.houstonhealth.org/services/family-child-health/wic",
+      "phone": "(832) 393-5427",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonhealth.org/services/family-child-health/wic",
+      "confidence": "high",
+      "notes": "Serves Houston and Harris County. Pregnant/postpartum OR having a child under 5 qualifies (either one).",
+      "description_es": "Alimentos saludables, clases de nutrición, apoyo para la lactancia y referidos de salud para mujeres embarazadas, mamás recientes, bebés y niños menores de 5 años.",
+      "eligibility_summary_es": "Para mujeres embarazadas, que dieron a luz recientemente o que dan pecho, bebés y niños de hasta 5 años, de bajos ingresos, que vivan en Texas. No tiene que ser ciudadano de EE. UU.",
+      "how_to_apply_es": "Llame al 832-393-5427 para solicitar y encontrar una clínica WIC.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nam-food-pantry",
+      "name": "NAM Food Pantry (Joanne Watford Nutrition Center)",
+      "organization": "Northwest Assistance Ministries (NAM)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A choice food pantry where you pick your own groceries. Start at NAM's Central Intake office.",
+      "eligibility_summary_en": "For people in need in NAM's northwest Harris County service area.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Visit NAM Central Intake Monday-Friday, 9 AM-2 PM (walk-in appointments).",
+      "apply_url": null,
+      "phone": "(281) 885-4555",
+      "address": "15555 Kuykendahl Rd.",
+      "city": "Houston",
+      "zip": "77090",
+      "hours": "Mon-Fri 9:00 AM-2:00 PM",
+      "walk_in": true,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.namonline.org/food-pantry",
+      "confidence": "high",
+      "notes": "NAM serves a set list of zip codes in northwest Harris County. Phone is NAM's main office.",
+      "description_es": "Una despensa donde usted escoge sus propios alimentos. Empiece en la oficina de Admisión Central (Central Intake) de NAM.",
+      "eligibility_summary_es": "Para personas necesitadas en el área de servicio de NAM, en el noroeste del condado de Harris.",
+      "how_to_apply_es": "Visite la oficina de Admisión Central de NAM de lunes a viernes, de 9 a.m. a 2 p.m.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "nam-rent-utility-assistance",
+      "name": "NAM Rent, Mortgage and Utility Assistance",
+      "organization": "Northwest Assistance Ministries (NAM)",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Emergency help paying rent, mortgage, or utility bills after a sudden loss of income or emergency expense.",
+      "eligibility_summary_en": "For people in NAM's zip code service area who can prove a recent loss of income or emergency expense. Rent help uses a monthly random selection.",
+      "eligibility_rules": {
+        "job_loss": true
+      },
+      "documents_needed": [
+        "Photo ID for adults",
+        "Social Security cards for every household member",
+        "Birth certificates for children",
+        "Signed lease or mortgage statement (last 30 days)",
+        "Utility bill dated within 30 days",
+        "Proof of household income for past 45 days",
+        "Proof of loss of income or emergency expense (within 90 days)"
+      ],
+      "how_to_apply": "Apply online on the NAM Rental Assistance or Utility Assistance page. You need email and phone access.",
+      "apply_url": "https://www.namonline.org/utility-assistance",
+      "phone": "(281) 885-4555",
+      "address": "15555 Kuykendahl Rd.",
+      "city": "Houston",
+      "zip": "77090",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.namonline.org/rental-assistance",
+      "confidence": "high",
+      "notes": "Rent: random selection on the 1st of each month; selection does not guarantee funding. Utility: bill and lease must be in your name; loss must be within 90 days; response within 2 business days. Phone is NAM's main office. 'job_loss' also covers other loss of income or emergency expense.",
+      "description_es": "Ayuda de emergencia para pagar la renta, la hipoteca o las facturas de servicios después de una pérdida repentina de ingresos o un gasto de emergencia.",
+      "eligibility_summary_es": "Para personas en los códigos postales que atiende NAM que puedan comprobar una pérdida reciente de ingresos o un gasto de emergencia. La ayuda con la renta se da por sorteo cada mes.",
+      "how_to_apply_es": "Solicite en línea en la página de ayuda con renta o con servicios de NAM. Necesita correo electrónico y teléfono.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "im-houston-meals-on-wheels",
+      "name": "Meals on Wheels for Greater Houston",
+      "organization": "Interfaith Ministries for Greater Houston (IM Houston)",
+      "categories": [
+        "food"
+      ],
+      "description_en": "Delivers lunch meals to homebound seniors and adults with disabilities. Seniors with pets can also get free pet food through Animeals.",
+      "eligibility_summary_en": "For homebound seniors and adults with disabilities.",
+      "eligibility_rules": {
+        "senior": true
+      },
+      "documents_needed": [],
+      "how_to_apply": "Call IM Houston or use the contact form on the Meals on Wheels page to ask about signing up.",
+      "apply_url": null,
+      "phone": "(713) 533-4900",
+      "address": "3303 Main Street",
+      "city": "Houston",
+      "zip": "77002",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": null,
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris",
+        "Galveston",
+        "Montgomery",
+        "Liberty"
+      ],
+      "source_url": "https://imgh.org/imhouston-meals-on-wheels/",
+      "confidence": "high",
+      "notes": "Serves Harris, Galveston, Montgomery, and Liberty counties. Phone is IM Houston's main line. Cost was not stated on the page.",
+      "description_es": "Lleva almuerzos a la casa de personas mayores y adultos con discapacidades que no pueden salir de casa. Las personas mayores con mascotas también pueden recibir comida gratis para sus mascotas (Animeals).",
+      "eligibility_summary_es": "Para personas mayores y adultos con discapacidades que no pueden salir de casa.",
+      "how_to_apply_es": "Llame a IM Houston o use el formulario de contacto en la página de Meals on Wheels para preguntar cómo inscribirse.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-area-womens-center",
+      "name": "Houston Area Women's Center 24/7 Hotlines",
+      "organization": "Houston Area Women's Center (HAWC)",
+      "categories": [
+        "housing",
+        "mental_health",
+        "legal"
+      ],
+      "description_en": "Free 24/7 hotlines for domestic violence and sexual assault survivors. Counselors can arrange emergency housing and connect you to counseling, legal help, and more.",
+      "eligibility_summary_en": "For survivors of domestic violence, sexual assault, or trafficking.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call the 24/7 hotline. It is the way to reach all HAWC services. Call 911 in an emergency.",
+      "apply_url": null,
+      "phone": "(713) 528-2121",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://hawc.org/24-hour-hotlines/",
+      "confidence": "high",
+      "notes": "Sexual Assault Hotline (713) 528-7273. Toll-free DV 1-800-256-0551. TTY (346) 295-8994. Shelter location is kept confidential.",
+      "description_es": "Líneas de ayuda gratis, abiertas 24/7, para sobrevivientes de violencia doméstica y agresión sexual. Los consejeros pueden conseguir vivienda de emergencia y conectarle con consejería, ayuda legal y más.",
+      "eligibility_summary_es": "Para sobrevivientes de violencia doméstica, agresión sexual o trata de personas.",
+      "how_to_apply_es": "Llame a la línea de ayuda 24/7. Es la forma de llegar a todos los servicios de HAWC. En una emergencia, llame al 911.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "catholic-charities-guadalupe-center-market",
+      "name": "Guadalupe Center Market (Food Pantry)",
+      "organization": "Catholic Charities of the Archdiocese of Galveston-Houston",
+      "categories": [
+        "food"
+      ],
+      "description_en": "A food pantry where registered clients shop for groceries, plus drive-through food distributions.",
+      "eligibility_summary_en": "For households who register using the USDA household application. It is not a walk-in pantry for new clients.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Names of household members",
+        "Household address",
+        "Current benefits received",
+        "Phone number"
+      ],
+      "how_to_apply": "Call 713-251-6919 to register before you come.",
+      "apply_url": null,
+      "phone": "(713) 251-6919",
+      "address": "326 S Jensen Dr",
+      "city": "Houston",
+      "zip": "77003",
+      "hours": "Tue drive-thru 9 AM-12 PM; Wed-Thu walk-up (registered clients) 9 AM-12 PM; 3rd Tuesday seniors only; monthly Saturday drive-through 8:30-11:30 AM",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://catholiccharities.org/food/",
+      "confidence": "high",
+      "notes": "Clients shop by appointment and must pre-qualify. Closed on listed holidays; check the page for Saturday drive-through dates. Fridays are for enrolled Food for Change clients only.",
+      "description_es": "Una despensa donde los clientes registrados escogen sus alimentos, además de repartos de comida desde el carro.",
+      "eligibility_summary_es": "Para hogares que se registren con la solicitud de hogar del USDA. No es una despensa sin cita para clientes nuevos.",
+      "how_to_apply_es": "Llame al 713-251-6919 para registrarse antes de ir.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "catholic-charities-harris-rental-utility-assistance",
+      "name": "Housing and Utility Assistance",
+      "organization": "Catholic Charities of the Archdiocese of Galveston-Houston",
+      "categories": [
+        "housing",
+        "utilities"
+      ],
+      "description_en": "Rent help for Harris County residents behind on rent, eviction help for City of Houston residents, and electric bill help for certain providers.",
+      "eligibility_summary_en": "Rent: Harris County residents with a late notice who are behind on this month's rent or mortgage. Eviction help: City of Houston residents with a court order or court date.",
+      "eligibility_rules": {
+        "residency_required": "Harris County resident"
+      },
+      "documents_needed": [
+        "Late notice or eviction court documents",
+        "Lease signed by both parties",
+        "Government-issued ID"
+      ],
+      "how_to_apply": "Check the Catholic Charities housing page for when applications reopen, or call the main number.",
+      "apply_url": "https://catholiccharities.org/housing/",
+      "phone": "(713) 526-4611",
+      "address": "2900 Louisiana Street",
+      "city": "Houston",
+      "zip": "77006",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "county",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://catholiccharities.org/housing/",
+      "confidence": "medium",
+      "notes": "As of 2026-09-26, the Harris County rent, City of Houston eviction, and utility applications were all CLOSED with no reopening date. Utility help is limited to listed electric providers (e.g., Reliant, Direct Energy, Cirro, Green Mountain). Funds are limited and help is not guaranteed.",
+      "description_es": "Ayuda con la renta para residentes del condado de Harris atrasados en el pago, ayuda con desalojos para residentes de la Ciudad de Houston, y ayuda con la factura de luz de ciertas compañías.",
+      "eligibility_summary_es": "Renta: residentes del condado de Harris con aviso de atraso que deben la renta o hipoteca de este mes. Desalojo: residentes de la Ciudad de Houston con orden o fecha de corte.",
+      "how_to_apply_es": "Revise la página de vivienda de Catholic Charities para ver cuándo vuelven a abrir las solicitudes, o llame al número principal.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "legacy-community-health-pasadena",
+      "name": "Legacy Community Health - Pasadena Clinic",
+      "organization": "Legacy Community Health",
+      "categories": [
+        "healthcare",
+        "mental_health"
+      ],
+      "description_en": "A community health center with adult medicine, behavioral health, dental, OB/GYN, pediatrics, and pharmacy. Discounts are based on income and family size.",
+      "eligibility_summary_en": "Serves patients regardless of ability to pay.",
+      "eligibility_rules": {},
+      "documents_needed": [
+        "Proof of identity",
+        "Proof of income"
+      ],
+      "how_to_apply": "Call 832-548-5000 to make an appointment or meet with an Eligibility Specialist.",
+      "apply_url": "https://www.legacycommunityhealth.org/patient-center/eligibility/",
+      "phone": "(832) 548-5000",
+      "address": "1951 Southmore Ave.",
+      "city": "Pasadena",
+      "zip": "77502",
+      "hours": null,
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Sliding scale based on income and family size",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.legacycommunityhealth.org/pasadena/",
+      "confidence": "high",
+      "notes": "Payment is expected at the time of service (cash, debit, credit, money order; no checks). Accepts most insurance, Medicaid, CHIP, and Medicare.",
+      "description_es": "Un centro de salud comunitario con medicina para adultos, salud mental, dental, ginecología y obstetricia, pediatría y farmacia. Hay descuentos según sus ingresos y el tamaño de su familia.",
+      "eligibility_summary_es": "Atiende a pacientes aunque no puedan pagar.",
+      "how_to_apply_es": "Llame al 832-548-5000 para hacer una cita o para reunirse con un especialista de elegibilidad.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "211-texas-united-way-helpline-houston",
+      "name": "211 Texas/United Way HELPLINE",
+      "organization": "United Way of Greater Houston",
+      "categories": [
+        "food",
+        "housing",
+        "utilities",
+        "cash_assistance",
+        "transportation"
+      ],
+      "description_en": "A free 24/7 helpline that connects you to local help for food, housing, utility bills, and more.",
+      "eligibility_summary_en": "For anyone in the Houston area who needs help finding services.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call 2-1-1 or 1-877-541-7905, text your ZIP code to 898211, or search 211texas.org.",
+      "apply_url": "https://www.211texas.org",
+      "phone": "2-1-1",
+      "address": null,
+      "city": null,
+      "zip": null,
+      "hours": "24/7",
+      "walk_in": false,
+      "apply_online": true,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "region",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://unitedwayhouston.org/what-we-do/211-texas-united-way-helpline/",
+      "confidence": "high",
+      "notes": "Also the entry point for Harris County rental assistance and homeless services.",
+      "description_es": "Una línea de ayuda gratis, abierta 24/7, que le conecta con ayuda local para comida, vivienda, facturas de servicios y más.",
+      "eligibility_summary_es": "Para cualquier persona del área de Houston que necesite encontrar servicios.",
+      "how_to_apply_es": "Llame al 2-1-1 o al 1-877-541-7905, envíe su código postal por mensaje de texto al 898211, o busque en 211texas.org.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    },
+    {
+      "id": "houston-water-fund",
+      "name": "W.A.T.E.R. Fund",
+      "organization": "City of Houston - Houston Public Works",
+      "categories": [
+        "utilities"
+      ],
+      "description_en": "Helps pay City of Houston water bills for seniors, low-income, and disabled residents. It is paid for by donations.",
+      "eligibility_summary_en": "For Houston water customers who are seniors, low-income, or disabled.",
+      "eligibility_rules": {},
+      "documents_needed": [],
+      "how_to_apply": "Call Houston Public Works Utility Billing at 713-371-1400 to ask about W.A.T.E.R. Fund help.",
+      "apply_url": "https://www.houstonpublicworks.org/utility-billing",
+      "phone": "(713) 371-1400",
+      "address": null,
+      "city": "Houston",
+      "zip": null,
+      "hours": "Utility Billing Mon-Fri 8:00 a.m.-7:00 p.m.",
+      "walk_in": false,
+      "apply_online": false,
+      "languages": [],
+      "cost": "Free",
+      "coverage_type": "city",
+      "coverage_counties": [
+        "Harris"
+      ],
+      "source_url": "https://www.houstonpublicworks.org/utility-billing",
+      "confidence": "medium",
+      "notes": "The program is listed on the city's utility billing page (funded by donations), but application steps and income limits were not shown, and the linked detail page returned an error (404). Phone is the general Utility Billing line. Confirm details before referring.",
+      "description_es": "Ayuda a pagar las facturas de agua de la Ciudad de Houston para personas mayores, de bajos ingresos o con discapacidades. Se paga con donaciones.",
+      "eligibility_summary_es": "Para clientes del agua de Houston que sean personas mayores, de bajos ingresos o con discapacidades.",
+      "how_to_apply_es": "Llame a Facturación de Servicios de Houston Public Works al 713-371-1400 para preguntar por la ayuda del W.A.T.E.R. Fund.",
+      "verified": true,
+      "verified_date": "2026-09-26"
+    }
+  ],
+  "dropped": []
+}

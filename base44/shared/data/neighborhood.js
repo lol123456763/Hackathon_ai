@@ -52,7 +52,7 @@ export const VOLUNTEERS = [
 ];
 
 // Sample 30-day history shown on the Impact board (labeled "sample data").
-export const SAMPLE_IMPACT = { lbs: 1284, meals: 1070, families: 46, hours: 212, plans: 38, volunteers: 19 };
+export const SAMPLE_IMPACT = { lbs: 1284, meals: 1070, families: 46, hours: 212, plans: 38, volunteers: 19, projects: 64 };
 
 // Sample "this week" sparkline values (7 days, oldest → newest) per counter.
 export const SAMPLE_WEEK = {

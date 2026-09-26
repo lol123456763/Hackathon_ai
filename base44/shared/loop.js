@@ -189,7 +189,7 @@ export function creditedHours(estMinutesValue, actualMinutes) {
 }
 
 /** Aggregate live impact on top of the labeled sample history. */
-export function computeImpact({ sample, missions, requests, plans, volunteersActive }) {
+export function computeImpact({ sample, missions, requests, plans, volunteersActive, extra = { hours: 0, projects: 0 } }) {
   const verified = missions.filter((m) => m.status === 'verified');
   const lbs = verified.reduce((s, m) => s + (Number(m.lbs_delivered) || 0), 0);
   const hours = verified.reduce((s, m) => s + (Number(m.credited_hours) || 0) * (m.volunteer_keys || []).length, 0);
@@ -198,10 +198,11 @@ export function computeImpact({ sample, missions, requests, plans, volunteersAct
     lbs: sample.lbs + lbs,
     meals: sample.meals + verified.reduce((s, m) => s + mealsFromLbs(m.lbs_delivered), 0),
     families: sample.families + families,
-    hours: sample.hours + hours,
+    hours: sample.hours + hours + extra.hours,
+    projects: (sample.projects || 0) + verified.length + extra.projects,
     plans: sample.plans + plans,
     volunteers: Math.max(sample.volunteers, volunteersActive || 0),
-    live: { lbs, hours, families, plans },
+    live: { lbs, hours: hours + extra.hours, families, plans },
   };
 }
 

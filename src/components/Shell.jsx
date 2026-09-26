@@ -1,7 +1,7 @@
 import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import { NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import {
-  ChevronDown, HeartHandshake, Map as MapIcon, BarChart3, ClipboardList, Camera, Package, Footprints, Clock, Store, Activity, CalendarDays, Languages, MoreVertical, RotateCcw, Eye, EyeOff, Moon, Sun, Info, ShieldCheck, Phone, Check,
+  ChevronDown, HeartHandshake, Map as MapIcon, BarChart3, ClipboardList, Camera, Package, Footprints, Clock, Store, Activity, CalendarDays, CalendarClock, Languages, MoreVertical, RotateCcw, Eye, EyeOff, Moon, Sun, Info, ShieldCheck, Phone, Check,
 } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
@@ -29,6 +29,7 @@ export const ROLE_TABS = {
   ],
   volunteer: [
     ['/missions', 'tabs.missions', Footprints],
+    ['/week', 'tabs.myWeek', CalendarClock],
     ['/map', 'tabs.map', MapIcon],
     ['/hours', 'tabs.myHours', Clock],
     ['/impact', 'tabs.impact', BarChart3],
@@ -245,7 +246,7 @@ function BottomTabs() {
   const { t } = useI18n();
   const { role, token } = useApp();
   return (
-    <nav aria-label="Tabs" className="no-print sticky bottom-0 z-30 grid grid-cols-4 border-t bg-card/95 pb-[env(safe-area-inset-bottom)] backdrop-blur">
+    <nav aria-label="Tabs" className={cn('no-print sticky bottom-0 z-30 grid border-t', ROLE_TABS[role].length === 5 ? 'grid-cols-5' : 'grid-cols-4', 'bg-card/95 pb-[env(safe-area-inset-bottom)] backdrop-blur')}>
       {ROLE_TABS[role].map(([to, label, Icon]) => (
         <NavLink
           key={to}

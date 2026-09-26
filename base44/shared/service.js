@@ -21,6 +21,8 @@ import {
   computeImpact, mealsFromLbs, buildBag, randomCode, compatibleLbs,
 } from './loop.js';
 import { buildSeed, NS, SEEDED_ENTITIES } from './seed.js';
+import { makeCoordinatorActions } from './coordinator-service.js';
+import { unsupportedFacts, allText } from './guard.js';
 import { SAMPLE_IMPACT, SAMPLE_WEEK, SAMPLE_PULSE } from './data/neighborhood.js';
 
 export class ServiceError extends Error {
@@ -297,7 +299,7 @@ export async function personalizePlan({ token, language }, deps) {
   let plan = await callAI(
     deps,
     { prompt: P.planPrompt({ profile: match.profile, place: match.place, resources: forAi, hubs: hubInfo, networkActive: tonight.networkActive, language: lng }), response_json_schema: P.PLAN_SCHEMA },
-    (x) => sanitizeAiPlan(x, allowed, { tonightAvailable: tonight.available }),
+    (x) => sanitizeAiPlan(x, allowed, { tonightAvailable: tonight.available, sourceText: JSON.stringify(forAi) }),
   );
   let source = 'ai';
   if (!plan && deps.invokeLLM && isGoldenProfile(match.profile)) {
@@ -330,7 +332,7 @@ export async function explainResource({ slug, language }, deps) {
   const lng = lang(language);
   const ai = await callAI(deps, { prompt: P.explainPrompt(r, lng), response_json_schema: P.EXPLAIN_SCHEMA }, (x) => {
     const b = (x?.bullets || []).filter((s) => typeof s === 'string' && s.trim()).map((s) => s.trim().slice(0, 300)).slice(0, 3);
-    return b.length ? b : null;
+    return b.length && !unsupportedFacts(b.join(' '), JSON.stringify(r)).length ? b : null;
   });
   if (ai) return { bullets: ai, source: 'ai' };
   const f = (k) => (lng === 'es' && r[`${k}_es`]) || r[`${k}_en`];
@@ -498,7 +500,7 @@ function templateBrief(m, giver, hub, requests) {
 }
 
 async function writeBrief(missionId, facts, fallbackKey, deps) {
-  const valid = (x) => (x && typeof x.brief_en === 'string' && typeof x.brief_es === 'string' && Array.isArray(x.steps_en) ? x : null);
+  const valid = (x) => (x && typeof x.brief_en === 'string' && typeof x.brief_es === 'string' && Array.isArray(x.steps_en) && !unsupportedFacts(allText(x), JSON.stringify(facts)).length ? x : null);
   let out = await callAI(deps, { prompt: P.briefPrompt(facts), response_json_schema: P.BRIEF_SCHEMA }, valid, 15000);
   let source = 'ai';
   if (!out && fallbackKey && deps.invokeLLM) {
@@ -734,6 +736,7 @@ async function getVolunteer(key, deps) {
 }
 
 export async function claimMission({ mission_key, volunteer_key, buddy_key }, deps) {
+  const claimClock = (await clockFor(deps)).clock;
   const m = await getMission(mission_key, deps);
   const v = await getVolunteer(volunteer_key, deps);
   const e = missionEligibility(v, m);
@@ -753,6 +756,11 @@ export async function claimMission({ mission_key, volunteer_key, buddy_key }, de
   const reqs = await Promise.all((m.request_ids || []).map((k) => deps.db.list('HelpRequest', { key: k }, undefined, 1).then((x) => x[0])));
   await Promise.all(reqs.filter((r) => r && r.status === 'matched').map((r) => deps.db.update('HelpRequest', r.id, { status: 'on_the_way', history: [...(r.history || []), { status: 'on_the_way', at: clock.now }] })));
   const names = (await Promise.all(team.map((k) => getVolunteer(k, deps)))).map((x) => x.display_name);
+  // Put the run on each teammate's calendar (the AI coordinator plans around it).
+  const nowMin = claimClock.minutesOf(claimClock.now);
+  const startMin = Math.max(hhmmToMinutes(m.window_start) ?? nowMin, Math.ceil(nowMin / 15) * 15);
+  const today = centralDate(claimClock);
+  await deps.db.bulkCreate('CalendarBlock', team.map((vk) => ({ ns: NS, key: newKey('cal'), volunteer_key: vk, kind: 'loop', title: m.title_en, title_es: m.title_es, date: today, start: minutesToHhmm(startMin), end: minutesToHhmm(Math.min(startMin + (m.est_minutes || 45), 23 * 60)), opp_key: `mission:${m.key}:${today}`, opp_type: 'mission', ref_key: m.key, place: m.title_en.split('→')[1]?.trim() || null, hours_credit: Math.round(((m.est_minutes || 45) / 60) * 4) / 4, status: 'planned', source: 'loop', buddy_key: team.find((k) => k !== vk) || null })));
   await activity(deps, 'claimed', `${names.join(' & ')} claimed "${m.title_en}"`, `${names.join(' y ')} tomaron "${m.title_es}"`, null);
   return { ok: true };
 }
@@ -800,7 +808,9 @@ export async function missionDropoff({ mission_key, volunteer_key, code }, deps)
     deps.db.update('Mission', m.id, { status: 'verified', delivered_at: clock.now, credited_hours: hours, lbs_delivered: lbs, meals }),
     d && deps.db.update('Donation', d.id, { status: 'delivered' }),
     ...reqs.map((r) => deps.db.update('HelpRequest', r.id, { status: 'ready', ready_at: clock.now, history: [...(r.history || []), { status: 'ready', at: clock.now }] })),
+    ...(await deps.db.list('CalendarBlock', { ref_key: m.key }, undefined, 10)).filter((b) => b.status === 'planned').map((b) => deps.db.update('CalendarBlock', b.id, { status: 'done' })),
     ...vols.map((v) => deps.db.update('Volunteer', v.id, {
+      stats: { committed: Math.max(v.stats?.committed || 0, (v.stats?.completed || 0) + 1), completed: (v.stats?.completed || 0) + 1 },
       total_hours: Math.round(((v.total_hours || 0) + hours) * 100) / 100, total_lbs: Math.round((v.total_lbs || 0) + lbs), missions_done: (v.missions_done || 0) + 1,
       hours_log: [...(v.hours_log || []), logEntry],
     })),
@@ -941,7 +951,10 @@ export async function getState({ role, identity, token }, deps) {
   }
 
   const volunteersActive = new Set(w.missions.filter((m) => ['claimed', 'picked_up', 'verified'].includes(m.status) && !m.sample).flatMap((m) => m.volunteer_keys || [])).size;
-  const impact = computeImpact({ sample: SAMPLE_IMPACT, missions: w.missions.filter((m) => !m.sample), requests: w.requests, plans: demo.plans_since_reset || 0, volunteersActive });
+  // Event check-ins and project shifts (verified by codes) also count as hours and completed projects.
+  const extraLogs = w.volunteers.flatMap((v) => (v.hours_log || []).filter((e) => e.kind === 'event' || e.kind === 'project'));
+  const extra = { hours: extraLogs.reduce((s, e) => s + (Number(e.hours) || 0), 0), projects: extraLogs.length };
+  const impact = computeImpact({ sample: SAMPLE_IMPACT, missions: w.missions.filter((m) => !m.sample), requests: w.requests, plans: demo.plans_since_reset || 0, volunteersActive, extra });
   const spark = {
     lbs: [...SAMPLE_WEEK.lbs.slice(0, 6), SAMPLE_WEEK.lbs[6] + impact.live.lbs],
     meals: [...SAMPLE_WEEK.meals.slice(0, 6), SAMPLE_WEEK.meals[6] + mealsFromLbs(impact.live.lbs)],
@@ -1060,6 +1073,8 @@ export async function eventCheckin({ event_key, volunteer_key, code }, deps) {
   if (String(code || '').trim() !== e.checkin_code) throw new ServiceError(400, 'wrong_code');
   const { clock } = await clockFor(deps);
   await deps.db.update('Event', e.id, { checked_in_keys: [...(e.checked_in_keys || []), v.key] });
+  const cal = await deps.db.list('CalendarBlock', { volunteer_key: v.key, ref_key: e.key }, undefined, 5);
+  await Promise.all(cal.filter((b) => b.status === 'planned').map((b) => deps.db.update('CalendarBlock', b.id, { status: 'done' })));
   await deps.db.update('Volunteer', v.id, {
     total_hours: Math.round(((v.total_hours || 0) + e.hours_credit) * 100) / 100,
     hours_log: [...(v.hours_log || []), { kind: 'event', key: e.key, title_en: e.title_en, title_es: e.title_es, hub: e.host, hours: e.hours_credit, lbs: 0, at: clock.now, verified_by: ['checkin_code'] }],
@@ -1098,6 +1113,14 @@ export const ACTIONS = {
   rsvpEvent,
   eventCheckin,
 };
+
+function centralDate(clock) {
+  const p = clock.today;
+  return `${p.year}-${String(p.month).padStart(2, '0')}-${String(p.day).padStart(2, '0')}`;
+}
+
+const COORD = makeCoordinatorActions({ ServiceError, clockFor, getState, callAI, claimMission, rsvpEvent, activity, newKey, nowMs });
+Object.assign(ACTIONS, COORD);
 
 export async function dispatch(action, args, deps) {
   const fn = ACTIONS[action];

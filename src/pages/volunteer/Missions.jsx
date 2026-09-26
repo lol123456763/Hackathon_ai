@@ -1,6 +1,6 @@
-import { lazy, Suspense, useState } from 'react';
+import { lazy, Suspense, useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Lock, Footprints, Bike, Car, Bus, ChevronRight, CalendarDays, Users, CheckCircle2 } from 'lucide-react';
+import { Lock, Footprints, Bike, Car, Bus, ChevronRight, CalendarDays, Users, CheckCircle2, CalendarCheck, CalendarX } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { useApp } from '@/state/app';
 import { hhmmLabel } from '@/lib/format';
@@ -11,7 +11,7 @@ import VolunteerHeader from '@/components/VolunteerHeader';
 const LiveMap = lazy(() => import('@/components/LiveMap'));
 export const MODE_ICON = { walk: Footprints, bike: Bike, car: Car, transit: Bus };
 
-export function MissionCard({ m }) {
+export function MissionCard({ m, fit }) {
   const { t, lang } = useI18n();
   const Icon = MODE_ICON[m.mode] || Footprints;
   const locked = !m.eligibility?.ok;
@@ -36,6 +36,12 @@ export function MissionCard({ m }) {
             <p className="mt-1 text-sm font-semibold text-muted-foreground">
               <Lock className="mr-1 inline h-3.5 w-3.5" aria-hidden="true" />
               {m.eligibility.reasons.map((r) => t(`vol.reasons.${r}`)).join(' · ')}
+            </p>
+          )}
+          {!locked && m.status === 'open' && fit !== undefined && (
+            <p className={cn('mt-1.5 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-semibold', fit ? 'bg-success-soft text-success' : 'bg-muted text-muted-foreground')}>
+              {fit ? <CalendarCheck className="h-3.5 w-3.5" aria-hidden="true" /> : <CalendarX className="h-3.5 w-3.5" aria-hidden="true" />}
+              {fit ? `${t('week.fitsCalendar', { start: hhmmLabel(fit.start, lang), end: hhmmLabel(fit.end, lang) })} · ${t('week.likely', { p: fit.likelihood })}` : t('week.doesntFit')}
             </p>
           )}
           {active && <Badge variant="accent" className="mt-1.5">{t('vol.claimed')}</Badge>}
@@ -120,8 +126,20 @@ export function EventsList() {
 
 export default function Missions() {
   const { t } = useI18n();
-  const { live } = useApp();
+  const { live, act, identity, lang } = useApp();
   const [tab, setTab] = useState('missions');
+  const [fits, setFits] = useState(null);
+  const missionKeys = (live?.missions || []).filter((m) => m.status === 'open').map((m) => m.key).join(',');
+  // The AI coordinator checks each open mission against this student's calendar.
+  useEffect(() => {
+    let alive = true;
+    act('coordinator', { volunteer_key: identity, language: lang, with_ai: false }, { silent: true })
+      .then((c) => alive && setFits(c.mission_fit || {}))
+      .catch(() => alive && setFits({}));
+    return () => {
+      alive = false;
+    };
+  }, [act, identity, lang, missionKeys]);
   const missions = (live?.missions || []).filter((m) => ['open', 'claimed', 'picked_up'].includes(m.status));
   const mine = missions.filter((m) => m.mine);
   const open = missions.filter((m) => !m.mine && m.status === 'open').sort((a, b) => Number(b.eligibility?.ok) - Number(a.eligibility?.ok) || String(b.created_at).localeCompare(String(a.created_at)));
@@ -141,7 +159,7 @@ export default function Missions() {
           <h1 className="text-lg font-extrabold">{t('vol.available')}</h1>
           <div className="space-y-3">
             {[...mine, ...open].map((m) => (
-              <MissionCard key={m.key} m={m} />
+              <MissionCard key={m.key} m={m} fit={fits ? fits[m.key] || null : undefined} />
             ))}
             {!mine.length && !open.length && <Card className="p-4 text-muted-foreground">{t('vol.none')}</Card>}
           </div>
