@@ -3,7 +3,7 @@ import { Phone, Globe, Clock, Check, FileText, ExternalLink, ChevronDown } from 
 import { useI18n, formatDate, joinList } from '@/i18n';
 import { api } from '@/api/backend';
 import { AiTag } from './bits';
-import { Badge, Button, Card, cn } from './ui';
+import { Badge, Button, cn } from './ui';
 
 const LEVEL_STYLE = { very_likely: 'success', possibly: 'primary', worth_checking: 'default' };
 
@@ -67,7 +67,7 @@ export default function ResourceCard({ resource: r, match, done, onToggleDone, i
   }
 
   return (
-    <Card as="article" id={id} className={cn('scroll-mt-20 p-4 transition', done && 'opacity-75')} aria-labelledby={`${id}-title`}>
+    <article id={id} className={cn('resource-slip scroll-mt-20 p-5 pb-6 transition', done && 'opacity-75')} aria-labelledby={`${id}-title`}>
       <div className="flex flex-wrap items-center gap-1.5">
         {match?.level && <Badge variant={LEVEL_STYLE[match.level]}>{t(`resource.match.${match.level}`)}</Badge>}
         {['city', 'county', 'region'].includes(r.coverage_type) && <Badge variant="primary">{t('resource.local')}</Badge>}
@@ -167,6 +167,6 @@ export default function ResourceCard({ resource: r, match, done, onToggleDone, i
           </Button>
         )}
       </div>
-    </Card>
+    </article>
   );
 }

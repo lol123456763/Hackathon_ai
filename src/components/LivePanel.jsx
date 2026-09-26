@@ -28,7 +28,7 @@ export function Counters({ impact, compact }) {
   );
 }
 
-const TILE = ['cut-1 bg-primary text-primary-foreground shadow-amber', 'cut-3 bg-tile-2 shadow-offset', 'cut-2 bg-tile-4 shadow-offset', 'cut-4 bg-tile-3 shadow-offset'];
+const TILE = ['counter-shape-1 text-primary-foreground', 'counter-shape-2', 'counter-shape-3', 'counter-shape-4'];
 
 /** A counter tile that does a happy jump (and shows +N) whenever its value goes up. */
 function Counter({ label, value, decimals, i }) {
@@ -45,7 +45,7 @@ function Counter({ label, value, decimals, i }) {
   return (
     <motion.div
       animate={controls}
-      className={cn('relative overflow-hidden p-3 pt-4', TILE[i % 4])}
+      className={cn('counter-cut relative min-h-[90px] px-6 pb-4 pt-5', TILE[i % 4])}
     >
       {bump && (
         <motion.span key={bump.id} initial={{ opacity: 1, y: 0 }} animate={{ opacity: 0, y: -26 }} transition={{ duration: 1.6 }} className="absolute right-3 top-1 font-display text-xl font-bold italic" aria-hidden="true">
