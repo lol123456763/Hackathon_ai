@@ -15,13 +15,18 @@ import { JourneyArt } from '@/components/decor';
 
 import PlanLoading from '@/components/PlanLoading';
 
-// BenefitBridge's need tiles: five pastel cuts that tilt and sit at slightly different heights.
+// Each need is a different piece of cut paper, rather than the same rounded tile.
 const TILE_SHAPES = [
-  { cls: 'bg-tile-1 border-[#bad1b9] dark:border-border', angle: '-2deg', y: '0px', radius: '37px 21px 32px 17px / 24px 36px 19px 31px' },
-  { cls: 'bg-tile-2 border-[#e9c6ae] dark:border-border', angle: '2deg', y: '10px', radius: '21px 36px 17px 40px / 36px 23px 38px 20px' },
-  { cls: 'bg-tile-3 border-[#d2c9e6] dark:border-border', angle: '-1deg', y: '4px', radius: '44px 19px 36px 20px / 20px 40px 24px 33px' },
-  { cls: 'bg-tile-4 border-[#ead69a] dark:border-border', angle: '2.5deg', y: '14px', radius: '18px 39px 26px 40px / 32px 22px 37px 25px' },
-  { cls: 'bg-tile-5 border-[#b7d6c9] dark:border-border', angle: '-2.5deg', y: '6px', radius: '40px 22px 42px 14px / 22px 40px 25px 42px' },
+  { cls: 'need-shape-1 need-tone-1', angle: '-2deg', y: '0px' },
+  { cls: 'need-shape-2 need-tone-2', angle: '2deg', y: '10px' },
+  { cls: 'need-shape-3 need-tone-3', angle: '-1deg', y: '4px' },
+  { cls: 'need-shape-4 need-tone-4', angle: '2.5deg', y: '14px' },
+  { cls: 'need-shape-5 need-tone-5', angle: '-2.5deg', y: '6px' },
+  { cls: 'need-shape-4 need-tone-2', angle: '1.5deg', y: '8px' },
+  { cls: 'need-shape-1 need-tone-5', angle: '-2.5deg', y: '0px' },
+  { cls: 'need-shape-5 need-tone-4', angle: '2deg', y: '12px' },
+  { cls: 'need-shape-2 need-tone-3', angle: '-1.5deg', y: '3px' },
+  { cls: 'need-shape-3 need-tone-1', angle: '1deg', y: '9px' },
 ];
 const GLYPHS = { food: '◒', housing: '⌂', utilities: 'ϟ', healthcare: '✚', school_childcare: '▤', employment: '▣', transportation: '⇄', cash_assistance: '$', legal: '⚖', mental_health: '♡' };
 
@@ -145,7 +150,7 @@ export default function GetHelp() {
           <p className="mb-7 max-w-xl text-lg leading-relaxed text-muted-foreground">{t('help.subtitle')}</p>
 
           <form
-            className="cut-1 relative max-w-[650px] -rotate-1 border-2 border-[#a5bdaa] bg-card p-5 shadow-offset-lg transition-transform duration-300 focus-within:rotate-0 hover:rotate-0 dark:border-border sm:p-6"
+            className="paper-sheet relative max-w-[650px] -rotate-1 p-5 transition-transform duration-300 focus-within:rotate-0 hover:rotate-0 sm:p-6"
             onSubmit={(e) => {
               e.preventDefault();
               build();
@@ -241,7 +246,7 @@ export default function GetHelp() {
         <div className="grid grid-cols-2 items-start gap-x-3 gap-y-4 sm:grid-cols-3 sm:gap-x-4 sm:gap-y-5 lg:grid-cols-5">
           {CATEGORIES.map((cat, i) => {
             const on = picked.includes(cat);
-            const s = TILE_SHAPES[i % 5];
+            const s = TILE_SHAPES[i];
             return (
               <button
                 key={cat}
@@ -251,11 +256,10 @@ export default function GetHelp() {
                   setError(null);
                   setPicked((p) => (p.includes(cat) ? p.filter((c) => c !== cat) : [...p, cat]));
                 }}
-                style={{ '--a': s.angle, '--y': s.y, borderRadius: s.radius }}
+                style={{ '--a': s.angle, '--y': s.y }}
                 className={cn(
-                  'group relative grid min-h-[124px] translate-y-[var(--y)] rotate-[var(--a)] grid-cols-[1fr_auto] grid-rows-[auto_1fr] gap-x-2.5 gap-y-1.5 border-2 p-3.5 text-left transition-[transform,box-shadow] duration-300 [transition-timing-function:cubic-bezier(.18,1.4,.4,1)] hover:z-10 hover:-translate-y-2 hover:rotate-0 hover:scale-[1.03] sm:min-h-[150px] sm:p-4',
+                  'need-tile group relative grid min-h-[124px] translate-y-[var(--y)] rotate-[var(--a)] grid-cols-[1fr_auto] grid-rows-[auto_1fr] gap-x-2.5 gap-y-1.5 p-4 pl-6 text-left transition-transform duration-300 [transition-timing-function:cubic-bezier(.18,1.4,.4,1)] hover:z-10 hover:-translate-y-2 hover:rotate-0 hover:scale-[1.03] sm:min-h-[150px] sm:p-5 sm:pl-6',
                   s.cls,
-                  on ? 'border-primary shadow-[6px_8px_0_#edbd8d]' : 'shadow-[5px_6px_0_rgba(69,107,76,0.13)]',
                 )}
               >
                 <span className="text-[11px] font-extrabold tracking-[0.12em] text-[#4d7964] dark:text-[#cce9be]" aria-hidden="true">
